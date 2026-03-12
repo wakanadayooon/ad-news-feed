@@ -1,0 +1,137 @@
+# Ad News Feed - Source Configuration
+# RSS feeds to monitor for ad platform updates
+
+google-ads:
+  color: "#4285F4"
+  label: "Google"
+  feeds:
+    - name: "Google Ads Blog"
+      url: "https://blog.google/products/ads-commerce/rss/"
+      lang: en
+    - name: "Google Ads Developer Blog"
+      url: "https://ads-developers.googleblog.com/feeds/posts/default?alt=rss"
+      lang: en
+    - name: "Google Ads Technology"
+      url: "https://blog.google/technology/ads/rss/"
+      lang: en
+
+meta-ads:
+  color: "#1877F2"
+  label: "Meta"
+  feeds:
+    - name: "Meta Newsroom"
+      url: "https://about.fb.com/news/feed/"
+      lang: en
+    - name: "Meta Developers Blog"
+      url: "https://developers.facebook.com/blog/feed/"
+      lang: en
+
+yahoo-ads:
+  color: "#FF0033"
+  label: "Yahoo"
+  feeds:
+    - name: "LINEヤフー for Business (Yahoo Ads)"
+      url: "https://www.lycbiz.com/jp/column/yahoo-ads/feed/"
+      lang: ja
+    - name: "アナグラム (Yahoo Ads tagged)"
+      url: "https://anagrams.jp/blog/tag/yahoo/feed/"
+      lang: ja
+
+linkedin-ads:
+  color: "#0A66C2"
+  label: "LinkedIn"
+  feeds:
+    - name: "LinkedIn Marketing Blog"
+      url: "https://www.linkedin.com/blog/marketing/rss"
+      lang: en
+
+line-ads:
+  color: "#06C755"
+  label: "LINE"
+  feeds:
+    - name: "LINEヤフー for Business (LINE Ads)"
+      url: "https://www.lycbiz.com/jp/column/line-ads/feed/"
+      lang: ja
+    - name: "LINE Developers News"
+      url: "https://developers.line.biz/ja/news/feed/"
+      lang: ja
+
+microsoft-ads:
+  color: "#00A4EF"
+  label: "Bing"
+  feeds:
+    - name: "Microsoft Advertising Blog"
+      url: "https://about.ads.microsoft.com/en/blog/rss"
+      lang: en
+
+industry-media:
+  color: "#6B7280"
+  label: "Media"
+  feeds:
+    # English
+    - name: "Search Engine Land"
+      url: "https://searchengineland.com/feed"
+      lang: en
+    - name: "PPC Hero"
+      url: "https://www.ppchero.com/feed/"
+      lang: en
+    - name: "Jon Loomer"
+      url: "https://www.jonloomer.com/feed/"
+      lang: en
+    - name: "WordStream"
+      url: "https://www.wordstream.com/feed"
+      lang: en
+    - name: "PPC News Feed"
+      url: "https://ppcnewsfeed.com/feed/"
+      lang: en
+    - name: "SwipeInsight"
+      url: "https://web.swipeinsight.app/rss"
+      lang: en
+    - name: "ALM Corp"
+      url: "https://almcorp.com/blog/feed/"
+      lang: en
+    # Japanese
+    - name: "アナグラム"
+      url: "https://anagrams.jp/blog/feed/"
+      lang: ja
+    - name: "キーマケ"
+      url: "https://www.kwm.co.jp/blog/feed/"
+      lang: ja
+    - name: "Unyoo.jp"
+      url: "https://unyoo.jp/feed/"
+      lang: ja
+    - name: "PPC-LOG"
+      url: "https://ppc-log.com/feed/"
+      lang: ja
+
+youtube:
+  color: "#FF0000"
+  label: "YouTube"
+  channels:
+    - name: "Solutions 8"
+      channel_id: "UCKUOoJej30R_9GIbWwB3mRw"
+      lang: en
+    - name: "Ben Heath"
+      channel_id: "UCz6neXJnBPGRRHbqIOdbxqQ"
+      lang: en
+    - name: "Dara Denney"
+      channel_id: "UCMnGbhvHoe6kii1O3CuJYRQ"
+      lang: en
+    - name: "Aaron Young"
+      channel_id: "UCz3fJjHTzeZ6hGemdBsuKsg"
+      lang: en
+    - name: "Jyll Saskin Gales"
+      channel_id: "UCjYjcmSbGFMIVfiN1YC5axQ"
+      lang: en
+    - name: "Surfside PPC"
+      channel_id: "UCIZBxKBAx3NMgCFkm5H6Krg"
+      lang: en
+    - name: "Paid Media Pros"
+      channel_id: "UCMvjMGME8M3CE6JqNwEPMkg"
+      lang: en
+    - name: "Jon Loomer"
+      channel_id: "UC8gRg0CVYj5_xOCOIBSgwmw"
+      lang: en
+    - name: "Loves Data"
+      channel_id: "UCx2bh64JxSJSzAqVIgSRCAA"
+      lang: en

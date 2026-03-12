@@ -1,0 +1,46 @@
+name: Collect Ad News
+
+on:
+  schedule:
+    # 19:00 JST = 10:00 UTC
+    - cron: '0 10 * * *'
+  workflow_dispatch: # manual trigger
+
+permissions:
+  contents: write
+  pages: write
+
+env:
+  GITHUB_PAGES_URL: "https://wakana-official.github.io/ad-news-feed"
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install pyyaml
+          pip install transformers torch --index-url https://download.pytorch.org/whl/cpu
+
+      - name: Collect RSS feeds
+        run: python scripts/collect_rss.py
+
+      - name: Collect YouTube transcripts
+        run: python scripts/youtube_transcript.py
+
+      - name: Generate feed.xml and calendar data
+        run: python scripts/generate_feed.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "📰 Auto-collect: $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push
