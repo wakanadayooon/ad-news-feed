@@ -11,7 +11,7 @@ permissions:
   pages: write
 
 env:
-  GITHUB_PAGES_URL: "https://wakana-official.github.io/ad-news-feed"
+  GITHUB_PAGES_URL: "https://wakanadayooon.github.io/ad-news-feed"
 
 jobs:
   collect:

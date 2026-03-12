@@ -91,7 +91,7 @@ def generate_calendar_data(cal):
 
 def main():
     import os
-    base_url = os.environ.get("GITHUB_PAGES_URL", "https://wakana-official.github.io/ad-news-feed")
+    base_url = os.environ.get("GITHUB_PAGES_URL", "https://wakanadayooon.github.io/ad-news-feed")
     cal = load_calendar()
     generate_rss(cal, base_url)
     generate_calendar_data(cal)

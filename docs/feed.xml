@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ad News Feed</title>
+    <link>https://wakanadayooon.github.io/ad-news-feed</link>
+    <description>広告プラットフォーム最新情報の自動収集フィード</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Mar 2026 10:26:59 +0000</lastBuildDate>
+    <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google] Changes to Customer Match Support in the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/03/changes-to-customer-match-support-in.html</link>
+      <description>&lt;p&gt;
+Starting on April 1, 2026, the Google Ads API will no longer accept new adopters of &lt;a href="https://developers.google.com/google-ads/api/docs/remarketing/audience-segments/customer-match/get-started"&gt;Customer Match&lt;/a&gt;. As with our recent announcement for the use of &lt;a href="https://ads-develop</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d9de782aae33</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Minimum Budget Requirement for Demand Gen Campaigns</title>
+      <link>http://ads-developers.googleblog.com/2026/02/minimum-budget-requirement-for-demand.html</link>
+      <description>&lt;p&gt;
+Starting on April 1st, 2026, the Google Ads API will begin enforcing a minimum daily budget of 5 USD, or the equivalent in local currency, for all Demand Gen campaigns. This update ensures that campaigns have adequate budget to navigate the initial "cold start" phase, during which our models lea</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">744b9c60f04a</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Introducing Google Ads API Developer Assistant v2.0</title>
+      <link>http://ads-developers.googleblog.com/2026/02/introducing-google-ads-api-developer.html</link>
+      <description>&lt;p&gt;
+This major &lt;a href="https://developers.google.com/google-ads/api/docs/developer-toolkit/ai-assistant"&gt;update&lt;/a&gt; transforms the &lt;a href="https://github.com/googleads/google-ads-api-developer-assistant"&gt;Assistant&lt;/a&gt; from a powerful code generation tool into a proactive troubleshooting and automa</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3c0c719efdf5</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Additional changes for supporting European Union Political Ads Regulation in Google Ads API and Google Ads scripts</title>
+      <link>http://ads-developers.googleblog.com/2026/02/additional-changes-for-supporting.html</link>
+      <description>&lt;p&gt;
+&lt;strong&gt;What’s changing?&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+In 2025, Google &lt;a href="https://ads-developers.googleblog.com/2025/08/eu-par-google-ads-api-scripts.html"&gt;rolled out changes to support&lt;/a&gt; the EU Political Ads Regulation in the &lt;a href="https://developers.google.com/google-ads/api/docs/start"&gt;Google </description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5fa41f05adde</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Announcing v23.1 of the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/02/announcing-v231-of-google-ads-api.html</link>
+      <description>&lt;p&gt;
+Today, we’re announcing the v23.1 release of the &lt;a href="https://developers.google.com/google-ads/api"&gt;Google Ads API&lt;/a&gt;. To use the new v23.1 features, you must upgrade your &lt;a href="https://developers.google.com/google-ads/api/docs/client-libs"&gt;client libraries&lt;/a&gt; and client code. All the u</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">54f7fb7108eb</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Announcing Android Google Mobile Ads SDK 25.0.0</title>
+      <link>http://ads-developers.googleblog.com/2026/02/announcing-android-google-mobile-ads.html</link>
+      <description>&lt;p&gt;
+Version 25.0.0 of the Android Google Mobile Ads SDK is now available. We recommend upgrading as soon as possible to take advantage of the latest features, performance improvements, and API updates. This is a major version update that includes several breaking changes, new functionality for optim</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4b8f29ea5a5d</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Announcing user list management and enhanced audience ingestion for the Data Manager API</title>
+      <link>http://ads-developers.googleblog.com/2026/02/announcing-user-list-management-and.html</link>
+      <description>&lt;p&gt;
+We're excited to announce the &lt;a href="https://developers.google.com/data-manager/api/reference#2026-02-17_v15"&gt;release of v1.5 of the Data Manager API&lt;/a&gt;, delivering a more comprehensive platform for data management. This update introduces powerful new capabilities for managing user lists alon</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4d591c296442</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Announcing iOS Google Mobile Ads SDK Version 13.0.0</title>
+      <link>http://ads-developers.googleblog.com/2026/02/announcing-ios-google-mobile-ads-sdk.html</link>
+      <description>&lt;p&gt;
+Version 13.0.0 of the Google Mobile Ads SDK for iOS is now available. We recommend upgrading as soon as possible to take advantage of the latest features, performance improvements, and API updates.
+&lt;/p&gt;
+&lt;h3&gt;Updates in Version 13.0.0&lt;/h3&gt;
+
+&lt;ul&gt;
+
+&lt;li&gt;&lt;strong&gt;Increased minimum deployment target:&lt;/s</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">dbc120bcb0bb</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] An update on Google Ads API developer token access applications</title>
+      <link>http://ads-developers.googleblog.com/2026/02/an-update-on-google-ads-api-developer.html</link>
+      <description>&lt;p&gt;
+With the recent release of &lt;a href="https://ads-developers.googleblog.com/2025/10/explorer-access-is-now-available-for.html"&gt;Explorer Access for the Google Ads API&lt;/a&gt;, &lt;a href="https://developers.google.com/google-ads/api/docs/developer-toolkit/mcp-server"&gt;Google Ads API MCP server&lt;/a&gt; and the </description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3659735900d2</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Announcing the Google Mobile Ads Next-Gen SDK for Android</title>
+      <link>http://ads-developers.googleblog.com/2026/01/announcing-google-mobile-ads-next-gen.html</link>
+      <description>&lt;p&gt;
+We are announcing the Google Mobile Ads (GMA) Next-Gen SDK for Android, a significant rewrite of the Google Mobile Ads SDK that prioritizes speed, stability, and an improved developer experience. See the developer guides to get started today (&lt;a href="https://developers.google.com/admob/android/</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">166996bf1383</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Introducing Channel-Level Reporting for Performance Max campaigns</title>
+      <link>http://ads-developers.googleblog.com/2026/01/introducing-channel-level-reporting-for.html</link>
+      <description>&lt;p&gt;
+Following yesterday's launch of Google Ads API v23, we are excited to share more details about one of the most highly requested features: Channel-level reporting for Performance Max campaigns.
+&lt;/p&gt;
+&lt;p&gt;
+This update provides developers and advertisers with unprecedented transparency into where the</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f7c8a709d6a5</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Announcing v23 of the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/01/announcing-v23-of-google-ads-api.html</link>
+      <description>&lt;p&gt;
+Today, we’re announcing the v23 release of the &lt;a href="https://developers.google.com/google-ads/api"&gt;Google Ads API&lt;/a&gt;. This marks the first release of 2026 and the beginning of our move to a &lt;a href="https://ads-developers.googleblog.com/2025/09/more-frequent-releases-coming-for.html"&gt;faster </description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">1f41af0b4f29</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Campaign Manager 360 API v4 Sunset Reminder</title>
+      <link>http://ads-developers.googleblog.com/2026/01/campaign-manager-360-api-v4-sunset.html</link>
+      <description>&lt;p&gt;
+Campaign Manager 360 API v4 will be sunset on &lt;strong&gt;February 26, 2026&lt;/strong&gt;. Starting on this date, all v4 API requests will begin to fail. If you’re still using this version, we strongly encourage you to migrate to v5 as soon as possible to avoid service interruptions.
+&lt;/p&gt;
+&lt;p&gt;
+See the &lt;a </description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3fa56dba9b38</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Campaign and Insertion Order targeting will sunset in Display &amp; Video 360 API and Structured Data Files on February 23, 2026</title>
+      <link>http://ads-developers.googleblog.com/2026/01/campaign-and-insertion-order-targeting.html</link>
+      <description>&lt;p&gt;
+In November, we &lt;a href="https://ads-developers.googleblog.com/2025/11/upcoming-changes-to-targeting-in.html"&gt;announced the upcoming sunset of Campaign and Insertion Order targeting in the Display &amp; Video 360 API and Structured Data Files&lt;/a&gt;. This sunset will take place on &lt;strong&gt;February 23, </description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ffe71718b46f</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Changes to IP Address and Session Attribute Support in the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/01/changes-to-ip-address-and-session.html</link>
+      <description>&lt;p&gt;
+Starting on February 2, 2026, the Google Ads API will no longer accept new adopters of &lt;a href="https://developers.google.com/google-ads/api/reference/rpc/v22/ClickConversion#session_attributes"&gt;session attributes&lt;/a&gt; or &lt;a href="https://developers.google.com/google-ads/api/reference/rpc/v22/Cli</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ea87cf15f5f8</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Google Ads API v19 sunset reminder</title>
+      <link>http://ads-developers.googleblog.com/2025/12/google-ads-api-v19-sunset-reminder.html</link>
+      <description>&lt;p&gt;Google Ads API v19 will &lt;a href="https://developers.google.com/google-ads/api/docs/sunset-dates"&gt;sunset&lt;/a&gt; on February 11, 2026. Starting on this date, all v19 API requests will begin to fail. Migrate to a &lt;a href="https://developers.google.com/google-ads/api/docs/release-notes"&gt;newer version&lt;/a</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7ccd033ec7f3</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Update your PAL integration for new limited ads behavior</title>
+      <link>http://ads-developers.googleblog.com/2025/12/update-your-pal-integration-for-new.html</link>
+      <description>&lt;p&gt;The Programmatic Access Library (PAL) is updating user privacy and data usage settings, and requires implementation updates as these changes go live. This update introduces the following changes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;PAL reads Transparency &amp; Consent Framework (TCF) data from the device to determine user</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">268db6a279f7</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Introducing the Google Ads API Developer Assistant v1.0: Interact with the API using Natural Language</title>
+      <link>http://ads-developers.googleblog.com/2025/12/introducing-google-ads-api-developer.html</link>
+      <description>&lt;p&gt;Announcing the release of the &lt;strong&gt;&lt;a href="https://github.com/googleads/google-ads-api-developer-assistant"&gt;Google Ads API Developer Assistant&lt;/strong&gt;&lt;/a&gt;, a powerful extension for Gemini CLI designed to streamline your Google Ads API workflows. This tool allows you to interact with the Goog</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9a0b77ee7ad1</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] The Data Manager API is Now Generally Available</title>
+      <link>http://ads-developers.googleblog.com/2025/12/the-data-manager-api-is-now-generally.html</link>
+      <description>&lt;p&gt;
+The &lt;a href="https://developers.google.com/data-manager/api"&gt;Data Manager API&lt;/a&gt;, a new solution for data ingestion across Google’s advertising platforms, is now generally available. This API is designed to streamline how advertisers, agencies, and data partners send and manage their first-part</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">870d8b9cd188</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Sunsetting Google Ads API, Google Ads Scripts, and Campaign Manager 360 API Developer Support Forums on Google Groups</title>
+      <link>http://ads-developers.googleblog.com/2025/12/sunsetting-google-ads-api-google-ads.html</link>
+      <description>&lt;p&gt;
+To streamline our technical support channels, we will be sunsetting the following developer support forums on Google Groups: 
+&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;&lt;a href="https://groups.google.com/g/adwords-api"&gt;Google Ads API&lt;/a&gt;
+&lt;li&gt;&lt;a href="https://groups.google.com/g/adwords-scripts"&gt;Google Ads Scripts&lt;/a&gt;
+&lt;li&gt;&lt;a</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c872c1f0fad9</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Upcoming changes to targeting in Display &amp; Video 360 API and Structured Data Files</title>
+      <link>http://ads-developers.googleblog.com/2025/11/upcoming-changes-to-targeting-in.html</link>
+      <description>&lt;p&gt;
+Today, we’re deprecating Insertion Order and Campaign-level targeting management in &lt;a href="https://developers.google.com/display-video/api"&gt;Display &amp; Video 360 API&lt;/a&gt; and &lt;a href="https://developers.google.com/display-video/api/structured-data-file/format"&gt;Structured Data Files&lt;/a&gt; (SDFs) and</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">92a102657bd6</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Announcing v202511 of the Google Ad Manager API</title>
+      <link>http://ads-developers.googleblog.com/2025/11/announcing-v202511-of-google-ad-manager.html</link>
+      <description>&lt;p&gt;
+We're pleased to announce that &lt;a href="https://developers.google.com/ad-manager/api/rel_notes#v202511"&gt;v202511&lt;/a&gt; of the Google Ad Manager API is available now. This release provides support for targeting &lt;a href="https://support.google.com/admanager/answer/16349659"&gt;Publisher Provided Signals</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">93ae28626d58</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Launching Structured Data Files v9.2</title>
+      <link>http://ads-developers.googleblog.com/2025/11/launching-structured-data-files-v92.html</link>
+      <description>&lt;p&gt;
+Today we’re announcing the general availability of &lt;a href="https://developers.google.com/display-video/api/structured-data-file/rel-notes#version_92"&gt;Structured Data Files v9.2&lt;/a&gt;. All users can now use &lt;a href="https://developers.google.com/display-video/api/structured-data-file/v9-2/Campaign</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e27b6aa8eeb4</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] Explorer access is now available for Google Ads API developers</title>
+      <link>http://ads-developers.googleblog.com/2025/10/explorer-access-is-now-available-for.html</link>
+      <description>&lt;p&gt;
+We are rolling out a new &lt;strong&gt;Explorer Access&lt;/strong&gt; level access tier for Google Ads API over the next couple of weeks. This will allow new developers signing up for &lt;a href="https://developers.google.com/google-ads/api/docs/start"&gt;Google Ads API&lt;/a&gt; to gain immediate access to production </description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9bfba9d74bf0</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google] October 2025 update to Display &amp; Video 360 API</title>
+      <link>http://ads-developers.googleblog.com/2025/10/october-2025-update-to-display-video.html</link>
+      <description>&lt;p&gt;
+Today, we’re announcing the October 2025 update to the &lt;a href="https://developers.google.com/display-video/api"&gt;Display &amp; Video 360 API&lt;/a&gt;. This update includes the following:
+&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;The ability to create and retrieve &lt;a href="https://developers.google.com/display-video/api/reference/re</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b2ed29f43948</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Bing] Decoding Ramadan 2026: Data-Driven Strategies for the Middle East, Türkiye, and Africa</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/february-2026/decoding-ramadan-2026-data-driven-strategies-for-the-middle-east-turkiye-and-africa</link>
+      <description>Microsoft Advertising and InMobi Advertising highlight key Ramadan consumer and search trends in the Middle East, Türkiye, and Africa, outlining marketing</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ddd32baa123a</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Bing] AI web and zero UI: What your brand should do when the web stops asking you to click</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/february-2026/ai-web-and-zero-ui-what-your-brand-should-do-when-the-web-stops-asking-you-to-click</link>
+      <description>What happens when the web stops asking you to click? Learn how the AI Web and zero UI are reshaping discovery, action, and what brands must do next.</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f1bba60f0363</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Bing] Advanced Consent Mode: Preserving accurate measurement while respecting user privacy</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/february-2026/advanced-consent-mode-preserving-accurate-measurement-while-respecting-user-privacy</link>
+      <description>Advanced Consent Mode can help you respect user privacy choices, maintain trust, and provide the insights needed to measure and boost performance.</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3b6dbe3c54b4</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Bing] Build real-world Performance Max expertise with the new Microsoft Advertising learning path</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/february-2026/build-real-world-performance-max-expertise-with-the-new-microsoft-advertising-learning-path</link>
+      <description>Get practical training on Microsoft Advertising Performance Max in our new learning path, from setup to optimization—plus earn a sharable badge.</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a32d2f265aa0</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Bing] Ad preview hub and other product news for February 2026</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/february-2026/ad-preview-hub-and-other-product-news-for-february-2026</link>
+      <description>See what’s new in Microsoft Advertising for February 2026: an enhanced ad preview hub for Audience ads, plus Performance Max and Google import updates.</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5ba5f6e225bf</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Bing] Celebrating A Year of Achievement and Excellence: Microsoft Advertising Partner Program 2026</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/february-2026/celebrating-a-year-of-achievement-and-excellence-microsoft-advertising-partner-program-2026</link>
+      <description>Join us as we take a look at some of the Microsoft Advertising Partner Program’s most notable events of 2025 and explore exciting changes for 2026.</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">099be2d41fc5</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Bing] Understanding AI search: A guide for modern marketers</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/february-2026/understanding-ai-search-a-guide-for-modern-marketers</link>
+      <description>The updated AI Marketer’s Guide is a practical blueprint that shows how AI‑powered search works and the actions marketers can take to drive results.</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">cdcd6569491f</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Bing] All in on AI: “The Ultimate Amplifier”</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/february-2026/all-in-on-ai-the-ultimate-amplifier</link>
+      <description>Kellyn of Zenith Australia reveals how AI is reshaping marketing in APAC, from augmented workflows to scalable performance and future-ready agentic tools.</description>
+      <pubDate>2026-03-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c16c02038904</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Google] Ads Decoded episode 4 explores how to fuel your bidding and budgeting for better campaign performance.</title>
+      <link>https://blog.google/products/ads-commerce/bidding-and-budgeting-with-ai/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S1E4.max-600x600.format-webp.webp"&gt;Ads Decoded features a conversation on bidding and budgeting with product managers Kristina Park and Carlo Buchmann.</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">77d1af44b2f1</guid>
+      <category>Google Ads Blog</category>
+    </item>
+    <item>
+      <title>[Meta] Expanding Meta’s Custom Silicon to Power Our AI Workloads</title>
+      <link>https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/Metas-Custom-Silicon_Thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/03/Metas-Custom-Silicon</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8a0f47431ad3</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta] Meta Launches New Anti-Scam Tools, Deploys AI Technology to Fight Scammers and Protect People</title>
+      <link>https://about.fb.com/news/2026/03/meta-launches-new-anti-scam-tools-deploys-ai-technology-to-fight-scammers-and-protect-people/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-4.03.24-PM.png?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/03/Screenshot-2026</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3bc5e6536aa3</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta] Global Law Enforcement Agencies, With Support From Meta, Disrupt Major Criminal Scam Networks Based in Southeast Asia</title>
+      <link>https://about.fb.com/news/2026/03/meta-global-law-enforcement-disrupt-major-southeast-asia-criminal-scam-networks/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/Global-Law-Enforcement-Agencies-With-Support-From-Meta-Disrupt-Major-Criminal-Scam-Networks-Based-in-Thailand_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bo</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5418d6b4264e</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta] Fighting Scammers and Protecting People with New Technology and Partnerships</title>
+      <link>https://about.fb.com/news/2026/03/fighting-scammers-protecting-people-with-new-technology-and-partnerships/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/Fighting-Scammers-and-Protecting-People-with-New-Technology-and-Partnerships_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://abou</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">194fcacac3e4</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Media] Eight out of ten PMax advertisers are now running CTV ads</title>
+      <link>https://searchengineland.com/eight-out-of-ten-pmax-advertisers-are-now-running-ctv-ads-471361</link>
+      <description>&lt;div&gt;&lt;img width="800" height="450" src="https://searchengineland.com/wp-content/seloads/2024/02/Google-TV-What-you-need-to-know-CTV-buying-in-Google-Ads-800x450.png" class="attachment-large size-large wp-post-image" alt="Google TV: What you need to know CTV buying in Google Ads" style="margin-bottom</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f29c756b9534</guid>
+      <category>Search Engine Land</category>
+    </item>
+    <item>
+      <title>[Media] Yahoo adds personalized homepage to its Scout AI search engine</title>
+      <link>https://searchengineland.com/yahoo-myscout-471412</link>
+      <description>&lt;div&gt;&lt;img width="1920" height="1080" src="https://searchengineland.com/wp-content/seloads/2026/03/yahoo-myscout.png" class="attachment-large size-large wp-post-image" alt="Yahoo MyScout" style="margin-bottom: 15px;" decoding="async" srcset="https://searchengineland.com/wp-content/seloads/2026/03/yah</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">83192b5b5084</guid>
+      <category>Search Engine Land</category>
+    </item>
+    <item>
+      <title>[Media] Google expands Search Console branded queries filter to all eligible sites</title>
+      <link>https://searchengineland.com/google-search-console-branded-queries-filter-expands-471387</link>
+      <description>&lt;div&gt;&lt;img width="1920" height="1080" src="https://searchengineland.com/wp-content/seloads/2026/03/google-branded-queries-filter.png" class="attachment-large size-large wp-post-image" alt="Google branded queries filter" style="margin-bottom: 15px;" decoding="async" srcset="https://searchengineland.co</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e180b17394c6</guid>
+      <category>Search Engine Land</category>
+    </item>
+    <item>
+      <title>[Media] Why the answer in SEO is almost always ‘it depends’</title>
+      <link>https://searchengineland.com/seo-it-depends-471324</link>
+      <description>&lt;div&gt;&lt;img width="1920" height="1080" src="https://searchengineland.com/wp-content/seloads/2026/03/Why-the-answer-in-SEO-is-almost-always-it-depends.png" class="attachment-large size-large wp-post-image" alt="Why the answer in SEO is almost always &amp;#039;it depends&amp;#039;" style="margin-bottom: 15px;" </description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">895a32d5c572</guid>
+      <category>Search Engine Land</category>
+    </item>
+    <item>
+      <title>[Media] Survey: PPC is getting harder — and AI is only saving 5 hours a week</title>
+      <link>https://searchengineland.com/survey-ppc-is-getting-harder-and-ai-is-only-saving-5-hours-a-week-471364</link>
+      <description>&lt;div&gt;&lt;img width="1920" height="1080" src="https://searchengineland.com/wp-content/seloads/2025/09/ChatGPT-Image-PPC-reporting-concept.png" class="attachment-large size-large wp-post-image" alt="PPC reporting concept" style="margin-bottom: 15px;" decoding="async" srcset="https://searchengineland.com/</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d29139d2b0e6</guid>
+      <category>Search Engine Land</category>
+    </item>
+    <item>
+      <title>[Media] Google launches dedicated Merchant Center hub for agencies</title>
+      <link>https://searchengineland.com/google-launches-dedicated-merchant-center-hub-for-agencies-471352</link>
+      <description>&lt;div&gt;&lt;img width="1920" height="1080" src="https://searchengineland.com/wp-content/seloads/2025/05/Google-Shopping-Ads-Google-Ads.jpg" class="attachment-large size-large wp-post-image" alt="Google Shopping Ads - Google Ads" style="margin-bottom: 15px;" decoding="async" srcset="https://searchenginelan</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">db0c3f85228f</guid>
+      <category>Search Engine Land</category>
+    </item>
+    <item>
+      <title>[Media] AI citation data shows there is no universal top source for brands</title>
+      <link>https://searchengineland.com/ai-citation-data-no-universal-top-source-brands-471285</link>
+      <description>&lt;div&gt;&lt;img width="1920" height="1080" src="https://searchengineland.com/wp-content/seloads/2026/03/What-four-months-of-AI-citation-data-reveals-about-chasing-headlines.png" class="attachment-large size-large wp-post-image" alt="What four months of AI citation data reveals about chasing headlines" sty</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2ae997d881f3</guid>
+      <category>Search Engine Land</category>
+    </item>
+    <item>
+      <title>[Media] Why Tripadvisor still matters for local SEO in 2026</title>
+      <link>https://searchengineland.com/why-tripadvisor-still-matters-for-local-seo-in-2026-471311</link>
+      <description>&lt;div&gt;&lt;img width="1920" height="1080" src="https://searchengineland.com/wp-content/seloads/2026/03/Why-Tripadvisor-still-matters-for-local-SEO-in-2026.png" class="attachment-large size-large wp-post-image" alt="Why Tripadvisor still matters for local SEO in 2026" style="margin-bottom: 15px;" decoding</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b06eda5cd386</guid>
+      <category>Search Engine Land</category>
+    </item>
+    <item>
+      <title>[Media] 5 B2B LinkedIn Ads tests to run in 2026</title>
+      <link>https://searchengineland.com/b2b-linkedin-ads-tests-run-471267</link>
+      <description>&lt;div&gt;&lt;img width="1920" height="1080" src="https://searchengineland.com/wp-content/seloads/2026/03/5-B2B-LinkedIn-Ads-tests-to-run-in-2026.jpg" class="attachment-large size-large wp-post-image" alt="5 B2B LinkedIn Ads tests to run in 2026" style="margin-bottom: 15px;" decoding="async" srcset="https:/</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6f6ae5a66871</guid>
+      <category>Search Engine Land</category>
+    </item>
+    <item>
+      <title>[Media] The Complete SEO Checklist (2026): 49 Proven Steps to Rank Higher on Google, AI Overviews, and LLM Search</title>
+      <link>https://almcorp.com/blog/seo-checklist/</link>
+      <description>&lt;p&gt;Most SEO checklists are either too short to be useful or so bloated that you finish reading more confused than when you started. This one is different. What you are about to read is a 49-step, fully sequenced checklist that covers every discipline in modern SEO: initial setup, keyword research, o</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5b1e0ef0f177</guid>
+      <category>ALM Corp</category>
+    </item>
+    <item>
+      <title>[Media] How to Optimize Product Pages for AI Search: What Google AI Mode, ChatGPT, and Perplexity Actually Look For</title>
+      <link>https://almcorp.com/blog/product-page-ai-search-optimization/</link>
+      <description>&lt;p&gt;Here is a fact worth sitting with: 58% of consumers now use generative AI tools instead of traditional search to find products. When someone asks Google AI Mode for &amp;#8220;the best waterproof hiking boots for wide feet,&amp;#8221; they do not get a list of ten blue links. They get three to five produ</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c6b4747a3e7a</guid>
+      <category>ALM Corp</category>
+    </item>
+    <item>
+      <title>[Media] McDonald’s x Crocs Happy Meal 2026: The Complete Guide to the All American Games Mini Clog Keychains, Collectibles &amp; What’s Inside</title>
+      <link>https://almcorp.com/blog/mcdonalds-crocs-happy-meal-2026-all-american-games/</link>
+      <description>&lt;p&gt;Starting March 10, 2026, McDonald&amp;#8217;s restaurants across the United States began offering a limited-time Happy Meal tied to one of the chain&amp;#8217;s oldest and most celebrated sports programs. The meal features six mini Crocs keychain toys, each modeled after the brand&amp;#8217;s instantly recog</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ddc8e5a51be8</guid>
+      <category>ALM Corp</category>
+    </item>
+    <item>
+      <title>[Media] Dakota Johnson Stars in Calvin Klein’s Spring 2026 Campaign: The Complete Guide</title>
+      <link>https://almcorp.com/blog/dakota-johnson-calvin-klein-spring-2026-campaign/</link>
+      <description>&lt;p&gt;On March 9, 2026, Calvin Klein officially launched its Spring 2026 campaign, placing actress Dakota Johnson at the centre of a stripped-back, intimacy-forward visual story built around new underwear and denim essentials. The campaign, directed and photographed by Gordon von Steiner, marks Johnson</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3529917b3d00</guid>
+      <category>ALM Corp</category>
+    </item>
+    <item>
+      <title>[Media] X Money Goes Live in Beta: 6% APY, Visa Debit Card, and Peer-to-Peer Payments — A Full Breakdown of Elon Musk’s New Payments Platform</title>
+      <link>https://almcorp.com/blog/x-money-beta-payments-platform/</link>
+      <description>&lt;p&gt;In early March 2026, a social media platform started functioning like a bank. X — the platform formerly known as Twitter — began a limited external beta rollout of X Money, its long-anticipated payments feature. The product offers a 6% annual percentage yield on deposits, a metal Visa debit card </description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">fa26b2997299</guid>
+      <category>ALM Corp</category>
+    </item>
+    <item>
+      <title>[Media] LEGO® Pokémon™ Sets 2026: Every Set, Price, Release Date, and the Full Story Behind Toy’s Biggest Licensing Partnership</title>
+      <link>https://almcorp.com/blog/lego-pokemon-sets-2026/</link>
+      <description>&lt;p&gt;When LEGO and The Pokémon Company International announced their multi-year partnership on March 18, 2025, it was news that millions of people had waited literal decades for. Pokémon launched its original Game Boy titles in Japan in February 1996. For the better part of three decades, building bri</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b1d6f678aa56</guid>
+      <category>ALM Corp</category>
+    </item>
+    <item>
+      <title>[Media] YouTube Is Now the World’s Largest Media Company: How $62.3 Billion in 2025 Revenue Put It Ahead of Disney</title>
+      <link>https://almcorp.com/blog/youtube-largest-media-company-2025-surpasses-disney/</link>
+      <description>&lt;p&gt;On February 14, 2005, three PayPal engineers — Chad Hurley, Steve Chen, and Jawed Karim — launched a website where people could upload and share short videos. Their first upload, a 19-second clip of Karim at the San Diego Zoo, was posted on April 23, 2005. Eighteen months later, Google purchased </description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6e5050276b1d</guid>
+      <category>ALM Corp</category>
+    </item>
+    <item>
+      <title>[Media] How to Build a Content Marketing Strategy That Drives Real Results: A Complete, Fact-Based Guide</title>
+      <link>https://almcorp.com/blog/content-marketing-strategy-guide/</link>
+      <description>&lt;p&gt;Most businesses produce content. Few produce content that actually works. The gap between those two groups is not talent, budget, or even creativity. It is strategy. According to the Content Marketing Institute&amp;#8217;s 2025 B2B research, 58% of B2B marketers rate their own content marketing strat</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">72d58302a807</guid>
+      <category>ALM Corp</category>
+    </item>
+    <item>
+      <title>[Media] Competitive Analysis in 2026: The Complete Step-by-Step Guide to Outperform Your Competition</title>
+      <link>https://almcorp.com/blog/competitive-analysis-guide/</link>
+      <description>&lt;p&gt;Here is a number worth sitting with: 90% of Fortune 500 companies use competitive intelligence to maintain a market advantage. Yet the majority of small and mid-sized businesses conduct a competitive analysis only when they are about to launch something new — or when a competitor has already take</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">efa7380adbc7</guid>
+      <category>ALM Corp</category>
+    </item>
+    <item>
+      <title>[Media] How AI Tools Are Reshaping the Modern Buyer Journey: Data From 1,030 U.S. Consumers</title>
+      <link>https://almcorp.com/blog/ai-tools-modern-buyer-journey-2/</link>
+      <description>&lt;p&gt;Half of U.S. consumers who use AI have already made a purchase after researching with it. That single data point, drawn from a December 2025 survey of 1,030 Americans conducted by Semrush, reframes something that marketers have been debating for two years: AI tools are not just a curiosity or an </description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">eb3fa675b3b3</guid>
+      <category>ALM Corp</category>
+    </item>
+    <item>
+      <title>[Media] 自動入札が思うように動かない？ よくある4つのパターンと対策</title>
+      <link>https://anagrams.jp/blog/4-reasons-automated-bidding-fails/</link>
+      <description>広告運用の現場では、CV最大化（コンバージョン数最大化）やtCPA（目標コンバージョン単価）、tROAS（目標広告費用対効果）といった自動入札を活用した配信が、すでにスタンダードになっています。 「細…</description>
+      <pubDate>2026-03-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8409054e42e8</guid>
+      <category>アナグラム</category>
+    </item>
+    <item>
+      <title>[Media] Meta is passing Europe’s digital taxes directly to advertisers</title>
+      <link>https://searchengineland.com/meta-is-passing-europes-digital-taxes-directly-to-advertisers-471303</link>
+      <description>&lt;div&gt;&lt;img width="1920" height="1080" src="https://searchengineland.com/wp-content/seloads/2026/01/Inside-Metas-AI-driven-advertising-system-How-Andromeda-and-GEM-work-together.jpg" class="attachment-large size-large wp-post-image" alt="Inside Meta’s AI-driven advertising system: How Andromeda and GE</description>
+      <pubDate>2026-03-10T00:00:00Z</pubDate>
+      <guid isPermaLink="false">45865a2705a8</guid>
+      <category>Search Engine Land</category>
+    </item>
+    <item>
+      <title>[Media] How Meta Ads Attribution Works in 2026</title>
+      <link>https://www.jonloomer.com/meta-ads-attribution-2026/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/03/meta-ads-attribution-2026-300x157.png" class="attachment-medium size-medium wp-post-image" alt="Meta Ads Attribution 2026" style="margin-bottom: 15px;" decoding="async" srcset="https://www.jonloomer.com/wp-c</description>
+      <pubDate>2026-03-10T00:00:00Z</pubDate>
+      <guid isPermaLink="false">41d29c8fa8d2</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Media] Conversions Lost Due to Attribution Changes</title>
+      <link>https://www.jonloomer.com/qvt/conversions-lost-due-to-attribution-changes/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/03/lost-conversions-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="Conversions Lost Due to Attribution Changes" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="http</description>
+      <pubDate>2026-03-08T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f7e14a40a66d</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Media] バナーは「飛び先」から逆算。クリックされても成果が出ない原因と、訴求設計4つのステップ</title>
+      <link>https://anagrams.jp/blog/banner-to-landing-message/</link>
+      <description>「クリックはされるのに、成果に繋がらないバナー。次に作るなら、どんな訴求にしますか？」 こう聞かれたとき、すぐに答えられるでしょうか。見た目の完成度には自信がある。クリック率も悪くない。それなのにコン…</description>
+      <pubDate>2026-03-08T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d518598df2a1</guid>
+      <category>アナグラム</category>
+    </item>
+    <item>
+      <title>[Google] Ask a Techspert: How does AI understand my visual searches?</title>
+      <link>https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fan_out_query_hero.max-600x600.format-webp.webp"&gt;Learn more about AI Mode in Search’s query fan-out method for visual search.</description>
+      <pubDate>2026-03-05T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b85ffb791e5c</guid>
+      <category>Google Ads Blog</category>
+    </item>
+    <item>
+      <title>[Media] Attribution Changes Could Hit Remarketing Hardest (Plus 5 Updates)</title>
+      <link>https://www.jonloomer.com/attribution-changes-remarketing-impact/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/03/attribution-changes-remarketing-300x157.png" class="attachment-medium size-medium wp-post-image" alt="Attribution Changes Could Hit Remarketing Hardest (Plus 5 Updates)" style="margin-bottom: 15px;" decoding</description>
+      <pubDate>2026-03-05T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f401157af61e</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Media] 成果を左右するのは冒頭3秒。Meta縦型動画が枯れない台本づくりのコツとは？</title>
+      <link>https://anagrams.jp/blog/seminar-report-2026-01-29/</link>
+      <description>Meta広告において、今や欠かせない存在となった「縦型動画広告」。しかし、「最初は好調だったのに、すぐに獲得できなくなった」という悩みを抱えている方も多いのではないでしょうか。 本記事では、先日開催さ…</description>
+      <pubDate>2026-03-05T00:00:00Z</pubDate>
+      <guid isPermaLink="false">46a922e6888e</guid>
+      <category>アナグラム</category>
+    </item>
+    <item>
+      <title>[Meta] How Meta’s Data Centers Support American Energy, Jobs, the Environment, and Local Communities</title>
+      <link>https://about.fb.com/news/2026/03/meta-data-centers-support-energy-jobs-environment-local-communities/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/How-Metas-Data-Centers-Support-American-Energy-Jobs-the-Environment-and-Local-Communities_Thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset=</description>
+      <pubDate>2026-03-04T00:00:00Z</pubDate>
+      <guid isPermaLink="false">564fd1b7a7fc</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Media] Introducing our new Community &amp; Editorial Manager</title>
+      <link>https://ppchero.com/community-manager-announcement/</link>
+      <description>&lt;p&gt;The past couple of years have marked a major chapter of growth for Rough Agenda &amp;#8211; the organisers of brightonSEO, Hero Conf and MeasureFest. From expanding into the US with their annual event in San Diego, to acquiring Hero Conf and PPC Hero, Rough Agenda continues to build their presence as</description>
+      <pubDate>2026-03-04T00:00:00Z</pubDate>
+      <guid isPermaLink="false">bdc947ee6e06</guid>
+      <category>PPC Hero</category>
+    </item>
+    <item>
+      <title>[Meta] Meta Grants Are Fueling Innovation in Local Data Center Communities</title>
+      <link>https://about.fb.com/news/2026/03/metas-data-center-grants-fueling-innovation-in-local-communities/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/How-Metas-Data-Center-Grants-Are-Fueling-Innovation-in-Local-Communities_Thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb</description>
+      <pubDate>2026-03-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ab6aba9e2156</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Media] Click-Through Attribution Now Requires a Link Click</title>
+      <link>https://www.jonloomer.com/click-through-attribution-link-click/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="169" src="https://www.jonloomer.com/wp-content/uploads/2026/03/click-through-attribution-300x169.png" class="attachment-medium size-medium wp-post-image" alt="Click-Through Attribution Now Requires a Link Click" style="margin-bottom: 15px;" decoding="async" loading="laz</description>
+      <pubDate>2026-03-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f65862a8b71c</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Media] ギフト・イベント商戦の広告戦略。ユーザー行動・心理を想像し、時期に合わせた適切な広告を配信しよう</title>
+      <link>https://anagrams.jp/blog/seminar-report-2026-01-30/</link>
+      <description>「ギフト向け商品の広告で、いつ、何から手をつけたらいいのか分からない」 ギフト商材を扱うマーケティング担当者の中には、このような悩みを抱えている方も多いのではないでしょうか。 ギフト商材は、自分用に購…</description>
+      <pubDate>2026-03-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">49d40a1d4175</guid>
+      <category>アナグラム</category>
+    </item>
+    <item>
+      <title>[Google] VRC Non-Skip ads are now generally available, allowing brands to reach TV audiences with Google AI.</title>
+      <link>https://blog.google/products/ads-commerce/vrc-non-skip-ads-generally-available/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Brand-NS_1920x1080.max-600x600.format-webp.webp"&gt;VRC Non-Skip ads are now generally available globally in Google Ads and Display &amp; Video 360.</description>
+      <pubDate>2026-03-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">44cfae8323f4</guid>
+      <category>Google Ads Blog</category>
+    </item>
+    <item>
+      <title>[Media] Google広告「テキストに関するガイドライン」とは？AIが生成する広告文を制御する機能を解説</title>
+      <link>https://anagrams.jp/blog/text-guidelines-with-performance-max-and-search-campaigns/</link>
+      <description>Google広告のAI最大化設定やP-MAXキャンペーンを活用していて、AIが生成する広告文のコントロールに悩んでいませんか。「テキストに関するガイドライン」は、AIによる自動生成テキストにブランドの…</description>
+      <pubDate>2026-03-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">fe6b9abc31a4</guid>
+      <category>アナグラム</category>
+    </item>
+    <item>
+      <title>[Media] Avoid Meta Andromeda Misinformation</title>
+      <link>https://www.jonloomer.com/qvt/meta-andromeda-misinformation/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/03/andromeda-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="Avoid Meta Andromeda Misinformation" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://www.jonloom</description>
+      <pubDate>2026-03-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4b4adb86e49c</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Media] 「説得より納得」相手と一緒に意思決定するミーティングの進め方</title>
+      <link>https://anagrams.jp/blog/consensus-driven-meetings/</link>
+      <description>皆さんはミーティングで、相手と意見が一致しないケースに遭遇したことはありませんか？ クライアントとの商談だけでなく、社内の企画会議やチーム内の方針決めなど、「こちらが良いと思っている提案を受け入れても…</description>
+      <pubDate>2026-03-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">0f4c8e47ed92</guid>
+      <category>アナグラム</category>
+    </item>
+    <item>
+      <title>[Google] We’re expanding beta access to text guidelines for all advertisers globally in AI Max.</title>
+      <link>https://blog.google/products/ads-commerce/text-guidelines-beta-global-expansion/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Static_Option3.max-600x600.format-webp.webp"&gt;AI-powered creatives are essential for staying relevant in today’s complex search landscape, but above all they must meet your brand standards. That’s why we’re expandin…</description>
+      <pubDate>2026-02-26T00:00:00Z</pubDate>
+      <guid isPermaLink="false">cc74e4be9401</guid>
+      <category>Google Ads Blog</category>
+    </item>
+    <item>
+      <title>[Meta] Meta Takes Legal Action Against Scam Advertisers</title>
+      <link>https://about.fb.com/news/2026/02/meta-takes-legal-action-against-scam-advertisers/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/Protect-People-and-Brands-from-Fraud_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/03/Prot</description>
+      <pubDate>2026-02-26T00:00:00Z</pubDate>
+      <guid isPermaLink="false">235c7e1a0d82</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta] New Alerts to Let Parents Know if Their Teen May Need Support</title>
+      <link>https://about.fb.com/news/2026/02/new-meta-alerts-let-parents-know-if-teen-may-need-support/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/New-Alerts-to-Let-Parents-Know-if-Their-Teen-May-Need-Support_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-con</description>
+      <pubDate>2026-02-26T00:00:00Z</pubDate>
+      <guid isPermaLink="false">187efa8f0150</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Google] See the whole picture and find the look with Circle to Search</title>
+      <link>https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FTL__Try_On_Blog_header.max-600x600.format-webp.webp"&gt;We’ve updated Circle to Search so you can now explore multiple items in a single image.</description>
+      <pubDate>2026-02-25T00:00:00Z</pubDate>
+      <guid isPermaLink="false">74cce878103a</guid>
+      <category>Google Ads Blog</category>
+    </item>
+    <item>
+      <title>[Google] Ads Decoded episode 3 explores how Google is reimagining Search ads experiences in a way that delivers value for both users and advertisers.</title>
+      <link>https://blog.google/products/ads-commerce/ads-decoded-reimagining-search-ads/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S1E3.max-600x600.format-webp.webp"&gt;Ads Decoded explores how the updated Search ads experience aims to deliver value for both users and advertisers.</description>
+      <pubDate>2026-02-25T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6fec1cf00545</guid>
+      <category>Google Ads Blog</category>
+    </item>
+    <item>
+      <title>[Meta] AI Fuels India’s Omnichannel Shopping Surge: Meta &amp; Retailers Association of India</title>
+      <link>https://about.fb.com/news/2026/02/ai-fuels-indias-omnichannel-shopping-surge-meta-retailers-association-of-india/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/02/Screenshot-2026-02-25-at-3.41.45 PM.png?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/02/Screenshot-2026</description>
+      <pubDate>2026-02-25T00:00:00Z</pubDate>
+      <guid isPermaLink="false">64431967a973</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Media] Meta No Longer Prioritizes Suggestions (Plus Manus AI and 4 Updates)</title>
+      <link>https://www.jonloomer.com/meta-no-longer-prioritizes-suggestions/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/02/meta-no-longer-prioritizes-suggestions-300x157.png" class="attachment-medium size-medium wp-post-image" alt="Meta No Longer Prioritizes Audience Suggestions" style="margin-bottom: 15px;" decoding="async" loa</description>
+      <pubDate>2026-02-25T00:00:00Z</pubDate>
+      <guid isPermaLink="false">17244953e9e5</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Google] Our February Demand Gen Drop has more ways to unlock high-performing Demand Gen campaigns.</title>
+      <link>https://blog.google/products/ads-commerce/demand-gen-drop-february-2026/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_Feb-01.max-600x600.format-webp.webp"&gt;Learn more about our latest Demand Gen Drop and ways to maximize campaign performance in Demand Gen campaigns.</description>
+      <pubDate>2026-02-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ff25c3af9a58</guid>
+      <category>Google Ads Blog</category>
+    </item>
+    <item>
+      <title>[Meta] Meta and AMD Partner for Longterm AI Infrastructure Agreement</title>
+      <link>https://about.fb.com/news/2026/02/meta-amd-partner-longterm-ai-infrastructure-agreement/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/02/Helios-Partnership_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/02/Helios-Partnership_Thu</description>
+      <pubDate>2026-02-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">882f5e5dd1e0</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Media] When to Restrict Your Audience in Meta Advertising</title>
+      <link>https://www.jonloomer.com/restrict-audience-meta-advertising/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="169" src="https://www.jonloomer.com/wp-content/uploads/2026/02/restrict-audience-meta-advertising-300x169.png" class="attachment-medium size-medium wp-post-image" alt="Restrict Audience Meta Advertising" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcse</description>
+      <pubDate>2026-02-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5d6072877fc8</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Media] 動画広告のナレーション音質、どこまでこだわるべき？目的別に考える判断基準と実践ガイド</title>
+      <link>https://anagrams.jp/blog/video-ad-audio-quality-guide/</link>
+      <description>「動画にナレーションを入れたいけれど、何を用意したら良いか分からない」 「自分の制作したい動画にはどの程度の音質が必要なの？」 動画広告の制作において、こうした音質に関する相談は非常に多く寄せられます…</description>
+      <pubDate>2026-02-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b74ab6b82225</guid>
+      <category>アナグラム</category>
+    </item>
+    <item>
+      <title>[Media] Nothing About Targeting is the Same</title>
+      <link>https://www.jonloomer.com/qvt/nothing-about-targeting-is-the-same/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/02/targeting-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="Nothing About Targeting is the Same" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://www.jonloom</description>
+      <pubDate>2026-02-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">84ab5fd38df4</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Google] New Meridian tool puts MMM insights directly in marketers' hands.</title>
+      <link>https://blog.google/products/ads-commerce/new-meridian-tool-puts-mmm-insights-directly-in-marketers-hands/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-c695fm9y_thumb.jpg"&gt;Scenario Planner makes MMM insights accessible to marketers. The no-code UI helps teams turn complex data into actionable plans.</description>
+      <pubDate>2026-02-19T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e6284c76ab9a</guid>
+      <category>Google Ads Blog</category>
+    </item>
+    <item>
+      <title>[Media] コールドスタート問題とは？機械学習の仕組みと対策を解説（Google・Meta・Yahoo!を例に）</title>
+      <link>https://anagrams.jp/blog/cold-start-problem/</link>
+      <description>&amp;#160;「新しいキャンペーンを立ち上げたのに、なかなか成果が出ない」「自動入札を導入したけど、パフォーマンスが安定しない」といった悩みを抱えている広告運用者は少なくありません。実は、これらの課題の…</description>
+      <pubDate>2026-02-19T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ee66c07f064c</guid>
+      <category>アナグラム</category>
+    </item>
+    <item>
+      <title>[Meta] Introducing Graph API v25.0 and Marketing API v25.0</title>
+      <link>https://developers.facebook.com/blog/post/2026/02/18/introducing-graph-api-v25-and-marketing-api-v25/</link>
+      <description>グラフAPI/マーケティングAPI V25での主な変更点は以下のとおりです。すべての変更と詳細については、更新履歴でご確認ください。</description>
+      <pubDate>2026-02-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8d50a0f3e358</guid>
+      <category>Meta Developers Blog</category>
+    </item>
+    <item>
+      <title>[Media] Manus AI Ads Manager Integration (Plus 7 Updates)</title>
+      <link>https://www.jonloomer.com/manus-ai-ads-manager-integration/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/02/manus-ai-integration-300x157.png" class="attachment-medium size-medium wp-post-image" alt="Manus AI Ads Manager Integration (Plus 7 Updates)" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcs</description>
+      <pubDate>2026-02-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">fb2f99615340</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Media] ChatGPTに広告が来る。OpenAIの広告テスト開始が意味すること</title>
+      <link>https://anagrams.jp/blog/openai-starts-chatgpt-ads-test/</link>
+      <description>2026年2月、OpenAIがChatGPTにおける広告表示のテストを正式に開始しました。対象は米国のFree・Goプランを利用するログイン済みの成人ユーザーです。 検索連動型広告が登場してからおよそ…</description>
+      <pubDate>2026-02-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a7a104ad4137</guid>
+      <category>アナグラム</category>
+    </item>
+    <item>
+      <title>[Media] 調査から読み解く、Google検索広告のCPC上昇傾向。86%の業種で平均10%アップだけど、</title>
+      <link>https://anagrams.jp/blog/increased-cost-per-click-but/</link>
+      <description>「Google広告のクリック単価が年々上がっている気がする」広告運用に携わる方なら、一度はそう感じたことがあるのではないでしょうか。 この記事では、Alphabet（Google親会社）の公式財務報告…</description>
+      <pubDate>2026-02-17T00:00:00Z</pubDate>
+      <guid isPermaLink="false">15f3e4424593</guid>
+      <category>アナグラム</category>
+    </item>
+    <item>
+      <title>[Media] When Your Targeting Inputs Are Only Suggestions</title>
+      <link>https://www.jonloomer.com/targeting-suggestions/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/02/targeting-suggestions-300x157.png" class="attachment-medium size-medium wp-post-image" alt="When Your Targeting Inputs Are Only Suggestions" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcse</description>
+      <pubDate>2026-02-16T00:00:00Z</pubDate>
+      <guid isPermaLink="false">fd8616003851</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Media] You’re Overthinking Meta Advertising</title>
+      <link>https://www.jonloomer.com/qvt/overthinking-meta-advertising/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/02/overthinking-featured-300x533.png" class="attachment-medium size-medium wp-post-image" alt="You&amp;#039;re Overthinking Meta Advertising" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="htt</description>
+      <pubDate>2026-02-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">598e0bdf1511</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Meta] ASC and AAC deprecation MAPI V25.0</title>
+      <link>https://developers.facebook.com/blog/post/2026/02/13/asc-and-aac-deprecation-mapi-v25/</link>
+      <description>Automation Unification drives App, Sales and Leads campaigns to default to the optimal, automation-first Advantage+ setup and allows advertisers and partners simplified access to Meta’s latest and most performant automation products.</description>
+      <pubDate>2026-02-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7e4a67664802</guid>
+      <category>Meta Developers Blog</category>
+    </item>
+    <item>
+      <title>[Google] Is your campaign structure holding you back in the era of AI?</title>
+      <link>https://blog.google/products/ads-commerce/is-your-campaign-structure-holding-you-back-in-the-era-of-ai/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S1E2.max-600x600.format-webp.webp"&gt;For years, the gold standard in Search ads was granularity. Advertisers built elaborate, multi-layered campaigns to cover every variable, from match types to device bids…</description>
+      <pubDate>2026-02-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">96c58993aea4</guid>
+      <category>Google Ads Blog</category>
+    </item>
+    <item>
+      <title>[Google] What to expect in digital advertising and commerce in 2026</title>
+      <link>https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Retouched_Final_copy.max-600x600.format-webp.webp"&gt;Google VP Vidhya Srinivasan shares how Google is reimagining commercial experiences to be fluid, assistive and personal in 2026.</description>
+      <pubDate>2026-02-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4732d1a89439</guid>
+      <category>Google Ads Blog</category>
+    </item>
+    <item>
+      <title>[Media] Detailed Targeting Is Mostly a Suggestion (And Other Updates)</title>
+      <link>https://www.jonloomer.com/detailed-targeting-suggestion/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/02/detailed-targeting-suggestion-300x157.png" class="attachment-medium size-medium wp-post-image" alt="Detailed Targeting Is Mostly a Suggestion" style="margin-bottom: 15px;" decoding="async" loading="lazy" src</description>
+      <pubDate>2026-02-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">94ce6b8b6f92</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Media] A Beginner’s Checklist for Meta Advertising</title>
+      <link>https://www.jonloomer.com/beginner-checklist-meta-advertising/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/02/beginner-checklist-meta-advertising-300x157.png" class="attachment-medium size-medium wp-post-image" alt="A Beginner’s Checklist for Meta Advertising" style="margin-bottom: 15px;" decoding="async" loading="l</description>
+      <pubDate>2026-02-09T00:00:00Z</pubDate>
+      <guid isPermaLink="false">15c9514315db</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Media] What Andromeda Wants</title>
+      <link>https://www.jonloomer.com/qvt/what-andromeda-wants/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/01/what-andromeda-wants-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="What Andromeda Wants" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://www.jonloomer.c</description>
+      <pubDate>2026-02-08T00:00:00Z</pubDate>
+      <guid isPermaLink="false">334626cd2648</guid>
+      <category>Jon Loomer</category>
+    </item>
+  </channel>
+</rss>
