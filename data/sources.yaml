@@ -30,10 +30,8 @@ yahoo-ads:
   color: "#FF0033"
   label: "Yahoo"
   feeds:
-    - name: "LINEヤフー for Business (Yahoo Ads)"
-      url: "https://www.lycbiz.com/jp/column/yahoo-ads/feed/"
-      lang: ja
-    - name: "アナグラム (Yahoo Ads tagged)"
+    # lycbiz.com はRSS未提供。アナグラムのYahoo広告タグで代替
+    - name: "アナグラム (Yahoo Ads)"
       url: "https://anagrams.jp/blog/tag/yahoo/feed/"
       lang: ja
 
@@ -41,19 +39,18 @@ linkedin-ads:
   color: "#0A66C2"
   label: "LinkedIn"
   feeds:
-    - name: "LinkedIn Marketing Blog"
-      url: "https://www.linkedin.com/blog/marketing/rss"
+    # LinkedIn公式ブログはRSS未公開。Feedspot経由で代替
+    - name: "Search Engine Land (LinkedIn)"
+      url: "https://searchengineland.com/library/platforms/linkedin/feed"
       lang: en
 
 line-ads:
   color: "#06C755"
   label: "LINE"
   feeds:
-    - name: "LINEヤフー for Business (LINE Ads)"
-      url: "https://www.lycbiz.com/jp/column/line-ads/feed/"
-      lang: ja
-    - name: "LINE Developers News"
-      url: "https://developers.line.biz/ja/news/feed/"
+    # lycbiz.com / developers.line.biz はRSS未提供。アナグラムのLINEタグで代替
+    - name: "アナグラム (LINE Ads)"
+      url: "https://anagrams.jp/blog/tag/line/feed/"
       lang: ja
 
 microsoft-ads:
@@ -78,12 +75,6 @@ industry-media:
     - name: "Jon Loomer"
       url: "https://www.jonloomer.com/feed/"
       lang: en
-    - name: "WordStream"
-      url: "https://www.wordstream.com/feed"
-      lang: en
-    - name: "PPC News Feed"
-      url: "https://ppcnewsfeed.com/feed/"
-      lang: en
     - name: "SwipeInsight"
       url: "https://web.swipeinsight.app/rss"
       lang: en
@@ -95,10 +86,7 @@ industry-media:
       url: "https://anagrams.jp/blog/feed/"
       lang: ja
     - name: "キーマケ"
-      url: "https://www.kwm.co.jp/blog/feed/"
-      lang: ja
-    - name: "Unyoo.jp"
-      url: "https://unyoo.jp/feed/"
+      url: "https://www.kwm.co.jp/feed/"
       lang: ja
     - name: "PPC-LOG"
       url: "https://ppc-log.com/feed/"
