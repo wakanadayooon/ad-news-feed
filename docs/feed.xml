@@ -5,8 +5,24 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 05:36:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 10:26:41 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Media] セミナー資料「検索創出型マーケティング（SCM）とは」の送付</title>
+      <link>https://www.kwm.co.jp/blog/seminar/scmpresentation/</link>
+      <description>検索創出型マーケティング（Search Creation Marketing、略称：SCM）とは、検索広告のターゲットとして頭打ちになりやすい「顕在層（今すぐ獲得）」に対して、PRと広告の連動施策により、”意図的に”検索 &amp;#8230; &lt;p class="link-more"&gt;&lt;a href="https://www.kwm.co.jp/blog/seminar/scmpresentation/" class="more-link"&gt;&lt;span class="screen-reader-text"&gt;"セミナー資料「検索創出型マーケティング（SCM）とは」の送付" の&lt;/span&gt;続きを読む&lt;</description>
+      <pubDate>2026-03-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">bfce9399e06a</guid>
+      <category>キーマケ</category>
+    </item>
+    <item>
+      <title>[YouTube] Google Ads Budgeting: Maximize Conversions Smartly! #shorts</title>
+      <link>https://www.youtube.com/watch?v=UUWHw1G7clk</link>
+      <description>Launching new campaigns? Be smart with your budget. For maximized conversions and Performance Max, start conservatively, especially in local markets. Watch results closely; launching solo can be costly. #GoogleAds #PerformanceMax #DigitalMarketing #Budgeting #CampaignStrategy</description>
+      <pubDate>2026-03-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">89d8495e3c70</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google] Changes to Customer Match Support in the Google Ads API</title>
       <link>http://ads-developers.googleblog.com/2026/03/changes-to-customer-match-support-in.html</link>
@@ -855,22 +871,6 @@ If you’re new to my channel, my name is Ben Heath. I’m the founder </descrip
       <pubDate>2026-03-04T00:00:00Z</pubDate>
       <guid isPermaLink="false">9017c4b7cfa8</guid>
       <category>Loves Data</category>
-    </item>
-    <item>
-      <title>[Meta] Meta Grants Are Fueling Innovation in Local Data Center Communities</title>
-      <link>https://about.fb.com/news/2026/03/metas-data-center-grants-fueling-innovation-in-local-communities/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/How-Metas-Data-Center-Grants-Are-Fueling-Innovation-in-Local-Communities_Thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb</description>
-      <pubDate>2026-03-03T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ab6aba9e2156</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Media] Click-Through Attribution Now Requires a Link Click</title>
-      <link>https://www.jonloomer.com/click-through-attribution-link-click/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="169" src="https://www.jonloomer.com/wp-content/uploads/2026/03/click-through-attribution-300x169.png" class="attachment-medium size-medium wp-post-image" alt="Click-Through Attribution Now Requires a Link Click" style="margin-bottom: 15px;" decoding="async" loading="laz</description>
-      <pubDate>2026-03-03T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f65862a8b71c</guid>
-      <category>Jon Loomer</category>
     </item>
   </channel>
 </rss>
