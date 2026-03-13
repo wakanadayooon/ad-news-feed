@@ -39,10 +39,11 @@ linkedin-ads:
   color: "#0A66C2"
   label: "LinkedIn"
   feeds:
-    # LinkedIn公式ブログはRSS未公開。Feedspot経由で代替
-    - name: "Search Engine Land (LinkedIn)"
-      url: "https://searchengineland.com/library/platforms/linkedin/feed"
-      lang: en
+    # LinkedIn公式ブログはRSS未公開。Search Engine Landも403で利用不可
+    # 代替ソース検討中
+    - name: "アナグラム (LinkedIn Ads)"
+      url: "https://anagrams.jp/blog/tag/linkedin/feed/"
+      lang: ja
 
 line-ads:
   color: "#06C755"
@@ -65,18 +66,12 @@ industry-media:
   color: "#6B7280"
   label: "Media"
   feeds:
-    # English
-    - name: "Search Engine Land"
-      url: "https://searchengineland.com/feed"
-      lang: en
+    # English (Search Engine Land, SwipeInsight are 403 — removed)
     - name: "PPC Hero"
       url: "https://www.ppchero.com/feed/"
       lang: en
     - name: "Jon Loomer"
       url: "https://www.jonloomer.com/feed/"
-      lang: en
-    - name: "SwipeInsight"
-      url: "https://web.swipeinsight.app/rss"
       lang: en
     - name: "ALM Corp"
       url: "https://almcorp.com/blog/feed/"

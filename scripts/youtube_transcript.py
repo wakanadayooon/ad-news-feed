@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCES_PATH = ROOT / "data" / "sources.yaml"
 CALENDAR_PATH = ROOT / "data" / "calendar.json"
 TRANSCRIPTS_DIR = ROOT / "docs" / "transcripts"
-USER_AGENT = "AdNewsFeed/1.0"
+USER_AGENT = "Mozilla/5.0 (compatible; AdNewsFeed/1.0; +https://github.com/wakanadayooon/ad-news-feed)"
 
 
 def load_sources():
