@@ -25,8 +25,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pyyaml
-          pip install transformers torch --index-url https://download.pytorch.org/whl/cpu
+          pip install pyyaml transformers
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
 
       - name: Collect RSS feeds
         run: python scripts/collect_rss.py
