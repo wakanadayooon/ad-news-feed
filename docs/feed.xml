@@ -5,8 +5,44 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 10:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 10:45:03 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Media] 【2026年2月】運用型広告アップデートまとめ</title>
+      <link>https://anagrams.jp/blog/update-summary-2026-02/</link>
+      <description>運用型広告の主要プラットフォームで2026年2月に発表されたアップデートをまとめました。 今月はGoogle広告がAI時代に対応したキャンペーン構造の見直しを公式に打ち出し、「細分化」から「統合・簡素…</description>
+      <pubDate>2026-03-16T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3b31cba9dcf1</guid>
+      <category>アナグラム</category>
+    </item>
+    <item>
+      <title>[YouTube] Watch This BEFORE You Start Google Ads in 2026</title>
+      <link>https://www.youtube.com/watch?v=mKrXHaM-U8w</link>
+      <description>Stop wasting your budget on outdated Google Ads strategies. 
+
+In 2026, the "Old Rules" of keywords are dead, replaced by AI and inferred intent. 
+
+👉 Get my Google Ads Optimisation Checklist PLUS learn how to 'Start &amp; Scale' with Google Ads: https://www.definedigitalacademy.com/get-started-with-googl</description>
+      <pubDate>2026-03-16T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7ea332ad4895</guid>
+      <category>Aaron Young</category>
+    </item>
+    <item>
+      <title>[YouTube] Google Analytics 4: Install GA4, GTM, Search Console, Ads Tag #shorts</title>
+      <link>https://www.youtube.com/watch?v=l06RVnlOFQE</link>
+      <description>Streamline your website tracking! Install Google Analytics 4, Google Tag Manager, Search Console, and Ads tag on your WordPress site. We use Google Tag Manager for a unified setup, making all subsequent tracking easier. #GoogleAnalytics #GoogleTagManager #WordPressTips #WebAnalytics</description>
+      <pubDate>2026-03-16T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f44eb2959b2e</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[YouTube] Click Attribution Isn't What It Used to Be</title>
+      <link>https://www.youtube.com/watch?v=lOhs1arlsLU</link>
+      <description>Meta changed how click attribution works, and it's mostly for the better, but some advertisers might see a negative impact. Click-through conversions now require an actual link click, while social clicks and other engagement moved to a new engage-through attribution with a shorter window. Jon explai</description>
+      <pubDate>2026-03-16T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d76a60e38d51</guid>
+      <category>Jon Loomer</category>
+    </item>
     <item>
       <title>[YouTube] Master Performance Max: Essential Google Ads Strategy #shorts</title>
       <link>https://www.youtube.com/watch?v=zELuGdaQ50M</link>
@@ -14,6 +50,38 @@
       <pubDate>2026-03-15T00:00:00Z</pubDate>
       <guid isPermaLink="false">c4cfc0b10bf0</guid>
       <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Media] Concerns About AI for Meta Advertisers</title>
+      <link>https://www.jonloomer.com/qvt/concerns-about-ai-for-meta-advertisers/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/02/concerns-about-ai-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="Concerns About AI for Meta Advertisers" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="ht</description>
+      <pubDate>2026-03-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">509d1e821a8e</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Media] 広告代理店のリプレイスはなぜ起きる？ "選ぶ側"を経験して気づいたこと</title>
+      <link>https://anagrams.jp/blog/why-agency-replacements-happen/</link>
+      <description>私は、広告代理店（営業）→事業会社（マーケティング担当）→広告代理店（アナグラム）というキャリアを歩んできました。 「選ばれる側」から「選ぶ側」へ。逆の立場を経験すると、同じ出来事でも見える景色がまっ…</description>
+      <pubDate>2026-03-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">73955d497512</guid>
+      <category>アナグラム</category>
+    </item>
+    <item>
+      <title>[YouTube] Google Analytics 4: Easy Installation Guide Revealed! #shorts</title>
+      <link>https://www.youtube.com/watch?v=v1rxNYQl5EQ</link>
+      <description>Learn multiple ways to install Google Analytics 4 on your website, from simple plugins to manual code insertion and Google Tag Manager. Choose the best method for your needs. #GoogleAnalytics #GA4 #WebsiteTracking #DigitalMarketing #TagManager</description>
+      <pubDate>2026-03-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f105c9887081</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[YouTube] Concerns About AI for Meta Advertisers</title>
+      <link>https://www.youtube.com/watch?v=1dyEx3W7_qw</link>
+      <description>There is incredible potential for Meta advertisers to leverage AI, but only when in the right hands and trained on best practices. Here's what I mean...</description>
+      <pubDate>2026-03-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">164eb5994ad4</guid>
+      <category>Jon Loomer</category>
     </item>
     <item>
       <title>[YouTube] STOP Performance Max! Start with THIS Google Ads Strategy #shorts</title>
@@ -793,70 +861,6 @@ Today, we’re announcing the October 2025 update to the &lt;a href="https://dev
       <pubDate>2026-03-11T00:00:00Z</pubDate>
       <guid isPermaLink="false">2ae997d881f3</guid>
       <category>Search Engine Land</category>
-    </item>
-    <item>
-      <title>[Media] Why Tripadvisor still matters for local SEO in 2026</title>
-      <link>https://searchengineland.com/why-tripadvisor-still-matters-for-local-seo-in-2026-471311</link>
-      <description>&lt;div&gt;&lt;img width="1920" height="1080" src="https://searchengineland.com/wp-content/seloads/2026/03/Why-Tripadvisor-still-matters-for-local-SEO-in-2026.png" class="attachment-large size-large wp-post-image" alt="Why Tripadvisor still matters for local SEO in 2026" style="margin-bottom: 15px;" decoding</description>
-      <pubDate>2026-03-11T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b06eda5cd386</guid>
-      <category>Search Engine Land</category>
-    </item>
-    <item>
-      <title>[Media] The Complete SEO Checklist (2026): 49 Proven Steps to Rank Higher on Google, AI Overviews, and LLM Search</title>
-      <link>https://almcorp.com/blog/seo-checklist/</link>
-      <description>&lt;p&gt;Most SEO checklists are either too short to be useful or so bloated that you finish reading more confused than when you started. This one is different. What you are about to read is a 49-step, fully sequenced checklist that covers every discipline in modern SEO: initial setup, keyword research, o</description>
-      <pubDate>2026-03-11T00:00:00Z</pubDate>
-      <guid isPermaLink="false">5b1e0ef0f177</guid>
-      <category>ALM Corp</category>
-    </item>
-    <item>
-      <title>[Media] How to Optimize Product Pages for AI Search: What Google AI Mode, ChatGPT, and Perplexity Actually Look For</title>
-      <link>https://almcorp.com/blog/product-page-ai-search-optimization/</link>
-      <description>&lt;p&gt;Here is a fact worth sitting with: 58% of consumers now use generative AI tools instead of traditional search to find products. When someone asks Google AI Mode for &amp;#8220;the best waterproof hiking boots for wide feet,&amp;#8221; they do not get a list of ten blue links. They get three to five produ</description>
-      <pubDate>2026-03-11T00:00:00Z</pubDate>
-      <guid isPermaLink="false">c6b4747a3e7a</guid>
-      <category>ALM Corp</category>
-    </item>
-    <item>
-      <title>[Media] McDonald’s x Crocs Happy Meal 2026: The Complete Guide to the All American Games Mini Clog Keychains, Collectibles &amp; What’s Inside</title>
-      <link>https://almcorp.com/blog/mcdonalds-crocs-happy-meal-2026-all-american-games/</link>
-      <description>&lt;p&gt;Starting March 10, 2026, McDonald&amp;#8217;s restaurants across the United States began offering a limited-time Happy Meal tied to one of the chain&amp;#8217;s oldest and most celebrated sports programs. The meal features six mini Crocs keychain toys, each modeled after the brand&amp;#8217;s instantly recog</description>
-      <pubDate>2026-03-11T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ddc8e5a51be8</guid>
-      <category>ALM Corp</category>
-    </item>
-    <item>
-      <title>[Media] Dakota Johnson Stars in Calvin Klein’s Spring 2026 Campaign: The Complete Guide</title>
-      <link>https://almcorp.com/blog/dakota-johnson-calvin-klein-spring-2026-campaign/</link>
-      <description>&lt;p&gt;On March 9, 2026, Calvin Klein officially launched its Spring 2026 campaign, placing actress Dakota Johnson at the centre of a stripped-back, intimacy-forward visual story built around new underwear and denim essentials. The campaign, directed and photographed by Gordon von Steiner, marks Johnson</description>
-      <pubDate>2026-03-11T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3529917b3d00</guid>
-      <category>ALM Corp</category>
-    </item>
-    <item>
-      <title>[Media] X Money Goes Live in Beta: 6% APY, Visa Debit Card, and Peer-to-Peer Payments — A Full Breakdown of Elon Musk’s New Payments Platform</title>
-      <link>https://almcorp.com/blog/x-money-beta-payments-platform/</link>
-      <description>&lt;p&gt;In early March 2026, a social media platform started functioning like a bank. X — the platform formerly known as Twitter — began a limited external beta rollout of X Money, its long-anticipated payments feature. The product offers a 6% annual percentage yield on deposits, a metal Visa debit card </description>
-      <pubDate>2026-03-11T00:00:00Z</pubDate>
-      <guid isPermaLink="false">fa26b2997299</guid>
-      <category>ALM Corp</category>
-    </item>
-    <item>
-      <title>[Media] LEGO® Pokémon™ Sets 2026: Every Set, Price, Release Date, and the Full Story Behind Toy’s Biggest Licensing Partnership</title>
-      <link>https://almcorp.com/blog/lego-pokemon-sets-2026/</link>
-      <description>&lt;p&gt;When LEGO and The Pokémon Company International announced their multi-year partnership on March 18, 2025, it was news that millions of people had waited literal decades for. Pokémon launched its original Game Boy titles in Japan in February 1996. For the better part of three decades, building bri</description>
-      <pubDate>2026-03-11T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b1d6f678aa56</guid>
-      <category>ALM Corp</category>
-    </item>
-    <item>
-      <title>[Media] YouTube Is Now the World’s Largest Media Company: How $62.3 Billion in 2025 Revenue Put It Ahead of Disney</title>
-      <link>https://almcorp.com/blog/youtube-largest-media-company-2025-surpasses-disney/</link>
-      <description>&lt;p&gt;On February 14, 2005, three PayPal engineers — Chad Hurley, Steve Chen, and Jawed Karim — launched a website where people could upload and share short videos. Their first upload, a 19-second clip of Karim at the San Diego Zoo, was posted on April 23, 2005. Eighteen months later, Google purchased </description>
-      <pubDate>2026-03-11T00:00:00Z</pubDate>
-      <guid isPermaLink="false">6e5050276b1d</guid>
-      <category>ALM Corp</category>
     </item>
   </channel>
 </rss>
