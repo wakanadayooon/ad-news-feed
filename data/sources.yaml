@@ -1,120 +1,108 @@
 # Ad News Feed - Source Configuration
-# RSS feeds to monitor for ad platform updates
+# Auto-generated from ad-knowledge/data/sources.json
+# Do not edit directly — edit sources.json and run sync-sources.py
 
 google-ads:
-  color: "#4285F4"
-  label: "Google Ads"
+  color: '#4285F4'
+  label: Google Ads
   feeds:
-    - name: "Google Ads Blog"
-      url: "https://blog.google/products/ads-commerce/rss/"
-      lang: en
-    - name: "Google Ads Developer Blog"
-      url: "https://ads-developers.googleblog.com/feeds/posts/default?alt=rss"
-      lang: en
-    - name: "Google Ads Technology"
-      url: "https://blog.google/technology/ads/rss/"
-      lang: en
-
+  - name: Google Ads Blog (公式)
+    url: https://blog.google/products/ads-commerce/rss/
+    lang: en
+  - name: Google Ads Developer Blog
+    url: https://ads-developers.googleblog.com/feeds/posts/default?alt=rss
+    lang: en
+  - name: Google Ads Technology
+    url: https://blog.google/technology/ads/rss/
+    lang: en
 meta-ads:
-  color: "#1877F2"
-  label: "Meta Ads"
+  color: '#1877F2'
+  label: Meta Ads
   feeds:
-    - name: "Meta Newsroom"
-      url: "https://about.fb.com/news/feed/"
-      lang: en
-    - name: "Meta Developers Blog"
-      url: "https://developers.facebook.com/blog/feed/"
-      lang: en
-
+  - name: Meta Newsroom
+    url: https://about.fb.com/news/feed/
+    lang: en
+  - name: Meta Developers Blog
+    url: https://developers.facebook.com/blog/feed/
+    lang: en
 yahoo-ads:
-  color: "#FF0033"
-  label: "Yahoo Ads"
+  color: '#FF0033'
+  label: Yahoo! Ads
   feeds:
-    # lycbiz.com はRSS未提供。アナグラムのYahoo広告タグで代替
-    - name: "アナグラム (Yahoo Ads)"
-      url: "https://anagrams.jp/blog/tag/yahoo/feed/"
-      lang: ja
-
-linkedin-ads:
-  color: "#0A66C2"
-  label: "LinkedIn Ads"
-  feeds:
-    # LinkedIn公式ブログはRSS未公開。Search Engine Landも403で利用不可
-    # 代替ソース検討中
-    - name: "アナグラム (LinkedIn Ads)"
-      url: "https://anagrams.jp/blog/tag/linkedin/feed/"
-      lang: ja
-
+  - name: アナグラム (Yahoo Ads)
+    url: https://anagrams.jp/blog/tag/yahoo/feed/
+    lang: ja
 line-ads:
-  color: "#06C755"
-  label: "LINE Ads"
+  color: '#06C755'
+  label: LINE Ads
   feeds:
-    # lycbiz.com / developers.line.biz はRSS未提供。アナグラムのLINEタグで代替
-    - name: "アナグラム (LINE Ads)"
-      url: "https://anagrams.jp/blog/tag/line/feed/"
-      lang: ja
-
+  - name: アナグラム (LINE Ads)
+    url: https://anagrams.jp/blog/tag/line/feed/
+    lang: ja
+linkedin-ads:
+  color: '#0A66C2'
+  label: LinkedIn Ads
+  feeds:
+  - name: アナグラム (LinkedIn Ads)
+    url: https://anagrams.jp/blog/tag/linkedin/feed/
+    lang: ja
 microsoft-ads:
-  color: "#00A4EF"
-  label: "Microsoft Ads"
+  color: '#00A4EF'
+  label: Microsoft Ads
   feeds:
-    - name: "Microsoft Advertising Blog"
-      url: "https://about.ads.microsoft.com/en/blog/rss"
-      lang: en
-
+  - name: Microsoft Advertising Blog
+    url: https://about.ads.microsoft.com/en/blog/rss
+    lang: en
 industry-media:
-  color: "#6B7280"
-  label: "Media"
+  color: '#6B7280'
+  label: 業界メディア・ブログ
   feeds:
-    # English (Search Engine Land, SwipeInsight are 403 — removed)
-    - name: "PPC Hero"
-      url: "https://www.ppchero.com/feed/"
-      lang: en
-    - name: "Jon Loomer"
-      url: "https://www.jonloomer.com/feed/"
-      lang: en
-    - name: "ALM Corp"
-      url: "https://almcorp.com/blog/feed/"
-      lang: en
-    # Japanese
-    - name: "アナグラム"
-      url: "https://anagrams.jp/blog/feed/"
-      lang: ja
-    - name: "キーマケ"
-      url: "https://www.kwm.co.jp/feed/"
-      lang: ja
-    - name: "PPC-LOG"
-      url: "https://ppc-log.com/feed/"
-      lang: ja
-
+  - name: アナグラム ブログ
+    url: https://anagrams.jp/blog/feed/
+    lang: ja
+  - name: キーマケのブログ
+    url: https://www.kwm.co.jp/feed/
+    lang: ja
+  - name: PPC-LOG (川手遼一)
+    url: https://ppc-log.com/feed/
+    lang: ja
+  - name: PPC Hero (Brainlabs)
+    url: https://www.ppchero.com/feed/
+    lang: en
+  - name: Jon Loomer Digital
+    url: https://www.jonloomer.com/feed/
+    lang: en
+  - name: ALM Corp Blog
+    url: https://almcorp.com/blog/feed/
+    lang: en
 youtube:
-  color: "#FF0000"
-  label: "YouTube"
+  color: '#FF0000'
+  label: YouTube チャンネル
   channels:
-    - name: "Solutions 8"
-      channel_id: "UCKukXk_pm3om3If9FUsBKew"
-      lang: en
-    - name: "Ben Heath"
-      channel_id: "UC5Dv8i_vH5M9rB3HOZDCkng"
-      lang: en
-    - name: "Dara Denney"
-      channel_id: "UCFF55suuW0LjzXEnzDTNCnA"
-      lang: en
-    - name: "Aaron Young"
-      channel_id: "UCsifPO4MT6BdV19vYx3KJ0Q"
-      lang: en
-    - name: "Jyll Saskin Gales"
-      channel_id: "UCM5zqsEMX2RE7zFiDounniw"
-      lang: en
-    - name: "Surfside PPC"
-      channel_id: "UCEzSSbs3Wfe5p4dBzzjrjvw"
-      lang: en
-    - name: "Paid Media Pros"
-      channel_id: "UCSb7alOERnKRhU93UcEiVgw"
-      lang: en
-    - name: "Jon Loomer"
-      channel_id: "UChvdCJlKGCQ1P4x_MSJAkOQ"
-      lang: en
-    - name: "Loves Data"
-      channel_id: "UCDnJ7pVeZXFn7gcbcwcjUkA"
-      lang: en
+  - name: Solutions 8
+    channel_id: UCKukXk_pm3om3If9FUsBKew
+    lang: en
+  - name: Ben Heath
+    channel_id: UC5Dv8i_vH5M9rB3HOZDCkng
+    lang: en
+  - name: Dara Denney
+    channel_id: UCFF55suuW0LjzXEnzDTNCnA
+    lang: en
+  - name: Aaron Young (Define Digital Academy)
+    channel_id: UCsifPO4MT6BdV19vYx3KJ0Q
+    lang: en
+  - name: Jyll Saskin Gales (The Google Pro)
+    channel_id: UCM5zqsEMX2RE7zFiDounniw
+    lang: en
+  - name: Surfside PPC
+    channel_id: UCEzSSbs3Wfe5p4dBzzjrjvw
+    lang: en
+  - name: Paid Media Pros
+    channel_id: UCSb7alOERnKRhU93UcEiVgw
+    lang: en
+  - name: Jon Loomer
+    channel_id: UChvdCJlKGCQ1P4x_MSJAkOQ
+    lang: en
+  - name: Loves Data
+    channel_id: UCDnJ7pVeZXFn7gcbcwcjUkA
+    lang: en
