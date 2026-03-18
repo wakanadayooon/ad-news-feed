@@ -10,6 +10,8 @@ from urllib.error import URLError
 
 import yaml
 
+from detect_platform import detect_platform
+
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_PATH = ROOT / "data" / "sources.yaml"
 CALENDAR_PATH = ROOT / "data" / "calendar.json"
@@ -127,11 +129,24 @@ def collect_rss_feeds():
                     continue
 
                 date = parse_date(entry["pub_raw"])
+
+                # For industry-media sources, detect platform from content
+                art_platform = platform
+                art_label = label
+                art_color = color
+                if platform == "industry-media":
+                    detected = detect_platform(
+                        entry["title"], entry["description"], name
+                    )
+                    art_platform = detected["platform"]
+                    art_label = detected["label"]
+                    art_color = detected["color"]
+
                 article = {
                     "id": aid,
-                    "platform": platform,
-                    "platform_label": label,
-                    "color": color,
+                    "platform": art_platform,
+                    "platform_label": art_label,
+                    "color": art_color,
                     "source": name,
                     "title": entry["title"],
                     "link": entry["link"],

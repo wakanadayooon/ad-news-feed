@@ -12,6 +12,8 @@ from html import unescape
 
 import yaml
 
+from detect_platform import detect_platform
+
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_PATH = ROOT / "data" / "sources.yaml"
 CALENDAR_PATH = ROOT / "data" / "calendar.json"
@@ -264,11 +266,16 @@ def collect_youtube():
                 print(f"  No subtitles available")
                 description = entry["description"][:300]
 
+            # Detect platform from video title and description
+            detected = detect_platform(
+                entry["title"], description, name
+            )
+
             article = {
                 "id": aid,
-                "platform": "youtube",
-                "platform_label": "YouTube",
-                "color": "#FF0000",
+                "platform": detected["platform"],
+                "platform_label": detected["label"],
+                "color": detected["color"],
                 "source": name,
                 "title": entry["title"],
                 "link": entry["link"],

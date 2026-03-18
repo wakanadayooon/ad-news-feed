@@ -3,7 +3,7 @@
 
 google-ads:
   color: "#4285F4"
-  label: "Google"
+  label: "Google Ads"
   feeds:
     - name: "Google Ads Blog"
       url: "https://blog.google/products/ads-commerce/rss/"
@@ -17,7 +17,7 @@ google-ads:
 
 meta-ads:
   color: "#1877F2"
-  label: "Meta"
+  label: "Meta Ads"
   feeds:
     - name: "Meta Newsroom"
       url: "https://about.fb.com/news/feed/"
@@ -28,7 +28,7 @@ meta-ads:
 
 yahoo-ads:
   color: "#FF0033"
-  label: "Yahoo"
+  label: "Yahoo Ads"
   feeds:
     # lycbiz.com はRSS未提供。アナグラムのYahoo広告タグで代替
     - name: "アナグラム (Yahoo Ads)"
@@ -37,7 +37,7 @@ yahoo-ads:
 
 linkedin-ads:
   color: "#0A66C2"
-  label: "LinkedIn"
+  label: "LinkedIn Ads"
   feeds:
     # LinkedIn公式ブログはRSS未公開。Search Engine Landも403で利用不可
     # 代替ソース検討中
@@ -47,7 +47,7 @@ linkedin-ads:
 
 line-ads:
   color: "#06C755"
-  label: "LINE"
+  label: "LINE Ads"
   feeds:
     # lycbiz.com / developers.line.biz はRSS未提供。アナグラムのLINEタグで代替
     - name: "アナグラム (LINE Ads)"
@@ -56,7 +56,7 @@ line-ads:
 
 microsoft-ads:
   color: "#00A4EF"
-  label: "Bing"
+  label: "Microsoft Ads"
   feeds:
     - name: "Microsoft Advertising Blog"
       url: "https://about.ads.microsoft.com/en/blog/rss"
