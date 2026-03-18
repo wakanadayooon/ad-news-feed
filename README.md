@@ -20,6 +20,8 @@ scripts/
   collect_rss.py       ← RSS収集
   youtube_transcript.py ← YouTube字幕取得+要約（Hugging Face BART）
   generate_feed.py     ← feed.xml + calendar-data.js 生成
+  detect_platform.py   ← 記事タイトルから広告ツール自動判定
+  reclassify.py        ← 既存記事の一括再分類（マイグレーション用）
 data/
   sources.yaml         ← 購読ソース一覧
   calendar.json        ← 記事データ+分類
@@ -39,6 +41,16 @@ docs/ (GitHub Pages)
 | 事例 | 成功事例・ケーススタディ |
 | ニュース | イベント告知・業界動向 |
 | スキップ | 不要 |
+
+## プラットフォーム自動判定
+
+`detect_platform.py` が記事タイトル・説明文からキーワードマッチで広告ツールを判定:
+
+- **キーワード優先**: "P-MAX" → Google Ads, "Advantage+" → Meta Ads 等
+- **ソース別デフォルト**: Jon Loomer → Meta Ads, Solutions 8 → Google Ads 等
+- **フォールバック**: 判定不能 → General
+
+`industry-media` と `youtube` ソースの記事に適用。公式ソース（google-ads, meta-ads等）は `sources.yaml` のラベルをそのまま使用。
 
 ## 関連プロジェクト
 
