@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "id": "f03868b28479",
+      "platform": "google-ads",
+      "platform_label": "Google Ads",
+      "color": "#4285F4",
+      "source": "Google Ads Blog (公式)",
+      "title": "A more personal digital health experience for people in Europe",
+      "link": "https://blog.google/innovation-and-ai/technology/health/google-docmorris-partnership/",
+      "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_health_everyone_hero.max-600x600.format-webp.webp\">Google and DocMorris have announced a partnership to create a more intuitive and supportive digital health experience.",
+      "date": "2026-03-19",
+      "lang": "en",
+      "type": "article",
+      "category": "unclassified"
+    },
+    {
+      "id": "f51908f091af",
+      "platform": "google-ads",
+      "platform_label": "Google Ads",
+      "color": "#4285F4",
+      "source": "Jyll Saskin Gales (The Google Pro)",
+      "title": "Google Ads for Restricted Industries: 3 Strategies to Win [Inside Google Ads Episode 112]",
+      "link": "https://www.youtube.com/watch?v=mwHtA1iNg-0",
+      "description": "If you work in a so-called \"Sensitive Interest Category\" like healthcare, finance, legal, or real estate, you’ve likely stared at that \"Eligible (Limited)\" status in Google Ads with frustration. Operating in a sensitive interest category means that standard Google Ads tactics like retargeting or bas",
+      "date": "2026-03-19",
+      "lang": "en",
+      "type": "youtube",
+      "category": "unclassified",
+      "transcript_url": ""
+    },
+    {
+      "id": "008e5c5b018c",
+      "platform": "google-ads",
+      "platform_label": "Google Ads",
+      "color": "#4285F4",
+      "source": "Surfside PPC",
+      "title": "Google Keyword Planner: Your Secret Budgeting Tool Revealed! #shorts",
+      "link": "https://www.youtube.com/watch?v=yKMlFowBhAc",
+      "description": "Unlock accurate search campaign budget forecasts. Learn to leverage Google Keyword Planner and understand industry spending for smarter ad investments. #SearchAds #Budgeting #MarketingTips #GoogleAds #Forecasting",
+      "date": "2026-03-19",
+      "lang": "en",
+      "type": "youtube",
+      "category": "unclassified",
+      "transcript_url": ""
+    },
+    {
       "id": "9df4378581cf",
       "platform": "meta-ads",
       "platform_label": "Meta Ads",

@@ -5,8 +5,32 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 00:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 10:30:48 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] A more personal digital health experience for people in Europe</title>
+      <link>https://blog.google/innovation-and-ai/technology/health/google-docmorris-partnership/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_health_everyone_hero.max-600x600.format-webp.webp"&gt;Google and DocMorris have announced a partnership to create a more intuitive and supportive digital health experience.</description>
+      <pubDate>2026-03-19T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f03868b28479</guid>
+      <category>Google Ads Blog (公式)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads for Restricted Industries: 3 Strategies to Win [Inside Google Ads Episode 112]</title>
+      <link>https://www.youtube.com/watch?v=mwHtA1iNg-0</link>
+      <description>If you work in a so-called "Sensitive Interest Category" like healthcare, finance, legal, or real estate, you’ve likely stared at that "Eligible (Limited)" status in Google Ads with frustration. Operating in a sensitive interest category means that standard Google Ads tactics like retargeting or bas</description>
+      <pubDate>2026-03-19T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f51908f091af</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Keyword Planner: Your Secret Budgeting Tool Revealed! #shorts</title>
+      <link>https://www.youtube.com/watch?v=yKMlFowBhAc</link>
+      <description>Unlock accurate search campaign budget forecasts. Learn to leverage Google Keyword Planner and understand industry spending for smarter ad investments. #SearchAds #Budgeting #MarketingTips #GoogleAds #Forecasting</description>
+      <pubDate>2026-03-19T00:00:00Z</pubDate>
+      <guid isPermaLink="false">008e5c5b018c</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Meta Ads] Social Feeds Are Powering India’s Micro-Drama Boom: Meta-Ormax Report</title>
       <link>https://about.fb.com/news/2026/03/social-feeds-are-powering-indias-micro-drama-boom-meta-ormax-report/</link>
@@ -852,30 +876,6 @@ Today, we’re announcing the October 2025 update to the &lt;a href="https://dev
       <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/Metas-Custom-Silicon_Thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/03/Metas-Custom-Silicon</description>
       <pubDate>2026-03-11T00:00:00Z</pubDate>
       <guid isPermaLink="false">8a0f47431ad3</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Launches New Anti-Scam Tools, Deploys AI Technology to Fight Scammers and Protect People</title>
-      <link>https://about.fb.com/news/2026/03/meta-launches-new-anti-scam-tools-deploys-ai-technology-to-fight-scammers-and-protect-people/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-4.03.24-PM.png?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/03/Screenshot-2026</description>
-      <pubDate>2026-03-11T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3bc5e6536aa3</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Global Law Enforcement Agencies, With Support From Meta, Disrupt Major Criminal Scam Networks Based in Southeast Asia</title>
-      <link>https://about.fb.com/news/2026/03/meta-global-law-enforcement-disrupt-major-southeast-asia-criminal-scam-networks/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/Global-Law-Enforcement-Agencies-With-Support-From-Meta-Disrupt-Major-Criminal-Scam-Networks-Based-in-Thailand_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bo</description>
-      <pubDate>2026-03-11T00:00:00Z</pubDate>
-      <guid isPermaLink="false">5418d6b4264e</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Fighting Scammers and Protecting People with New Technology and Partnerships</title>
-      <link>https://about.fb.com/news/2026/03/fighting-scammers-protecting-people-with-new-technology-and-partnerships/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/Fighting-Scammers-and-Protecting-People-with-New-Technology-and-Partnerships_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://abou</description>
-      <pubDate>2026-03-11T00:00:00Z</pubDate>
-      <guid isPermaLink="false">194fcacac3e4</guid>
       <category>Meta Newsroom</category>
     </item>
   </channel>
