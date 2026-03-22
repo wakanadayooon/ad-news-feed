@@ -5,14 +5,139 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 10:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 10:18:12 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Introducing: Ads DevCast</title>
+      <link>http://ads-developers.googleblog.com/2026/03/introducing-ads-devcast.html</link>
+      <description>&lt;div class="separator" style="clear: both;"&gt;
+  &lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDEE2O2OMjXUbzYX4KL5Fxco5Vr0jCisEpmNYUkZMwpzM4qvzdnUlgXBadRDD6Zm-yaVkH_VKGu-o0WDe7lt2RrryM7QRzdb_qHpzTGMjiI0e0VvuKrQazqbCvZGDgYgpl7d6c0zYO0yOubYSkZafxXm4m1NLCsMKCpI3z1tmRBLqKoFxSs22vyVL</description>
+      <pubDate>2026-03-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f72f316b13f7</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Upcoming changes to Lookalike user lists in the Google Ads API, starting April 30, 2026</title>
+      <link>http://ads-developers.googleblog.com/2026/03/upcoming-changes-to-lookalike-user.html</link>
+      <description>&lt;p&gt;
+Google Ads is committed to providing a reliable and efficient environment for all advertisers. To ensure that our systems remain stable and that resources are allocated fairly, we are introducing a uniqueness check for &lt;a href="https://developers.google.com/google-ads/api/docs/remarketing/audien</description>
+      <pubDate>2026-03-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a9f53c9a01c0</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Free Google Ads Training 2026: Master Marketing! #shorts</title>
+      <link>https://www.youtube.com/watch?v=WCnY7UHxLbw</link>
+      <description>Unlock the latest Google Ads strategies for 2026 with two free training videos. Stay ahead with updated marketing, tracking, and advertising insights. #GoogleAds #DigitalMarketing #MarketingTips #Advertising</description>
+      <pubDate>2026-03-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">51a120a07589</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google Ads] Install Google Analytics, GTM, Search Console &amp; Ads Tag #shorts</title>
       <link>https://www.youtube.com/watch?v=ZUjG_yELhKw</link>
       <description>Streamline your website analytics! Learn to install Google Analytics 4, Google Tag Manager, and your Google Ads tag seamlessly. Boost your data tracking and ad performance today. #GoogleAnalytics #GoogleTagManager #GoogleAds #WebAnalytics #DigitalMarketing</description>
       <pubDate>2026-03-21T00:00:00Z</pubDate>
       <guid isPermaLink="false">3f3c53203385</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[General] Mastering Content Strategy for Google’s AI-Powered Search: Key Practices to Follow</title>
+      <link>https://almcorp.com/blog/content-strategy-google-ai-powered-search/</link>
+      <description>&lt;p&gt;Did you notice? Google is now testing a new feature in its AI Overview called “Dive deeper into AI mode”. It’s OK if this passed by your attention, as we tend to overlook and get accustomed to all convenient things. The key point is that more and more users prefer AI answers. In Google, it’s call</description>
+      <pubDate>2026-03-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3a1c9985382a</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] The 12 Best Prospecting Tools for Digital Agencies in 2026: Features, Pricing, and What Actually Works</title>
+      <link>https://almcorp.com/blog/prospecting-tools-for-digital-agencies/</link>
+      <description>&lt;p&gt;New business is the lifeblood of every digital agency. Retentions plateau. Scopes shrink. Clients churn. Without a steady pipeline of qualified prospects, even a high-performing agency can find itself in serious trouble within a single quarter. Yet most agency growth teams still rely on a patchwo</description>
+      <pubDate>2026-03-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">50f3eb350c8f</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] The Complete Guide to Top Data Analytics Tools in 2026: Features, Pricing &amp; Which One Is Right for You</title>
+      <link>https://almcorp.com/blog/top-data-analytics-tools/</link>
+      <description>&lt;p&gt;Every organization today sits on a mountain of data. The gap between companies that turn that data into decisions and those that let it collect dust is growing wider — and the tools they use are largely responsible for that divide. The global data analytics market was valued at approximately $64.</description>
+      <pubDate>2026-03-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b43c5919b370</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Dua Lipa Becomes Nespresso’s Global Brand Ambassador: Inside the ‘Vertuo World’ Campaign, the Gen Z Coffee Strategy, and What It Signals for Modern Brand Marketing</title>
+      <link>https://almcorp.com/blog/dua-lipa-nespresso-vertuo-world-campaign/</link>
+      <description>&lt;p&gt;On March 19, 2026, Nespresso officially confirmed what the marketing world had been waiting to hear: global pop superstar Dua Lipa is the brand&amp;#8217;s new Global Brand Ambassador. The appointment — announced through Nestlé&amp;#8217;s official channels and immediately amplified across every major me</description>
+      <pubDate>2026-03-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">1aef7615d09c</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Wendy’s March Madness Dunks Menu 2026: How a Fan Habit Became an NCAA-Sponsored Campaign with NIL Deals, a $100,000 Sweepstakes, and Free Food for America</title>
+      <link>https://almcorp.com/blog/wendys-march-madness-dunks-menu-nil-campaign-2026/</link>
+      <description>&lt;p&gt;Starting March 16, 2026, Wendy&amp;#8217;s became the Official Dunks Partner of NCAA March Madness and launched what it is calling the Dunks Menu — a formally packaged version of something millions of fans have quietly done for decades: dipping hot, salty fries into a cold, creamy Frosty. That is the</description>
+      <pubDate>2026-03-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2584ff160a33</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] OpenAI’s Desktop Superapp: ChatGPT, Codex, and the Atlas Browser Are Merging — What Every Business Needs to Know in 2026</title>
+      <link>https://almcorp.com/blog/openai-desktop-superapp-chatgpt-codex-atlas-browser/</link>
+      <description>&lt;p&gt;On March 19, 2026, The Wall Street Journal published details from an internal OpenAI memo that outlined one of the company&amp;#8217;s most significant product decisions since ChatGPT launched in November 2022. OpenAI is building a desktop &amp;#8220;superapp&amp;#8221; — a single, unified application that w</description>
+      <pubDate>2026-03-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7f3152946616</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Natalie Portman Is Tiffany &amp; Co.’s New Global Ambassador: Inside the 70mm Oscar Campaign Directed by Brady Corbet and Mona Fastvold</title>
+      <link>https://almcorp.com/blog/natalie-portman-tiffany-co-global-ambassador-brady-corbet-mona-fastvold-70mm-campaign/</link>
+      <description>&lt;p&gt;On the night of the 98th Academy Awards broadcast in March 2026, while much of the entertainment world was focused on the ceremony&amp;#8217;s winners and red carpet moments, Tiffany &amp;#38; Co. quietly made its own kind of announcement. During the Oscars telecast, a three-minute film aired — not a tra</description>
+      <pubDate>2026-03-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">0f56e6b480d8</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Digital Marketing News: March 11–20, 2026 — Google’s Core Update Hits 55% of Sites, ChatGPT Ads Continue Rolling Out, and AI Mode Surpasses 75 Million Daily Users</title>
+      <link>https://almcorp.com/blog/digital-marketing-news-march-11-20-2026/</link>
+      <description>&lt;p&gt;The ten days between March 11 and March 20, 2026, delivered more consequential changes to the digital marketing landscape than most full quarters have in previous years. Google&amp;#8217;s broad core update continued its rollout, directly impacting more than half of all monitored websites. ChatGPT&amp;#8</description>
+      <pubDate>2026-03-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">1f5337e5b376</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Lorka AI Review: One Platform, 12+ AI Models, and Every Tool You Need for $19.99/Month</title>
+      <link>https://almcorp.com/blog/lorka-ai-review/</link>
+      <description>&lt;p&gt;If you have spent any time seriously using AI tools in the past two years, you already know the drill. You subscribe to ChatGPT Plus for writing and coding. You add Claude Pro because it handles long documents better. You pick up Gemini Advanced for Google Workspace integration. Then someone in a</description>
+      <pubDate>2026-03-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8d7f2fe86a1f</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Health-Ade Kombucha Taps Lindsay Lohan in a Nostalgia-Driven Campaign That’s Already Dominating Social</title>
+      <link>https://almcorp.com/blog/health-ade-lindsay-lohan-kombucha-campaign/</link>
+      <description>&lt;p&gt;There are campaigns that explain a product. There are campaigns that sell a product. And then there are campaigns that make a product feel like part of something much larger — a cultural moment that the audience already belongs to. Health-Ade&amp;#8217;s new collaboration with Lindsay Lohan, launched</description>
+      <pubDate>2026-03-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c9c538a17f75</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Ecommerce SEO and PPC Keyword Research Using AI</title>
+      <link>https://www.youtube.com/watch?v=GbhsXDcdoec</link>
+      <description>*My Google Ads Course is Updated and $34.99/Year: https://surfsideppc.com/products/google-ads-course
+**Join Surfside PPC Premium For $5/Month: https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/join
+***Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
+****Hire Me Fo</description>
+      <pubDate>2026-03-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7e46c83491c3</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Google Ads] Boost Conversions: Website Call Tracking Secrets Revealed! #shorts</title>
+      <link>https://www.youtube.com/watch?v=1ooT1VZGOpQ</link>
+      <description>Master Google Ads conversion tracking! Learn to set up calls from ads and desktop phone calls using Google Tag Manager. Maximize your ROI with accurate data. #GoogleAds #TagManager #ConversionTracking #DigitalMarketing</description>
+      <pubDate>2026-03-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3b51ce0e9e5b</guid>
       <category>Surfside PPC</category>
     </item>
     <item>
@@ -721,153 +846,6 @@ This major &lt;a href="https://developers.google.com/google-ads/api/docs/develop
 In 2025, Google &lt;a href="https://ads-developers.googleblog.com/2025/08/eu-par-google-ads-api-scripts.html"&gt;rolled out changes to support&lt;/a&gt; the EU Political Ads Regulation in the &lt;a href="https://developers.google.com/google-ads/api/docs/start"&gt;Google </description>
       <pubDate>2026-03-12T00:00:00Z</pubDate>
       <guid isPermaLink="false">5fa41f05adde</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing v23.1 of the Google Ads API</title>
-      <link>http://ads-developers.googleblog.com/2026/02/announcing-v231-of-google-ads-api.html</link>
-      <description>&lt;p&gt;
-Today, we’re announcing the v23.1 release of the &lt;a href="https://developers.google.com/google-ads/api"&gt;Google Ads API&lt;/a&gt;. To use the new v23.1 features, you must upgrade your &lt;a href="https://developers.google.com/google-ads/api/docs/client-libs"&gt;client libraries&lt;/a&gt; and client code. All the u</description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">54f7fb7108eb</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing Android Google Mobile Ads SDK 25.0.0</title>
-      <link>http://ads-developers.googleblog.com/2026/02/announcing-android-google-mobile-ads.html</link>
-      <description>&lt;p&gt;
-Version 25.0.0 of the Android Google Mobile Ads SDK is now available. We recommend upgrading as soon as possible to take advantage of the latest features, performance improvements, and API updates. This is a major version update that includes several breaking changes, new functionality for optim</description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4b8f29ea5a5d</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing user list management and enhanced audience ingestion for the Data Manager API</title>
-      <link>http://ads-developers.googleblog.com/2026/02/announcing-user-list-management-and.html</link>
-      <description>&lt;p&gt;
-We're excited to announce the &lt;a href="https://developers.google.com/data-manager/api/reference#2026-02-17_v15"&gt;release of v1.5 of the Data Manager API&lt;/a&gt;, delivering a more comprehensive platform for data management. This update introduces powerful new capabilities for managing user lists alon</description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4d591c296442</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing iOS Google Mobile Ads SDK Version 13.0.0</title>
-      <link>http://ads-developers.googleblog.com/2026/02/announcing-ios-google-mobile-ads-sdk.html</link>
-      <description>&lt;p&gt;
-Version 13.0.0 of the Google Mobile Ads SDK for iOS is now available. We recommend upgrading as soon as possible to take advantage of the latest features, performance improvements, and API updates.
-&lt;/p&gt;
-&lt;h3&gt;Updates in Version 13.0.0&lt;/h3&gt;
-
-&lt;ul&gt;
-
-&lt;li&gt;&lt;strong&gt;Increased minimum deployment target:&lt;/s</description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">dbc120bcb0bb</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] An update on Google Ads API developer token access applications</title>
-      <link>http://ads-developers.googleblog.com/2026/02/an-update-on-google-ads-api-developer.html</link>
-      <description>&lt;p&gt;
-With the recent release of &lt;a href="https://ads-developers.googleblog.com/2025/10/explorer-access-is-now-available-for.html"&gt;Explorer Access for the Google Ads API&lt;/a&gt;, &lt;a href="https://developers.google.com/google-ads/api/docs/developer-toolkit/mcp-server"&gt;Google Ads API MCP server&lt;/a&gt; and the </description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3659735900d2</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing the Google Mobile Ads Next-Gen SDK for Android</title>
-      <link>http://ads-developers.googleblog.com/2026/01/announcing-google-mobile-ads-next-gen.html</link>
-      <description>&lt;p&gt;
-We are announcing the Google Mobile Ads (GMA) Next-Gen SDK for Android, a significant rewrite of the Google Mobile Ads SDK that prioritizes speed, stability, and an improved developer experience. See the developer guides to get started today (&lt;a href="https://developers.google.com/admob/android/</description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">166996bf1383</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Introducing Channel-Level Reporting for Performance Max campaigns</title>
-      <link>http://ads-developers.googleblog.com/2026/01/introducing-channel-level-reporting-for.html</link>
-      <description>&lt;p&gt;
-Following yesterday's launch of Google Ads API v23, we are excited to share more details about one of the most highly requested features: Channel-level reporting for Performance Max campaigns.
-&lt;/p&gt;
-&lt;p&gt;
-This update provides developers and advertisers with unprecedented transparency into where the</description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f7c8a709d6a5</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing v23 of the Google Ads API</title>
-      <link>http://ads-developers.googleblog.com/2026/01/announcing-v23-of-google-ads-api.html</link>
-      <description>&lt;p&gt;
-Today, we’re announcing the v23 release of the &lt;a href="https://developers.google.com/google-ads/api"&gt;Google Ads API&lt;/a&gt;. This marks the first release of 2026 and the beginning of our move to a &lt;a href="https://ads-developers.googleblog.com/2025/09/more-frequent-releases-coming-for.html"&gt;faster </description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1f41af0b4f29</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Campaign Manager 360 API v4 Sunset Reminder</title>
-      <link>http://ads-developers.googleblog.com/2026/01/campaign-manager-360-api-v4-sunset.html</link>
-      <description>&lt;p&gt;
-Campaign Manager 360 API v4 will be sunset on &lt;strong&gt;February 26, 2026&lt;/strong&gt;. Starting on this date, all v4 API requests will begin to fail. If you’re still using this version, we strongly encourage you to migrate to v5 as soon as possible to avoid service interruptions.
-&lt;/p&gt;
-&lt;p&gt;
-See the &lt;a </description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3fa56dba9b38</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Campaign and Insertion Order targeting will sunset in Display &amp; Video 360 API and Structured Data Files on February 23, 2026</title>
-      <link>http://ads-developers.googleblog.com/2026/01/campaign-and-insertion-order-targeting.html</link>
-      <description>&lt;p&gt;
-In November, we &lt;a href="https://ads-developers.googleblog.com/2025/11/upcoming-changes-to-targeting-in.html"&gt;announced the upcoming sunset of Campaign and Insertion Order targeting in the Display &amp; Video 360 API and Structured Data Files&lt;/a&gt;. This sunset will take place on &lt;strong&gt;February 23, </description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ffe71718b46f</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Changes to IP Address and Session Attribute Support in the Google Ads API</title>
-      <link>http://ads-developers.googleblog.com/2026/01/changes-to-ip-address-and-session.html</link>
-      <description>&lt;p&gt;
-Starting on February 2, 2026, the Google Ads API will no longer accept new adopters of &lt;a href="https://developers.google.com/google-ads/api/reference/rpc/v22/ClickConversion#session_attributes"&gt;session attributes&lt;/a&gt; or &lt;a href="https://developers.google.com/google-ads/api/reference/rpc/v22/Cli</description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ea87cf15f5f8</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads API v19 sunset reminder</title>
-      <link>http://ads-developers.googleblog.com/2025/12/google-ads-api-v19-sunset-reminder.html</link>
-      <description>&lt;p&gt;Google Ads API v19 will &lt;a href="https://developers.google.com/google-ads/api/docs/sunset-dates"&gt;sunset&lt;/a&gt; on February 11, 2026. Starting on this date, all v19 API requests will begin to fail. Migrate to a &lt;a href="https://developers.google.com/google-ads/api/docs/release-notes"&gt;newer version&lt;/a</description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">7ccd033ec7f3</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Update your PAL integration for new limited ads behavior</title>
-      <link>http://ads-developers.googleblog.com/2025/12/update-your-pal-integration-for-new.html</link>
-      <description>&lt;p&gt;The Programmatic Access Library (PAL) is updating user privacy and data usage settings, and requires implementation updates as these changes go live. This update introduces the following changes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;PAL reads Transparency &amp; Consent Framework (TCF) data from the device to determine user</description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">268db6a279f7</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Introducing the Google Ads API Developer Assistant v1.0: Interact with the API using Natural Language</title>
-      <link>http://ads-developers.googleblog.com/2025/12/introducing-google-ads-api-developer.html</link>
-      <description>&lt;p&gt;Announcing the release of the &lt;strong&gt;&lt;a href="https://github.com/googleads/google-ads-api-developer-assistant"&gt;Google Ads API Developer Assistant&lt;/strong&gt;&lt;/a&gt;, a powerful extension for Gemini CLI designed to streamline your Google Ads API workflows. This tool allows you to interact with the Goog</description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9a0b77ee7ad1</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] The Data Manager API is Now Generally Available</title>
-      <link>http://ads-developers.googleblog.com/2025/12/the-data-manager-api-is-now-generally.html</link>
-      <description>&lt;p&gt;
-The &lt;a href="https://developers.google.com/data-manager/api"&gt;Data Manager API&lt;/a&gt;, a new solution for data ingestion across Google’s advertising platforms, is now generally available. This API is designed to streamline how advertisers, agencies, and data partners send and manage their first-part</description>
-      <pubDate>2026-03-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">870d8b9cd188</guid>
       <category>Google Ads Developer Blog</category>
     </item>
   </channel>
