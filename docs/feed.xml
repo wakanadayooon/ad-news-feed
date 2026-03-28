@@ -5,8 +5,46 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 10:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 10:22:45 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] New Google Ad Manager API read-only scope</title>
+      <link>http://ads-developers.googleblog.com/2026/03/new-google-ad-manager-api-read-only.html</link>
+      <description>&lt;p&gt;The Ad Manager API now supports a read-only OAuth scope. This new scope, &lt;code&gt;https://www.googleapis.com/auth/admanager.readonly&lt;/code&gt;, allows developers to request read-only access to their users' Ad Manager data.&lt;/p&gt;
+
+&lt;p&gt;This new scope is only available for the &lt;a href="https://developers.goo</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ae94f0296cc7</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Increase in Batch Job Service Request Size</title>
+      <link>http://ads-developers.googleblog.com/2026/03/increase-in-batch-job-service-request.html</link>
+      <description>&lt;p&gt;
+&lt;strong&gt;Increased Request Limits for BatchJobService Enhance Large Asset Uploads&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+We're pleased to announce significant increases to the request size limits for the &lt;code&gt;BatchJobService.AddBatchJobOperations&lt;/code&gt; method in the Google Ads API. These changes are designed to str</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e4d231d83ef4</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Microsoft Ads] Debunking the myth: Is AI-powered search killing ad success?</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/march-2026/debunking-the-myth-is-ai-powered-search-killing-ad-success</link>
+      <description>AI isn’t replacing search - it’s reshaping it. Learn how Search First brands stay visible and influential across AI driven, zero click customer journeys.</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">62aab379b20a</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Master Google Ads: Keyword Planner Secrets Revealed! #shorts</title>
+      <link>https://www.youtube.com/watch?v=g7D_FlC3w_o</link>
+      <description>Discover how to leverage Google Ads Keyword Planner for long-tail variations. Filter by monthly searches and top-of-page bids to find your most valuable keywords for SEO success. #KeywordPlanner #GoogleAds #SEOStrategy #DigitalMarketing</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2e186aa0a454</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google Ads] Upcoming Improvements to Offline Conversion Imports</title>
       <link>http://ads-developers.googleblog.com/2026/03/upcoming-improvements-to-offline.html</link>
@@ -30,6 +68,116 @@ Starting in &lt;strong&gt;April, 2026&lt;/strong&gt; the Google Ads API will ben
       <description>Connect Google Search Console, Business Profile, CRM, and Analytics to Google Ads for better conversion tracking. Give Google more data for optimal performance. #GoogleAds #DigitalMarketing #BusinessGrowth #SEO #MarketingTips</description>
       <pubDate>2026-03-27T00:00:00Z</pubDate>
       <guid isPermaLink="false">844dc55ec059</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[General] KFC UK Pickle Puffer Jacket Giveaway: How It Works, What’s in the Pickle Mania Menu, and What Fans Need to Know</title>
+      <link>https://almcorp.com/blog/kfc-uk-pickle-puffer-jacket-giveaway-pickle-mania-menu/</link>
+      <description>&lt;p&gt;KFC UK has found a very specific way to make a limited-time menu launch harder to ignore. To promote its Pickle Mania range, the brand introduced the “Pickle Puffer,” a transparent puffer jacket filled with real pickle brine and sliced gherkins, complete with a built-in straw and pickle-shaped zi</description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">0179acd57695</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] WhatsApp’s New Features Rolling Out Now: Easier Storage Cleanup, iPhone Multi-Account Support, Chat Transfer, Stickers, and AI Writing Help</title>
+      <link>https://almcorp.com/blog/whatsapp-new-features-storage-chat-transfer-iphone-accounts/</link>
+      <description>&lt;p&gt;WhatsApp has spent years refining the basics of messaging: reliable delivery, end-to-end encryption, voice notes, group chats, calls, Status, Channels, and business messaging. But the latest wave of updates is different in one important way. Instead of introducing one headline feature and moving </description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">64191ca7cbd2</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Demand Gen New Features Explained: Veo Video, Creator Partnerships, YouTube Engagement Goals, Placements, Specs, and What Advertisers Should Do Next</title>
+      <link>https://almcorp.com/blog/google-demand-gen-new-features/</link>
+      <description>&lt;p&gt;Google has added another set of capabilities to Demand Gen, and the direction is clear: the company wants Demand Gen to become a more complete option for advertisers who need reach, creative flexibility, stronger audience signals, and clearer ways to measure impact across YouTube and other visual</description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6ea7da93afc8</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] TikTok In-App Shopping Explained: What “Watch It. Love It. Want It.” Means for Brands, Retailers, and TikTok Shop</title>
+      <link>https://almcorp.com/blog/tiktok-in-app-shopping-explained/</link>
+      <description>&lt;p&gt;TikTok for Business has introduced a new commerce-led positioning, “Watch it. Love it. Want it.,” and the message is straightforward: the company wants brands to treat TikTok as more than an awareness platform. It wants marketers, merchants, and retail teams to see it as a place where discovery, </description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5ad91175a8fa</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] What Meta Announced at IAB NewFronts 2026: Reels Trending Ads, Creator Discovery Tools, Threads Video Ads, and AI Creative Updates</title>
+      <link>https://almcorp.com/blog/meta-iab-newfronts-2026-reels-trending-ads-creator-discovery-threads-video-ads/</link>
+      <description>&lt;p&gt;Meta’s latest IAB NewFronts announcements were not a one-off collection of product updates. Taken together, they show where the company believes social advertising is heading next: toward culture-led placement, creator-centered discovery, more video inventory, and faster creative production power</description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2d0e1970efc2</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Google Search Live Expands Globally: What AI Mode Users in 200+ Countries Can Now Do With Voice and Camera</title>
+      <link>https://almcorp.com/blog/google-search-live-expands-globally-ai-mode/</link>
+      <description>&lt;p&gt;Google has expanded Search Live to every language and location where AI Mode is available, bringing the feature to users across more than 200 countries and territories. That is a meaningful change in how Google Search is being used. Instead of treating search as a box where people type a query, r</description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">db8b6395bb59</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Walmart Digital Price Tags Explained: How Electronic Shelf Labels Work, What Changes in Stores, and What Shoppers Should Know</title>
+      <link>https://almcorp.com/blog/walmart-digital-price-tags-electronic-shelf-labels-guide/</link>
+      <description>&lt;p&gt;Walmart is replacing paper shelf tags with digital shelf labels across its U.S. stores, and that change matters for more than store signage. On the surface, it looks like a simple operational update: small electronic displays instead of printed labels. In practice, it changes how a large retailer</description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ab0926a984e0</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Passkeys Explained: Setup Steps, Sensitive Actions, 7-Day Delay, and Security Requirements for Advertisers</title>
+      <link>https://almcorp.com/blog/google-ads-passkeys-guide/</link>
+      <description>&lt;p&gt;Google Ads is adding passkey support to account access and, in some cases, to the approval of sensitive actions inside advertiser accounts. For advertisers, agencies, and in-house paid media teams, this matters for a simple reason: account security is no longer a side issue. It affects access, ap</description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">542a90827fc7</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Adds Veo: How Advertisers Can Turn Images Into 10-Second Video Ads in Asset Studio</title>
+      <link>https://almcorp.com/blog/google-ads-veo-video-generation/</link>
+      <description>&lt;p&gt;For years, the bottleneck in Google Ads creative has not been media buying. It has been production. Brands can plan campaigns, segment audiences, map offers to funnel stages, and build measurement frameworks, but they still hit the same operational wall: they need more creative than they can prod</description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2e1ad909618f</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Why Google Ads CPC Keeps Rising: What the Data Shows and How to Lower Cost Per Click Without Cutting Growth</title>
+      <link>https://almcorp.com/blog/why-google-ads-cpc-keeps-rising/</link>
+      <description>&lt;p&gt;Cost per click is rising in Google Ads for a simple reason: more advertisers are competing for a limited number of high-intent clicks, while Google’s search results pages are changing in ways that make those clicks harder to win. But that headline explanation is only part of the story. The real r</description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3494ba70ce04</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] The MOST Common Mistake Advertisers Make on Meta Ads</title>
+      <link>https://www.youtube.com/watch?v=gUwI93xhJTo</link>
+      <description>Want me to mentor you to crush it with Facebook Ads? Go here: https://www.admasters365.com/start
+Want my agency to do it for you? Go here: https://heathmedia.co.uk/done-for-you/
+
+If you’re new to my channel, my name is Ben Heath. I’m the founder and owner of https://heathmedia.co.uk a marketing agen</description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7a790a870765</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Facebook Ads Targeting Just Changed! Here's What It Means…</title>
+      <link>https://www.youtube.com/watch?v=iJ2O3vOSmYY</link>
+      <description>Improve your Meta Ads data, optimization and ROAS with Hyros: http://hyros.com/affiliate-grow.html?fpr=ben85
+***
+Want me to mentor you to crush it with Facebook Ads? Go here: https://www.admasters365.com/start?video=iJ2O3vOSmYY
+Want my agency to do it for you? Go here: https://heathmedia.co.uk/done-</description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b3189ee4d3f4</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[General] Unlock More Sales: Target Leather Boots Effectively #shorts</title>
+      <link>https://www.youtube.com/watch?v=mTPFgHnO_8I</link>
+      <description>Selling leather boots? Don't target broadly. Discover how targeting specific long-tail keywords like 'leather Chelsea boots' can dramatically lower click costs and boost profits. Optimize your ad strategy. #KeywordResearch #ECommerceTips #DigitalMarketing #SeoStrategy #PpcAdvertising</description>
+      <pubDate>2026-03-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">1603cbb4710a</guid>
       <category>Surfside PPC</category>
     </item>
     <item>
@@ -709,143 +857,6 @@ If you’re new to my channel, my name is Ben Heath. I’m the founder and owner
       <pubDate>2026-03-22T00:00:00Z</pubDate>
       <guid isPermaLink="false">f72f316b13f7</guid>
       <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Upcoming changes to Lookalike user lists in the Google Ads API, starting April 30, 2026</title>
-      <link>http://ads-developers.googleblog.com/2026/03/upcoming-changes-to-lookalike-user.html</link>
-      <description>&lt;p&gt;
-Google Ads is committed to providing a reliable and efficient environment for all advertisers. To ensure that our systems remain stable and that resources are allocated fairly, we are introducing a uniqueness check for &lt;a href="https://developers.google.com/google-ads/api/docs/remarketing/audien</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a9f53c9a01c0</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Free Google Ads Training 2026: Master Marketing! #shorts</title>
-      <link>https://www.youtube.com/watch?v=WCnY7UHxLbw</link>
-      <description>Unlock the latest Google Ads strategies for 2026 with two free training videos. Stay ahead with updated marketing, tracking, and advertising insights. #GoogleAds #DigitalMarketing #MarketingTips #Advertising</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">51a120a07589</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[General] 広告クリエイティブの「訴求の優先度」を根拠をもって整理する方法</title>
-      <link>https://anagrams.jp/blog/creative-message-priority/</link>
-      <description>広告クリエイティブの訴求軸、その検証の「優先度」をきちんと考えていますか？ 限られた予算とリソースの中で成果を出すには、定量×定性のスコアリングで優先度を客観的に整理することが大切です。 本記事では、…</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d4993fda511a</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[General] Does Meta Want Audience Suggestions?</title>
-      <link>https://www.jonloomer.com/qvt/does-meta-want-audience-suggestions/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/03/suggestions-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="Does Meta Want Audience Suggestions?" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://ww</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">565fd70a6b81</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[General] OpenClaw Use Cases for Digital Marketing: 15 Proven Applications That Save 15–20 Hours Per Week</title>
-      <link>https://almcorp.com/blog/openclaw-use-cases-digital-marketing/</link>
-      <description>&lt;p&gt;Marketing teams in 2026 are spending a substantial portion of their working week on tasks that produce no direct creative or strategic output. Pulling weekly reports from four separate ad platforms. Chasing UTM parameter discrepancies in a spreadsheet. Searching manually through the Meta Ad Libra</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">220f92c69884</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] 12 Best Identity and Access Management (IAM) Tools in 2026: Features, Use Cases &amp; How to Choose the Right One</title>
-      <link>https://almcorp.com/blog/best-identity-and-access-management-tools/</link>
-      <description>&lt;p&gt;Identity is the new perimeter. That phrase has circulated in cybersecurity circles for several years now, but in 2026, the data finally makes the argument impossible to ignore. According to CrowdStrike, 80% of all cyberattacks now leverage identity-based methods. IBM&amp;#8217;s Cost of a Data Breach</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">df0b86ac63f4</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google UCP Cart, Catalog &amp; Identity Linking Update: What Every Retailer and PPC Manager Needs to Know (March 2026)</title>
-      <link>https://almcorp.com/blog/google-ucp-cart-catalog-identity-linking-2026/</link>
-      <description>&lt;p&gt;On March 19, 2026, Google published an update to the Universal Commerce Protocol (UCP) that is more operationally significant than its announcement size might suggest. The update introduced three new optional capabilities — Cart, Catalog, and Identity Linking — and separately announced a simplifi</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f25cc7332837</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Campaign Creation Now Asks “Tell Us About Your New Campaign” — Here’s What Every Advertiser Needs to Know</title>
-      <link>https://almcorp.com/blog/google-ads-tell-us-about-your-new-campaign/</link>
-      <description>&lt;p&gt;If you logged into Google Ads recently and spotted a new optional text box labeled &amp;#8220;Tell us about your new campaign&amp;#8221; during the campaign creation process, you were not imagining things. Google has introduced a free-text input field at the start of the campaign setup flow, allowing adv</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e51b3963807f</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Adobe Ends Marketo Engage’s Built-In SEO Tool on March 31, 2026: What Every B2B Marketer Must Know and Do Before the Deadline</title>
-      <link>https://almcorp.com/blog/adobe-marketo-engage-seo-tool-deprecated-march-2026/</link>
-      <description>&lt;p&gt;If you use Adobe Marketo Engage and you haven&amp;#8217;t checked the February 2026 release notes yet, here&amp;#8217;s what you need to know right now: the platform&amp;#8217;s built-in SEO tool is gone as of April 1, 2026 — and you have until March 31 to retrieve any data you want to keep. This isn&amp;#8217;t</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">cf80fa33852f</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Bot Traffic Will Exceed Human Web Usage by 2027: The Data, the Business Impact, and Your Action Plan</title>
-      <link>https://almcorp.com/blog/bot-traffic-exceed-human-web-usage-2027/</link>
-      <description>&lt;p&gt;The moment Cloudflare CEO Matthew Prince walked off the stage at SXSW in Austin in March 2026, the digital marketing community had a specific number to reckon with: 2027. That is the year Prince — whose company sits between roughly 20% of all websites on earth and the traffic hitting them — predi</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">c00c77a233e4</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Google Is Testing AI-Generated Headline Rewrites in Search Results: What Publishers and SEOs Need to Know Now</title>
-      <link>https://almcorp.com/blog/google-is-testing-ai-generated-headline-rewrites-in-search-results-what-publishers-and-seos-need-to-know-now/</link>
-      <description>&lt;p&gt;Google is running a live experiment in which AI rewrites publisher-written headlines directly inside traditional Search results — not just in Google Discover. The test is described as &amp;#8220;small&amp;#8221; and &amp;#8220;narrow,&amp;#8221; but the pattern from Discover suggests it could become permanent. G</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">2d37a65a6b97</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Google Is Testing AI Review Replies Inside Google Business Profile — Here’s What Every Local Business Needs to Know</title>
-      <link>https://almcorp.com/blog/google-business-profile-ai-review-replies/</link>
-      <description>&lt;p&gt;When Google quietly began testing an AI-powered feature inside Google Business Profile (GBP) that generates suggested replies to customer reviews, it sent a clear signal to every local business owner and digital marketer: review management is no longer optional, and the tools available for it are</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">07005f53a2f5</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google’s New Out-of-Stock Product Page Rules: What Every E-Commerce Store Must Do to Stay Compliant and Keep Rankings</title>
-      <link>https://almcorp.com/blog/google-out-of-stock-product-page-rules/</link>
-      <description>&lt;p&gt;The way your online store handles unavailable products just became a compliance requirement — not a design preference. Google has updated its Merchant Center policies to formally govern how out-of-stock product pages must look and behave. What was once left to the discretion of individual retaile</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1115df1f4840</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads DevCast Explained: Everything Developers and Ad Tech Professionals Need to Know About Google’s New Bi-Weekly Vodcast</title>
-      <link>https://almcorp.com/blog/google-ads-devcast-developer-vodcast-guide/</link>
-      <description>&lt;p&gt;For years, the gap between the people building advertising infrastructure and the engineers designing it at Google was bridged largely by documentation, changelogs, and the occasional developer summit. That gap has been narrowing — but in March 2026, Google moved to close it more decisively than </description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1f5ddd77b4bb</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] SureForms Plugin: Boost Your Website Conversions Now! #shorts</title>
-      <link>https://www.youtube.com/watch?v=xijtYxsAIcs</link>
-      <description>Discover SureForms, a versatile form plugin for your website. Learn how to create effective forms and understand the impact of field count on conversion rates, especially for Google Ads. #SureForms #WebDevelopment #FormPlugins #GoogleAds #ConversionRates</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">30f09782bc43</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Does Meta Want Audience Suggestions?</title>
-      <link>https://www.youtube.com/watch?v=cqbHenNCZio</link>
-      <description>Does Meta want advertisers to provide audience suggestions? Meta provides no clear indication in documentation. The button disappeared and the language indicating suggestions would be "prioritized" was removed. I discuss how suggestions fit into your overall approach to targeting in my new free mini</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d63d4237d37b</guid>
-      <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[Google Ads] Install Google Analytics, GTM, Search Console &amp; Ads Tag #shorts</title>
-      <link>https://www.youtube.com/watch?v=ZUjG_yELhKw</link>
-      <description>Streamline your website analytics! Learn to install Google Analytics 4, Google Tag Manager, and your Google Ads tag seamlessly. Boost your data tracking and ad performance today. #GoogleAnalytics #GoogleTagManager #GoogleAds #WebAnalytics #DigitalMarketing</description>
-      <pubDate>2026-03-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3f3c53203385</guid>
-      <category>Surfside PPC</category>
     </item>
   </channel>
 </rss>
