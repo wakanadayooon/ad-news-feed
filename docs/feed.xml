@@ -5,8 +5,16 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 10:22:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 10:23:14 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Google Ads Keyword Planner: AI for Local Service Keywords #shorts</title>
+      <link>https://www.youtube.com/watch?v=kpsYgXw-WJ0</link>
+      <description>Leverage AI tools like Claude or ChatGPT to extract valuable Google Ads keywords from Google Keyword Planner. Perfect for local service companies, e-commerce, and SaaS. #GoogleAds #KeywordPlanner #AItools #DigitalMarketing #LocalSEO</description>
+      <pubDate>2026-03-29T00:00:00Z</pubDate>
+      <guid isPermaLink="false">af69b62daeb1</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google Ads] New Google Ad Manager API read-only scope</title>
       <link>http://ads-developers.googleblog.com/2026/03/new-google-ad-manager-api-read-only.html</link>
@@ -43,6 +51,102 @@ We're pleased to announce significant increases to the request size limits for t
       <description>Discover how to leverage Google Ads Keyword Planner for long-tail variations. Filter by monthly searches and top-of-page bids to find your most valuable keywords for SEO success. #KeywordPlanner #GoogleAds #SEOStrategy #DigitalMarketing</description>
       <pubDate>2026-03-28T00:00:00Z</pubDate>
       <guid isPermaLink="false">2e186aa0a454</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Performance Max Seasonal Creative Theming: What Asset Group Theming Does, How It Works, and What Advertisers Should Do Next</title>
+      <link>https://almcorp.com/blog/google-performance-max-seasonal-creative-theming/</link>
+      <description>&lt;p&gt;Google has added seasonal creative theming to Performance Max asset groups, giving advertisers a faster way to adapt proven creative for holidays, promotions, and recurring seasonal moments. The update matters because it changes a part of Performance Max workflow that has traditionally been slow:</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c9202d5d28fd</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] ChatGPT Ads Explained: Where Ads Appear, Who Sees Them, How Targeting Works, and What Marketers Need to Do</title>
+      <link>https://almcorp.com/blog/chatgpt-ads-explained/</link>
+      <description>&lt;p&gt;For a long time, the idea of ads inside ChatGPT felt speculative. It was discussed, debated, and denied often enough that many marketers treated it like a future problem. That is no longer the right way to look at it. Ads are appearing in ChatGPT, they are appearing in real user sessions, and the</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4bab5cd79567</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Data Manager Adds ActiveCampaign Integration: What It Means for Customer Match, Offline Conversions, and Lead Quality</title>
+      <link>https://almcorp.com/blog/google-ads-data-manager-activecampaign-integration/</link>
+      <description>&lt;p&gt;Google Ads has added ActiveCampaign as a supported data source inside Data Manager, a change that matters far beyond a simple connector update. For advertisers, agencies, CRM teams, and revenue operations leaders, this addition closes a meaningful gap between customer data stored in ActiveCampaig</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">0836f514c10a</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Advisor: What the AI Agent Does, How the Email Rollout Works, and What Advertisers Should Do Next</title>
+      <link>https://almcorp.com/blog/google-ads-advisor-ai-agent-email-rollout/</link>
+      <description>&lt;p&gt;Google Ads Advisor is moving from “interesting new feature” territory into something more operationally important. The clearest signal is that Google is no longer limiting exposure to in-product placements and quiet interface tests. Advertisers are now seeing direct email promotion for Ads Adviso</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d7ce2e71085d</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Google March 2026 Core Update: Confirmed Timeline, SEO Impact, and What Site Owners Should Do Next</title>
+      <link>https://almcorp.com/blog/google-march-2026-core-update/</link>
+      <description>&lt;p&gt;Google has started rolling out the March 2026 core update, and for site owners, publishers, ecommerce brands, SaaS teams, and agencies, the question is not simply whether rankings will move. The more important question is what kind of response is actually useful while the rollout is still in prog</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">cc08b00e7213</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Why Your Google Business Profile Map Pin Can Affect Local Rankings More Than Your Business Address</title>
+      <link>https://almcorp.com/blog/google-business-profile-map-pin-local-rankings/</link>
+      <description>&lt;p&gt;A business can do many things right and still underperform in local search. The Google Business Profile may be verified. The address may look correct. Categories may be accurate. Reviews may be coming in. The website may be optimized. And yet, visibility in Google Maps or the local pack can still</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d138f85df17b</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads API v23.2 Explained: VideoEnhancement, AppTopCombinationView, New Metrics, and What Developers Need to Upgrade</title>
+      <link>https://almcorp.com/blog/google-ads-api-v23-2-complete-guide-2026/</link>
+      <description>&lt;p&gt;Google has released v23.2 of the Google Ads API, and while this is a minor version update rather than a major platform reset, it includes several changes that matter for developers, agencies, in-house paid media teams, reporting engineers, and ad-tech platforms. The headlines are easy to spot: a </description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c533e7c18a41</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] ChatGPT Ads Reach $100 Million Annualized Revenue as OpenAI Opens Self-Serve Access in April</title>
+      <link>https://almcorp.com/blog/chatgpt-ads-100m-openai-self-serve-april/</link>
+      <description>&lt;p&gt;OpenAI’s advertising business inside ChatGPT has crossed a milestone faster than most new ad products do. Within roughly six weeks of launching its U.S. pilot, the company says ChatGPT ads have passed $100 million in annualized revenue, with self-serve advertiser access expected to open in April.</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b18a17ecbf48</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] What Drives AI Recommendations? The Real Role of Reddit, Wikipedia, and Topical Authority in AI Search</title>
+      <link>https://almcorp.com/blog/what-drives-ai-recommendations/</link>
+      <description>&lt;p&gt;If a brand team looks only at headline charts about AI citations, the obvious conclusion seems simple: Reddit and Wikipedia are everywhere, so visibility in AI must come from winning those two platforms. That conclusion is incomplete. Reddit and Wikipedia do matter. They appear often in AI-genera</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">57e4bbeaa84a</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] YouTube Is Testing AI Summaries Instead of Video Titles: What It Means for Creators, Discovery, and Search Visibility</title>
+      <link>https://almcorp.com/blog/youtube-ai-summaries-replacing-video-titles/</link>
+      <description>&lt;p&gt;YouTube is testing a feature that, for some users, replaces traditional video titles with AI-generated summaries in the app feed. On the surface, that may look like a small interface experiment. In practice, it touches some of the most important parts of video discovery: click intent, creator con</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">026b315d981f</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Keyword Planner: Discovering New Keywords FAST! #shorts</title>
+      <link>https://www.youtube.com/watch?v=ItaSop_EX6Y</link>
+      <description>Unlock powerful insights by discovering new keywords in Google Keyword Planner. Learn the first step to effective SEO and audience targeting. Focus on 'Discover new keywords' for your strategy. #KeywordPlanner #SEO #DigitalMarketing #GoogleAds #AudienceResearch</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f972e44f22bb</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[General] 5 Doctor Marketing Strategies 2026</title>
+      <link>https://www.youtube.com/watch?v=SFVwQPi9dXo</link>
+      <description>In this video, I'm going over 5 doctor marketing strategies and healthcare marketing strategies that will help you get more patients. Whether you run a medical practice, work as a doctor, or manage healthcare marketing, these strategies will help you build a stronger online presence and drive more l</description>
+      <pubDate>2026-03-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a9a9c2a803e6</guid>
       <category>Surfside PPC</category>
     </item>
     <item>
@@ -743,120 +847,6 @@ In th</description>
       <pubDate>2026-03-23T00:00:00Z</pubDate>
       <guid isPermaLink="false">8f33f0d56a28</guid>
       <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] OpenClaw Use Cases for SEO: 14 Practical Workflows for Research, Content, Technical Audits, and AI Search Visibility</title>
-      <link>https://almcorp.com/blog/openclaw-use-cases-for-seo/</link>
-      <description>&lt;p&gt;SEO teams do not need more isolated prompts. They need systems that can monitor search results, compare competitors, prepare briefs, review technical issues, and keep recurring work moving without someone manually reopening the same tabs every morning. That is why OpenClaw has become relevant to </description>
-      <pubDate>2026-03-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">543f4bef6931</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Top Marketing Conferences in May 2026: 11 Events With Official Dates, Locations, and Best-Fit Roles</title>
-      <link>https://almcorp.com/blog/top-marketing-conferences-may-2026/</link>
-      <description>&lt;p&gt;If you are planning your team’s event calendar, May 2026 is one of the strongest months of the year for marketing conferences. The month is unusually dense with high-quality options across B2B marketing, digital marketing, retail and ecommerce, mobile growth, PR and communications, experiential m</description>
-      <pubDate>2026-03-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">dae73577559b</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Selling SEO: Best Practices for Digital Agencies That Win Clients and Prove ROI</title>
-      <link>https://almcorp.com/blog/selling-seo-best-practices-for-digital-agencies/</link>
-      <description>&lt;p&gt;Selling SEO is not difficult because demand is low. It is difficult because many agencies still present SEO in a way buyers do not value. Prospects do not buy keyword tracking, technical fixes, content calendars, or link outreach in isolation. They buy growth potential, stronger visibility in the</description>
-      <pubDate>2026-03-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d881253b59d4</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Top AI Conferences in May 2026: 9 Best Events Ranked</title>
-      <link>https://almcorp.com/blog/top-ai-conferences-in-may-2026/</link>
-      <description>&lt;p&gt;If you are building an AI conference shortlist for May 2026, the biggest mistake is treating every event as if it serves the same purpose. It does not. Some conferences are best for engineers working on infrastructure, inference, and deployment. Some are much better for executives making governan</description>
-      <pubDate>2026-03-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">cfd471a4edf3</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] How to Start a Digital Agency in 2026: 15 Best Practices for Positioning, Pricing, Client Acquisition, and Scale</title>
-      <link>https://almcorp.com/blog/how-to-start-a-digital-agency-best-practices/</link>
-      <description>&lt;p&gt;Starting a digital agency looks straightforward on paper. You pick a service, build a website, start posting online, send outreach emails, and try to sign your first clients. In reality, that is the easy part. The hard part is building an agency that stays profitable, keeps clients, delivers cons</description>
-      <pubDate>2026-03-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">6b6f1a795ab0</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Why Coca-Cola Brought Back Mr. Pibb — and How the Scottie Pippen Campaign Repositions a Challenger Brand</title>
-      <link>https://almcorp.com/blog/coca-cola-mr-pibb-marketing-strategy/</link>
-      <description>&lt;p&gt;Coca-Cola’s latest push behind Mr. Pibb is more than a product relaunch. It is a clear example of how a major company can market a smaller brand with challenger energy inside a mature, highly competitive category. By restoring the Mr. Pibb name, updating the formula, increasing the caffeine level</description>
-      <pubDate>2026-03-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1f0193e985c0</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] TikTok and Tubi Creatorverse Incubator Explained: What the Deal Means for Streaming, Creators, Brands and Free TV</title>
-      <link>https://almcorp.com/blog/tiktok-tubi-creatorverse-incubator/</link>
-      <description>&lt;p&gt;TikTok and Tubi’s new Creatorverse Incubator is not a minor side initiative or a routine partnership announcement. It is a practical attempt to solve a real media problem: audiences increasingly discover talent, trends, and storytelling styles on social platforms, but the path from short-form cre</description>
-      <pubDate>2026-03-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">c296e647586b</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Colgate’s “Your Smile Is Your Strength” Campaign: Strategy, Audience Insight, and What Marketers Should Know</title>
-      <link>https://almcorp.com/blog/colgate-your-smile-is-your-strength-campaign-analysis/</link>
-      <description>&lt;p&gt;When legacy consumer brands launch new campaigns, the most interesting question is rarely just what the ad says. The more important question is what the campaign reveals about changing consumer behavior, category pressure, and brand strategy. Colgate’s “Your Smile Is Your Strength” campaign is a </description>
-      <pubDate>2026-03-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f038e84678fa</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Top Data Center Conferences to Attend in 2026: 12 Best Events for Operators, Investors, and Infrastructure Teams</title>
-      <link>https://almcorp.com/blog/top-data-center-conferences-2026/</link>
-      <description>&lt;p&gt;Data center conferences in 2026 are not just networking events. They are working sessions for an industry dealing with unusually high pressure on power, cooling, land, capital, supply chains, and deployment speed. The growth of AI infrastructure has changed what buyers, operators, investors, and </description>
-      <pubDate>2026-03-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">35c266bfa0b8</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Big Update to Ads on Threads</title>
-      <link>https://www.youtube.com/watch?v=80SAEbnPj7A</link>
-      <description>Want me to mentor you to crush it with Facebook Ads? Go here: https://www.admasters365.com/start
-Want my agency to do it for you? Go here: https://heathmedia.co.uk/done-for-you/
-
-If you’re new to my channel, my name is Ben Heath. I’m the founder and owner of https://heathmedia.co.uk a marketing agen</description>
-      <pubDate>2026-03-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">429d01594b80</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] FMSFREE - 1 -   Introducing Fast Marketing Strategies A New Series of Quick Marketing Lessons</title>
-      <link>https://www.youtube.com/watch?v=q1oL4whOP-s</link>
-      <description>*My Google Ads Course is Updated and $34.99/Year: https://surfsideppc.com/products/google-ads-course
-**Join Surfside PPC Premium For $5/Month: https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/join
-***Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
-****Hire Me Fo</description>
-      <pubDate>2026-03-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">11351cf44ba7</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] AI Competitor Analysis: The Unfair Advantage Most Agencies Don't Know</title>
-      <link>https://www.youtube.com/watch?v=-RdI36zhp3o</link>
-      <description>*My Google Ads Course is Updated and $34.99/Year: https://surfsideppc.com/products/google-ads-course
-**Join Surfside PPC Premium For $5/Month: https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/join
-***Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
-****Hire Me Fo</description>
-      <pubDate>2026-03-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">2ebe507046b4</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Introducing: Ads DevCast</title>
-      <link>http://ads-developers.googleblog.com/2026/03/introducing-ads-devcast.html</link>
-      <description>&lt;div class="separator" style="clear: both;"&gt;
-  &lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDEE2O2OMjXUbzYX4KL5Fxco5Vr0jCisEpmNYUkZMwpzM4qvzdnUlgXBadRDD6Zm-yaVkH_VKGu-o0WDe7lt2RrryM7QRzdb_qHpzTGMjiI0e0VvuKrQazqbCvZGDgYgpl7d6c0zYO0yOubYSkZafxXm4m1NLCsMKCpI3z1tmRBLqKoFxSs22vyVL</description>
-      <pubDate>2026-03-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f72f316b13f7</guid>
-      <category>Google Ads Developer Blog</category>
     </item>
   </channel>
 </rss>
