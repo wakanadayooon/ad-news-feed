@@ -5,8 +5,48 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Apr 2026 10:46:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 10:42:55 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Microsoft Ads] Evolving the Microsoft Advertising API Platform</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/april-2026/evolving-the-microsoft-advertising-api-platform</link>
+      <description>We are announcing a transition to a moder REST API from the legacy SOAP API.</description>
+      <pubDate>2026-04-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">00657e7f0a22</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] How to Build a Brand With Meta Ads</title>
+      <link>https://www.youtube.com/watch?v=HINJsFVu6FE</link>
+      <description>Get personal Meta Ads feedback from me (live) for less than $60 per session:
+👉 https://www.skool.com/benheath/about
+
+Let my agency run your Meta ads for you:
+👉 https://heathmedia.co.uk/done-for-you/
+
+If you’re new here — I’m Ben Heath.
+
+I run Heath Media, a marketing agency that helps businesses sca</description>
+      <pubDate>2026-04-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7f3b07f67f9c</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Learning Period EXPLAINED: What You Need To Know [Inside Google Ads Episode 114]</title>
+      <link>https://www.youtube.com/watch?v=m6P6r2yQR3w</link>
+      <description>The "learning period" is often treated like a ghost story in the world of Google Ads - something to be feared, to avoid at all costs. In episode 114 of the Inside Google Ads podcast, Google Ads Coach Jyll Saskin Gales aims to calm your anxiety, and bring some much needed TRUTH to all the learning my</description>
+      <pubDate>2026-04-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c18975efd1d5</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[General] AI Keyword Research for SaaS: Powtoon Strategy Revealed #shorts</title>
+      <link>https://www.youtube.com/watch?v=Fa51eKOwytQ</link>
+      <description>Discover AI-powered keyword research strategies specifically for SaaS companies. Learn how to identify organic competitors and uncover valuable SEO and PPC opportunities using tools like SpyFu. #AIKeywordResearch #SaaSMarketing #SEOTips #SpyFu</description>
+      <pubDate>2026-04-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">02e18d7e79c9</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google Ads] Should you use PMax or Shopping Campaigns [Updated for 2026]</title>
       <link>https://www.youtube.com/watch?v=Gj63JrGhmWs</link>
@@ -32,6 +72,129 @@
       <pubDate>2026-04-01T00:00:00Z</pubDate>
       <guid isPermaLink="false">bd525c81fbd5</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[General] クリック単価高騰にどう向き合う？広告運用歴18年が教える個別クリック単価の使いどころ</title>
+      <link>https://www.kwm.co.jp/blog/individual-cost-per-click/</link>
+      <description>広告運用に18年以上携わり、2008年からキーワードマーケティングに在籍している小島です。 先日、平均クリック単価の上昇についての記事を書きました。キーワードマーケティング内のデータでは2025年の1年間で平均して1.5 &amp;#8230; &lt;p class="link-more"&gt;&lt;a href="https://www.kwm.co.jp/blog/individual-cost-per-click/" class="more-link"&gt;&lt;span class="screen-reader-text"&gt;"クリック単価高騰にどう向き合う？広告運用歴18年が教える個別クリック単価の使いどころ" </description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">039be0887592</guid>
+      <category>キーマケのブログ</category>
+    </item>
+    <item>
+      <title>[General] How to Measure Brand Awareness: 12 Metrics, Survey Questions, and a Practical Dashboard</title>
+      <link>https://almcorp.com/blog/how-to-measure-brand-awareness/</link>
+      <description>&lt;p&gt;Brand awareness is one of the most important indicators of future demand, but it is also one of the easiest things to talk about vaguely. Many teams say they want “more awareness” when what they actually need is a clear way to measure whether more of the right people recognize the brand, remember</description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8749b1692cef</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Marketing KPIs: 25 Metrics to Track Leads, Revenue, and ROI</title>
+      <link>https://almcorp.com/blog/marketing-kpis/</link>
+      <description>&lt;p&gt;Marketing becomes much easier to manage when everyone agrees on what success actually looks like. That sounds obvious, but in practice, many teams still report on activity instead of outcomes. They celebrate more traffic, more impressions, more followers, or more email sends without proving wheth</description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7d0766a0bc32</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] AI Visibility: How to Increase Brand Mentions and Citations in Google AI Overviews, ChatGPT, Perplexity, and Claude</title>
+      <link>https://almcorp.com/blog/ai-visibility/</link>
+      <description>&lt;p&gt;AI visibility is the ability of your brand, website, and content to appear in AI-generated answers when people ask questions in tools like Google AI Overviews, ChatGPT, Perplexity, Claude, and other answer engines. It is no longer enough to rank for a keyword and hope a user clicks through ten bl</description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2f24053910fd</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Google’s AI-Generated Landing Page Patent: What It Says, What It Does Not Say, and What Brands Should Do Now</title>
+      <link>https://almcorp.com/blog/google-ai-generated-landing-pages-patent/</link>
+      <description>&lt;p&gt;Google’s granted patent for AI-generated landing pages has triggered a familiar reaction across search, ecommerce, and digital marketing: curiosity first, then concern, then a long list of questions about what happens if search engines stop sending users to brand-owned pages and start generating </description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">224f71e92c41</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] SEO Techniques That Still Matter in 2026: 17 Proven Ways to Improve Rankings, Traffic, and AI Search Visibility</title>
+      <link>https://almcorp.com/blog/seo-techniques/</link>
+      <description>&lt;p&gt;Search engine optimization is still one of the most dependable ways to grow qualified traffic, improve visibility, and turn demand into revenue. What has changed is not the need for SEO, but the shape of modern search. A single query can now trigger standard organic listings, featured snippets, l</description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4ce04c4ea509</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Analytics Dashboard Guide: How to Build a GA4 Dashboard for Traffic, Conversions, Revenue, and SEO</title>
+      <link>https://almcorp.com/blog/google-analytics-dashboard/</link>
+      <description>&lt;p&gt;A good Google Analytics dashboard does one job better than almost anything else in marketing: it turns too much data into a smaller set of decisions. That sounds simple, but in practice it is where most teams get stuck. Google Analytics 4 gives you a large volume of event-based data, multiple rep</description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">053d08fbd167</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Fanta x Xbox Limited-Edition Cans and Gaming Challenge: Flavors, Rewards, Release Dates, and How It Works</title>
+      <link>https://almcorp.com/blog/fanta-xbox-limited-edition-cans-gaming-challenge/</link>
+      <description>&lt;p&gt;If you have seen the new Fanta x Xbox cans online and want the straight facts, here is the short version. Fanta and Xbox have launched a global collaboration tied to Xbox’s 25th anniversary, built around limited-edition cans and bottles, a new flavor called Fanta Crimson, collectible pack designs</description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4b68dd299ac1</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Evian’s “200 Years Young” Campaign Explained: How the Jeff Koons Collaboration Turns Alpine Heritage Into a Modern Brand Story</title>
+      <link>https://almcorp.com/blog/evian-200-years-young-campaign-jeff-koons-alpine-heritage/</link>
+      <description>&lt;p&gt;Anniversary campaigns often have a predictable problem. They are rich in dates, thin on meaning, and easy to forget once the press release cycle ends. Evian’s “200 Years Young” campaign works differently because it does not treat two centuries of history as a museum label. Instead, it uses that h</description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">329fdabba6f4</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Digital Marketing News, March 21–31, 2026: Google’s Core Update, Search Live Expansion, TikTok NewFronts Ads, Meta Verification, and Performance Max Changes</title>
+      <link>https://almcorp.com/blog/digital-marketing-news-march-21-31-2026/</link>
+      <description>&lt;p&gt;The final eleven days of March 2026 delivered one of the most consequential digital marketing windows of the quarter. Search changed, paid media controls changed, social commerce moved further toward in-app conversion, creator platforms clarified what they want more of, and AI-driven discovery be</description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">21b847e65d6f</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] The Agentic Web Explained: How AI Agents Evaluate Websites, Content, and Commerce in 2026</title>
+      <link>https://almcorp.com/blog/agentic-web/</link>
+      <description>&lt;p&gt;For most of the commercial internet, the basic interaction pattern has been stable. A person opens a browser, runs a search, scans results, clicks pages, compares options, and decides what to do next. Websites have been built around that behavior. Navigation, layouts, calls to action, product pag</description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">75adb33b36b7</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Beginner VS Pro Meta Advertisers</title>
+      <link>https://www.youtube.com/watch?v=-FSwgQXDD9U</link>
+      <description>Get personal Meta Ads feedback from me (live) for less than $60 per session:
+👉 https://www.skool.com/benheath/about
+
+Let my agency run your Meta ads for you:
+👉 https://heathmedia.co.uk/done-for-you/
+
+If you’re new here — I’m Ben Heath.
+
+I run Heath Media, a marketing agency that helps businesses sca</description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2c8817c7f5f4</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Tutorial For Medical Practices 2026</title>
+      <link>https://www.youtube.com/watch?v=v5eNjB1ywPY</link>
+      <description>*My Google Ads Course is Updated and $34.99/Year: https://surfsideppc.com/products/google-ads-course
+**Join Surfside PPC Premium For $5/Month: https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/join
+***Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
+****Hire Me Fo</description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">960f464f194b</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Google Ads] 5-Minute SEO &amp; Google Ads Campaign Strategy Revealed! #shorts</title>
+      <link>https://www.youtube.com/watch?v=eZWsmW4OL4Q</link>
+      <description>Instantly generate Google Ads campaigns and SEO strategies. This tool analyzes keywords, suggests ad groups, and identifies missing pages for an optimized online presence. #GoogleAds #SEOTips #DigitalMarketing #PPC</description>
+      <pubDate>2026-04-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5134008b058e</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[Microsoft Ads] All in on AI: “Discovery to Influence in GEO” Part 1</title>
@@ -695,158 +858,6 @@ Today, we’re announcing the v23.2 release of the &lt;a href="https://developer
       <pubDate>2026-03-26T00:00:00Z</pubDate>
       <guid isPermaLink="false">02c609ce87da</guid>
       <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] WhatsApp Adds New Features to Simplify Storage, Switch Accounts, and More</title>
-      <link>https://about.fb.com/news/2026/03/whatsapp-new-features-simplify-storage-switch-accounts/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/03/WhatsApp-Feature-Roundup_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/03/WhatsApp-Feature</description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">124d2970afc5</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[General] “Push Delivery to This Ad” (Plus 4 Updates)</title>
-      <link>https://www.jonloomer.com/push-delivery-to-this-ad/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/03/push-delivery-to-this-ad-300x157.png" class="attachment-medium size-medium wp-post-image" alt="&amp;quot;Push Delivery to This Ad&amp;quot; (Plus 4 Updates)" style="margin-bottom: 15px;" decoding="async" srcset="htt</description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">276de706b6f5</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[General] McDonald’s KPop Demon Hunters Meals: Full Menu, March 31 Start Date, HUNTR/X Meal, Saja Boys Breakfast, and Derpy McFlurry</title>
-      <link>https://almcorp.com/blog/mcdonalds-kpop-demon-hunters-meals/</link>
-      <description>&lt;p&gt;McDonald’s has turned a streaming entertainment property into a menu event with two limited-time adult meals tied to Netflix’s KPop Demon Hunters. On the surface, it is a straightforward fast-food collaboration: new menu items, collectible inserts, and a dessert designed to appeal to fans of the </description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4985ffb22af2</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] OpenAI Sora Shutdown Explained: Why Disney’s $1 Billion Deal Fell Apart and What It Means for AI Video</title>
-      <link>https://almcorp.com/blog/openai-sora-shutdown-disney-deal-collapse/</link>
-      <description>&lt;p&gt;The short version is simple. OpenAI shut down the standalone Sora app and its related platform, and Disney’s planned partnership around Sora ended with it. What looked, only months earlier, like a landmark agreement between one of the world’s biggest AI companies and one of the world’s biggest en</description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">222a8abf9006</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] TikTok NewFronts Ad Formats Explained: What Logo Takeover, Prime Time, TopReach, and Pulse Mean for Brands</title>
-      <link>https://almcorp.com/blog/tiktok-newfronts-ad-formats-explained/</link>
-      <description>&lt;p&gt;TikTok’s return to NewFronts was not just another product showcase. It was a signal to the advertising market that, after a year of regulatory pressure, ownership scrutiny, and budget hesitation, the platform wants to be evaluated on execution again. That is the real story behind the latest TikTo</description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">2f7029af78e3</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] YouTube Shopping Affiliate Program Now Opens at 500 Subscribers: What Creators and Brands Need to Know</title>
-      <link>https://almcorp.com/blog/youtube-shopping-affiliate-program-500-subscribers/</link>
-      <description>&lt;p&gt;For years, social commerce has been discussed as the next step in the evolution of content platforms. The idea is simple enough: viewers discover a product inside content, trust the creator explaining it, and move from interest to purchase with as little friction as possible. But the reality has </description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">5317dce51d45</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] X Monetization Update Paused: Why X Announced and Reversed a Creator Payout Change, and What It Means Now</title>
-      <link>https://almcorp.com/blog/x-monetization-update-paused-creator-payout-change/</link>
-      <description>&lt;p&gt;X briefly announced a meaningful change to creator monetization, then backed away from it within hours. That alone would have made the story notable. But the bigger reason this matters is what the proposal revealed about the platform’s current incentives, its content economy, and the growing tens</description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">38bf1214c4d5</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Meta and YouTube Found Liable in Social Media Addiction Trial: What the Jury Decided, Why It Matters, and What Comes Next</title>
-      <link>https://almcorp.com/blog/meta-youtube-social-media-addiction-verdict/</link>
-      <description>&lt;p&gt;A California jury’s verdict against Meta and YouTube may prove to be one of the most consequential legal moments in the history of social media. For years, public debate about platform harm has centered on policy hearings, whistleblower testimony, internal research leaks, legislative proposals, a</description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">c8c63b701f94</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Google Business Profile Offers Performance Metrics: What Offer Views and Clicks Mean for Local SEO</title>
-      <link>https://almcorp.com/blog/google-business-profile-offers-performance-metrics/</link>
-      <description>&lt;p&gt;Google Business Profile performance data has become one of the most practical sources of local search insight available to business owners, franchise marketers, multi-location brands, and local SEO teams. For years, businesses have relied on profile views, calls, direction requests, website click</description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1ad1040e1ca9</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Expands Shopping Ads to 15 New European Markets: What Retailers Need to Do Next</title>
-      <link>https://almcorp.com/blog/google-shopping-ads-15-new-european-markets/</link>
-      <description>&lt;p&gt;Google is expanding Shopping Ads into 15 additional European markets, and for retailers this is more than a geographic update. It is a distribution change with direct implications for product visibility, feed management, localization, profitability, and campaign structure. For brands already acti</description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">11398bc840d8</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads DevCast Explained: What the New Google Podcast Means for Developers, Agencies, APIs, MCP, and AI Workflows</title>
-      <link>https://almcorp.com/blog/google-ads-devcast-explained/</link>
-      <description>&lt;p&gt;Google has introduced Ads DevCast, a new bi-weekly vodcast and podcast aimed at the technical side of the advertising ecosystem. That matters because it signals something larger than a new content series. It shows where Google believes the advertising workflow is headed: toward a world where deve</description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1485f0b21cc2</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Support Updates on WhatsApp: Availability, Setup, Eligibility, and What Advertisers Need to Know</title>
-      <link>https://almcorp.com/blog/google-ads-support-updates-whatsapp/</link>
-      <description>&lt;p&gt;Google Ads support updates on WhatsApp are the kind of feature change that sounds small at first and then turns out to matter a lot in day-to-day account management. For advertisers, in-house teams, and agencies, support delays are rarely just administrative. They affect campaign uptime, policy r</description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">60b81142eecf</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Marketing Strategies for Doctors and Medical Practices</title>
-      <link>https://www.youtube.com/watch?v=j5H_KlTAU84</link>
-      <description>*My Google Ads Course is Updated and $34.99/Year: https://surfsideppc.com/products/google-ads-course
-**Join Surfside PPC Premium For $5/Month: https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/join
-***Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
-****Hire Me Fo</description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4f5345a759ae</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] AI Competitor Keyword Gap Analysis For SEO</title>
-      <link>https://www.youtube.com/watch?v=kk8afAOkdhQ</link>
-      <description>*My Google Ads Course is Updated and $34.99/Year: https://surfsideppc.com/products/google-ads-course
-**Join Surfside PPC Premium For $5/Month: https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/join
-***Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
-****Hire Me Fo</description>
-      <pubDate>2026-03-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">0791221352a7</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Stuck at $5k/mo? The Google Ads Scaling Blueprint</title>
-      <link>https://www.youtube.com/watch?v=cNbHUS-r1Ec</link>
-      <description>Is your Google Ads spend stuck at $5k or $10k a month? Discover how to scale your budget predictably WITHOUT watching your profit margins nosedive. 
-
-👉 Ready to confidently scale your Google Ads past $5k/month without destroying your ROI? Work with Aaron &amp; his highly experienced coaches to build a p</description>
-      <pubDate>2026-03-25T00:00:00Z</pubDate>
-      <guid isPermaLink="false">2003393a3c2f</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[General] In The Zone with Jyll Saskin Gales &amp; Menachem Ani</title>
-      <link>https://www.youtube.com/watch?v=y7Z1vq6mSaE</link>
-      <description></description>
-      <pubDate>2026-03-25T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e6f78a5efb79</guid>
-      <category>Jyll Saskin Gales (The Google Pro)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads: Boost Your Business with This Data Strategy #shorts</title>
-      <link>https://www.youtube.com/watch?v=qIbvm3FKRQk</link>
-      <description>Unlock better Google Ads performance by giving Google more context about your business. Connect your products, set up retargeting audiences via Google Analytics 4, upload customer lists, and track website visitors. This data helps Google understand your business and improve ad targeting. #GoogleAds </description>
-      <pubDate>2026-03-25T00:00:00Z</pubDate>
-      <guid isPermaLink="false">7f3ca9523550</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] How Do You Advertise Products with Long Buying Cycles?</title>
-      <link>https://www.youtube.com/watch?v=SDN08ixAQrk</link>
-      <description>Today's question is about advertising expensive products with long buying cycles that fall outside the seven or 28 day attribution window. Should you run traffic campaigns instead of purchase campaigns if most conversions won't be tracked anyway? Jon explains why you need to confirm this is actually</description>
-      <pubDate>2026-03-25T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f1436d762309</guid>
-      <category>Jon Loomer</category>
     </item>
   </channel>
 </rss>
