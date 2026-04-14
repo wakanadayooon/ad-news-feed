@@ -5,8 +5,19 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 11:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 10:56:23 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Surfside PPC Podcast Episode  15 - How To Bid Optimally in Google Ads</title>
+      <link>https://www.youtube.com/watch?v=JhXvIn9DqoM</link>
+      <description>*My Google Ads Course is Updated and $34.99/Year: https://surfsideppc.com/products/google-ads-course
+**Join Surfside PPC Premium For $5/Month: https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/join
+***Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
+****Hire Me Fo</description>
+      <pubDate>2026-04-14T00:00:00Z</pubDate>
+      <guid isPermaLink="false">13593dcea7df</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google Ads] Google Ads in 2026... What You Need to Know</title>
       <link>https://www.youtube.com/watch?v=ZA1uCsYPjPU</link>
@@ -32,6 +43,108 @@
       <pubDate>2026-04-13T00:00:00Z</pubDate>
       <guid isPermaLink="false">4e87a7f25114</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[General] Is Looker Studio the Same as Data Studio? What Changed, What Didn’t, and How It Differs From Looker</title>
+      <link>https://almcorp.com/blog/is-looker-studio-the-same-as-data-studio/</link>
+      <description>&lt;p&gt;If you have searched for Google Data Studio, Looker Studio, and Looker in the same session and felt like Google’s business intelligence naming changed faster than the product itself, you are not alone. For several years, teams across marketing, analytics, finance, operations, and product have use</description>
+      <pubDate>2026-04-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5f367b187a99</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Winning Google in 2026: 5 Data-Backed Signals Behind Organic Growth, AI Overviews, and Brand Demand</title>
+      <link>https://almcorp.com/blog/winning-google-2026-seo-signals/</link>
+      <description>&lt;p&gt;For years, many SEO teams operated on a simple assumption: if a site published enough useful content, search traffic would keep growing. That assumption no longer holds up on its own. In his latest research, Cyrus Shepard from Zyppy Signal outlines 5 features of sites winning Google search in 202</description>
+      <pubDate>2026-04-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2a5bf770532f</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Near Me Intent for B2B: How Multi-Location Service Businesses Turn Local Proximity Into Enterprise Pipeline</title>
+      <link>https://almcorp.com/blog/near-me-intent-b2b-multi-location-seo/</link>
+      <description>&lt;p&gt;Most articles about “near me” searches assume the buyer is looking for coffee, urgent care, or a locksmith. That is only half the story. In B2B, proximity can matter just as much when the service is expensive, operationally important, and difficult to switch once the contract is signed. A company</description>
+      <pubDate>2026-04-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">bd502761d0e1</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Google Business Profile API Management at Scale: A Practical Framework for Managing 50+ Location Listings With Consistent NAP Data and Local Store Customization</title>
+      <link>https://almcorp.com/blog/google-business-profile-api-management-at-scale/</link>
+      <description>&lt;p&gt;Managing one Google Business Profile is a local SEO task. Managing 50, 100, or 500 is an operations problem. That distinction matters. Once a brand reaches multi-location scale, the challenge is no longer just “keep the profile updated.” The real challenge is maintaining a single, accurate versio</description>
+      <pubDate>2026-04-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ad91c5d159fe</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] IT Services [City] SEO: How to Build Location Pages That Rank Without Duplicate Content or Cannibalization</title>
+      <link>https://almcorp.com/blog/it-services-city-pages-without-duplicate-content/</link>
+      <description>&lt;p&gt;If you manage SEO for an IT company, MSP, cybersecurity firm, cloud consultant, or outsourced help desk provider, you have probably run into the same problem: you want to create city-specific pages for terms like “IT services Chicago,” “managed IT services Dallas,” or “cybersecurity services Atla</description>
+      <pubDate>2026-04-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e37a817c0814</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Local Link Building Through B2B Partnerships: Chamber of Commerce Strategies, Local University Collaborations, and Regional Industry Association SEO Value</title>
+      <link>https://almcorp.com/blog/local-link-building-b2b-partnerships/</link>
+      <description>&lt;p&gt;Local link building has changed. The old playbook centered on chasing any backlink that looked authoritative enough to move rankings. The stronger playbook for regional B2B companies is more practical: earn links and brand mentions from organizations that already shape trust in your market. That </description>
+      <pubDate>2026-04-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4ee610790664</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] The AI Tool Audit: A Practical Framework for Cutting AI Tool Sprawl by 40% While Protecting Pipeline Performance</title>
+      <link>https://almcorp.com/blog/ai-tool-audit-framework-cut-your-stack-by-40/</link>
+      <description>&lt;p&gt;Most companies did not build an AI stack. They accumulated one. A team adopted a writing assistant because content deadlines were slipping. Sales added a call summarizer because managers wanted cleaner notes in the CRM. RevOps layered in enrichment, routing, forecasting, and email drafting tools </description>
+      <pubDate>2026-04-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">cf9c3fb5d102</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Prompt Library Burnout: Why Teams Stop Using Saved AI Prompts and How to Build Contextual, Role-Specific Workflows Instead</title>
+      <link>https://almcorp.com/blog/prompt-library-burnout-contextual-role-specific-ai-workflows/</link>
+      <description>&lt;p&gt;A lot of teams start their AI rollout the same way. Someone in marketing saves a few good prompts. Sales adds another dozen. Operations builds a spreadsheet. A manager asks everyone to contribute their “best prompts,” and before long the company has a shared folder with 100, then 300, then 500 sa</description>
+      <pubDate>2026-04-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5a36e0b612cf</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] TikTok as a B2B Research Engine: How to Optimize “How It Works” Content for Gen Z Buyers Who Search TikTok Before Google</title>
+      <link>https://almcorp.com/blog/tiktok-b2b-research-engine-gen-z-procurement/</link>
+      <description>&lt;p&gt;A generation ago, B2B research usually started with a search engine, a vendor website, a trade publication, or a recommendation from a colleague. Today, that starting point is more fragmented. Younger buyers still use Google, but they also use TikTok, Reddit, YouTube, review platforms, AI tools, </description>
+      <pubDate>2026-04-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">183a8f66eb45</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] YouTube Chapter SEO: How to Structure Long-Form Videos With Timestamped Chapters That Match Specific Search Queries</title>
+      <link>https://almcorp.com/blog/youtube-chapter-seo/</link>
+      <description>&lt;p&gt;If you publish long-form videos on YouTube, you already know the usual optimization checklist: title, thumbnail, description, transcript quality, engagement, retention, and internal consistency between what the video promises and what it actually delivers. Chapters belong on that list too, but no</description>
+      <pubDate>2026-04-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">06f244b6eb95</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] This is my new favorite AI prompt for creative strategy:</title>
+      <link>https://www.youtube.com/watch?v=GC9M_op2xz4</link>
+      <description>And it’s SUPER beginner friendly!
+
+In order to scale on Meta Ads in 2026, we know that you need to advertise to your different personas or audience segments.
+
+But no one ever talks about how to actually find those personas… and distribute those learnings across your teams.
+
+With Claude's new Gamma c</description>
+      <pubDate>2026-04-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">85eb2f1c3326</guid>
+      <category>Dara Denney</category>
+    </item>
+    <item>
+      <title>[General] Bilingual Marketing: Reach More Customers! #shorts</title>
+      <link>https://www.youtube.com/watch?v=QVnxzHiDYWE</link>
+      <description>Expand your reach by offering English and Spanish campaigns. Many areas, like Southern Arizona and Miami, have significant bilingual populations, making it a key selling point for businesses. #BilingualMarketing #MarketingStrategy #CustomerReach #BusinessGrowth #Spanish</description>
+      <pubDate>2026-04-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e5078dcaafc6</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[Google Ads] Google Ads for Vets: Get More Animal Patients #shorts</title>
@@ -747,121 +860,6 @@ We're excited to announce the launch of the new &lt;strong&gt;&lt;a href="https:
       <pubDate>2026-04-07T00:00:00Z</pubDate>
       <guid isPermaLink="false">faa013ff7231</guid>
       <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] TikTok and ACRCloud’s Derivative Works Detection System: What SoundOn’s New Audio Fingerprinting Layer Means for Artists, Labels, and Music Distribution</title>
-      <link>https://almcorp.com/blog/tiktok-acrcloud-derivative-works-detection/</link>
-      <description>&lt;p&gt;TikTok has added a new copyright-protection layer to SoundOn, its music distribution and promotion platform, by expanding its partnership with automatic content recognition company ACRCloud. On the surface, that sounds like a product update. In practice, it is a signal about where music distribut</description>
-      <pubDate>2026-04-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">12f4ee85f6a9</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Coca-Cola’s “Drink in America” Campaign: A Full Breakdown of the Hilltop Remake for America250</title>
-      <link>https://almcorp.com/blog/coca-cola-drink-in-america-hilltop-america250/</link>
-      <description>&lt;p&gt;Coca-Cola has returned to one of the most recognizable ideas in advertising history and placed it at the center of a national milestone campaign. For America250, the nationwide initiative marking the 250th anniversary of the United States, Coca-Cola has launched “Drink in America,” a broad progra</description>
-      <pubDate>2026-04-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e13d6a7fc64e</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Meta Pauses Mercor Contracts After LiteLLM Supply Chain Breach: What Happened and What It Means for AI Data Security</title>
-      <link>https://almcorp.com/blog/meta-pauses-mercor-contracts-after-litellm-breach/</link>
-      <description>&lt;p&gt;Meta Pauses Mercor Contracts After LiteLLM Supply Chain Breach: What Happened and What It Means for AI Data Security When a major AI buyer pauses work with a specialized data vendor, the story is not just about one contract relationship going on hold. It is a signal about trust, operational risk,</description>
-      <pubDate>2026-04-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">07cc7a78697d</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Meta Wants to Grow Threads in Japan: What the Data Shows About Threads, X, and the Opportunity for Brands</title>
-      <link>https://almcorp.com/blog/meta-threads-japan/</link>
-      <description>&lt;p&gt;Meta’s latest push for Threads in Japan is not a small regional update. It is part of a larger attempt to make Threads a serious home for real-time conversation, public commentary, and daily text-based engagement at scale. That matters because Japan is not just another market on the platform map.</description>
-      <pubDate>2026-04-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d805c353ff71</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Image Search Now Shows Individual Shopping Ads on Mobile: What Retailers Need to Know</title>
-      <link>https://almcorp.com/blog/google-image-search-individual-shopping-ads-mobile/</link>
-      <description>&lt;p&gt;Google Image Search is no longer just a place to browse inspiration, compare styles, or look at product photos before clicking elsewhere. It is increasingly becoming a transactional surface in its own right. With Google now showing individual Shopping ads directly inside the Images tab on mobile,</description>
-      <pubDate>2026-04-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a4f887c905aa</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Your Meta Ad Results Are About To Change!</title>
-      <link>https://www.youtube.com/watch?v=4mYjto4VeIk</link>
-      <description>Improve your Meta Ads data, optimization and ROAS with Hyros: http://hyros.com/affiliate-grow.html?fpr=ben85
-***
-Get personal Meta Ads feedback from me (live) for less than $60 per session:
-👉 https://www.skool.com/benheath/about
-
-Let my agency run your Meta ads for you:
-👉 https://heathmedia.co.uk/do</description>
-      <pubDate>2026-04-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4cf5c5adf055</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[General] Dominate Local Search: Google Business Profile for Sports Injuries #shorts</title>
-      <link>https://www.youtube.com/watch?v=J8kF7EcEG6o</link>
-      <description>Learn how sports medicine practices can dominate local search with Google Business Profiles. Optimize for specific services and individual doctors to rank higher. #GoogleBusinessProfile #LocalSEO #SportsMedicine #MarketingTips</description>
-      <pubDate>2026-04-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ca929c513318</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] How I Use Claude with Google Ads</title>
-      <link>https://www.youtube.com/watch?v=-HEDXeg5J9s</link>
-      <description>Are you tired of expensive, rigid Google Ads tools that don’t actually understand your specific business? In this video, I’m pulling back the curtain on how I use Claude to optimize Google Ads campaigns faster and more effectively than manual checklists.
-
-👉 Get Free Access to my "Keywords &amp; SWOT Ana</description>
-      <pubDate>2026-04-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b7090b4ea6c0</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[General] Unlock Keyword Gaps: AI SEO Strategy for Growth #shorts</title>
-      <link>https://www.youtube.com/watch?v=9K_vS8N09cY</link>
-      <description>Unlock your SEO potential by identifying crucial keyword gaps your competitors miss. Discover untapped opportunities using Google Keyword Planner and AI analysis for targeted growth. #KeywordResearch #SEOStrategy #DigitalMarketing #CompetitorAnalysis #SearchEngineOptimization</description>
-      <pubDate>2026-04-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">26da18da3908</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Social Proof Might Not Matter After All</title>
-      <link>https://www.youtube.com/watch?v=7FlZpLkK7Lc</link>
-      <description>Advertisers assume ads with thousands of comments and reactions perform better due to social proof, and fear making edits that would erase that engagement. But Jon duplicated an ad with 6,000 comments and the new version starting from scratch immediately matched and even beat the original's performa</description>
-      <pubDate>2026-04-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d2bafbfd6821</guid>
-      <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Dear Oats Overnight, ily</title>
-      <link>https://www.youtube.com/watch?v=gNUVjefRUbs</link>
-      <description>Going to be going deep into my Claude Cowork flows on YT soon… but lmk which brand I should do next!</description>
-      <pubDate>2026-04-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b8080de2fdd5</guid>
-      <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[Google Ads] Quick Google Ads Competitive Analysis with 2 Tools</title>
-      <link>https://www.youtube.com/watch?v=1uJGncEkGKM</link>
-      <description>*My Google Ads Course is Updated and $34.99/Year: https://surfsideppc.com/products/google-ads-course
-**Join Surfside PPC Premium For $5/Month: https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/join
-***Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
-****Hire Me Fo</description>
-      <pubDate>2026-04-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">36e2942d6fa0</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads on a Budget: $5-$20/Day Campaign Strategy #shorts</title>
-      <link>https://www.youtube.com/watch?v=D3ifCYd2Oq8</link>
-      <description>Maximize your impact with Google Ads on a tight budget. Focus on high-intent keywords like "tree service marketing agency." Start with exact match, then refine your strategy. Drive targeted clicks even with $5, $10, or $20 per day. #GoogleAds #SmallBusiness #DigitalMarketing #PPC #MarketingTips</description>
-      <pubDate>2026-04-05T00:00:00Z</pubDate>
-      <guid isPermaLink="false">8064f876445b</guid>
-      <category>Surfside PPC</category>
     </item>
   </channel>
 </rss>
