@@ -5,8 +5,16 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Apr 2026 10:32:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 10:31:18 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[General] AI vs Human Ad Copy: Google vs Meta #shorts</title>
+      <link>https://www.youtube.com/watch?v=ezs08tDLMdg</link>
+      <description>AI ad copy can outperform humans, but human touch is crucial. Don't let your ads sound robotic. Especially on Meta, where copywriting truly matters. Explore the balance. #AdCopy #AICopywriting #MarketingTips #DigitalMarketing</description>
+      <pubDate>2026-04-19T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c56dc103e766</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google Ads] Multi-factor authentication requirement for the Google Ads API</title>
       <link>http://ads-developers.googleblog.com/2026/04/multi-factor-authentication-requirement.html</link>
@@ -22,6 +30,94 @@ As part of improving security for Google Ads accounts, the Google Ads API will s
       <description>Master Google Ads keyword match types for search campaigns. Learn how to effectively target customers with commercial pest control examples in Myrtle Beach. Unlock precise ad targeting. #GoogleAds #KeywordMatchTypes #PPC #MarketingTips #SEOTips</description>
       <pubDate>2026-04-18T00:00:00Z</pubDate>
       <guid isPermaLink="false">91feca954ab6</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[General] OpenAI Begins Rolling Out ChatGPT Ads in Select Markets: How the New Sponsored Results Work and What Marketers Should Do Next</title>
+      <link>https://almcorp.com/blog/openai-chatgpt-ads-select-markets/</link>
+      <description>&lt;p&gt;OpenAI has started expanding ads in ChatGPT beyond its initial U.S. testing phase, with pilots beginning in Canada, Australia, and New Zealand. On the surface, that sounds like a straightforward product update. In practice, it marks something much larger: the continued shift of digital discovery </description>
+      <pubDate>2026-04-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d7b5ae8dd37a</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Meta Quest 3 and Quest 3S Price Increase: New Prices, Why Meta Raised Them, and What Buyers Need to Know</title>
+      <link>https://almcorp.com/blog/meta-quest-3-quest-3s-price-increase/</link>
+      <description>&lt;p&gt;Meta has increased the prices of its current Quest virtual reality headsets, changing the value equation for anyone considering a first headset, an upgrade, or a multi-headset purchase for home, work, or training use. The move affects the Meta Quest 3 and Meta Quest 3S lineup, and it matters for </description>
+      <pubDate>2026-04-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">79ae8e859609</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Facebook Camera Roll Cloud Processing: What Meta Is Asking For, What It Can Access, and How to Turn It Off</title>
+      <link>https://almcorp.com/blog/facebook-camera-roll-cloud-processing-privacy-explained/</link>
+      <description>&lt;p&gt;Facebook is testing and expanding a feature that asks users to let the app analyze photos and videos in their phone’s camera roll so it can suggest content to post, build collages, create recaps, and recommend AI-assisted edits. On its face, the pitch is simple: many people take far more photos t</description>
+      <pubDate>2026-04-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">1a432f2eb63a</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Instagram Expands “Your Algorithm” to Explore: What the New Controls Mean for Discovery, Reach, and Content Strategy</title>
+      <link>https://almcorp.com/blog/instagram-expands-your-algorithm-to-explore/</link>
+      <description>&lt;p&gt;Instagram has expanded its “Your Algorithm” feature beyond Reels and into Explore, giving users a more direct way to influence the topics they want to see more of, the topics they want to see less of, and the kinds of recommendations that follow them across key discovery surfaces in the app. That</description>
+      <pubDate>2026-04-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">221c562b136a</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Google Immersive Map View Search Ads : What the New 3D Maps Ad Experience Means for Local PPC</title>
+      <link>https://almcorp.com/blog/google-immersive-map-view-search-ads/</link>
+      <description>&lt;p&gt;Google appears to be testing or rolling out a richer local ad experience that brings immersive map view visuals directly into paid search placements. At first glance, that may sound like a small interface change. It is not. If this format expands, it could change how users evaluate local business</description>
+      <pubDate>2026-04-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">1513f106fbff</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Adds “Messages from Your Ads” in Search: What It Means, How It Works, and How to Optimize It</title>
+      <link>https://almcorp.com/blog/google-ads-messages-from-your-ads-search/</link>
+      <description>&lt;p&gt;For years, most Search advertisers have optimized around the same familiar actions: clicks, calls, form fills, purchases, and store visits. The introduction of “Messages from your ads” as an optimization goal in Search adds a different kind of intent signal to that list. It gives advertisers a wa</description>
+      <pubDate>2026-04-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5530d5ae92ed</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Microsoft Performance Max Landing Page Reporting in 2026: How to Use Final URL Data to Improve ROAS, Conversion Rates, and Spend Efficiency</title>
+      <link>https://almcorp.com/blog/microsoft-performance-max-landing-page-reporting/</link>
+      <description>&lt;p&gt;Microsoft Advertising has added landing page reporting for Performance Max, giving advertisers something they have wanted from automated campaign types for a long time: clearer visibility into which final URLs are actually driving results. For teams managing Performance Max at scale, this is not </description>
+      <pubDate>2026-04-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e5b37f6f83a1</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] U.S. Search Ad Revenue Reached $114.2 Billion in 2025: What Slower Growth Means for Digital Advertising</title>
+      <link>https://almcorp.com/blog/us-search-ad-revenue-2025/</link>
+      <description>&lt;p&gt;Search advertising remained the single largest force in U.S. digital media in 2025, reaching $114.2 billion in revenue. That figure alone explains why search still sits at the center of most performance marketing strategies. It delivers scale, it captures demand close to the point of intent, and </description>
+      <pubDate>2026-04-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">71b1b3cdb40f</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] ChatGPT Ads : What Advertisers Know, What OpenAI Has Confirmed, and Why ROI Is Still Unclear</title>
+      <link>https://almcorp.com/blog/chatgpt-ads-explained-advertiser-testing-roi-uncertainty/</link>
+      <description>&lt;p&gt;ChatGPT has moved from an experimental AI tool to a mainstream consumer platform that influences research, comparison, and purchase decisions. That shift was always going to raise the same question that follows every scaled attention platform: when does advertising arrive, and what happens when i</description>
+      <pubDate>2026-04-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a8433bbbc30f</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] What Is Google Discover? How It Works, What Drives Visibility, and How to Increase Discover Traffic</title>
+      <link>https://almcorp.com/blog/what-is-google-discover/</link>
+      <description>&lt;p&gt;Google Discover is one of the most important traffic sources many publishers, brands, and content teams still underuse. It does not work like standard Google Search, and that difference matters. Search responds to a user’s query. Discover tries to predict what a user may want to read, watch, or e</description>
+      <pubDate>2026-04-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">bfb462953eda</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] AI Ad Copy Secrets: Gemini &amp; Claude for Marketers #shorts</title>
+      <link>https://www.youtube.com/watch?v=Hp6RXK1yDYc</link>
+      <description>Unlock powerful ad copy with AI. Use Gemini for best practices and specs, then Claude for custom Google &amp; Meta ad generation. Streamline large campaigns targeting specific keywords and services. #AIAdvertising #GoogleAds #MetaAds #Gemini #Claude #AdCopy</description>
+      <pubDate>2026-04-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d92ddef194f4</guid>
       <category>Surfside PPC</category>
     </item>
     <item>
@@ -761,109 +857,6 @@ If you’re n</description>
       <description>&lt;p&gt;If you manage SEO for an IT company, MSP, cybersecurity firm, cloud consultant, or outsourced help desk provider, you have probably run into the same problem: you want to create city-specific pages for terms like “IT services Chicago,” “managed IT services Dallas,” or “cybersecurity services Atla</description>
       <pubDate>2026-04-13T00:00:00Z</pubDate>
       <guid isPermaLink="false">e37a817c0814</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Local Link Building Through B2B Partnerships: Chamber of Commerce Strategies, Local University Collaborations, and Regional Industry Association SEO Value</title>
-      <link>https://almcorp.com/blog/local-link-building-b2b-partnerships/</link>
-      <description>&lt;p&gt;Local link building has changed. The old playbook centered on chasing any backlink that looked authoritative enough to move rankings. The stronger playbook for regional B2B companies is more practical: earn links and brand mentions from organizations that already shape trust in your market. That </description>
-      <pubDate>2026-04-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4ee610790664</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] The AI Tool Audit: A Practical Framework for Cutting AI Tool Sprawl by 40% While Protecting Pipeline Performance</title>
-      <link>https://almcorp.com/blog/ai-tool-audit-framework-cut-your-stack-by-40/</link>
-      <description>&lt;p&gt;Most companies did not build an AI stack. They accumulated one. A team adopted a writing assistant because content deadlines were slipping. Sales added a call summarizer because managers wanted cleaner notes in the CRM. RevOps layered in enrichment, routing, forecasting, and email drafting tools </description>
-      <pubDate>2026-04-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">cf9c3fb5d102</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Prompt Library Burnout: Why Teams Stop Using Saved AI Prompts and How to Build Contextual, Role-Specific Workflows Instead</title>
-      <link>https://almcorp.com/blog/prompt-library-burnout-contextual-role-specific-ai-workflows/</link>
-      <description>&lt;p&gt;A lot of teams start their AI rollout the same way. Someone in marketing saves a few good prompts. Sales adds another dozen. Operations builds a spreadsheet. A manager asks everyone to contribute their “best prompts,” and before long the company has a shared folder with 100, then 300, then 500 sa</description>
-      <pubDate>2026-04-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">5a36e0b612cf</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] TikTok as a B2B Research Engine: How to Optimize “How It Works” Content for Gen Z Buyers Who Search TikTok Before Google</title>
-      <link>https://almcorp.com/blog/tiktok-b2b-research-engine-gen-z-procurement/</link>
-      <description>&lt;p&gt;A generation ago, B2B research usually started with a search engine, a vendor website, a trade publication, or a recommendation from a colleague. Today, that starting point is more fragmented. Younger buyers still use Google, but they also use TikTok, Reddit, YouTube, review platforms, AI tools, </description>
-      <pubDate>2026-04-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">183a8f66eb45</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] YouTube Chapter SEO: How to Structure Long-Form Videos With Timestamped Chapters That Match Specific Search Queries</title>
-      <link>https://almcorp.com/blog/youtube-chapter-seo/</link>
-      <description>&lt;p&gt;If you publish long-form videos on YouTube, you already know the usual optimization checklist: title, thumbnail, description, transcript quality, engagement, retention, and internal consistency between what the video promises and what it actually delivers. Chapters belong on that list too, but no</description>
-      <pubDate>2026-04-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">06f244b6eb95</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] This is my new favorite AI prompt for creative strategy:</title>
-      <link>https://www.youtube.com/watch?v=GC9M_op2xz4</link>
-      <description>And it’s SUPER beginner friendly!
-
-In order to scale on Meta Ads in 2026, we know that you need to advertise to your different personas or audience segments.
-
-But no one ever talks about how to actually find those personas… and distribute those learnings across your teams.
-
-With Claude's new Gamma c</description>
-      <pubDate>2026-04-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">85eb2f1c3326</guid>
-      <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[General] Bilingual Marketing: Reach More Customers! #shorts</title>
-      <link>https://www.youtube.com/watch?v=QVnxzHiDYWE</link>
-      <description>Expand your reach by offering English and Spanish campaigns. Many areas, like Southern Arizona and Miami, have significant bilingual populations, making it a key selling point for businesses. #BilingualMarketing #MarketingStrategy #CustomerReach #BusinessGrowth #Spanish</description>
-      <pubDate>2026-04-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e5078dcaafc6</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads for Vets: Get More Animal Patients #shorts</title>
-      <link>https://www.youtube.com/watch?v=8vUobXjLG0g</link>
-      <description>Discover surprisingly affordable Google Ads for vet clinics. Low-cost keywords like 'emergency vet' and 'animal hospital' in Tucson, Arizona, can bring in new patients cost-effectively. #VeterinarianMarketing #GoogleAds #LocalSEO #VetClinic #ClientAcquisition</description>
-      <pubDate>2026-04-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1afde050643f</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[General] 広告の費用対効果を引き上げる LINE×ストック型マーケティングの全体設計</title>
-      <link>https://anagrams.jp/blog/line-stock-marketing-strategy/</link>
-      <description>&lt;p&gt;広告で集客して、その場でコンバージョンしなければ接点が途切れる。また広告費を投じて、新しいユーザーを獲得し直す。この繰り返しに課題を感じているマーケティング担当者は少なくないはずです。 特に検討期間が…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/line-stock-marketing-strategy/"&gt;広告の費用対効果を引き上げる LINE×ストック型マーケティングの全体設計&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>2026-04-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">8932302dd16e</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[General] Use Breakdowns for Troubleshooting</title>
-      <link>https://www.jonloomer.com/qvt/breakdowns-troubleshooting/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/03/breakdowns-troubleshooting-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="Use Breakdowns for Troubleshooting" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcse</description>
-      <pubDate>2026-04-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e0142faa15af</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[General] SEO Pricing Guide 2026: How Much Does SEO Really Cost by Month, Project, and Business Size?</title>
-      <link>https://almcorp.com/blog/seo-pricing-guide-2026-how-much-does-seo-really-cost/</link>
-      <description>&lt;p&gt;If you want the short answer first, most businesses in 2026 should expect SEO to cost anywhere from $1,500 to $5,000 per month for a serious small-to-midsize campaign, with local SEO often starting lower and national, ecommerce, SaaS, or enterprise campaigns climbing well beyond $7,500 per month.</description>
-      <pubDate>2026-04-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a0eae6213681</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] How to Get Digital Marketing Clients Fast Without a Portfolio: 11 Practical Ways to Win Your First Clients</title>
-      <link>https://almcorp.com/blog/how-to-get-digital-marketing-clients-fast-without-a-portfolio/</link>
-      <description>&lt;p&gt;If you are trying to get digital marketing clients with no portfolio, you are dealing with a real problem, not a personal failure. Most beginners think the market is rejecting them because they lack experience. In many cases, that is not the main issue. The bigger problem is that they present the</description>
-      <pubDate>2026-04-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">5792e3242feb</guid>
       <category>ALM Corp Blog</category>
     </item>
   </channel>
