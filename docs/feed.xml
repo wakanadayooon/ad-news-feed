@@ -5,8 +5,16 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 11:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 10:58:48 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] SEO vs PPC: The Ultimate Marketing Strategy Revealed #shorts</title>
+      <link>https://www.youtube.com/watch?v=7N2elPkp6jQ</link>
+      <description>The age-old marketing question: Should you focus on SEO or Google Ads first? The strategy has evolved. Build your SEO foundation, gain some traction, then scale with paid advertising. #SEO #GoogleAds #MarketingStrategy #PPC</description>
+      <pubDate>2026-04-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">597437eeab0b</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google Ads] Ad Copy, Split Testing &amp; AI for Google Ads</title>
       <link>https://www.youtube.com/watch?v=rsd-LQcOxFI</link>
@@ -31,6 +39,116 @@ Most advertisers are leaving money on the table because they rely on Google’s 
       <pubDate>2026-04-20T00:00:00Z</pubDate>
       <guid isPermaLink="false">e0dc0dbeffed</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta and CBRE Invest in American Jobs Through New Fiber Technician Training Program</title>
+      <link>https://about.fb.com/news/2026/04/meta-cbre-invest-in-american-jobs-new-fiber-technician-training-program/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/04/LevelUp-Fiber_Thumbnail-1.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/04/LevelUp-Fiber_Thumbnail-1</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">0dd22f86fb2d</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[General] Structured Data for LLMs: Technical Implementation Guide for Agency Dev Teams Using JSON-LD, Schema.org, and Entity Graphs</title>
+      <link>https://almcorp.com/blog/structured-data-for-llms-technical-guide/</link>
+      <description>&lt;p&gt;Large language models do not discover, parse, and trust web content the same way a human reader does. A person can infer that a page is about a service, that a named individual is the author, that a price belongs to a specific product, or that a business operates in a certain market even when [&amp;#</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">632c7582573d</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] How Agencies Can Productize First-Party Data Collection for Recurring Revenue: A Practical Model for Pricing, Packaging, and Client Retention</title>
+      <link>https://almcorp.com/blog/productize-first-party-data-collection-recurring-revenue/</link>
+      <description>&lt;p&gt;Third-party signal loss did not remove the need for targeting, measurement, and personalization. It changed where the value sits. The value now sits closer to the customer relationship itself: consented website behavior, CRM records, lead form activity, purchase history, product interest signals,</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a751cc15ff18</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] How to White-Label Autonomous Campaign Management Without Losing the Human Edge: An Agency Guide to Scale, Control, and Client Retention</title>
+      <link>https://almcorp.com/blog/white-label-autonomous-campaign-management/</link>
+      <description>&lt;p&gt;White-label autonomous campaign management sounds simple until you try to operationalize it. On paper, the pitch is attractive. You give clients a branded service that uses automation, machine learning, rules, and AI-driven optimization to run parts of paid media, email, CRM journeys, retargeting</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f7b6d4572935</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Meta Conversations 2026: June 3 London Date, Keynote Time, Registration, and What Businesses Should Expect</title>
+      <link>https://almcorp.com/blog/meta-conversations-2026-date-june-3-london-2/</link>
+      <description>&lt;p&gt;Meta has confirmed that Conversations 2026, its annual business messaging conference, will take place on Wednesday, June 3, 2026, in London, with the keynote livestream starting at 2:30 p.m. BST. On the surface, that is a straightforward event announcement. In practical terms, it is much more tha</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8df6f70eeb65</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Pinterest’s “Get Off Social Media” Ad Campaign : Why the Platform Wants Users to Go Offline</title>
+      <link>https://almcorp.com/blog/pinterest-get-off-social-media-campaign-explained/</link>
+      <description>&lt;p&gt;Pinterest has spent years trying to separate itself from the rest of the social platform pack, but its latest brand campaign makes that distinction clearer than ever. Instead of encouraging more scrolling, more posting, and more time spent in-app, Pinterest is making a very different case: the be</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">fa31c0111d3d</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] LinkedIn Expands AI-Powered Conversational Search to All Users: What Changed and How to Show Up in Results</title>
+      <link>https://almcorp.com/blog/linkedin-ai-powered-conversational-search/</link>
+      <description>&lt;p&gt;LinkedIn search is changing in a way that matters far beyond one product update. The platform has expanded its AI-powered conversational search experience from a limited rollout to broader member access, which means users can increasingly search the way they naturally think and speak instead of r</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">0c7ed2f1e75d</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta Simplifies Ad Performance Elements: What the New Pixel AI and One-Click Conversions API Mean for Advertisers</title>
+      <link>https://almcorp.com/blog/meta-simplifies-ad-performance-elements-2/</link>
+      <description>&lt;p&gt;Meta has introduced two important updates to the infrastructure behind ad performance: a new AI-assisted enhancement for Meta Pixel and a simpler, one-click path to set up Conversions API for web. On the surface, that sounds like a technical product update. In practice, it is much more significan</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c157ca357103</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] How X Cashtags Work: New Format, Live Price Charts, and What It Means for Market Analysis</title>
+      <link>https://almcorp.com/blog/x-cashtags-market-analysis/</link>
+      <description>&lt;p&gt;For years, X has been one of the fastest places on the internet for price-sensitive information. Traders watch it for headlines, crypto communities use it to coordinate attention, and public companies often see market narratives take shape there before they fully spread elsewhere. That has made t</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b366ede97470</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Google Crawler IP Ranges in 2026: New File Location, Verification Steps, Firewall Rules, and What Site Owners Need to Update</title>
+      <link>https://almcorp.com/blog/google-crawler-ip-ranges/</link>
+      <description>&lt;p&gt;If your website relies on firewall rules, CDN allowlists, bot management, or server-side verification to identify legitimate Google crawlers, Google’s March 2026 update matters immediately. The change itself is simple: the published JSON files for Google crawler IP ranges have moved from the olde</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e9da4ffd010f</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Top Brand Monitoring Tools in 2026: Free and Paid Platforms Compared by Features, Pricing, and Best Use Case</title>
+      <link>https://almcorp.com/blog/top-brand-monitoring-tools/</link>
+      <description>&lt;p&gt;Brand monitoring has changed. A few years ago, most teams could get by with a simple mention alert and a social media dashboard. In 2026, that is no longer enough. A brand can be discussed on news sites, review platforms, Reddit threads, YouTube comments, LinkedIn posts, podcasts, forums, newslet</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">526d67c2476e</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] 50,000 new customers per month without media buyer or a creative strategist. HOW?!</title>
+      <link>https://www.youtube.com/watch?v=FaaVgox-uts</link>
+      <description>The apparel brand Pact acquires 50,000 new customers per month.
+
+They don’t have a media buyer or a creative strategist on staff.
+
+So… how the heck are they doing this?
+
+In the final episode of Ad Spend, I sit down with Kaitlin Parker, Pact’s Chief Digital Officer, to discuss how they approach growt</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7c5620b28983</guid>
+      <category>Dara Denney</category>
+    </item>
+    <item>
+      <title>[General] AI Video Generator: Beat Competition &amp; Rank High #shorts</title>
+      <link>https://www.youtube.com/watch?v=-ZVrzE1rSmc</link>
+      <description>Understanding your competition is key for any product. For AI video generators, a crowded market demands strategic promotion and SEO to get on trusted lists like Zapier, Reddit, and Quora. #AIvideo #Competition #MarketingStrategy #SEOtips #VideoGeneration</description>
+      <pubDate>2026-04-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">640678bf9be8</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[General] AI vs Human Ad Copy: Google vs Meta #shorts</title>
@@ -726,126 +844,6 @@ I run Heath Media, a marketing agency that helps businesses sca</description>
       <description>&lt;p&gt;Bud Light is tying one of the NFL calendar’s most watched offseason moments to a simple, easy-to-understand fan offer: when your team is on the clock, a draft beer is on Bud Light. That idea sits at the center of the brand’s 2026 NFL Draft activation in Pittsburgh, where Bud Light is introducing </description>
       <pubDate>2026-04-15T00:00:00Z</pubDate>
       <guid isPermaLink="false">9d44ce06dfc2</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Publicis, The Trade Desk and Sora: What Arthur Sadoun’s Q1 2026 Comments Mean for Marketers</title>
-      <link>https://almcorp.com/blog/publicis-the-trade-desk-sora-shutdown-marketing-analysis/</link>
-      <description>&lt;p&gt;Publicis used its first-quarter 2026 update to do more than report numbers. It clarified how the company sees three issues that matter well beyond one earnings call: programmatic transparency, the balance of power between agencies and platforms, and the difference between consumer AI hype and ent</description>
-      <pubDate>2026-04-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">7ca5c8963b49</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Chili’s Food Court Pop-Up Puts McDonald’s on Trial: What the Big Crispy Launch Says About Fast Food Prices, Value Meals, and Casual Dining</title>
-      <link>https://almcorp.com/blog/chilis-food-court-pop-up-mcdonalds-big-crispy-value-meal/</link>
-      <description>&lt;p&gt;Chili’s has spent the last two years doing something most casual-dining chains avoided for a long time: talking directly to fast food customers as if they are available to win right now. The brand’s latest move, a New York pop-up that stages a courtroom-style case against fast food value meals, m</description>
-      <pubDate>2026-04-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">7bfe498856d5</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] YouTube Expands C-SPAN Partnership: Full Breakdown of America 250 Coverage, YouTube TV Access, and Free Livestreams</title>
-      <link>https://almcorp.com/blog/youtube-c-span-partnership-america-250/</link>
-      <description>&lt;p&gt;YouTube has expanded its partnership with C-SPAN at a moment when distribution, civic access, and real-time video are all moving in the same direction. On the surface, the update is easy to summarize. YouTube says it has deepened its work with C-SPAN by adding C-SPAN’s three primary channels to Y</description>
-      <pubDate>2026-04-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">36c6bef1c536</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta just dropped some huge updates at Newfronts… let’s talk about it</title>
-      <link>https://www.youtube.com/watch?v=LD3ysK7DBfE</link>
-      <description>1. GenAI is expanding on Ads Manager to include AI UGC AVATARS. This is meant to help advertisers that have 1000s of skus and can’t make ads for each one.
-
-2. Reels Trending Ads are expanding into cultural moments like F1 and NYFW so that brands can show up alongside of big events.
-
-I also got to sp</description>
-      <pubDate>2026-04-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b49ed5aea113</guid>
-      <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[General] Mastering Business Credit Cards: LLC &amp; Small Business Secrets #shorts</title>
-      <link>https://www.youtube.com/watch?v=4oInj48adss</link>
-      <description>Casting a wide net for business credit card searches captures informational, transactional, and research queries. Understanding search intent, like 'business credit cards for LLC,' moves users further down the funnel, increasing conversion readiness compared to broader terms. #BusinessCreditCards #S</description>
-      <pubDate>2026-04-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">76c4b5d20cfb</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Surfside PPC Podcast Episode  15 - How To Bid Optimally in Google Ads</title>
-      <link>https://www.youtube.com/watch?v=JhXvIn9DqoM</link>
-      <description>*My Google Ads Course is Updated and $34.99/Year: https://surfsideppc.com/products/google-ads-course
-**Join Surfside PPC Premium For $5/Month: https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/join
-***Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
-****Hire Me Fo</description>
-      <pubDate>2026-04-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">13593dcea7df</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Partners With Broadcom to Co-Develop Custom AI Silicon</title>
-      <link>https://about.fb.com/news/2026/04/meta-partners-with-broadcom-to-co-develop-custom-ai-silicon/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/04/Meta_Broadcom_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/04/Meta_Broadcom_Thumbnail.jpg</description>
-      <pubDate>2026-04-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">756aaedfb976</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] What's new in the Threads API</title>
-      <link>https://developers.facebook.com/blog/post/2026/04/14/whats-new-in-the-threads-api/</link>
-      <description>We're excited to share a major set of updates to the Threads API. These improvements make it easier for developers, creators, and brands to publish, discover, and manage content, while unlocking new creative and integration possibilities.</description>
-      <pubDate>2026-04-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">39d1d000e2a6</guid>
-      <category>Meta Developers Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google広告のアカウント切り替えで配信が止まる？隠れた制限「DSL」の仕組みと対策</title>
-      <link>https://anagrams.jp/blog/google-ads-dsl-limit/</link>
-      <description>&lt;p&gt;「設定は完璧。あとは配信が始まるのを待つだけ」。運用者として最も気が引き締まる、かつ楽しみな瞬間です。しかし、予定時刻を過ぎてもインプレッションが「0」のまま動かない。そんな経験はありませんか？ 私は…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/google-ads-dsl-limit/"&gt;Google広告のアカウント切り替えで配信が止まる？隠れた制限「DSL」の仕組みと対策&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>2026-04-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">af2549e4702f</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[Meta Ads] New Creative Workflow for Meta Ads</title>
-      <link>https://www.jonloomer.com/new-creative-workflow-meta-ads/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/04/new-creative-workflow-300x157.png" class="attachment-medium size-medium wp-post-image" alt="New Creative Workflow for Meta Ads" style="margin-bottom: 15px;" decoding="async" srcset="https://www.jonloomer.com</description>
-      <pubDate>2026-04-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">681e97bcb809</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[Google Ads] PPC Management Software List: 26 Tools for Google Ads, Microsoft Ads, Meta, Amazon, and Cross-Channel Teams</title>
-      <link>https://almcorp.com/blog/ppc-management-software-list/</link>
-      <description>&lt;p&gt;Pay-per-click advertising is no longer managed in one interface, by one person, on one channel. Most teams now work across Google Ads, Microsoft Ads, Meta, Amazon, retail media, analytics tools, reporting layers, and first-party data systems. That shift has changed what “PPC management software” </description>
-      <pubDate>2026-04-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9a4ea467855d</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Snap Specs Will Use Qualcomm Snapdragon XR Chips: What the Partnership Means for AR Glasses in 2026</title>
-      <link>https://almcorp.com/blog/snap-specs-qualcomm-ar-glasses/</link>
-      <description>&lt;p&gt;Snap’s new multi-year agreement with Qualcomm is one of the clearest signals yet that its consumer augmented reality glasses are moving from long-term concept to launch-stage product. The announcement is straightforward: future generations of Specs, the new smart eyewear effort housed under Specs</description>
-      <pubDate>2026-04-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">26ec9af25c14</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[TikTok Ads] TikTok Adds AI Video Generation to Symphony: What Dreamina Seedance 2.0 Means for Advertisers</title>
-      <link>https://almcorp.com/blog/tiktok-symphony-ai-video-generation-dreamina-seedance-2-0/</link>
-      <description>&lt;p&gt;TikTok has added a more advanced AI video generation model to its Symphony ad toolkit, and that matters for one reason above all: creative production speed is becoming a direct media advantage. The update centers on the integration of Dreamina Seedance 2.0, ByteDance’s newer video generation mode</description>
-      <pubDate>2026-04-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4283b7711891</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Ahrefs SEO Software Review (2026): Features, Pricing, Pros, Cons, and Who Should Use It</title>
-      <link>https://almcorp.com/blog/ahrefs-review/</link>
-      <description>&lt;p&gt;If you spend any serious time in SEO, Ahrefs usually enters the conversation early. It has been one of the most widely used platforms for backlink analysis, keyword research, competitor tracking, and technical SEO for years. The reason is straightforward: it gives marketers a large amount of usab</description>
-      <pubDate>2026-04-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b8c7d1a16971</guid>
       <category>ALM Corp Blog</category>
     </item>
   </channel>
