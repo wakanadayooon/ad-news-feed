@@ -5,8 +5,72 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 10:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 10:44:46 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] New Data Retention Policy for Google Ads starting June 1, 2026</title>
+      <link>http://ads-developers.googleblog.com/2026/05/new-data-retention-policy-for-google.html</link>
+      <description>&lt;style type="text/css"&gt;
+  table#dataretensionmay2026{
+    border-collapse: collapse;
+  }
+   
+  table#dataretensionmay2026 td {
+    border: 1px solid grey;
+    padding:5px;
+  }
+&lt;/style&gt;
+
+&lt;p&gt;
+Starting &lt;strong&gt;June 1, 2026&lt;/strong&gt;, Google Ads and related measurement APIs will transition to a 37-month </description>
+      <pubDate>2026-05-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">059f3375b6bf</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Product reporting changes for Google Ads starting June 15, 2026</title>
+      <link>http://ads-developers.googleblog.com/2026/04/product-reporting-changes-for-google.html</link>
+      <description>&lt;p&gt;
+Starting June 15, 2026, the &lt;a target="_blank" href="https://developers.google.com/google-ads/api?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-productperformancereportingchangesapr2026&amp;utm_content=readmore-api"&gt;Google Ads API&lt;/a&gt; will begin transitioning &lt;a target="_blank" href</description>
+      <pubDate>2026-05-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">cffc2a30d689</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads API v20 sunset reminder</title>
+      <link>http://ads-developers.googleblog.com/2026/04/google-ads-api-v20-sunset-reminder.html</link>
+      <description>&lt;p&gt;
+Google Ads API v20 will &lt;a target="_blank" href="https://developers.google.com/google-ads/api/docs/sunset-dates?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-v20-sunset&amp;utm_content=readmore-deprecationandsunset"&gt;sunset&lt;/a&gt; on June 10, 2026. Starting on this date, all v20 API req</description>
+      <pubDate>2026-05-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b2609747d257</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Simplifying Keyword Forecast Metrics in Google Ads API v24</title>
+      <link>http://ads-developers.googleblog.com/2026/04/simplifying-keyword-forecast-metrics-in.html</link>
+      <description>&lt;p&gt;
+To provide a more streamlined and reliable experience, we have unified our forecasting infrastructure. Google Ads API v24 introduces an updated &lt;code&gt;&lt;a target="_blank" href="https://developers.google.com/google-ads/api/reference/rpc/v24/KeywordPlanIdeaService/GenerateKeywordForecastMetrics?utm_</description>
+      <pubDate>2026-05-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">aba915d808b0</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Announcing v24 of the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/04/announcing-v24-of-google-ads-api.html</link>
+      <description>&lt;p&gt;
+Today, we’re announcing the v24 release of the &lt;a target="_blank" href="https://developers.google.com/google-ads/api?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-release-v24&amp;utm_content=learnmore-api"&gt;Google Ads API&lt;/a&gt;. To use the new v24 features, you must upgrade your</description>
+      <pubDate>2026-05-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a2156ec0f2e3</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads: Beyond Exact Match for More Leads #shorts</title>
+      <link>https://www.youtube.com/watch?v=DWQDpkT9Obo</link>
+      <description>Stop chasing exact keywords in Google Ads! Broad match, especially with conversion data, unlocks hidden opportunities. Learn how to leverage it for long-term growth, even if it means initial investment. #GoogleAds #DigitalMarketing #PPC #BroadMatch #ExactMatch</description>
+      <pubDate>2026-05-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f88f5a2cfd55</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[General] Boost Google Ranking: Unlock the Power of Reviews! #shorts</title>
       <link>https://www.youtube.com/watch?v=yc6-SHrXfSk</link>
@@ -25,6 +89,86 @@
       <pubDate>2026-05-02T00:00:00Z</pubDate>
       <guid isPermaLink="false">09657141723d</guid>
       <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[General] 18 Revenue Opportunities for Digital Agency Owners in 2026: A Practical Guide to Recurring, Project, Performance, and Partnership Revenue</title>
+      <link>https://almcorp.com/blog/revenue-opportunities-digital-agency-owners/</link>
+      <description>&lt;p&gt;Digital agency owners rarely struggle because there are no services to sell. The real challenge is building a revenue model that is stable, scalable, and profitable at the same time. Many agencies are busy, but not financially secure. They close projects, deliver work, and keep teams occupied, ye</description>
+      <pubDate>2026-05-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f5a9e2e23219</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] AI SEO for SaaS: The Complete Guide to Winning High-Intent Search in Google, AI Overviews, and LLM Answers</title>
+      <link>https://almcorp.com/blog/ai-seo-for-saas/</link>
+      <description>&lt;p&gt;AI SEO for SaaS is no longer a narrow content exercise. It is now a visibility system that helps software companies get discovered across traditional search results, AI-generated summaries, product comparisons, category pages, and answer engines. For SaaS brands, that matters because the buying j</description>
+      <pubDate>2026-05-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">26e1693f1127</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] SEO Conferences in June 2026: Dates, Locations, Costs, and the Best Events for Search Marketers</title>
+      <link>https://almcorp.com/blog/seo-conferences-june-2026/</link>
+      <description>&lt;p&gt;June 2026 is one of the busiest months on the calendar for search marketers who want face time with practitioners, vendors, publishers, agency leaders, and in-house teams. If you are planning travel, budget approvals, or team learning goals, this is the month where the choices start to matter. Th</description>
+      <pubDate>2026-05-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">048d4d64e9b9</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] SEO for Manufacturing Companies: 18 Practical Tactics to Increase Rankings, RFQs, and Qualified Leads</title>
+      <link>https://almcorp.com/blog/seo-for-manufacturing-companies/</link>
+      <description>&lt;p&gt;Manufacturing SEO is different from general SEO because manufacturing buyers search differently, compare vendors differently, and convert differently. In many industries, a prospect does not type one broad phrase, land on a homepage, and request a quote in five minutes. They move through a longer</description>
+      <pubDate>2026-05-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">32dcef797155</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Digital Marketing News, April 21 to May 1, 2026: 21 Google, Meta, OpenAI, YouTube and Pinterest Updates Marketers Need to Act On</title>
+      <link>https://almcorp.com/blog/digital-marketing-news-april-21-may-1-2026/</link>
+      <description>&lt;p&gt;Digital marketing moved quickly between April 21 and May 1, 2026, but the pattern behind the headlines was fairly consistent. Search became more task-oriented, ad platforms pushed further toward automation, AI interfaces gained more influence over discovery, and social and creator platforms kept </description>
+      <pubDate>2026-05-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">606220407d1a</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] AI Conferences in June 2026: Confirmed Dates, Locations, and the Best Events for Builders, Researchers, and Executives</title>
+      <link>https://almcorp.com/blog/ai-conferences-june-2026/</link>
+      <description>&lt;p&gt;If you are trying to decide which AI conferences in June 2026 are actually worth your time, the short answer is that June is one of the densest months on the calendar. It is not just busy. It is unusually diverse. In a three-week stretch, you can move from computer vision research in Denver to [&amp;</description>
+      <pubDate>2026-05-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a50d41aa8872</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Kentucky Derby 2026 Hashtags: The Top Social Media Trends, Related Topics, Race-Day Conversations and Fan Guide</title>
+      <link>https://almcorp.com/blog/kentucky-derby-2026-hashtags-trending-social-media-topics/</link>
+      <description>&lt;p&gt;The Kentucky Derby never trends for just one reason. It trends because it sits at the intersection of sport, fashion, food, travel, celebrity culture, betting, Southern tradition, and real-time spectacle. In 2026, that mix is even more visible online. Fans are not only searching for the official </description>
+      <pubDate>2026-05-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">08f6f0a85a2e</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] DSW Shoemergency Season 2 With Heather McMahan: Launch Date, Pop-Up Tour Stops, Same-Day Delivery, and What Shoppers Should Know</title>
+      <link>https://almcorp.com/blog/dsw-shoemergency-season-2-heather-mcmahan/</link>
+      <description>&lt;p&gt;When a retail campaign breaks through, it usually does one of two things well: it either entertains people enough to earn attention, or it solves a real customer problem clearly enough to drive action. DSW’s “Shoemergency” Season 2 with Heather McMahan is trying to do both at once. That is what m</description>
+      <pubDate>2026-05-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ff5d1a9a452e</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Spirit Airlines Closure in May 2026: What Happened, Which Hashtags Are Trending, and What Travelers Need to Know</title>
+      <link>https://almcorp.com/blog/spirit-airlines-closure-may-2026-trending-social-media-hashtags/</link>
+      <description>&lt;p&gt;Spirit Airlines’ closure in May 2026 quickly became one of the biggest U.S. travel stories of the month because it touched several audiences at once. Passengers needed immediate answers about canceled trips, refunds, and replacement flights. Employees faced sudden uncertainty. Competitors moved f</description>
+      <pubDate>2026-05-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f57ae521f2b8</guid>
+      <category>ALM Corp Blog</category>
+    </item>
+    <item>
+      <title>[General] Marketing Conferences in June 2026: Best Events, Dates, Locations, and How to Choose the Right One</title>
+      <link>https://almcorp.com/blog/marketing-conferences-in-june-2026/</link>
+      <description>&lt;p&gt;If you are planning your summer event calendar, June 2026 is one of the strongest months on the marketing conference schedule. It brings together large executive gatherings, practical digital marketing events, specialized B2B programs, customer experience forums, retail and ecommerce leadership m</description>
+      <pubDate>2026-05-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b5e30a33520f</guid>
+      <category>ALM Corp Blog</category>
     </item>
     <item>
       <title>[Meta Ads] Static VS Video Ads: Which perform better?</title>
@@ -742,139 +886,6 @@ In this video I take you through the results and the process we used.
       <description>&lt;p&gt;AI image generation has moved past the novelty stage. For marketing teams, designers, ecommerce brands, agencies, and in-house content teams, the real question is no longer whether AI can create images. The real question is which tool fits the job, the workflow, the brand standard, and the legal </description>
       <pubDate>2026-04-27T00:00:00Z</pubDate>
       <guid isPermaLink="false">ca90547d84e7</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Top 20 Most Visited Websites in the USA (April 2026): Traffic Rankings, Trends, and What They Show About American Internet Use</title>
-      <link>https://almcorp.com/blog/top-visited-websites-usa-april-2026/</link>
-      <description>&lt;p&gt;The American web is still defined by a handful of giant platforms, but the shape of that dominance is changing. Search remains the front door to the internet. Video still commands unmatched attention. Social platforms continue to absorb enormous volumes of time and repeat visits. E-commerce remai</description>
-      <pubDate>2026-04-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d089e53a668e</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Lovable AI in 2026: Complete Guide to Features, Pricing, Tutorial Workflow, Supabase, Security, and Alternatives</title>
-      <link>https://almcorp.com/blog/lovable-ai-guide/</link>
-      <description>&lt;p&gt;If you are evaluating Lovable, you are probably trying to answer a practical set of questions rather than a theoretical one. Can it actually help you build a working product? Is it for non-technical founders, product teams, marketers, or developers? Where does it fit between a code editor, a visu</description>
-      <pubDate>2026-04-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">7588a4fdaa09</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Top Trending Topics in 2026: 25 Rising Searches, Why They Matter, and How to Find the Next One Early</title>
-      <link>https://almcorp.com/blog/trending-topics/</link>
-      <description>&lt;p&gt;If you search for trending topics, you are usually trying to answer one of three questions. What is gaining real momentum right now? Which of those trends are worth building content, offers, or campaigns around? And how do you separate a durable shift in demand from a short-lived spike that disap</description>
-      <pubDate>2026-04-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9026d75f4e46</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] How Voice Search Is Changing Google Ads Search Term Reports in 2026: 12 Practical Fixes to Cut Waste and Improve Intent Matching</title>
-      <link>https://almcorp.com/blog/how-voice-search-is-changing-google-ads-search-term-reports/</link>
-      <description>&lt;p&gt;If you manage Google Ads closely, you can see the difference immediately in the search term report. The old pattern was compact and predictable. People typed short, compressed phrases like “emergency plumber,” “crm software pricing,” or “best running shoes.” Today, more queries arrive in the form</description>
-      <pubDate>2026-04-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d53331ef7d18</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[LinkedIn Ads] LinkedIn Advertising: 21 Advanced Tactics to Improve Lead Quality, Lower CPL, and Scale B2B Pipeline</title>
-      <link>https://almcorp.com/blog/linkedin-advertising-advanced-tactics/</link>
-      <description>&lt;p&gt;LinkedIn advertising rewards precision more than volume. That is why it keeps producing very different outcomes for companies that appear, on the surface, to be using the same platform. One team launches broad campaigns, targets a few job titles, adds a form, and calls the channel expensive. Anot</description>
-      <pubDate>2026-04-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">6ab1472adb93</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Ubersuggest Review and Guide (Updated April 2026): Features, Pricing, Accuracy, Pros, Cons, and Best Uses</title>
-      <link>https://almcorp.com/blog/ubersuggest-review/</link>
-      <description>&lt;p&gt;If you want an SEO platform that covers keyword research, content ideation, competitor research, rank tracking, backlink data, technical audits, and newer AI visibility workflows without forcing you into enterprise-level pricing, Ubersuggest is usually one of the first tools that comes up. That i</description>
-      <pubDate>2026-04-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">69952bde3465</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Connected TV Advertising in 2026: How CTV Works, What It Costs, and How to Measure Results</title>
-      <link>https://almcorp.com/blog/connected-tv-advertising/</link>
-      <description>&lt;p&gt;Connected TV advertising has moved from an experimental media line to a standard part of modern video planning. For many brands, that shift did not happen because CTV was new. It happened because audience behavior changed first. People now watch a large share of TV through streaming environments </description>
-      <pubDate>2026-04-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e770bc00c19c</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] And yes I am a Capricorn lol</title>
-      <link>https://www.youtube.com/watch?v=HIYS-ZlFHsk</link>
-      <description></description>
-      <pubDate>2026-04-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">6ecd58c3e7a3</guid>
-      <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[Google Ads] Using Smart Bidding in Google Ads the right way</title>
-      <link>https://www.youtube.com/watch?v=0QiJIp-MZWk</link>
-      <description>The single biggest lever in any Google Ads campaign is your smart bidding strategy.
-
-👉 Get Free Access to my "Keywords &amp; SWOT Analysis Tool for Google Ads" here: https://www.definedigitalacademy.com/claude-toolkit
-
-🤑 Plus remember if you want full access plus get real support from me &amp; my team remem</description>
-      <pubDate>2026-04-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">8623cbaa99f5</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[General] Dominate Local SEO: The Ultimate Pest Control Keyword Strategy #shorts</title>
-      <link>https://www.youtube.com/watch?v=W3hIKm8bfo4</link>
-      <description>Broad match keywords like 'pest control' are too generic. Focus on specific, local terms like 'pest control Columbia South Carolina' for better results. See how local service ads dominate search results. #LocalSEO #KeywordResearch #PestControl #DigitalMarketing #SmallBusiness</description>
-      <pubDate>2026-04-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d2f69b45a82d</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[General] デザイナーが広告運用やってみて感じたこと</title>
-      <link>https://anagrams.jp/blog/designer-in-advertising/</link>
-      <description>&lt;p&gt;アナグラムでデザイナーをしている私が、広告運用の兼務を始めました。運用経験ゼロからのスタートです。 もちろん日々できることが増えている最中ですが、「兼務」によって得られたものは想像以上でした。この記事…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/designer-in-advertising/"&gt;デザイナーが広告運用やってみて感じたこと&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>2026-04-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1fd840f5c33c</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[General] Consolidate Ads with the New Creative Workflow</title>
-      <link>https://www.jonloomer.com/qvt/consolidate-ads-creative-workflow/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/04/consolidate-ads-creative-workflow-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="Consolidate Ads with the New Creative Workflow" style="margin-bottom: 15px;" decoding="async" fetchpr</description>
-      <pubDate>2026-04-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">8614b7d9637c</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[General] White Label SEO Client Retention: 17 Early Warning Signals, Proactive Check-Ins, and a Practical Churn Prevention Playbook</title>
-      <link>https://almcorp.com/blog/white-label-seo-client-retention-playbook/</link>
-      <description>&lt;p&gt;Client retention in white label SEO is rarely lost in one dramatic moment. Most accounts do not disappear because of a single bad month, one missed keyword target, or one awkward meeting. They leave because several small problems go unaddressed at the same time: expectations start to drift, commu</description>
-      <pubDate>2026-04-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4ea67c10d718</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Gatorade Brings Back “Is It In You?”: Inside the “Trust What’s Inside” Football Campaign With Pulisic, Vinícius Júnior and Julián Álvarez</title>
-      <link>https://almcorp.com/blog/gatorade-is-it-in-you-football-campaign/</link>
-      <description>&lt;p&gt;Gatorade’s new global football campaign does two things at once. It revives one of the most recognizable lines in sports marketing, “Is It In You?”, and it translates that legacy for a younger generation of athletes through a very current football lens. The campaign, titled “Trust What’s Inside,”</description>
-      <pubDate>2026-04-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">bc3900a14d19</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] White Label SEO for Franchises: A Practical Guide to Location Page Architecture, Brand Consistency, and Scalable Citation Management</title>
-      <link>https://almcorp.com/blog/white-label-seo-for-franchises/</link>
-      <description>&lt;p&gt;Franchise SEO looks straightforward from the outside. A brand has one name, one broad service set, and multiple locations. In practice, it is one of the most operationally complex forms of local search. Every location needs to be discoverable in its own market, but every location also has to rein</description>
-      <pubDate>2026-04-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">0e95d002cfe1</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] How to Pitch White Label SEO to Existing Web Design and PPC Clients: Scripts, Packages, and an Agency Upsell Playbook</title>
-      <link>https://almcorp.com/blog/how-to-pitch-white-label-seo-to-web-design-and-ppc-clients/</link>
-      <description>&lt;p&gt;If you already serve clients through web design or PPC, you are sitting on the easiest SEO pipeline you will ever have. That is not because SEO is an easy sale. It usually is not. It is because trust is already in place. Your clients already know your team. They have already approved invoices. Th</description>
-      <pubDate>2026-04-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">14c0563a95f2</guid>
       <category>ALM Corp Blog</category>
     </item>
   </channel>
