@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "77f18c698070",
+      "platform": "general",
+      "platform_label": "General",
+      "color": "#6B7280",
+      "source": "Surfside PPC",
+      "title": "Unlock Local SEO: Citation Building Strategy Revealed! #shorts",
+      "link": "https://www.youtube.com/watch?v=xTEKrVc7viw",
+      "description": "Discover how general and niche directories like Thumbtack and Yellow Pages boost your SEO. Use services like Bright Local or WhiteSpark to build citations and improve your online presence for free, with a one-time payment for lifetime listings. #LocalSEO #CitationBuilding #OnlinePresence #BusinessGr",
+      "date": "2026-05-24",
+      "lang": "en",
+      "type": "youtube",
+      "category": "unclassified",
+      "transcript_url": ""
+    },
+    {
       "id": "53b78b5188ba",
       "platform": "general",
       "platform_label": "General",
@@ -17142,20 +17157,6 @@
       "description": "「動画にナレーションを入れたいけれど、何を用意したら良いか分からない」 「自分の制作したい動画にはどの程度の音質が必要なの？」 動画広告の制作において、こうした音質に関する相談は非常に多く寄せられます…",
       "date": "2026-02-23",
       "lang": "ja",
-      "type": "article",
-      "category": "unclassified"
-    },
-    {
-      "id": "84ab5fd38df4",
-      "platform": "meta-ads",
-      "platform_label": "Meta Ads",
-      "color": "#1877F2",
-      "source": "Jon Loomer",
-      "title": "Nothing About Targeting is the Same",
-      "link": "https://www.jonloomer.com/qvt/nothing-about-targeting-is-the-same/",
-      "description": "<div><img width=\"300\" height=\"533\" src=\"https://www.jonloomer.com/wp-content/uploads/2026/02/targeting-2-300x533.png\" class=\"attachment-medium size-medium wp-post-image\" alt=\"Nothing About Targeting is the Same\" style=\"margin-bottom: 15px;\" decoding=\"async\" loading=\"lazy\" srcset=\"https://www.jonloom",
-      "date": "2026-02-22",
-      "lang": "en",
       "type": "article",
       "category": "unclassified"
     },
