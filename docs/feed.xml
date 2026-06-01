@@ -5,8 +5,123 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 11:26:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 15:47:08 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Data Manager API now supports sending events to Google Marketing Platform destinations and IP ingestion for Google Ads Customer Match</title>
+      <link>http://ads-developers.googleblog.com/2026/05/data-manager-api-now-supports-sending.html</link>
+      <description>&lt;p&gt;
+  &lt;strong&gt;Google Marketing Platform event ingestion &lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  The Data Manager API has introduced support for
+  &lt;a
+    href="https://developers.google.com/data-manager/api/devguides/events/send-events?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-dm-api-r5b&amp;utm_conten</description>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7e39ed6bb912</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] The “What” and “Why” on Meridian: Ads DevCast E6</title>
+      <link>http://ads-developers.googleblog.com/2026/05/the-what-and-why-on-meridian-ads.html</link>
+      <description>&lt;p&gt;
+Measuring the true impact of your marketing spend is complex, especially when you look across channels and mediums. In Episode 6 of Google’s Ads DevCast, "The 'What' and 'Why' on Meridian," we sit down with Product Manager Katie Munro and Developer Relations Engineer Jeff Li to explore Meridian,</description>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a8bad015d879</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Display &amp; Video 360 API will start supporting Demand Gen resources on June 10, 2026</title>
+      <link>http://ads-developers.googleblog.com/2026/05/display-video-360-api-will-start.html</link>
+      <description>&lt;p&gt;
+Today we’re announcing the upcoming rollout of Demand Gen resource support to all Display &amp; Video 360 API users starting on &lt;strong&gt;June 10, 2026&lt;/strong&gt;. This feature will be rolled out to Display &amp; Video 360 partners over two weeks. By June 24, the feature will be available to all partners.
+&lt;</description>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c756f631466a</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Standardizing Reach Metrics with Total Co-view in the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/05/standardizing-reach-metrics-with-total.html</link>
+      <description>&lt;p&gt;
+Starting on June 2nd, 2026, the Google Ads API will transition reach metrics to a &lt;a target="_blank" href="https://support.google.com/google-ads/answer/11958922"&gt;"Total Co-view"&lt;/a&gt; definition. This update aligns Google Ads reporting with offline media and third-party measurement standards, ensu</description>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7e34f7f62ae1</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Ads DevCast: Google Marketing Live 2026 bonus episode</title>
+      <link>http://ads-developers.googleblog.com/2026/05/ads-devcast-google-marketing-live-2026.html</link>
+      <description>&lt;div class="separator" style="clear: both;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ACSTD7RUGOnXIReXmy4OSL6fFxq2hwY2XLFMRAXUOd0giPOcq98-3aBQa5B5FEqow3r_l-a1lHU6Xgj9HnP_j4AId-BlRcPwMJGzwxJ5zxB5V7D3m-DMH1exEQNwapp7ia2er6dWIS-ejBpp2JpdTEd1H_4P6wrTdEjOUKLESf0IFjbPHqBp84sMXG</description>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">04afa5f91b73</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Microsoft Ads] 2026 Partner Awards: Nominations are open</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/june-2026/2026-partner-awards-nominations-are-open</link>
+      <description>Nominations are open for the 2026 Microsoft Advertising Partner Awards. Elite and Select tier partners have until July 15, 2026 to submit their nominations</description>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ef89280fef56</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[General] 6 PPC Myths Every Advertiser Should Stop Believing</title>
+      <link>https://ppchero.com/6-ppc-myths-every-advertiser-should-stop-believing/</link>
+      <description>&lt;p&gt;The biggest shift in paid search since Google launched ads. ChatGPT Ads is live, and this is what we know so far. &lt;/p&gt;
+&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/6-ppc-myths-every-advertiser-should-stop-believing/"&gt;6 PPC Myths Every Advertiser Should Stop Believing&lt;/a&gt; first</description>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d81581af6fc8</guid>
+      <category>PPC Hero (Brainlabs)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Different formats, different requirements. Here's exactly what each Meta ad format needs to perform.</title>
+      <link>https://www.youtube.com/watch?v=KcTDn-YMSj0</link>
+      <description></description>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ba89411bbc15</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] If writing a creative brief still takes you 3+ hours... this is for you.</title>
+      <link>https://www.youtube.com/watch?v=cmFVKbxcQPY</link>
+      <description>Here’s what my brief writing process USED to look like:
+
+Step 1: Sit down to write the brief.
+Step 2: Start researching from scratch: pulling ads, reviews, competitor angles.
+Step 3: Brainstorm concepts, angles, and messaging.
+Step 4: Pick a persona and awareness level on the fly.
+Step 5: Land on an</description>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5adc4192d41c</guid>
+      <category>Dara Denney</category>
+    </item>
+    <item>
+      <title>[Google Ads] How to Scale Google Ads Past $10k/Month [Without Tanking ROAS]</title>
+      <link>https://www.youtube.com/watch?v=F3O5b7FFxDI</link>
+      <description>Spending under $5k a month on Google Ads and want to scale profitably to $10k, $20k or even $50k? Simply increasing your budget won't get you there. At some point every account hits what I call CPC resistance, where more spend just means higher CPCs and worse conversion metrics.
+
+👉 Apply for DDA: On</description>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">90f79cdb527e</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[General] Dominate Local SEO: Google Business Profile for Dentists #shorts</title>
+      <link>https://www.youtube.com/watch?v=bbmkZkASuuE</link>
+      <description>Struggling to attract new patients? Your Google Business Profile is your first step to dominating local search. Ensure you appear when people search 'dentist near me' or 'dentists in [your city]'. #LocalSEO #DentistMarketing #GoogleBusinessProfile #DentalMarketing</description>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">fb7d462bc117</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Meta Ads] The Mistakes I See in Almost Every Ad Account</title>
+      <link>https://www.youtube.com/watch?v=tcQ_1mm_bHU</link>
+      <description>Struggling ad accounts keep making the same mistakes, from undefined audience segments and unnecessary remarketing to inflated conversion results and overcomplicated campaign structures. Jon explains the most common problems he sees when auditing accounts, why each one reflects a misunderstanding of</description>
+      <pubDate>2026-06-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ea04ab07f39e</guid>
+      <category>Jon Loomer</category>
+    </item>
     <item>
       <title>[Google Ads] Google Keyword Planner: Your FREE Keyword Research Tool #shorts</title>
       <link>https://www.youtube.com/watch?v=r8DP3X9cgs4</link>
@@ -14,6 +129,55 @@
       <pubDate>2026-05-31T00:00:00Z</pubDate>
       <guid isPermaLink="false">4c0d3beb3580</guid>
       <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[General] 「CPAが安いリタゲ」は本当に成果か？ オーディエンスの訪問期間を分けて見えたこと</title>
+      <link>https://anagrams.jp/blog/retargeting-cpa-by-audience-period/</link>
+      <description>&lt;p&gt;リターゲティングのCPAが安いと、「うまくいっている」と感じやすいものです。実際、CVRも高く出やすく、成果が出ているように見える場面は少なくありません。 ただ、そのコンバージョン（以降、CV）は本当…&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/retargeting-cpa-by-audience-period/"&gt;「CPAが安いリタゲ」は本当に成果か？ オーディエンスの訪問期間を分けて見えたこと&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.</description>
+      <pubDate>2026-05-31T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d5dc0a907a3f</guid>
+      <category>アナグラム ブログ</category>
+    </item>
+    <item>
+      <title>[General] Website and Instant Forms Confusion</title>
+      <link>https://www.jonloomer.com/qvt/website-and-instant-forms-confusion/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/05/website-instant-forms-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="Website and Instant Forms Confusion" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="h</description>
+      <pubDate>2026-05-31T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5e6a1a1b73f7</guid>
+      <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Meta Ads] This is a simple playbook to running (and eventually scaling) ads on a small budget 💸</title>
+      <link>https://www.youtube.com/watch?v=5IOvZpF3tqs</link>
+      <description></description>
+      <pubDate>2026-05-31T00:00:00Z</pubDate>
+      <guid isPermaLink="false">037b3c3d5797</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Watch out for this mistake: Find what works, then never try anything else.</title>
+      <link>https://www.youtube.com/watch?v=MiFPg5XOvmQ</link>
+      <description>Get personal Meta Ads feedback from me (live) for less than $60 per session:
+👉 https://www.skool.com/benheath/about
+
+Let my agency run your Meta ads for you:
+👉 https://heathmedia.co.uk/done-for-you/
+
+If you’re new here — I’m Ben Heath.
+
+I run Heath Media, a marketing agency that helps businesses sca</description>
+      <pubDate>2026-05-31T00:00:00Z</pubDate>
+      <guid isPermaLink="false">37c17f71d017</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Website and Instant Forms Confusion</title>
+      <link>https://www.youtube.com/watch?v=TGYqelSC_CY</link>
+      <description>If you're not sure how to select only instant forms or a website landing page for a Leads campaign, it's because Meta buried those single options. Here's what you need to know...</description>
+      <pubDate>2026-05-31T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7f6a91fd2849</guid>
+      <category>Jon Loomer</category>
     </item>
     <item>
       <title>[General] Unlock Local Backlinks: Gemini Pro Deep Research Strategy #shorts</title>
@@ -789,144 +953,6 @@ I run Heath Media, a marketing agency that helps businesses sca</description>
       <pubDate>2026-05-22T00:00:00Z</pubDate>
       <guid isPermaLink="false">3af9e652a84c</guid>
       <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] LinkedIn Expands Ad Performance Verification: What Marketers Need to Know About Post-Bid Measurement on Audience Network</title>
-      <link>https://almcorp.com/blog/linkedin-expands-ad-performance-verification/</link>
-      <description>&lt;p&gt;LinkedIn has expanded ad performance verification by extending third-party measurement deeper into the LinkedIn Audience Network. For marketers, that is a meaningful update, not because it changes the fundamentals of B2B advertising overnight, but because it adds another layer of visibility into </description>
-      <pubDate>2026-05-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">24fcb52d868b</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] TikTok Hosts Paul McCartney LIVE Premiere for “The Boys of Dungeon Lane”: Inside the May 27 Q&amp;A and What It Signals for Music Marketing</title>
-      <link>https://almcorp.com/blog/tiktok-paul-mccartney-live-premiere-boys-of-dungeon-lane/</link>
-      <description>&lt;p&gt;When a 17-year-old short-form video app books an 83-year-old former Beatle for a global livestream Q&amp;#38;A, the gap between those two facts tells you almost everything you need to know about where music promotion is heading. On May 27, 2026, Sir Paul McCartney will sit down on TikTok LIVE to talk</description>
-      <pubDate>2026-05-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a6178efd0503</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] LinkedIn Is Reducing the Reach of Generic AI Content: What the Update Means for Brands, Creators, and B2B Marketing</title>
-      <link>https://almcorp.com/blog/linkedin-ai-generated-content-reach-update/</link>
-      <description>&lt;p&gt;LinkedIn has made its position clearer: using AI as a writing aid is one thing, but flooding the platform with generic, low-substance content is another. The platform is now taking more deliberate steps to reduce the reach of posts and comments that appear to be AI-generated and lack a clear huma</description>
-      <pubDate>2026-05-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ab121409ce38</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Microsoft Ads] All in on AI Series: Agentic Commerce</title>
-      <link>https://about.ads.microsoft.com/en/blog/post/may-2026/all-in-on-ai-series-agentic-commerce</link>
-      <description>AI agents are changing how consumers discover and buy. Here’s what brands need to win in the new ‘shortlist economy.’</description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b3d7672906df</guid>
-      <category>Microsoft Advertising Blog</category>
-    </item>
-    <item>
-      <title>[General] GML2026速報：AI主導の広告運用で押さえるべき主要発表と3つの備え</title>
-      <link>https://anagrams.jp/blog/gml2026/</link>
-      <description>&lt;p&gt;DSAの段階的廃止、入札・予算配分の自動化強化、AIが広告を自律構築する新フォーマット。2026年5月20日開催のGoogle Marketing Live 2026（GML2026）、今年も運用者に…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/gml2026/"&gt;GML2026速報：AI主導の広告運用で押さえるべき主要発表と3つの備え&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">50df8033fdad</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[General] How to Build an Experiments Portfolio for a Digital Agency: A Practical System for Faster Learning, Better Testing, and Stronger Client Results</title>
-      <link>https://almcorp.com/blog/experiments-portfolio-digital-agency/</link>
-      <description>&lt;p&gt;Most digital agencies say they believe in testing. Fewer actually build a system that turns testing into durable agency knowledge. That distinction matters. Running isolated experiments for individual clients can improve a landing page, an email sequence, a creative concept, or a checkout flow. B</description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1e26bbf5ba48</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] The Clinic Model for Audits: How Digital Agencies Turn Free Audits Into Paid Strategy Engagements and Retainers</title>
-      <link>https://almcorp.com/blog/clinic-model-for-audits-digital-agencies/</link>
-      <description>&lt;p&gt;Most digital agencies already know that audits can open doors. A quick SEO review, a paid media teardown, a landing page critique, or a CRM gap analysis can get a prospect to reply when a standard pitch gets ignored. The problem is not whether audits work. The problem is how they are usually deli</description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">21a478fbf04f</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Prompt Libraries for Agencies: How To Standardize AI Output Across Your Team</title>
-      <link>https://almcorp.com/blog/prompt-libraries-for-agencies/</link>
-      <description>&lt;p&gt;AI adoption inside agencies usually starts the same way. One strategist has a strong prompt for briefs. A copywriter has a different prompt for landing pages. A paid media manager keeps a private document full of ad variations. Someone in account management has figured out how to turn call notes </description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">0dd19541769a</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Pizza Hut Retro Restaurants: Why Red Cups, Salad Bars, and BOOK IT Are Back in 2026</title>
-      <link>https://almcorp.com/blog/pizza-hut-retro-restaurants-red-cups-salad-bars-book-it/</link>
-      <description>&lt;p&gt;For a lot of Americans, Pizza Hut was never just a pizza chain. It was a place. It had a look, a smell, a soundtrack, and a rhythm. There was the red roof outside, the stained-glass-style lamps inside, the red plastic cups on the table, the salad bar in the middle of the room, the [&amp;#8230;]&lt;/p&gt;
-&lt;</description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">936bf6c37d73</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Denny’s Live Without Campaign : How the Mozz Pit Burger and Anniversary Music Video Turned a Viral Meme Into a Limited-Time Launch</title>
-      <link>https://almcorp.com/blog/dennys-live-without-mozz-pit-burger-campaign/</link>
-      <description>&lt;p&gt;There are very few brand moments that begin as an unscripted scene, sit on the internet for years, gain a second life through reposts and references, and then return as an official campaign with the original creators involved. That is what makes Denny’s collaboration with Live Without worth exami</description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">0b2e737785c2</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Why SHEIN’s Reported Everlane Acquisition Sparked Backlash</title>
-      <link>https://almcorp.com/blog/shein-everlane-acquisition-backlash/</link>
-      <description>&lt;p&gt;For years, Everlane occupied a specific place in modern retail. It sold more than clothing. It sold a framework for buying clothing without feeling like the purchase was disconnected from ethics. The company built its identity around minimalist basics, factory transparency, cleaner materials, and</description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ae024de99fb6</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Sprite + Tea Is Returning as a Permanent Summer Release: What It Means, What It Tastes Like, and Why Coca-Cola Is Bringing It Back</title>
-      <link>https://almcorp.com/blog/sprite-tea-permanent-summer-release/</link>
-      <description>&lt;p&gt;Every year, beverage companies test new flavors in the hope that one of them will break out beyond a short promotional window and become part of the seasonal routine people actually anticipate. Most do not. Some generate curiosity for a week or two and then disappear. A smaller group manages to d</description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">16f7bcfb97fb</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Molson Coors Lager Luggage Collection: Full Guide to Prices, Products, Release Date, and the “Just Bring the Beer” Campaign</title>
-      <link>https://almcorp.com/blog/molson-coors-lager-luggage-collection/</link>
-      <description>&lt;p&gt;Summer travel campaigns tend to follow a familiar script. Brands lean on beach imagery, road-trip language, and the promise of easy weekends with friends. What made the Molson Coors Lager Luggage Collection stand out is that it pushed the seasonal idea further than most beverage campaigns do. Ins</description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">fa63bfd75762</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Heinz Glass Bottle Returns for the Brand’s 157th Year: What the Wieden+Kennedy Campaign Reveals About Packaging, Rituals and Brand Memory</title>
-      <link>https://almcorp.com/blog/heinz-glass-bottle-return-157-years-wieden-kennedy/</link>
-      <description>&lt;p&gt;For many brands, an anniversary campaign becomes an excuse to talk about themselves. They publish a timeline, revive an old logo, and ask the audience to care because the company has lasted a long time. Heinz took a more disciplined route with its 157th-year campaign. Instead of turning inward, i</description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">abb9330734f4</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[General] Cadbury Win For Your Squad Campaign Explained: VCCP, Declan Rice, Lauren James and Virgil van Dijk</title>
-      <link>https://almcorp.com/blog/cadbury-win-for-your-squad-campaign-vccp-declan-rice-lauren-james-virgil-van-dijk/</link>
-      <description>&lt;p&gt;Cadbury’s “Win For Your Squad” campaign is a football-led brand activation that takes a familiar promotional format and gives it a more social shape. Instead of centering the idea of one person winning for themselves, the campaign is built around the notion that a good win becomes more meaningful</description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">54d5d53a39b7</guid>
-      <category>ALM Corp Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Marketing Live 2026 Recap &amp; Analysis [Inside Google Ads Episode 121]</title>
-      <link>https://www.youtube.com/watch?v=YBSwn_fFLsk</link>
-      <description>It's hours after #GML2026, and Inside Google Ads host Jyll Saskin Gales is reporting live from Google's headquarters in Mountain View, California with special guest Ginny Marvin, Ads Product Liaison at Google and host of the Ads Decoded podcast. In this special episode, Jyll and Ginny share the bigg</description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e285c59e5ebe</guid>
-      <category>Jyll Saskin Gales (The Google Pro)</category>
-    </item>
-    <item>
-      <title>[General] Google Marketing Live 2026: Biggest Takeaway! #GML2026</title>
-      <link>https://www.youtube.com/watch?v=354SMkrOlsQ</link>
-      <description></description>
-      <pubDate>2026-05-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">bc14d423521b</guid>
-      <category>Jyll Saskin Gales (The Google Pro)</category>
     </item>
   </channel>
 </rss>
