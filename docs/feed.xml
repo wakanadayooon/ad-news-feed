@@ -5,7 +5,7 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 12:49:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 11:47:01 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>[Meta Ads] The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America</title>
@@ -22,6 +22,32 @@
       <pubDate>2026-06-12T00:00:00Z</pubDate>
       <guid isPermaLink="false">155981bb8983</guid>
       <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] The most surprising change money brings</title>
+      <link>https://www.youtube.com/watch?v=vz6uziDbIdM</link>
+      <description></description>
+      <pubDate>2026-06-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f4282d113aac</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Blind Ranking: Best Business Movies</title>
+      <link>https://www.youtube.com/watch?v=uZDAKqsI7vE</link>
+      <description></description>
+      <pubDate>2026-06-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6d58a7105bc9</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] I Analyzed $1 Billion in Ad Spend (These 9 Hooks Win Every Time)</title>
+      <link>https://www.youtube.com/watch?v=I8tXqqfjIX4</link>
+      <description>Want higher hook rates, lower CPMs, and more profitable Meta ads? 
+
+In this video, Dara Denney breaks down the 9 hook formulas behind 20,000+ winning Meta ads and over $1 billion in analyzed ad spend. Learn the exact hook structures her agency is using to improve Facebook and Instagram ad performanc</description>
+      <pubDate>2026-06-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f0c6f85341f5</guid>
+      <category>Dara Denney</category>
     </item>
     <item>
       <title>[Google Ads] We’re bringing Walmart Connect to Display &amp; Video 360.</title>
@@ -865,39 +891,6 @@ Profitable Search, Shopping or Perfo</description>
       <pubDate>2026-06-02T00:00:00Z</pubDate>
       <guid isPermaLink="false">d9231252398d</guid>
       <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Data Manager API now supports sending events to Google Marketing Platform destinations and IP ingestion for Google Ads Customer Match</title>
-      <link>http://ads-developers.googleblog.com/2026/05/data-manager-api-now-supports-sending.html</link>
-      <description>&lt;p&gt;
-  &lt;strong&gt;Google Marketing Platform event ingestion &lt;/strong&gt;
-&lt;/p&gt;
-&lt;p&gt;
-  The Data Manager API has introduced support for
-  &lt;a
-    href="https://developers.google.com/data-manager/api/devguides/events/send-events?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-dm-api-r5b&amp;utm_conten</description>
-      <pubDate>2026-06-01T00:00:00Z</pubDate>
-      <guid isPermaLink="false">7e39ed6bb912</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] The “What” and “Why” on Meridian: Ads DevCast E6</title>
-      <link>http://ads-developers.googleblog.com/2026/05/the-what-and-why-on-meridian-ads.html</link>
-      <description>&lt;p&gt;
-Measuring the true impact of your marketing spend is complex, especially when you look across channels and mediums. In Episode 6 of Google’s Ads DevCast, "The 'What' and 'Why' on Meridian," we sit down with Product Manager Katie Munro and Developer Relations Engineer Jeff Li to explore Meridian,</description>
-      <pubDate>2026-06-01T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a8bad015d879</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Display &amp; Video 360 API will start supporting Demand Gen resources on June 10, 2026</title>
-      <link>http://ads-developers.googleblog.com/2026/05/display-video-360-api-will-start.html</link>
-      <description>&lt;p&gt;
-Today we’re announcing the upcoming rollout of Demand Gen resource support to all Display &amp; Video 360 API users starting on &lt;strong&gt;June 10, 2026&lt;/strong&gt;. This feature will be rolled out to Display &amp; Video 360 partners over two weeks. By June 24, the feature will be available to all partners.
-&lt;</description>
-      <pubDate>2026-06-01T00:00:00Z</pubDate>
-      <guid isPermaLink="false">c756f631466a</guid>
-      <category>Google Ads Developer Blog</category>
     </item>
   </channel>
 </rss>
