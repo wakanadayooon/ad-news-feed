@@ -5,8 +5,16 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 12:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 11:19:58 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] AI SEO Strategy: Unlock Google Rankings with Claude #shorts</title>
+      <link>https://www.youtube.com/watch?v=OyrnBrbPHyE</link>
+      <description>Leveraging AI like Claude for SEO: transform existing blog posts into a comprehensive content strategy. Prioritize new content, map URL structures, and target keywords for guaranteed ranking. #AIContentStrategy #GoogleAds #SEO #ClaudeAI #ContentMarketing</description>
+      <pubDate>2026-06-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5bc863c3e93e</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google Ads] White Label Google Ads: Agency Growth Strategy Revealed! #shorts</title>
       <link>https://www.youtube.com/watch?v=DP_yK6ZPLE0</link>
@@ -21,6 +29,54 @@
       <description></description>
       <pubDate>2026-06-26T00:00:00Z</pubDate>
       <guid isPermaLink="false">4cebedc60fff</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Inside One of Meta’s Data Centers</title>
+      <link>https://about.fb.com/news/2026/06/inside-meta-data-center/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/06/Tom-Shaw-pointing-thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/06/Tom-Shaw-pointing-thumb</description>
+      <pubDate>2026-06-26T00:00:00Z</pubDate>
+      <guid isPermaLink="false">bf731a510062</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] My first business failure</title>
+      <link>https://www.youtube.com/watch?v=-vdA0zsfO5M</link>
+      <description></description>
+      <pubDate>2026-06-26T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c879d602b61c</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] A Meta AI engineer just explained the future of paid advertising</title>
+      <link>https://www.youtube.com/watch?v=5aY2jcvqcOA</link>
+      <description></description>
+      <pubDate>2026-06-26T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8f74ae29f75e</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Creating a tagline for... Feastables</title>
+      <link>https://www.youtube.com/watch?v=wgIeDxbomXY</link>
+      <description></description>
+      <pubDate>2026-06-26T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9d856a20d841</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[General] Orthodontics Web Design - Drive More Calls and Patients with Web Design For Orthodontists</title>
+      <link>https://www.youtube.com/watch?v=IZXX5iL_s5k</link>
+      <description></description>
+      <pubDate>2026-06-26T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c6796f54a16b</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Google Ads] Healthcare Marketing Strategies To Grow Your Medical Practice</title>
+      <link>https://www.youtube.com/watch?v=64q2HJLTRDA</link>
+      <description>Discover everything you need to know about Healthcare Marketing Strategies so you can drive more leads with professional web design, Search Engine Optimization, Google Ads, Local Services Ads, Reputation Management, and Customer Email/SMS.</description>
+      <pubDate>2026-06-26T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5d62ddff7b4d</guid>
       <category>Surfside PPC</category>
     </item>
     <item>
@@ -829,75 +885,6 @@ We'll star</description>
       <pubDate>2026-06-16T00:00:00Z</pubDate>
       <guid isPermaLink="false">5bc958b9210e</guid>
       <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] White Label Google Ads Management - Surfside PPC Podcast Episode 23</title>
-      <link>https://www.youtube.com/watch?v=qTveF6_5rpg</link>
-      <description>*My Google Ads Course is Updated and $34.99/Year: https://surfsideppc.com/products/google-ads-course
-**Join Surfside PPC Premium For $5/Month: https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/join
-***Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
-****Hire Me Fo</description>
-      <pubDate>2026-06-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4b086894da5b</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Dynamic Search Ads (DSA) Automigration Delayed to February 2027 and Campaign Creation Restored</title>
-      <link>http://ads-developers.googleblog.com/2026/06/dynamic-search-ads-dsa-automigration.html</link>
-      <description>&lt;h2&gt;What is changing?&lt;/h2&gt;
-
-
-&lt;p&gt;
-Google is extending the timeline for the transition of &lt;a target="_blank" href="https://developers.google.com/google-ads/api/docs/dynamic-search-ads/overview?utm_campaign=adr-google-ads-api-dsa-automigration-extension&amp;utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm</description>
-      <pubDate>2026-06-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9793e595748a</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Introducing the Google Ads API Developer Assistant v3.0.0</title>
-      <link>http://ads-developers.googleblog.com/2026/06/introducing-google-ads-api-developer.html</link>
-      <description>&lt;p&gt;
-We are pleased to announce the release of &lt;strong&gt;v3.0.0&lt;/strong&gt; of the &lt;strong&gt;&lt;a target="_blank" href="https://developers.google.com/google-ads/api/docs/developer-toolkit/ai-assistant?utm_campaign=adr-google-ads-api-developer-assistatn_v3_0_0&amp;utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_</description>
-      <pubDate>2026-06-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">77b3c4cb7d55</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] June 2026 update to the Display &amp; Video 360 API</title>
-      <link>http://ads-developers.googleblog.com/2026/06/june-2026-update-to-display-video-360.html</link>
-      <description>&lt;p&gt;
-Today we’re launching the June 2026 update to the Display &amp; Video 360 API. This update includes the following:
-&lt;/p&gt;&lt;ul&gt;
-
-&lt;li&gt;Support for &lt;a target="_blank" href="https://developers.google.com/display-video/api/structured-data-file/rel-notes?utm_campaign=adr-dv360api-update-jun2026&amp;utm_source=goo</description>
-      <pubDate>2026-06-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">da7cef33c655</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Toggle on the Google Mobile Ads Next-Gen SDK in your Unity apps</title>
-      <link>http://ads-developers.googleblog.com/2026/06/toggle-on-google-mobile-ads-next-gen.html</link>
-      <description>&lt;p&gt;We are thrilled to announce the &lt;a href="https://developers.google.com/admob/unity/android-next?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-gmanextgensdk-ga&amp;utm_content=unity-toggle"&gt;Google Mobile Ads (GMA) Next-Gen SDK for Android&lt;/a&gt; is now officially available for Unity deve</description>
-      <pubDate>2026-06-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f29aacb19b67</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Launching Structured Data Files v10</title>
-      <link>http://ads-developers.googleblog.com/2026/06/launching-structured-data-files-v10.html</link>
-      <description>&lt;p&gt;
-Today we’re announcing the general availability of &lt;a target="_blank" href="https://developers.google.com/display-video/api/structured-data-file/format?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-sdf-v10-launch-announcment&amp;utm_content=learnmore-refdocs#v10"&gt;Structured Data Fil</description>
-      <pubDate>2026-06-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">82518acb3032</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] How a YouTube vid got me recognised at Hormozi's event</title>
-      <link>https://www.youtube.com/watch?v=lrJnlzuXF1k</link>
-      <description></description>
-      <pubDate>2026-06-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">18c793a6d2bd</guid>
-      <category>Ben Heath</category>
     </item>
   </channel>
 </rss>
