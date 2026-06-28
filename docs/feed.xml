@@ -5,8 +5,101 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 11:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 11:41:14 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] July 2026 changes for Display &amp; Video 360 API and Structured Data Files</title>
+      <link>http://ads-developers.googleblog.com/2026/06/july-2026-changes-for-display-video-360.html</link>
+      <description>&lt;p&gt;
+Today we’re announcing two unversioned changes to the Display &amp; Video 360 API and Structured Data Files that will take effect on &lt;strong&gt;July 13, 2026&lt;/strong&gt; and may impact your existing integrations.
+&lt;/p&gt;
+&lt;p&gt;
+The following changes have been fully detailed on our &lt;a target="_blank" href="https</description>
+      <pubDate>2026-06-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8f14709d8407</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Unlocking Data Strength with Data Manager API: Ads DevCast E7</title>
+      <link>http://ads-developers.googleblog.com/2026/06/unlocking-data-strength-with-data.html</link>
+      <description>&lt;div class="separator" style="clear: both;"&gt;&lt;a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijPIUSUhvT_GEvIKTc-opFKMky5-YCXNWb9GDugn2R1RLcWjRb0OnTGJFQ_rgYCc6UqQGVCk1PlQmhU6O0BZtRVK-o_hsRv8x2R5dRNHADDyyfQef9yy3nA36s9_K0f23OW5rB87xOzg7nd4wTQb5zNnqhOoqfvJSX7VRLpvgZdny_Hx_xUtdteASptL</description>
+      <pubDate>2026-06-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f5e488298525</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads API v21 sunset reminder</title>
+      <link>http://ads-developers.googleblog.com/2026/06/google-ads-api-v21-sunset-reminder.html</link>
+      <description>&lt;p&gt;
+Google Ads API v21 will &lt;a href="https://developers.google.com/google-ads/api/docs/sunset-dates?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-v20-sunset&amp;utm_content=readmore-deprecationandsunset"&gt;sunset&lt;/a&gt; on August 5, 2026. Starting on this date, all v21 API requests will begi</description>
+      <pubDate>2026-06-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">28fd3a6cb67b</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Multi-party approvals in the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/06/multi-party-approvals-in-google-ads-api.html</link>
+      <description>&lt;p&gt;
+As part of improving security for Google Ads accounts, the &lt;a href="https://developers.google.com/google-ads/api?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-passkeys-june2026&amp;utm_content=learnmore-api"&gt;Google Ads API&lt;/a&gt; will start requiring multi-party approvals when p</description>
+      <pubDate>2026-06-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ceab38c5f86e</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Announcing v24.2 of the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/06/announcing-v242-of-google-ads-api.html</link>
+      <description>&lt;p&gt;
+Today, we’re announcing the v24.2 release of the &lt;a target="_blank" href="https://developers.google.com/google-ads/api?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-release-v24_2&amp;utm_content=learnmore-api"&gt;Google Ads API&lt;/a&gt;. This minor release brings critical security up</description>
+      <pubDate>2026-06-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">723e9b4f0298</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] More autonomy, less context: Introducing Agent Skills for Google Advertising and Measurement</title>
+      <link>http://ads-developers.googleblog.com/2026/06/more-autonomy-less-context-introducing.html</link>
+      <description>&lt;p&gt;
+The way developers build and integrate software is changing. With the rapid adoption of AI-powered coding assistants, we are launching a dedicated set of Google Advertising and Measurement agent skills in the &lt;strong&gt;&lt;a href="https://github.com/google/skills"&gt;Google skills repository&lt;/a&gt;&lt;/strong</description>
+      <pubDate>2026-06-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">026c430e4860</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Changes to Support for Smart Campaigns in the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/06/changes-to-support-for-smart-campaigns.html</link>
+      <description>&lt;p&gt;
+Starting on August 3, 2026 you will no longer be able to create new &lt;a href="https://developers.google.com/google-ads/api/docs/smart-campaigns/overview"&gt;Smart Campaigns&lt;/a&gt; using the Google Ads API. You will still be able to update your existing Smart Campaigns, and they will continue to serve a</description>
+      <pubDate>2026-06-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9e8780c4044a</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Updates to Smart Bidding Strategy Naming and Organization in Google Ads</title>
+      <link>http://ads-developers.googleblog.com/2026/06/updates-to-smart-bidding-strategy.html</link>
+      <description>&lt;p&gt;
+Starting in June 2026, Google Ads is updating how bidding strategies are labeled to offer greater clarity between volume-focused and target-focused goals.
+&lt;/p&gt;
+&lt;p&gt;
+As part of this update, we are decoupling &lt;strong&gt;Target CPA&lt;/strong&gt; and &lt;strong&gt;Target ROAS&lt;/strong&gt; from Maximize conversions and</description>
+      <pubDate>2026-06-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d300fcced0d9</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[General] Unlock SEO Clients: Niche Marketing Agency Website Strategy #shorts</title>
+      <link>https://www.youtube.com/watch?v=lYauK2YMhSI</link>
+      <description>Small practices, listen up! Stop undercharging. Master SEO keyword research by creating specific service pages. Dentist PPC advertising, AI marketing, and more – rank for every niche search. #SEOTips #DigitalMarketing #MarketingAgency #SmallBusiness #DentistMarketing</description>
+      <pubDate>2026-06-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b95e22aa70be</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Meta Ads] "I Need a Specific Audience"</title>
+      <link>https://www.youtube.com/watch?v=LEMpnocGS1I</link>
+      <description>Why did Meta make this change? The "further limit the reach of your ads" button was changed to "I need a specific audience." These changes are typically made for a reason. Does Meta have future plans for this section?</description>
+      <pubDate>2026-06-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d10564cd79d1</guid>
+      <category>Jon Loomer</category>
+    </item>
     <item>
       <title>[Google Ads] AI SEO Strategy: Unlock Google Rankings with Claude #shorts</title>
       <link>https://www.youtube.com/watch?v=OyrnBrbPHyE</link>
@@ -14,6 +107,30 @@
       <pubDate>2026-06-27T00:00:00Z</pubDate>
       <guid isPermaLink="false">5bc863c3e93e</guid>
       <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Meta Ads] The traits of successful entrepreneurs</title>
+      <link>https://www.youtube.com/watch?v=5BWys8E6k88</link>
+      <description></description>
+      <pubDate>2026-06-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c73aefaf75f5</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Paid Ads vs Organic Content: How to grow your business online</title>
+      <link>https://www.youtube.com/watch?v=tPT8QjRz-Yo</link>
+      <description></description>
+      <pubDate>2026-06-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d3412e35cb31</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] What I gave up to build a $300M agency</title>
+      <link>https://www.youtube.com/watch?v=PHVpZRtMmAY</link>
+      <description></description>
+      <pubDate>2026-06-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8e40eaf37544</guid>
+      <category>Ben Heath</category>
     </item>
     <item>
       <title>[Google Ads] White Label Google Ads: Agency Growth Strategy Revealed! #shorts</title>
@@ -769,122 +886,6 @@ So what is the takeaway from all of this other than AI? Your Shoppin</descriptio
       <pubDate>2026-06-17T00:00:00Z</pubDate>
       <guid isPermaLink="false">6bc9371a148f</guid>
       <category>PPC Hero (Brainlabs)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] The key 3 components every ad needs</title>
-      <link>https://www.youtube.com/watch?v=zhc0aX92Z6o</link>
-      <description></description>
-      <pubDate>2026-06-17T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e674163dc5de</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta HQ EXCLUSIVE: Is their Business AI a Yes man?</title>
-      <link>https://www.youtube.com/watch?v=yAQYbOWh4UM</link>
-      <description></description>
-      <pubDate>2026-06-17T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d7c95f8d9749</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] From Click To Closed Deal: What's Missing In Google Ads Accounts | Aashna Makin | PPC Zone June 2026</title>
-      <link>https://www.youtube.com/watch?v=VLGhxbhkc5o</link>
-      <description>Aashna Makin makes it nearly impossible for businesses to lose money on ads. She specializes in Google and Facebook Ads for North American local service businesses, building paid media systems focused on profitable growth instead of vanity metrics. Across multiple industries, Aashna has managed and </description>
-      <pubDate>2026-06-17T00:00:00Z</pubDate>
-      <guid isPermaLink="false">0df999c01d12</guid>
-      <category>Jyll Saskin Gales (The Google Pro)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Customer Match: Unlock Hidden Audiences for Google Ads #shorts</title>
-      <link>https://www.youtube.com/watch?v=OAqI_BotQwg</link>
-      <description>Learn how Google Customer Match uses your data to find and target high-value customers. Securely match emails, phone numbers, and addresses to expand your reach and improve ad performance. #CustomerMatch #GoogleAds #DigitalMarketing #AudienceTargeting #MarketingTips</description>
-      <pubDate>2026-06-17T00:00:00Z</pubDate>
-      <guid isPermaLink="false">65c7ec3d79bc</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads For Dermatologists   Paid Advertising to Drive Dermatology Leads</title>
-      <link>https://www.youtube.com/watch?v=yOy5JEGqd_Q</link>
-      <description>*Join Surfside PPC Premium To Get Access To Our Marketing Courses &amp; Community : https://surfsideppc.com/a/members/community/
-**Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
-***Hire Me For Consulting: https://surfsideppc.com/products/google-ads-consulting
-
-Join the Sur</description>
-      <pubDate>2026-06-17T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1af4c65f0e6f</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] New Features to Celebrate 500 Million Monthly Users on Threads</title>
-      <link>https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/06/Threads-Reaches-500M-Monthly-Active-Users_Heres-Whats-Next_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-conten</description>
-      <pubDate>2026-06-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e4c24201b4fd</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] How Many Meta Ads Campaigns Should You Have at Once?</title>
-      <link>https://www.jonloomer.com/how-many-meta-ads-campaigns/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/06/how-many-meta-ads-campaigns-300x157.png" class="attachment-medium size-medium wp-post-image" alt="How Many Meta Ads Campaigns Should You Have at Once?" style="margin-bottom: 15px;" decoding="async" srcset="h</description>
-      <pubDate>2026-06-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9ec7e8013551</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[Meta Ads] My first ad campaign as a $300M Advertiser</title>
-      <link>https://www.youtube.com/watch?v=NWsU_ingAAY</link>
-      <description></description>
-      <pubDate>2026-06-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a191ba9cd247</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] Server-Side GTM Setup – Part 5 – Block Bots &amp; Clean Up Your Data</title>
-      <link>https://www.youtube.com/watch?v=9SBQT556JoM</link>
-      <description>In this server-side tagging tutorial, I'll show you how to use three Stape power-ups to clean up your data and improve the accuracy of your reports. To make server-side tagging simple to set up and manage, I recommend using Stape. Get started with Stape at https://lnk.stape.io/LovesData5
-
-We'll star</description>
-      <pubDate>2026-06-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">60a568f84763</guid>
-      <category>Loves Data</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Blind Ranking: Meta Ad Formats</title>
-      <link>https://www.youtube.com/watch?v=IGhbQpepDcs</link>
-      <description></description>
-      <pubDate>2026-06-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">afc0f49bca8c</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Nike x NY Knicks was GENIUS</title>
-      <link>https://www.youtube.com/watch?v=HTiJy_dmIyA</link>
-      <description></description>
-      <pubDate>2026-06-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">38ab265bfe0a</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] Ultimate SEO Keyword Research Tutorial 2026</title>
-      <link>https://www.youtube.com/watch?v=3qFvEJqXvrA</link>
-      <description>*My Google Ads Course is Updated and $34.99/Year: https://surfsideppc.com/products/google-ads-course
-**Join Surfside PPC Premium For $5/Month: https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/join
-***Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
-****Hire Me Fo</description>
-      <pubDate>2026-06-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d0d13e305a9f</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] White Label Google Ads Management - Surfside PPC Podcast Episode 23</title>
-      <link>https://www.youtube.com/watch?v=12g4I_IASzs</link>
-      <description>*My Google Ads Course is Updated and $34.99/Year: https://surfsideppc.com/products/google-ads-course
-**Join Surfside PPC Premium For $5/Month: https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw/join
-***Get 2 Free Google Ads Training Videos: https://surfsideppc.com/pages/training
-****Hire Me Fo</description>
-      <pubDate>2026-06-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">5bc958b9210e</guid>
-      <category>Surfside PPC</category>
     </item>
   </channel>
 </rss>
