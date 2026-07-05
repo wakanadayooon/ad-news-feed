@@ -5,7 +5,7 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 11:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 11:22:59 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>[Google Ads] Unlock Google Ads: Your Ultimate Keyword Strategy #shorts</title>
@@ -13,6 +13,16 @@
       <description>Tired of Google Keyword Planner? Claude generates 60 unique topics for Google Ads, from beginner tutorials to niche strategies like law firm ads. Discover trending content formats. #GoogleAds #ClaudeAI #KeywordResearch #DigitalMarketing #ContentStrategy</description>
       <pubDate>2026-07-04T00:00:00Z</pubDate>
       <guid isPermaLink="false">f3f15b1b6d21</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[General] Google June 2026 Spam Update</title>
+      <link>https://www.youtube.com/watch?v=QH3fI7ws8FI</link>
+      <description>The Google June 2026 spam update finished rolling out on June 26, 2026, and if your site went against one of Google's spam policies, that's the day you probably saw your rankings drop. This was a quick rollout, just Google improving how it detects spam in the search results.
+
+In this video I walk th</description>
+      <pubDate>2026-07-04T00:00:00Z</pubDate>
+      <guid isPermaLink="false">063ac4723a23</guid>
       <category>Surfside PPC</category>
     </item>
     <item>
@@ -867,14 +877,6 @@ Join the Sur</description>
       <pubDate>2026-06-22T00:00:00Z</pubDate>
       <guid isPermaLink="false">461ba971adb0</guid>
       <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[General] Ads are coming to ChatGPT…</title>
-      <link>https://www.youtube.com/watch?v=683RQsvSJ_8</link>
-      <description>Ads are coming to ChatGPT, is this the beginning of the end?</description>
-      <pubDate>2026-06-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">5a7bf75ae329</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
     </item>
   </channel>
 </rss>
