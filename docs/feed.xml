@@ -5,8 +5,45 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 12:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 11:41:34 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Accelerate Google Ads API Basic Access reviews with brand verification</title>
+      <link>http://ads-developers.googleblog.com/2026/07/accelerate-google-ads-api-basic-access.html</link>
+      <description>&lt;p&gt;
+Today, we are launching a pilot process to expedite the &lt;a target="_blank" href="https://developers.google.com/google-ads/api/docs/api-policy/access-levels#how-to-apply-for-basic-access?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-brand-verification-may2026&amp;utm_content=l</description>
+      <pubDate>2026-07-08T00:00:00Z</pubDate>
+      <guid isPermaLink="false">927fad26515d</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] How to Optimise Performance Max Campaigns</title>
+      <link>https://www.youtube.com/watch?v=u8JTK-MZfoU</link>
+      <description>👉 Get Help with your Google Ads from Aaron &amp; the DDA Team: https://www.definedigitalacademy.com/how-can-we-help
+
+👉 Get Free Access to my "Keywords &amp; SWOT Analysis Tool for Google Ads" here: https://www.definedigitalacademy.com/claude-toolkit
+
+🤑 Plus remember if you want full access plus get real sup</description>
+      <pubDate>2026-07-08T00:00:00Z</pubDate>
+      <guid isPermaLink="false">31f91e577c75</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Launch Strategy: Search First, Then PMax #shorts</title>
+      <link>https://www.youtube.com/watch?v=JknB8ZBX4fs</link>
+      <description>Launching Google Ads? Start with Search campaigns to define your services and landing pages, letting Google learn from your data. Consider Performance Max later for broader reach once you have conversion history. Avoid cannibalization and leverage branded traffic to train the algorithm. #GoogleAds #</description>
+      <pubDate>2026-07-08T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3f66dee0e1ec</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Meta Ads] I Published a Document That I Didn't Write</title>
+      <link>https://www.youtube.com/watch?v=jCMkOMuK-8o</link>
+      <description>For fifteen years Jon has written every word on his blog, so publishing an AI-generated post cut against everything he believes about content. But the master brief behind it was consolidated entirely from his own work and labeled as AI up front. Jon explains why transparency and a real problem to so</description>
+      <pubDate>2026-07-08T00:00:00Z</pubDate>
+      <guid isPermaLink="false">59f3b843a874</guid>
+      <category>Jon Loomer</category>
+    </item>
     <item>
       <title>[Google Ads] Announcing Google Mobile Ads Next-Gen SDK as the preferred SDK for Android</title>
       <link>http://ads-developers.googleblog.com/2026/07/announcing-google-mobile-ads-next-gen.html</link>
@@ -30,6 +67,54 @@ Google Mobile Ads (GMA) Next-Gen SDK is now the preferred SDK for Android develo
       <description>Major Google Ads changes are coming August 17th! Learn about Smart Bidding Exploration and the significant Bidding Target Optimization update. Prepare your campaigns now. #GoogleAds #SmartBidding #ROAS #CPATargeting #DigitalMarketing</description>
       <pubDate>2026-07-07T00:00:00Z</pubDate>
       <guid isPermaLink="false">7695969bff55</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta’s AI Glasses: Your Questions Answered</title>
+      <link>https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Metas-AI-Glasses_Your-Questions-Answered_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/</description>
+      <pubDate>2026-07-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6cad8fd094a7</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Introducing Muse Image: Image Generation Built for Your World</title>
+      <link>https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Muse-Image_Thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/Muse-Image_Thumbnail.gif?w=192</description>
+      <pubDate>2026-07-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">849d1a897954</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Our Work to Fight Child Exploitation on Our Apps</title>
+      <link>https://about.fb.com/news/2026/07/our-work-to-fight-child-exploitation-on-our-apps/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-8.11.24-PM.png?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/Screenshot-2026</description>
+      <pubDate>2026-07-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">cb5eaa8cd773</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Reviewing A+++ Meta Ads</title>
+      <link>https://www.youtube.com/watch?v=5avdnTUIE9c</link>
+      <description></description>
+      <pubDate>2026-07-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2e439dfe5b4d</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[General] PPC Competitor Analysis Tools - Surfside PPC Podcast Episode 26</title>
+      <link>https://www.youtube.com/watch?v=TizUsRk0m28</link>
+      <description>PPC competitive analysis tools in 2026 can tell you what your competitors are bidding on, spending, and running for ad copy, but the truth is you don't need an expensive paid tool to do most of it. This is episode 26 of the Surfside PPC podcast, walking through the free and paid tools I actually use</description>
+      <pubDate>2026-07-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">10c84012c608</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[General] PPC Competitor Analysis Tools - Surfside PPC Podcast Episode 26</title>
+      <link>https://www.youtube.com/watch?v=ffTPy2wrpio</link>
+      <description>PPC competitive analysis tools in 2026 can tell you what your competitors are bidding on, spending, and running for ad copy, but the truth is you don't need an expensive paid tool to do most of it. This is episode 26 of the Surfside PPC podcast, walking through the free and paid tools I actually use</description>
+      <pubDate>2026-07-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5bda84ce7196</guid>
       <category>Surfside PPC</category>
     </item>
     <item>
@@ -791,91 +876,6 @@ In this video, I break down the four foundations every </description>
       <pubDate>2026-06-24T00:00:00Z</pubDate>
       <guid isPermaLink="false">996b65fc6ae4</guid>
       <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Unlock E-commerce PPC: Target Nike &amp; Adidas Keywords! #shorts</title>
-      <link>https://www.youtube.com/watch?v=IxaezVkuXMQ</link>
-      <description>Discover how to dominate Google Ads for e-commerce. Break down categories like footwear and indoor soccer cleats. Target specific searches and build effective campaigns for maximum ROI. #EcommerceTips #GoogleAds #KeywordResearch #PPCStrategy</description>
-      <pubDate>2026-06-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f04a7be2d245</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Display Ads Going Away</title>
-      <link>https://www.youtube.com/watch?v=WVhVP6bJvsw</link>
-      <description>Google Ads recently announced that traditional Display Ads will be transitioning to Demand Gen campaigns by 2027. This video will go over the full timeline of this transition. Then we'll cover the main differences between the two campaign types so you can better prep for this change.
-
-0:35 - Timelin</description>
-      <pubDate>2026-06-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3f961a7d69aa</guid>
-      <category>Paid Media Pros</category>
-    </item>
-    <item>
-      <title>[Meta Ads] 15 Years In, Meta's Broken System Finally Came for Me</title>
-      <link>https://www.youtube.com/watch?v=ZKaMmfR2VYM</link>
-      <description>Jon's profile was incorrectly flagged for suspicious activity while posting in his own private Facebook group, and after identity verification failed without explanation, he was locked out of group activity with no timeline or recourse. He wasn't violating any rules, and Meta isn't even claiming he </description>
-      <pubDate>2026-06-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e935009a41c7</guid>
-      <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Campaign Structure in Andromeda Era</title>
-      <link>https://ppchero.com/meta-campaign-structure-in-andromeda-era/</link>
-      <description>&lt;p&gt;For years, we built increasingly complex account structures - based on micro planets - to help Meta find the right people. Today, Meta is much better at finding those people than we are.&lt;/p&gt;
-&lt;p&gt;Our job is no longer to build endless audience combinations or separate every stage of the funnel into </description>
-      <pubDate>2026-06-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">31c64f9bbe6b</guid>
-      <category>PPC Hero (Brainlabs)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] The craziest thing I did to get clients...</title>
-      <link>https://www.youtube.com/watch?v=cKSJ_Wtb7kE</link>
-      <description></description>
-      <pubDate>2026-06-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">0a6d2d60a796</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Bad Preparation = Millions Lost REVEALED</title>
-      <link>https://www.youtube.com/watch?v=D0KjgVIVH98</link>
-      <description></description>
-      <pubDate>2026-06-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3dca6e0a9bdc</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Enabled Conversion Based Customer Lists By Default</title>
-      <link>https://www.youtube.com/watch?v=kAhgopfLvqQ</link>
-      <description>Google is auto-enabling conversion-based customer lists on August 18th  and most accounts will get switched on without their owners even noticing. Here's how to take control before Google's automation takes your budget.
-
-If you're running Customer Match + Enhanced Conversions, this update is mandato</description>
-      <pubDate>2026-06-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4193c38c472f</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Expanding financial advertiser verification across Europe</title>
-      <link>https://blog.google/products/ads-commerce/eu-financial-advertiser-verification/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EU_Ads_Safety_hero.max-600x600.format-webp.webp"&gt;Google is expanding its mandatory financial advertiser verification program across the EU to help people find services they can trust.</description>
-      <pubDate>2026-06-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">10444fca15e7</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[General] 7月8日（水）開催／【2026年最新】AIに選ばれ、人に指名されるWeb集客の新基準（無料オンラインセミナー）</title>
-      <link>https://www.kwm.co.jp/blog/seminar/20260708/</link>
-      <description>このセミナーはこのような方におすすめです 登壇企業・登壇内容のご紹介 第1部：サクラサクマーケティング株式会社 検索行動激変の時代を生き抜く：AIに選ばれるためのLLMO戦略 検索利用の56%がAIへ移行している現在、W &amp;#8230; &lt;p class="link-more"&gt;&lt;a href="https://www.kwm.co.jp/blog/seminar/20260708/" class="more-link"&gt;&lt;span class="screen-reader-text"&gt;"7月8日（水）開催／【2026年最新】AIに選ばれ、人に指名されるWeb集客の新基準（無料オンラインセミナ</description>
-      <pubDate>2026-06-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4b972912f109</guid>
-      <category>キーマケのブログ</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta just announced a HUGE change to the creator marketplace 🤯</title>
-      <link>https://www.youtube.com/watch?v=4NDQ4jYt2nU</link>
-      <description></description>
-      <pubDate>2026-06-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b0e23df1899e</guid>
-      <category>Ben Heath</category>
     </item>
   </channel>
 </rss>
