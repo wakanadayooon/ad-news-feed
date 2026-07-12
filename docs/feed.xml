@@ -5,8 +5,16 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 10:54:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 11:04:21 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Eliminate Bad Keywords: Your NEW Negative Keyword Strategy #shorts</title>
+      <link>https://www.youtube.com/watch?v=FMGN8a1CjnE</link>
+      <description>Stop wasting ad spend on irrelevant searches. Learn to add negative keywords at the account or campaign level to block terms like 'free reviews' or 'Bloomberg'. #NegativeKeywords #AdWordsTips #PPC #DigitalMarketing</description>
+      <pubDate>2026-07-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ad409f311a95</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google Ads] Unlock Buyer Intent: Rank for 'Money Keywords' Now! #shorts</title>
       <link>https://www.youtube.com/watch?v=0TqP9uWcc48</link>
@@ -22,6 +30,22 @@
       <pubDate>2026-07-11T00:00:00Z</pubDate>
       <guid isPermaLink="false">0c688e62f865</guid>
       <category>Loves Data</category>
+    </item>
+    <item>
+      <title>[Meta Ads] $300M worth of Meta Ad Advice in 60 seconds</title>
+      <link>https://www.youtube.com/watch?v=fsYoVNydwdo</link>
+      <description></description>
+      <pubDate>2026-07-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">85596d308f7b</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] AI Traffic: ChatGPT, Gemini &amp; Perplexity Referrals #shorts</title>
+      <link>https://www.youtube.com/watch?v=ghlZkGjScvU</link>
+      <description>Discover how AI tools like ChatGPT, Gemini, and Perplexity are driving referral traffic. Learn to track AI visibility and understand informational search trends. #AISearch #ChatGPT #GoogleAnalytics #DigitalMarketing #SEO</description>
+      <pubDate>2026-07-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">bc4f22fc7519</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[Google Ads] Google Local Services Ads for Real Estate Agents: New Feature! #shorts</title>
@@ -846,30 +870,6 @@ As part of this update, we are decoupling &lt;strong&gt;Target CPA&lt;/strong&gt
       <pubDate>2026-06-27T00:00:00Z</pubDate>
       <guid isPermaLink="false">c73aefaf75f5</guid>
       <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Paid Ads vs Organic Content: How to grow your business online</title>
-      <link>https://www.youtube.com/watch?v=tPT8QjRz-Yo</link>
-      <description></description>
-      <pubDate>2026-06-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d3412e35cb31</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] What I gave up to build a $300M agency</title>
-      <link>https://www.youtube.com/watch?v=PHVpZRtMmAY</link>
-      <description></description>
-      <pubDate>2026-06-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">8e40eaf37544</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] White Label Google Ads: Agency Growth Strategy Revealed! #shorts</title>
-      <link>https://www.youtube.com/watch?v=DP_yK6ZPLE0</link>
-      <description>Confused about white label Google Ads? This episode breaks down what it is, how it works, and how Surfside PPC can help you grow your agency or offer more services. #WhiteLabelAds #GoogleAds #MarketingAgency #PPCManagement</description>
-      <pubDate>2026-06-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">73d9cbdaac9d</guid>
-      <category>Surfside PPC</category>
     </item>
   </channel>
 </rss>
