@@ -5,8 +5,32 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 11:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 11:27:10 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Meta Ads] Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI</title>
+      <link>https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Keeping-parents-informed-if-teens-show-signs-of-distress-in-conversations-with-Meta-AI_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="ht</description>
+      <pubDate>2026-07-16T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a358a558eec7</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Management: What to Do (and When to Do Nothing) [Inside Google Ads Ep 129]</title>
+      <link>https://www.youtube.com/watch?v=u-Uctl-VL-M</link>
+      <description>How do you actually manage your Google Ads on a day-to-day, week-to-week, or month-to-month basis? In episode 129 of Inside Google Ads, host Jyll Saskin Gales breaks down exactly how to approach campaign management across three distinct scenarios: launching a brand new campaign, maintaining a campai</description>
+      <pubDate>2026-07-16T00:00:00Z</pubDate>
+      <guid isPermaLink="false">717e29fae073</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[Google Ads] AI vs. Google Ads: Smarter Content for Top Rankings #shorts</title>
+      <link>https://www.youtube.com/watch?v=PRLocooXYrQ</link>
+      <description>Stop guessing audience questions and start collecting them. Discover how to create comparison and 'best of' prompts that AI loves, focusing on helpful, relevant content to get you ranked. #SEO #AIContent #GoogleRankings #ContentStrategy #DigitalMarketing</description>
+      <pubDate>2026-07-16T00:00:00Z</pubDate>
+      <guid isPermaLink="false">bd2f4912172a</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google Ads] How to Optimise Demand Gen Campaigns</title>
       <link>https://www.youtube.com/watch?v=PYp7d9elMkQ</link>
@@ -34,6 +58,39 @@
       <pubDate>2026-07-15T00:00:00Z</pubDate>
       <guid isPermaLink="false">a15405780035</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[General] Why AI Search Rewards Problem Descriptions, Not Product Descriptions</title>
+      <link>https://ppchero.com/why-ai-search-rewards-problem-descriptions-not-product-descriptions/</link>
+      <description>&lt;p&gt;AI search rewards problem descriptions, not product descriptions. Here's why feed quality is the most underrated lever in performance marketing.&lt;/p&gt;
+&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/why-ai-search-rewards-problem-descriptions-not-product-descriptions/"&gt;Why AI Search</description>
+      <pubDate>2026-07-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f1954740f60f</guid>
+      <category>PPC Hero (Brainlabs)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] $300M Ad Expert Reviews AG1</title>
+      <link>https://www.youtube.com/watch?v=NMs3TavqnWM</link>
+      <description></description>
+      <pubDate>2026-07-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2acf8fb4e181</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] The final thing I'll say about Cannes Lions 2026</title>
+      <link>https://www.youtube.com/watch?v=uEHM94sS5hk</link>
+      <description>s/o to Darkroom for hosting a killer marketing creators villa this year. Y’all were the safe haven I needed 🩵</description>
+      <pubDate>2026-07-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d4c42ec7d215</guid>
+      <category>Dara Denney</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads: Track Conversions for New Patients #shorts</title>
+      <link>https://www.youtube.com/watch?v=IwIP_KI5HM4</link>
+      <description>Maximize your Google Ads with precise conversion tracking. Monitor calls, form submissions, and even store visits for chiropractors. Ensure every lead becomes a new patient. #GoogleAds #ConversionTracking #DigitalMarketing #ChiropractorMarketing #LeadGeneration</description>
+      <pubDate>2026-07-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">317da852f6d3</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[Meta Ads] How To Make AI Ads With Claude X Meta</title>
@@ -820,65 +877,6 @@ Today we’re announcing the deprecation of Structured Data Files &lt;a target="
       <description>Don't believe the hype! Discover how Clicks Geek is dominating search rankings. Learn to find valuable keywords and top-ranking pages to boost your own SEO strategy. #SEO #KeywordResearch #ClicksGeek #DigitalMarketing #SEOTips</description>
       <pubDate>2026-06-30T00:00:00Z</pubDate>
       <guid isPermaLink="false">15d8d66fd2b8</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Announcing Developer Tools MCP: Explore and debug your Meta app integrations from your AI agent</title>
-      <link>https://developers.facebook.com/blog/post/2026/06/30/developer-tools-mcp/</link>
-      <description>Developer Tools MCP connects your AI coding agent to Meta's developer platform — discover APIs, troubleshoot errors, check app health, and manage compliance without leaving your editor.</description>
-      <pubDate>2026-06-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">17c45e83571b</guid>
-      <category>Meta Developers Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Your First Google Ads Account: How to Get Started</title>
-      <link>https://ppchero.com/your-first-google-ads-account-how-to-get-started/</link>
-      <description>&lt;p&gt;I have managed Google Ads accounts spending a few hundred pounds a month and on accounts spending over five million a month. The platform is the same. The maths is the same. And the mistakes beginners make are almost always the same handful, repeated.&lt;/p&gt;
-&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" hr</description>
-      <pubDate>2026-06-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f3cf9d8457b4</guid>
-      <category>PPC Hero (Brainlabs)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] What Meta’s AI Connectors Change About Running Paid Social</title>
-      <link>https://ppchero.com/what-metas-ai-connectors-change-about-running-paid-social/</link>
-      <description>&lt;p&gt;For as long as most of us have run paid social, the work has lived inside Ads Manager. You logged in to check performance, you logged in to make a change, and any AI tool you used sat off to the side, helpful for interpretation but cut off from the campaigns themselves. Meta has just broken that </description>
-      <pubDate>2026-06-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">292cc28b066f</guid>
-      <category>PPC Hero (Brainlabs)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] What to Check When Meta Ads Aren’t Converting</title>
-      <link>https://www.jonloomer.com/meta-ads-arent-converting/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/06/meta-ads-arent-converting-300x157.png" class="attachment-medium size-medium wp-post-image" alt="What to Check When Meta Ads Aren’t Converting" style="margin-bottom: 15px;" decoding="async" srcset="https://ww</description>
-      <pubDate>2026-06-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">bd3dd2f64b1c</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[Meta Ads] $300M Ad Expert rebrands AirBnb</title>
-      <link>https://www.youtube.com/watch?v=THaEwIq14mw</link>
-      <description></description>
-      <pubDate>2026-06-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">20fe80ce9a79</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[General] Medical Practice Marketing To Drive More Patients</title>
-      <link>https://www.youtube.com/watch?v=KGUnh26TRaY</link>
-      <description>What's up everyone. Today we're getting into medical practice marketing, seven ways to get more patients whether you're launching a new practice or trying to grow an existing one. It's really one overarching strategy broken into pieces, and it's where I'd start with any practice that needs the phone</description>
-      <pubDate>2026-06-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">434048851207</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Performance Max Tutorial For Beginners - Surfside PPC Podcast Episode 25</title>
-      <link>https://www.youtube.com/watch?v=oK2apOc01xc</link>
-      <description>What's up everyone. This is episode 25 of the Surfside PPC podcast, and today it's a Performance Max tutorial. I walk through a real PMax campaign I was running as a test, show you exactly what it did (the good and the ugly), and then go through the whole process of building one from scratch.
-
-Here'</description>
-      <pubDate>2026-06-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">91b74ec161a9</guid>
       <category>Surfside PPC</category>
     </item>
   </channel>
