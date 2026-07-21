@@ -5,8 +5,44 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 12:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:41:46 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026</title>
+      <link>http://ads-developers.googleblog.com/2026/07/enabling-local-inventory-ads-by-default.html</link>
+      <description>&lt;h2&gt;What is changing?&lt;/h2&gt;
+
+
+&lt;p&gt;
+On &lt;strong&gt;August 31, 2026, &lt;/strong&gt;we are aligning &lt;a target="_blank" href="https://developers.google.com/google-ads/api/docs/shopping-ads/create-campaign?utm_campaign=adr-default-lia-aug2026&amp;utm_source=googleblog-adsdevs&amp;utm_medium=blog"&gt;Shopping campaigns&lt;/a&gt; wit</description>
+      <pubDate>2026-07-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a70ff918af47</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] How to Use Meta Ads for Lead Generation</title>
+      <link>https://www.jonloomer.com/meta-ads-lead-generation/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/07/meta-ads-lead-generation-300x157.png" class="attachment-medium size-medium wp-post-image" alt="How to Use Meta Ads for Lead Generation" style="margin-bottom: 15px;" decoding="async" srcset="https://www.jonlo</description>
+      <pubDate>2026-07-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">91c5ae53fbeb</guid>
+      <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Google Ads] Buyer Intent Keywords: How to Find the Ones That Actually Drive Sales</title>
+      <link>https://www.youtube.com/watch?v=KT0zCmuwH10</link>
+      <description>In this video, learn how to identify buyer intent keywords and use them to attract the right traffic to your paid ad campaigns, not just more traffic. Discover what separates a high-volume keyword from a true high-intent keyword, how to read the SERP for buying signals, and where terms like "buy," "</description>
+      <pubDate>2026-07-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e287b83efa95</guid>
+      <category>Solutions 8</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads: Boost Conversions with Audience Targeting! #shorts</title>
+      <link>https://www.youtube.com/watch?v=VFC7jnKsbQ8</link>
+      <description>Unlock campaign growth by leveraging audience signals. Google uses engagement data to build conversion-based lists, identifying users interested in your services. Optimize targeting for continuous improvement. #AudienceTargeting #CampaignOptimization #DigitalMarketing #PerformanceMax</description>
+      <pubDate>2026-07-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">86ff1ce04d1b</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Meta Ads] Meta's CMO on AI Ads and Rising Meta Ad Costs</title>
       <link>https://www.youtube.com/watch?v=wwdvrZBjock</link>
@@ -57,6 +93,38 @@ Get More help from Aaron with your Google Ads Campaigns:
       <pubDate>2026-07-20T00:00:00Z</pubDate>
       <guid isPermaLink="false">597ad76ef66e</guid>
       <category>Loves Data</category>
+    </item>
+    <item>
+      <title>[General] ROAS Goal for Maximize Number of Conversions</title>
+      <link>https://www.jonloomer.com/qvt/roas-goal-maximize-number-conversions/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/07/roas-goal-maximize-number-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="ROAS Goal for Maximize Number of Conversions" style="margin-bottom: 15px;" decoding="async" loading="lazy" sr</description>
+      <pubDate>2026-07-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4149e93ecd0a</guid>
+      <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Big news for creative strategists and media buyers</title>
+      <link>https://www.youtube.com/watch?v=PGQpcR7i52k</link>
+      <description>The future of creative strategy isn’t just selling to humans.
+
+It’s selling to their agents.
+
+So... wtf does that actually mean?
+
+I went to Whatsapp Conversations event last week in London for the launch of their Meta Business AI Agents.
+
+But the most striking thing about this launch to me wasn’t ne</description>
+      <pubDate>2026-07-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">86372994d558</guid>
+      <category>Dara Denney</category>
+    </item>
+    <item>
+      <title>[General] Google's Latest Algorithm: Avoid Penalties &amp; Boost Rankings #shorts</title>
+      <link>https://www.youtube.com/watch?v=6YlbndGKkSk</link>
+      <description>Google's new algorithm targets sites lacking unique value. Losing primary purpose affiliate revenue, keyword-swapped content, and repetitive structures will hurt. Establishing author expertise is crucial for survival. #SEO #GoogleAlgorithm #AIContent #AffiliateMarketing #WebsiteTips</description>
+      <pubDate>2026-07-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">32afd8b71414</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[Google Ads] Google Ad Serving Limited? Fix It Now! #shorts</title>
@@ -818,63 +886,6 @@ Get More help from Aaron with your Google Ads Campaigns:
       <pubDate>2026-07-06T00:00:00Z</pubDate>
       <guid isPermaLink="false">18d944f582f8</guid>
       <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[Google Ads] Buyer Intent Keywords: How to Find the Ones That Actually Drive Sales</title>
-      <link>https://www.youtube.com/watch?v=nyhFWlUoJWY</link>
-      <description>In this video, learn how to identify buyer intent keywords and use them to attract the right traffic to your paid ad campaigns not just more traffic. Discover what separates a high-volume keyword from a true high-intent keyword, how to read the SERP for buying signals, and where terms like "buy," "b</description>
-      <pubDate>2026-07-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">68fdcf090ee7</guid>
-      <category>Solutions 8</category>
-    </item>
-    <item>
-      <title>[Meta Ads] TIER LIST: Best Ad Styles</title>
-      <link>https://www.youtube.com/watch?v=byYQpMiTsZA</link>
-      <description></description>
-      <pubDate>2026-07-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">39f40361199e</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[General] Orthodontist Marketing Strategies for 2026 and Beyond</title>
-      <link>https://www.youtube.com/watch?v=GiTuBu8rh_w</link>
-      <description>Marketing strategies for orthodontists in 2026 come down to standing out in a competitive market where most new patients arrive through recommendations. Using a Boston market example, this walks through the strategies orthodontic practices can use to keep the phone ringing, and they work just as wel</description>
-      <pubDate>2026-07-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">58ba77996ee0</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads For Chiropractors To Drive More Patients</title>
-      <link>https://www.youtube.com/watch?v=CO6OsPwI3Uw</link>
-      <description>Google Ads for chiropractors in 2026 is one of the best ways to get more patients through the door, because people searching "chiropractor near me" or a condition like "sciatica treatment near me" are ready to book. Using a Raleigh, North Carolina practice as the example, this walks through the exac</description>
-      <pubDate>2026-07-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1a70e3993eaa</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] How I would run ads for... England 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
-      <link>https://www.youtube.com/watch?v=yUwkn0d5mXA</link>
-      <description></description>
-      <pubDate>2026-07-05T00:00:00Z</pubDate>
-      <guid isPermaLink="false">914ed46d58ba</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads For Orthodontic Practices To Drive More Calls and Patients</title>
-      <link>https://www.youtube.com/watch?v=lap8bZv8lH8</link>
-      <description></description>
-      <pubDate>2026-07-05T00:00:00Z</pubDate>
-      <guid isPermaLink="false">52f90dc44f8c</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[General] 「在庫がない」を言い訳にしない、ECの広告運用でできる3つの打ち手</title>
-      <link>https://anagrams.jp/blog/ec-ads-out-of-stock/</link>
-      <description>&lt;p&gt;ECの広告運用で避けて通れないのが、「在庫切れ」問題です。 「在庫がないならしょうがない」と考えがちだった私ですが、最近は意外と代理店側でもやれることがあると感じるようになりました。本記事では、現場で…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/ec-ads-out-of-stock/"&gt;「在庫がない」を言い訳にしない、ECの広告運用でできる3つの打ち手&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>2026-07-05T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b89f2becc8e6</guid>
-      <category>アナグラム ブログ</category>
     </item>
   </channel>
 </rss>
