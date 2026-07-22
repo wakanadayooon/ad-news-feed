@@ -5,8 +5,59 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 11:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:41:32 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Microsoft Ads] Turning Data into Growth: How Mindgruve Is Redefining Performance Marketing</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/july-2026/turning-data-into-growth-how-mindgruve-is-redefining-performance-marketing</link>
+      <description>In a marketing landscape where every dollar needs to prove its impact, Mindgruve is helping brands turn performance data into measurable growth.</description>
+      <pubDate>2026-07-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">63945c49f2dd</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[General] Why Your Google Shopping CTR Is Terrible (And It Has Nothing to Do With Your Bids)</title>
+      <link>https://ppchero.com/why-your-google-shopping-ctr-is-terrible/</link>
+      <description>&lt;p&gt;Most Google Shopping CTR problems start in the product feed, not your bids. Here's the framework I use across 3,000+ stores to fix it fast.&lt;/p&gt;
+&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/why-your-google-shopping-ctr-is-terrible/"&gt;Why Your Google Shopping CTR Is Terrible (And</description>
+      <pubDate>2026-07-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">335632795817</guid>
+      <category>PPC Hero (Brainlabs)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] How I’d run paid ads for Monzo</title>
+      <link>https://www.youtube.com/watch?v=zZybUPgG3Ic</link>
+      <description></description>
+      <pubDate>2026-07-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">88a551b396ef</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] Agentic Commerce &amp; Google Ads... Is your eCom Brand Ready?</title>
+      <link>https://www.youtube.com/watch?v=fcM835a1VoE</link>
+      <description>👉 Apply for DDA: On Demand now and let's Grow your business with Google Ads together: https://www.definedigitalacademy.com/on-demand
+
+Your product feed is about to become the most important thing in your Google Ads account. With AI shopping coming, the brands that get their data ready early are the </description>
+      <pubDate>2026-07-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">80b90b330f41</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[General] Dentist Marketing: Simplify Appointment Booking! #shorts</title>
+      <link>https://www.youtube.com/watch?v=FSpiwvhuM0U</link>
+      <description>Struggling to stand out in a crowded market? Simplify your booking process. Instead of a lengthy multi-step form, guide patients to complete their appointment after initial contact. Track conversions and reduce drop-offs. #DentistMarketing #PatientBooking #PracticeGrowth #BusinessTips</description>
+      <pubDate>2026-07-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">27cc313c59a6</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Meta Ads] You May Be Surprised Who Converts</title>
+      <link>https://www.youtube.com/watch?v=oZd1Zpyh0ME</link>
+      <description>Restricting age and gender feels like smart budgeting, and it's the most understandable mistake in Meta advertising. But when you optimize for purchases, Meta already wants what you want, and every restriction you add just shrinks the pool and raises your costs before the algorithm gets a chance to </description>
+      <pubDate>2026-07-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">be5376629a0f</guid>
+      <category>Jon Loomer</category>
+    </item>
     <item>
       <title>[Google Ads] Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026</title>
       <link>http://ads-developers.googleblog.com/2026/07/enabling-local-inventory-ads-by-default.html</link>
@@ -41,6 +92,38 @@ On &lt;strong&gt;August 31, 2026, &lt;/strong&gt;we are aligning &lt;a target="_
       <description>Unlock campaign growth by leveraging audience signals. Google uses engagement data to build conversion-based lists, identifying users interested in your services. Optimize targeting for continuous improvement. #AudienceTargeting #CampaignOptimization #DigitalMarketing #PerformanceMax</description>
       <pubDate>2026-07-21T00:00:00Z</pubDate>
       <guid isPermaLink="false">86ff1ce04d1b</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Meta Ads] New Parental Supervision Tools Coming To Threads</title>
+      <link>https://about.fb.com/news/2026/07/new-parental-supervision-tools-coming-threads/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/New-Parental-Supervision-Tools-Now-Available-on-Threads_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/u</description>
+      <pubDate>2026-07-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f791ef27f66b</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Stop Polling, Start Pushing: The Case for Webhooks</title>
+      <link>https://developers.facebook.com/blog/post/2026/07/21/the-case-for-webhooks/</link>
+      <description>Today, API users set up “polling” to frequently request updates to ensure they have the most current data. While common, this process is inefficient and chips away at rate limits.</description>
+      <pubDate>2026-07-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">60d748474ac1</guid>
+      <category>Meta Developers Blog</category>
+    </item>
+    <item>
+      <title>[General] ChatGPT広告を配信するには？具体的な出稿方法とポイントまとめ</title>
+      <link>https://www.kwm.co.jp/blog/how-to-use-chatgpt-ads/</link>
+      <description>広告運用に18年以上携わり、2008年からキーワードマーケティングに在籍している小島です。 キーワードマーケティングでは、2026年6月29日から日本の一部の広告主で入稿できるようになった ChatGPT 広告について、 &amp;#8230; &lt;p class="link-more"&gt;&lt;a href="https://www.kwm.co.jp/blog/how-to-use-chatgpt-ads/" class="more-link"&gt;&lt;span class="screen-reader-text"&gt;"ChatGPT広告を配信するには？具体的な出稿方法とポイントまとめ" の&lt;/span&gt;続きを読</description>
+      <pubDate>2026-07-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">817f1c28b144</guid>
+      <category>キーマケのブログ</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Masterclass: Ben Heath's Top Strategy Revealed! #shorts</title>
+      <link>https://www.youtube.com/watch?v=EPmrYHrTSkY</link>
+      <description>Being visible on Google and Reddit means optimizing for specific searches. Expert PPC channels like Ben Heath and Surfside PPC dominate. Don't just target broad keywords; create pages for specific queries to ensure you get found. #GoogleAds #RedditMarketing #PPCTips #DigitalMarketing</description>
+      <pubDate>2026-07-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">582c8ed61811</guid>
       <category>Surfside PPC</category>
     </item>
     <item>
@@ -799,93 +882,6 @@ Google Mobile Ads (GMA) Next-Gen SDK is now the preferred SDK for Android develo
       <pubDate>2026-07-07T00:00:00Z</pubDate>
       <guid isPermaLink="false">849d1a897954</guid>
       <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Our Work to Fight Child Exploitation on Our Apps</title>
-      <link>https://about.fb.com/news/2026/07/our-work-to-fight-child-exploitation-on-our-apps/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-8.11.24-PM.png?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/Screenshot-2026</description>
-      <pubDate>2026-07-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">cb5eaa8cd773</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Reviewing A+++ Meta Ads</title>
-      <link>https://www.youtube.com/watch?v=5avdnTUIE9c</link>
-      <description></description>
-      <pubDate>2026-07-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">2e439dfe5b4d</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[General] PPC Competitor Analysis Tools - Surfside PPC Podcast Episode 26</title>
-      <link>https://www.youtube.com/watch?v=TizUsRk0m28</link>
-      <description>PPC competitive analysis tools in 2026 can tell you what your competitors are bidding on, spending, and running for ad copy, but the truth is you don't need an expensive paid tool to do most of it. This is episode 26 of the Surfside PPC podcast, walking through the free and paid tools I actually use</description>
-      <pubDate>2026-07-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">10c84012c608</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[General] PPC Competitor Analysis Tools - Surfside PPC Podcast Episode 26</title>
-      <link>https://www.youtube.com/watch?v=ffTPy2wrpio</link>
-      <description>PPC competitive analysis tools in 2026 can tell you what your competitors are bidding on, spending, and running for ad copy, but the truth is you don't need an expensive paid tool to do most of it. This is episode 26 of the Surfside PPC podcast, walking through the free and paid tools I actually use</description>
-      <pubDate>2026-07-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">5bda84ce7196</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[General] 7月22日（水）開催／【関西セミナー】 60分で「広告運用の現在地」がわかる集中セミナー AI協働時代の運用型広告の新スタンダードとは</title>
-      <link>https://www.kwm.co.jp/blog/seminar/20260722kansai/</link>
-      <description>クリック単価はこの10年で169%まで高騰（当社独自集計データ）。さらに、AIの登場で広告運用は大きく変わると言われる一方、何から手をつければいいか分からない方も多いのではないでしょうか。 本セミナーでは、創業20年・支 &amp;#8230; &lt;p class="link-more"&gt;&lt;a href="https://www.kwm.co.jp/blog/seminar/20260722kansai/" class="more-link"&gt;&lt;span class="screen-reader-text"&gt;"7月22日（水）開催／【関西セミナー】 60分で「広告運用の現在地」がわかる集中セミナー AI</description>
-      <pubDate>2026-07-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">cbfa3e7b0b82</guid>
-      <category>キーマケのブログ</category>
-    </item>
-    <item>
-      <title>[Google Ads] My Expert Tips to Get More Sales with Google Ads</title>
-      <link>https://www.youtube.com/watch?v=NKhRUqMXy3c</link>
-      <description>Are you ready to Scale your Business or Brand with Google Ads?
-👉 Apply for DDA: On Demand now and let's Grow your business with Google Ads together: https://www.definedigitalacademy.com/on-demand
-
-Get More help from Aaron with your Google Ads Campaigns:
-
-👉 Get Help with your Google Ads from Aaron &amp; </description>
-      <pubDate>2026-07-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f43fc1c37e57</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] ChatGPT Conversion Campaigns</title>
-      <link>https://www.youtube.com/watch?v=_-pqrgVqwE8</link>
-      <description>Advertisers participating in the OpenAI beta can now create conversion-optimized ChatGPT ads. But will the costs price out most advertising opportunities?</description>
-      <pubDate>2026-07-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">c83add8578e1</guid>
-      <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[General] 7月22日（水）開催／【関西セミナー】 60分で「広告運用の現在地」がわかる集中セミナー AI協働時代の運用型広告の新スタンダードとは（無料・オフライン）</title>
-      <link>https://www.kwm.co.jp/blog/seminar/20260722kansai/</link>
-      <description>クリック単価はこの10年で169%まで高騰（当社独自集計データ）。さらに、AIの登場で広告運用は大きく変わると言われる一方、何から手をつければいいか分からない方も多いのではないでしょうか。 本セミナーでは、創業20年・支 &amp;#8230; &lt;p class="link-more"&gt;&lt;a href="https://www.kwm.co.jp/blog/seminar/20260722kansai/" class="more-link"&gt;&lt;span class="screen-reader-text"&gt;"7月22日（水）開催／【関西セミナー】 60分で「広告運用の現在地」がわかる集中セミナー AI</description>
-      <pubDate>2026-07-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">99a9bd671846</guid>
-      <category>キーマケのブログ</category>
-    </item>
-    <item>
-      <title>[General] Step-by-Step Guide to ChatGPT Ads</title>
-      <link>https://ppchero.com/guide-to-chatgpt-ads/</link>
-      <description>&lt;p&gt;There’s a new way to get in front of millions of people, and most brands haven’t caught on yet. &lt;/p&gt;
-&lt;p&gt;OpenAI’s official advertising platform is now available for businesses to place their ads directly below ChatGPT responses.&lt;/p&gt;
-&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/</description>
-      <pubDate>2026-07-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">99798a6fae76</guid>
-      <category>PPC Hero (Brainlabs)</category>
-    </item>
-    <item>
-      <title>[General] ChatGPT Conversion Campaigns</title>
-      <link>https://www.jonloomer.com/qvt/chatgpt-conversion-campaigns/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/07/chatgpt-conversion-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="ChatGPT Conversion Campaigns" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://www.jonlo</description>
-      <pubDate>2026-07-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">18d944f582f8</guid>
-      <category>Jon Loomer Digital</category>
     </item>
   </channel>
 </rss>
