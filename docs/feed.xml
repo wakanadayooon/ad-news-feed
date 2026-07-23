@@ -5,8 +5,41 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 11:41:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 11:45:41 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Announcing v25 of the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/07/announcing-v25-of-google-ads-api.html</link>
+      <description>&lt;p&gt;
+Today, we’re announcing the v25 release of the &lt;a target="_blank" href="https://developers.google.com/google-ads/api?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-release-v25&amp;utm_content=learnmore-api"&gt;Google Ads API&lt;/a&gt;. This major release brings support for new reportin</description>
+      <pubDate>2026-07-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">354d986348fb</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] 6 things you should NEVER say in your ads</title>
+      <link>https://www.youtube.com/watch?v=KHJoyOwLrU0</link>
+      <description></description>
+      <pubDate>2026-07-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2e35a3b1a463</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] The Truth About Google's New Target Bidding "Update" [Inside Google Ads Episode 130]</title>
+      <link>https://www.youtube.com/watch?v=hv2uV4hfAQE</link>
+      <description>Google announced a change to how budget-limited campaigns on target-based bid strategies will work... is it time to freak out? Hardly! In episode 130 of the Inside Google Ads podcast, host Jyll Saskin Gales cuts through the hyperbole to tell you what's changing, what you need to know, and what it AC</description>
+      <pubDate>2026-07-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">33aaef7d5b16</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Performance Max: Original Content Wins! #shorts</title>
+      <link>https://www.youtube.com/watch?v=fWVBxnRnEEA</link>
+      <description>Google craves original content and expertise, not templated AI sites. Build deep topic coverage and showcase real-world experience for better rankings. #SEO #GoogleAds #ContentMarketing #DigitalMarketing #SEOTips</description>
+      <pubDate>2026-07-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5d35438726a6</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Microsoft Ads] Turning Data into Growth: How Mindgruve Is Redefining Performance Marketing</title>
       <link>https://about.ads.microsoft.com/en/blog/post/july-2026/turning-data-into-growth-how-mindgruve-is-redefining-performance-marketing</link>
@@ -57,6 +90,39 @@ Your product feed is about to become the most important thing in your Google Ads
       <pubDate>2026-07-22T00:00:00Z</pubDate>
       <guid isPermaLink="false">be5376629a0f</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Meta Ads] New WhatsApp Features Keep Up With the Way You Actually Live</title>
+      <link>https://about.fb.com/news/2026/07/new-whatsapp-features-keep-up-with-the-way-you-actually-live/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/WhatsApp-Feature-Roundup_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/WhatsApp-Feature</description>
+      <pubDate>2026-07-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d5ac81577f4c</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[General] マーケティング成果を最大化する「固有解」の探し方</title>
+      <link>https://anagrams.jp/blog/optimal-solution-for-marketing/</link>
+      <description>&lt;p&gt;「御社は、〇〇業界での支援実績はありますか？」 マーケティング支援のお問い合わせをいただくとき、よくある質問です。 自社のデータしか見えない事業会社の立場からすれば、代理店が持つ「他社の成功事例やノウ…&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/optimal-solution-for-marketing/"&gt;マーケティング成果を最大化する「固有解」の探し方&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>2026-07-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4702f691b428</guid>
+      <category>アナグラム ブログ</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads AI Max | How It Works and Best Practices - Surfside PPC Podcast Episode 27</title>
+      <link>https://www.youtube.com/watch?v=uLl5vNj2pzA</link>
+      <description>Google Ads AI Max in 2026 is out of beta and living inside your standard search campaigns, and it's essentially a fusion of Dynamic Search Ads and broad match technology that uses your own website content to find new buyers. This is episode 27 of the Surfside PPC podcast, breaking down how it actual</description>
+      <pubDate>2026-07-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2c0d0fab03e3</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads AI Max | How It Works and Best Practices - Surfside PPC Podcast Episode 27</title>
+      <link>https://www.youtube.com/watch?v=mgkdM-lnCp0</link>
+      <description>Google Ads AI Max in 2026 is out of beta and living inside your standard search campaigns, and it's essentially a fusion of Dynamic Search Ads and broad match technology that uses your own website content to find new buyers. This is episode 27 of the Surfside PPC podcast, breaking down how it actual</description>
+      <pubDate>2026-07-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8e4f45f3f87a</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[Google Ads] Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026</title>
@@ -208,6 +274,15 @@ But the most striking thing about this launch to me wasn’t ne</description>
       <pubDate>2026-07-20T00:00:00Z</pubDate>
       <guid isPermaLink="false">32afd8b71414</guid>
       <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta縦型広告のセーフゾーンとどう向き合うか｜デザイナー視点の実例をご紹介</title>
+      <link>https://anagrams.jp/blog/meta-ads-safe-zone/</link>
+      <description>&lt;p&gt;Meta広告のストーリーズやリールで、同じ素材なのに「なんだか窮屈」「ちょっとくどい」と感じることはありませんか。多くの場合、原因はセーフゾーンの取り扱いにあります。 本記事では、Metaの公式ガイド…&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/meta-ads-safe-zone/"&gt;Meta縦型広告のセーフゾーンとどう向き合うか｜デザイナー視点の実例をご紹介&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>2026-07-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9debb0acdee9</guid>
+      <category>アナグラム ブログ</category>
     </item>
     <item>
       <title>[Google Ads] Google Ad Serving Limited? Fix It Now! #shorts</title>
@@ -809,79 +884,6 @@ Today, we are launching a pilot process to expedite the &lt;a target="_blank" hr
       <pubDate>2026-07-08T00:00:00Z</pubDate>
       <guid isPermaLink="false">3f66dee0e1ec</guid>
       <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] I Published a Document That I Didn't Write</title>
-      <link>https://www.youtube.com/watch?v=jCMkOMuK-8o</link>
-      <description>For fifteen years Jon has written every word on his blog, so publishing an AI-generated post cut against everything he believes about content. But the master brief behind it was consolidated entirely from his own work and labeled as AI up front. Jon explains why transparency and a real problem to so</description>
-      <pubDate>2026-07-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">59f3b843a874</guid>
-      <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Breaking Ground on Meta’s First Data Center in Canada</title>
-      <link>https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/SCDC_Thumbnail.mp4?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/SCDC_Thumbnail.mp4?w=1920 1920w, htt</description>
-      <pubDate>2026-07-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">cadae9e342eb</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Tutorial EASY 2026   How Anyone Can Run Google Ads</title>
-      <link>https://www.youtube.com/watch?v=LoyJP3qxJyY</link>
-      <description>Google Ads for roofers in 2026 is one of the highest-stakes, highest-reward areas in local advertising, because a single roof replacement can be worth $10,000 or more, and the clicks are expensive enough that wasted budget adds up fast. This walks through building roofing Google Ads campaigns that w</description>
-      <pubDate>2026-07-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">27cd892cf958</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Bidding Update: Target CPA Changes Incoming! #shorts</title>
-      <link>https://www.youtube.com/watch?v=pimoII2JeRw</link>
-      <description>Google Ads is changing how target CPA works starting August 17th. It will now aim to hit your exact target, not just aim for less. Adjust your bids regularly to optimize. #GoogleAds #CPATarget #DigitalMarketing #AdvertisingTips</description>
-      <pubDate>2026-07-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">8eab128df65f</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing Google Mobile Ads Next-Gen SDK as the preferred SDK for Android</title>
-      <link>http://ads-developers.googleblog.com/2026/07/announcing-google-mobile-ads-next-gen.html</link>
-      <description>&lt;p&gt;
-Google Mobile Ads (GMA) Next-Gen SDK is now the preferred SDK for Android development with Google AdMob and Google Ad Manager. GMA Next-Gen SDK is a significant rewrite of Google Mobile Ads SDK that improves speed, stability, and the developer experience. Google Mobile Ads SDK for Android is now</description>
-      <pubDate>2026-07-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">efd55eb9ee28</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[General] Custom Audiences Come to ChatGPT Ads</title>
-      <link>https://www.jonloomer.com/chatgpt-ads-custom-audiences/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/07/custom-audiences-chatgpt-ads-300x157.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" srcset="https://www.jonloomer.com/wp-content/uploads/2026/07</description>
-      <pubDate>2026-07-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">97b48f63f224</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads August 17th Change: Smart Bidding &amp; CPA Updates! #shorts</title>
-      <link>https://www.youtube.com/watch?v=uFK6lPxk_Cw</link>
-      <description>Major Google Ads changes are coming August 17th! Learn about Smart Bidding Exploration and the significant Bidding Target Optimization update. Prepare your campaigns now. #GoogleAds #SmartBidding #ROAS #CPATargeting #DigitalMarketing</description>
-      <pubDate>2026-07-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">7695969bff55</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta’s AI Glasses: Your Questions Answered</title>
-      <link>https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Metas-AI-Glasses_Your-Questions-Answered_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/</description>
-      <pubDate>2026-07-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">6cad8fd094a7</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Introducing Muse Image: Image Generation Built for Your World</title>
-      <link>https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Muse-Image_Thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/Muse-Image_Thumbnail.gif?w=192</description>
-      <pubDate>2026-07-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">849d1a897954</guid>
-      <category>Meta Newsroom</category>
     </item>
   </channel>
 </rss>
