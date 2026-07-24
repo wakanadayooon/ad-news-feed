@@ -5,8 +5,52 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 11:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:30:19 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] July 2026 update to the Display &amp; Video 360 API</title>
+      <link>http://ads-developers.googleblog.com/2026/07/july-2026-update-to-display-video-360.html</link>
+      <description>&lt;p&gt;
+Today we’re launching the July 2026 update to the Display &amp; Video 360 API. This update includes the following:
+&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;Added a new &lt;code&gt;syntheticContentAttestationStatus&lt;/code&gt; field to &lt;code&gt;&lt;a target="_blank" href="https://developers.google.com/display-video/api/reference/rest/v4/advert</description>
+      <pubDate>2026-07-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">24606ba7a54a</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Introducing Facebook Verified</title>
+      <link>https://about.fb.com/news/2026/07/introducing-facebook-verified/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Facebook-Verified_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/Introducing</description>
+      <pubDate>2026-07-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ea74b17e032e</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Introducing Seller, an App for Facebook Marketplace Sellers</title>
+      <link>https://about.fb.com/news/2026/07/introducing-seller-app-facebook-marketplace/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Seller-an-App-for-Facebook-Marketplace-Sellers_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-conten</description>
+      <pubDate>2026-07-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">cf622700c4ef</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Connecting Real People on Facebook</title>
+      <link>https://about.fb.com/news/2026/07/connecting-real-people-on-facebook/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Connecting-Real-People-on-Facebook_Thumbnail-1.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/Conn</description>
+      <pubDate>2026-07-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9b50357e524d</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads for Dentists: Key Strategies for Success! #shorts</title>
+      <link>https://www.youtube.com/watch?v=cvScyhvOtJo</link>
+      <description>Unlock Google Ads success for your dental practice. Master conversion tracking—the foundation for effective bidding, targeting, and campaign optimization. Get the essential insights. #GoogleAds #DentistMarketing #ConversionTracking #DigitalMarketing</description>
+      <pubDate>2026-07-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a0987fd20f58</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google Ads] Announcing v25 of the Google Ads API</title>
       <link>http://ads-developers.googleblog.com/2026/07/announcing-v25-of-google-ads-api.html</link>
@@ -38,6 +82,27 @@ Today, we’re announcing the v25 release of the &lt;a target="_blank" href="htt
       <description>Google craves original content and expertise, not templated AI sites. Build deep topic coverage and showcase real-world experience for better rankings. #SEO #GoogleAds #ContentMarketing #DigitalMarketing #SEOTips</description>
       <pubDate>2026-07-23T00:00:00Z</pubDate>
       <guid isPermaLink="false">5d35438726a6</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Facebook Ads Just Changed Forever!</title>
+      <link>https://www.youtube.com/watch?v=HBM3ShZ2dLE</link>
+      <description>This new Meta update will change the way your clients interact with your Facebook &amp; Instagram ads, this video covers my thoughts &amp; feelings, best use cases &amp; some top tips!
+
+Get personal Meta Ads feedback from me (live) for less than $60 per session:
+👉 https://www.skool.com/benheath/about
+
+Let my ag</description>
+      <pubDate>2026-07-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">112da6855dd4</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Policy: Avoid Landing Page Confusion! #shorts</title>
+      <link>https://www.youtube.com/watch?v=1gZ0fOqM0hU</link>
+      <description>Confusing landing pages kill your ad rank and quality score. Google penalizes redirects, low-quality pages, or 404s by turning off your ads. Build unique, high-quality experiences to succeed. #GoogleAds #AdRank #QualityScore #PPC #DigitalMarketing</description>
+      <pubDate>2026-07-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f9f0b7b212cb</guid>
       <category>Surfside PPC</category>
     </item>
     <item>
@@ -821,69 +886,6 @@ Let my agency run your Meta ads for you:
       <pubDate>2026-07-09T00:00:00Z</pubDate>
       <guid isPermaLink="false">b9850688c4c2</guid>
       <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Best Meta Ad Campaign Objectives: Blind Ranked</title>
-      <link>https://www.youtube.com/watch?v=Vk8OoDj2Hj8</link>
-      <description></description>
-      <pubDate>2026-07-09T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4bb4893c9119</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[General] SpyFu vs. Ahrefs vs. Similarweb: PPC Tool Showdown! #shorts</title>
-      <link>https://www.youtube.com/watch?v=oDUOD1g0sbk</link>
-      <description>Christopher Gate Construction breaks down the best PPC advertising tools. Discover which platforms offer valuable insights into competitor spending and ad strategies, and which might be less useful. #SpyFu #Ahrefs #Similarweb #PPC #AdvertisingTools #Marketing</description>
-      <pubDate>2026-07-09T00:00:00Z</pubDate>
-      <guid isPermaLink="false">0a81ec1fce09</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[General] 5 Post-Click Leaks Draining Your PPC Budget</title>
-      <link>https://ppchero.com/5-post-click-leaks-draining-your-ppc-budget/</link>
-      <description>&lt;p&gt;Slow pages, broken redirects, bots and blocked tags quietly drain PPC budgets. See where your paid clicks leak, and run a 5-minute self-check.&lt;/p&gt;
-&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/5-post-click-leaks-draining-your-ppc-budget/"&gt;5 Post-Click Leaks Draining Your PPC Bu</description>
-      <pubDate>2026-07-09T00:00:00Z</pubDate>
-      <guid isPermaLink="false">40d602c3551b</guid>
-      <category>PPC Hero (Brainlabs)</category>
-    </item>
-    <item>
-      <title>[General] 企業理念と行動指針を、新しくしました。</title>
-      <link>https://anagrams.jp/blog/corporate-philosophy/</link>
-      <description>&lt;p&gt;この記事は、先日の全社キックオフで社長の小山が社員に語った、企業理念と行動指針の説明です。 内容をほぼそのまま公開しているので、対外用に整える前の、アナグラムの"素の言葉"だと思ってください。 だいぶ…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/corporate-philosophy/"&gt;企業理念と行動指針を、新しくしました。&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>2026-07-09T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d4e41d40f450</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[Google Ads] Accelerate Google Ads API Basic Access reviews with brand verification</title>
-      <link>http://ads-developers.googleblog.com/2026/07/accelerate-google-ads-api-basic-access.html</link>
-      <description>&lt;p&gt;
-Today, we are launching a pilot process to expedite the &lt;a target="_blank" href="https://developers.google.com/google-ads/api/docs/api-policy/access-levels#how-to-apply-for-basic-access?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-brand-verification-may2026&amp;utm_content=l</description>
-      <pubDate>2026-07-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">927fad26515d</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] How to Optimise Performance Max Campaigns</title>
-      <link>https://www.youtube.com/watch?v=u8JTK-MZfoU</link>
-      <description>👉 Get Help with your Google Ads from Aaron &amp; the DDA Team: https://www.definedigitalacademy.com/how-can-we-help
-
-👉 Get Free Access to my "Keywords &amp; SWOT Analysis Tool for Google Ads" here: https://www.definedigitalacademy.com/claude-toolkit
-
-🤑 Plus remember if you want full access plus get real sup</description>
-      <pubDate>2026-07-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">31f91e577c75</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Launch Strategy: Search First, Then PMax #shorts</title>
-      <link>https://www.youtube.com/watch?v=JknB8ZBX4fs</link>
-      <description>Launching Google Ads? Start with Search campaigns to define your services and landing pages, letting Google learn from your data. Consider Performance Max later for broader reach once you have conversion history. Avoid cannibalization and leverage branded traffic to train the algorithm. #GoogleAds #</description>
-      <pubDate>2026-07-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3f66dee0e1ec</guid>
-      <category>Surfside PPC</category>
     </item>
   </channel>
 </rss>
