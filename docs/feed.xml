@@ -5,8 +5,24 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 11:44:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:52:03 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Google Ads for Orthodontics: Top Tips &amp; Strategy #shorts</title>
+      <link>https://www.youtube.com/watch?v=mtVt5f8k1mg</link>
+      <description>Launching Google Ads for orthodontics? Start with conversion tracking, solid landing pages, and targeted keywords. Focus on Search campaigns first, then evolve with Performance Max and Demand Gen. Include cost and location-specific info like 'Cost of Invisalign in North Carolina' to capture active s</description>
+      <pubDate>2026-07-31T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f0b7f56a3c9b</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Search Console Now Tracks YouTube &amp; Social</title>
+      <link>https://www.youtube.com/watch?v=jD2UpNllN8Y</link>
+      <description>Google Search Console now lets you measure how your content on platforms like YouTube, Instagram, TikTok and X performs in Google Search using Platform Properties. Instead of only tracking your website, you can now connect supported social and video platforms to understand how people discover your c</description>
+      <pubDate>2026-07-31T00:00:00Z</pubDate>
+      <guid isPermaLink="false">278f80d6bc13</guid>
+      <category>Loves Data</category>
+    </item>
     <item>
       <title>[Google Ads] Launching Structured Data Files v10.1</title>
       <link>http://ads-developers.googleblog.com/2026/07/launching-structured-data-files-v101.html</link>
@@ -49,6 +65,14 @@ In this special episode, Google Ads Coach Jyll Saskin Gales is joined by agency 
       <pubDate>2026-07-30T00:00:00Z</pubDate>
       <guid isPermaLink="false">e149167fb5f3</guid>
       <category>Loves Data</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads for Orthodontics: Track Calls &amp; Book Consultations #shorts</title>
+      <link>https://www.youtube.com/watch?v=RY0YMxf1EHY</link>
+      <description>Focus on tracking phone calls and booked consultations that lead to revenue. Ensure your Google Ads bring in paying customers, not just inquiries. #GoogleAds #DentalMarketing #LeadGeneration #PatientAcquisition</description>
+      <pubDate>2026-07-30T00:00:00Z</pubDate>
+      <guid isPermaLink="false">1eb6b0561e1b</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[Google Ads] Support for AI Content Labeling using the Campaign Manager and Display &amp; Video 360 APIs</title>
@@ -860,31 +884,6 @@ But they</description>
       <pubDate>2026-07-15T00:00:00Z</pubDate>
       <guid isPermaLink="false">e7e774e2121f</guid>
       <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] 4 Psychiatrist Marketing Strategies for More Patients #shorts</title>
-      <link>https://www.youtube.com/watch?v=cKGCcZkPQP8</link>
-      <description>Attract more patients with these 4 key marketing strategies for psychiatrists. Focus on Google searches, local SEO, and building trust through reviews and a professional website. Get your strategy off the ground with Surfside PPC. #PsychiatristMarketing #MedicalSEO #PatientAcquisition #GoogleAds</description>
-      <pubDate>2026-07-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4656aa232742</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] The Foundational Elements of Meta Advertising Today</title>
-      <link>https://www.youtube.com/watch?v=Ha0gOItSZaU</link>
-      <description>Most advertisers still obsess over targeting controls, remarketing campaigns, and which single ad won. But the foundations of Meta advertising today point the other way: consolidate your budget, trust the algorithm, and let creative do the reaching. Jon breaks down the core elements that actually ma</description>
-      <pubDate>2026-07-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a15405780035</guid>
-      <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[General] Why AI Search Rewards Problem Descriptions, Not Product Descriptions</title>
-      <link>https://ppchero.com/why-ai-search-rewards-problem-descriptions-not-product-descriptions/</link>
-      <description>&lt;p&gt;AI search rewards problem descriptions, not product descriptions. Here's why feed quality is the most underrated lever in performance marketing.&lt;/p&gt;
-&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/why-ai-search-rewards-problem-descriptions-not-product-descriptions/"&gt;Why AI Search</description>
-      <pubDate>2026-07-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f1954740f60f</guid>
-      <category>PPC Hero (Brainlabs)</category>
     </item>
   </channel>
 </rss>
