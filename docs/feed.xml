@@ -5,8 +5,19 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 11:52:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 11:10:51 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Data Manager API updates: RemoveAllAudienceMembers method, ingestion field warnings, expanded address data</title>
+      <link>http://ads-developers.googleblog.com/2026/07/data-manager-api-updates.html</link>
+      <description>&lt;p&gt;
+  The &lt;a href="https://developers.google.com/data-manager/api/reference?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-dm-api-r6&amp;utm_content=learnmore-changelog#2026-07-30_v18"&gt;latest release of the Data Manager API&lt;/a&gt;
+  introduces features that simplify
+  audience management, e</description>
+      <pubDate>2026-08-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f19351ff237f</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
     <item>
       <title>[Google Ads] Google Ads for Orthodontics: Top Tips &amp; Strategy #shorts</title>
       <link>https://www.youtube.com/watch?v=mtVt5f8k1mg</link>
@@ -22,6 +33,14 @@
       <pubDate>2026-07-31T00:00:00Z</pubDate>
       <guid isPermaLink="false">278f80d6bc13</guid>
       <category>Loves Data</category>
+    </item>
+    <item>
+      <title>[General] Dominate Local SEO: Seattle Tree Care Strategy Revealed #shorts</title>
+      <link>https://www.youtube.com/watch?v=Hs71UlNdyco</link>
+      <description>Unlock local SEO dominance by creating dedicated pages for specific services like 'commercial tree care' or 'golf course tree management'. This strategy boosts ad performance and search visibility. #LocalSEO #WebsiteStrategy #SearchVisibility #DigitalMarketing</description>
+      <pubDate>2026-07-31T00:00:00Z</pubDate>
+      <guid isPermaLink="false">13f5326e2a7d</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[Google Ads] Launching Structured Data Files v10.1</title>
@@ -864,26 +883,6 @@ But they</description>
       <pubDate>2026-07-16T00:00:00Z</pubDate>
       <guid isPermaLink="false">40533ccabe49</guid>
       <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads: Supercharge Your Account with Conversion Lists #shorts</title>
-      <link>https://www.youtube.com/watch?v=yPDONfOzdEc</link>
-      <description>Unlock better audience targeting with conversion-based lists. Google uses call data and other signals to refine your audience, moving beyond keywords to smarter, AI-driven targeting for improved campaign results. #GoogleAds #ConversionTracking #AudienceTargeting #DigitalMarketing #PerformanceMax</description>
-      <pubDate>2026-07-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">75add7815721</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] How to Optimise Demand Gen Campaigns</title>
-      <link>https://www.youtube.com/watch?v=PYp7d9elMkQ</link>
-      <description>👉 Get Help with your Google Ads from Aaron &amp; the DDA Team: https://www.definedigitalacademy.com/how-can-we-help
-
-👉 Get Free Access to my "Keywords &amp; SWOT Analysis Tool for Google Ads" here: https://www.definedigitalacademy.com/claude-toolkit
-
-🤑 Plus remember if you want full access plus get real sup</description>
-      <pubDate>2026-07-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e7e774e2121f</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
     </item>
   </channel>
 </rss>
