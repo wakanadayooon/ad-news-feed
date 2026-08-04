@@ -5,8 +5,25 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 12:48:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 11:54:44 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Google Ads API pilot: Secure API Access to your Manager Accounts</title>
+      <link>http://ads-developers.googleblog.com/2026/08/google-ads-api-pilot-secure-api-access.html</link>
+      <description>&lt;p&gt;
+The &lt;a target="_blank" href="https://developers.google.com/google-ads/api"&gt;Google Ads API&lt;/a&gt; is piloting a security feature designed for securing API access to Google Ads manager accounts. We are seeking developers who would like to participate in this pilot project and provide us with feedback</description>
+      <pubDate>2026-08-04T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e85bde3f26f3</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Tag Manager Tutorial for Beginners (2026)</title>
+      <link>https://www.youtube.com/watch?v=aNqL0QE6mHQ</link>
+      <description>This tutorial teaches you how to get started with Google Tag Manager from scratch. You'll learn how to create your first Google Tag Manager account and web container, install Google Tag Manager on your website, configure Google Analytics (GA4), test your setup using Preview mode and Tag Assistant, a</description>
+      <pubDate>2026-08-04T00:00:00Z</pubDate>
+      <guid isPermaLink="false">21bad9b1a9a1</guid>
+      <category>Loves Data</category>
+    </item>
     <item>
       <title>[Meta Ads] Urgent Message For Facebook Advertisers!</title>
       <link>https://www.youtube.com/watch?v=G1og9QXdkZQ</link>
@@ -37,6 +54,65 @@ Get More help from Aaron with your Google Ads Campaigns:
       <pubDate>2026-08-03T00:00:00Z</pubDate>
       <guid isPermaLink="false">1e53a62b39ea</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[General] Should You Start with Fewer Ads?</title>
+      <link>https://www.jonloomer.com/qvt/start-with-fewer-ads/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/07/start-with-fewer-ads-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="Should You Start with Fewer Ads?" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https</description>
+      <pubDate>2026-08-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b1cd950e37b7</guid>
+      <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Who’s better, CRAFTD or Cernucci?</title>
+      <link>https://www.youtube.com/watch?v=llUQpN2i4pQ</link>
+      <description></description>
+      <pubDate>2026-08-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">0e8f75685a53</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] This is one of my favorite creative strategy “tricks”...</title>
+      <link>https://www.youtube.com/watch?v=hgkGkPQHhnQ</link>
+      <description>And it only takes 30 seconds:
+
+Use trigger words in your hooks.
+
+Trigger words are simply words/phrases that elicit a strong emotional response.
+
+So... they trigger people.
+
+They can be unique and scroll stopping on their own like:
+
+pussyfoot, bewitched, scuzzy
+
+Or kind of normal words that we feel </description>
+      <pubDate>2026-08-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">67fcb4949c9a</guid>
+      <category>Dara Denney</category>
+    </item>
+    <item>
+      <title>[General] Black Friday is not an Event</title>
+      <link>https://www.youtube.com/watch?v=BfgZRNnkhzI</link>
+      <description>Black Friday isn't an event anymore. It runs as a 1 to 2 week period, sure, but you can't run into it thinking you'll just target that window. 
+
+You've really got to have a strategic plan a couple of months in the build up to it. 
+
+That's how you get the best out of it. 
+
+So here's the question. Is </description>
+      <pubDate>2026-08-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">31d2f7640b13</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] いまさら聞けないMeta広告のアセット構造ビジネスポートフォリオを起点にわかりやすく解説</title>
+      <link>https://anagrams.jp/blog/business-portfolio-and-meta-ads-structure/</link>
+      <description>&lt;p&gt;Meta広告に関わる方なら、こんな場面に心当たりがあるのではないでしょうか。 「担当者の交代後、アカウントのアクセスが引き継げない」「パートナーに権限を共有したのに、不足していると言われる」 こうした…&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/business-portfolio-and-meta-ads-structure/"&gt;いまさら聞けないMeta広告のアセット構造ビジネスポートフォリオを起点にわかりやすく解説&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラ</description>
+      <pubDate>2026-08-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">de73b3d49458</guid>
+      <category>アナグラム ブログ</category>
     </item>
     <item>
       <title>[Google Ads] Data Manager API updates: RemoveAllAudienceMembers method, ingestion field warnings, expanded address data</title>
@@ -831,62 +907,6 @@ But the most striking thing about this launch to me wasn’t ne</description>
       <pubDate>2026-07-17T00:00:00Z</pubDate>
       <guid isPermaLink="false">09960cea728e</guid>
       <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] UGC or Polished Ads: Which Converts Better?</title>
-      <link>https://www.youtube.com/watch?v=pAz8YzuvrUA</link>
-      <description></description>
-      <pubDate>2026-07-17T00:00:00Z</pubDate>
-      <guid isPermaLink="false">8361c9d3f690</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[General] Orthodontist Marketing: Boost Your Practice Growth NOW! #shorts</title>
-      <link>https://www.youtube.com/watch?v=huEn-uJWhtI</link>
-      <description>Attract more patients with a strong Google Business profile, local website, and targeted Google Search Ads. Leverage paid social media, dentist referrals, and client testimonials. Ensure your website converts visitors into appointments and track every new client source. #OrthodonticsMarketing #Denta</description>
-      <pubDate>2026-07-17T00:00:00Z</pubDate>
-      <guid isPermaLink="false">fa62dbdd2898</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI</title>
-      <link>https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Keeping-parents-informed-if-teens-show-signs-of-distress-in-conversations-with-Meta-AI_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="ht</description>
-      <pubDate>2026-07-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a358a558eec7</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Management: What to Do (and When to Do Nothing) [Inside Google Ads Ep 129]</title>
-      <link>https://www.youtube.com/watch?v=u-Uctl-VL-M</link>
-      <description>How do you actually manage your Google Ads on a day-to-day, week-to-week, or month-to-month basis? In episode 129 of Inside Google Ads, host Jyll Saskin Gales breaks down exactly how to approach campaign management across three distinct scenarios: launching a brand new campaign, maintaining a campai</description>
-      <pubDate>2026-07-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">717e29fae073</guid>
-      <category>Jyll Saskin Gales (The Google Pro)</category>
-    </item>
-    <item>
-      <title>[Google Ads] AI vs. Google Ads: Smarter Content for Top Rankings #shorts</title>
-      <link>https://www.youtube.com/watch?v=PRLocooXYrQ</link>
-      <description>Stop guessing audience questions and start collecting them. Discover how to create comparison and 'best of' prompts that AI loves, focusing on helpful, relevant content to get you ranked. #SEO #AIContent #GoogleRankings #ContentStrategy #DigitalMarketing</description>
-      <pubDate>2026-07-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">bd2f4912172a</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Beach vibes and temporary wallpaper are trending for back-to-school season.</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/</link>
-      <description>College students are eager to turn their dull dorm rooms into cozy spaces. Here are the Google Search trends we’re seeing.</description>
-      <pubDate>2026-07-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d4fe05d8bac0</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Google Ads] 6 back-to-school shopping tricks every student should know</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp"&gt;Whether you're decorating, refreshing your wardrobe or picking up last-minute essentials, these shopping tools make all the difference.</description>
-      <pubDate>2026-07-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9a942bc3a07a</guid>
-      <category>Google Ads Blog (公式)</category>
     </item>
   </channel>
 </rss>
