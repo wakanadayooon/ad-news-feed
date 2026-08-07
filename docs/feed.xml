@@ -5,8 +5,16 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 11:57:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:41:55 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[General] X記事300本を分析。伸びている記事の共通点と11の活用事例</title>
+      <link>https://ppc-log.com/x-management/17340/</link>
+      <description>&lt;p&gt;&lt;img src="https://ppc-log.com/wp-content/uploads/2026/08/OGP-780x450.jpg" class="webfeedsFeaturedVisual" width="520" height="300" /&gt;&lt;/p&gt;趣味と実益を兼ねて、7月中旬以降にXへ投稿されたX記事のうち、一定以上の表示回数があった300本を分析しました。 本記事では、その結果を詳しく共有します。 X公式ヘルプでは次のように説明されています。 記事機能は、X上で ...</description>
+      <pubDate>2026-08-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">341ed0938170</guid>
+      <category>PPC-LOG (川手遼一)</category>
+    </item>
     <item>
       <title>[Meta Ads] What You NEED To Know To Get Started With Facebook Ads</title>
       <link>https://www.youtube.com/watch?v=p8pthMjKKXk</link>
@@ -41,6 +49,22 @@ I could be asking super specific questions about the size and dimensions, becaus
       <pubDate>2026-08-06T00:00:00Z</pubDate>
       <guid isPermaLink="false">a5c154f90edd</guid>
       <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Why Meta Builds Its Own AI Data Centers</title>
+      <link>https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/08/Tom-Shaw_-Interview-with-Rachel_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/08/Tom-Shaw_</description>
+      <pubDate>2026-08-06T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5496d73f80b1</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Important vs Not Important: Ad Content Strategy</title>
+      <link>https://www.youtube.com/watch?v=xhcv0K3pg04</link>
+      <description></description>
+      <pubDate>2026-08-06T00:00:00Z</pubDate>
+      <guid isPermaLink="false">67b9a47f8051</guid>
+      <category>Ben Heath</category>
     </item>
     <item>
       <title>[Microsoft Ads] From Regional Heritage to Global Impact: How KG Media Helps CEE Brands Break Into DACH</title>
@@ -893,36 +917,6 @@ On &lt;strong&gt;August 31, 2026, &lt;/strong&gt;we are aligning &lt;a target="_
       <pubDate>2026-07-21T00:00:00Z</pubDate>
       <guid isPermaLink="false">60d748474ac1</guid>
       <category>Meta Developers Blog</category>
-    </item>
-    <item>
-      <title>[General] ChatGPT広告を配信するには？具体的な出稿方法とポイントまとめ</title>
-      <link>https://www.kwm.co.jp/blog/how-to-use-chatgpt-ads/</link>
-      <description>広告運用に18年以上携わり、2008年からキーワードマーケティングに在籍している小島です。 キーワードマーケティングでは、2026年6月29日から日本の一部の広告主で入稿できるようになった ChatGPT 広告について、 &amp;#8230; &lt;p class="link-more"&gt;&lt;a href="https://www.kwm.co.jp/blog/how-to-use-chatgpt-ads/" class="more-link"&gt;&lt;span class="screen-reader-text"&gt;"ChatGPT広告を配信するには？具体的な出稿方法とポイントまとめ" の&lt;/span&gt;続きを読</description>
-      <pubDate>2026-07-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">817f1c28b144</guid>
-      <category>キーマケのブログ</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Masterclass: Ben Heath's Top Strategy Revealed! #shorts</title>
-      <link>https://www.youtube.com/watch?v=EPmrYHrTSkY</link>
-      <description>Being visible on Google and Reddit means optimizing for specific searches. Expert PPC channels like Ben Heath and Surfside PPC dominate. Don't just target broad keywords; create pages for specific queries to ensure you get found. #GoogleAds #RedditMarketing #PPCTips #DigitalMarketing</description>
-      <pubDate>2026-07-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">582c8ed61811</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta's CMO on AI Ads and Rising Meta Ad Costs</title>
-      <link>https://www.youtube.com/watch?v=wwdvrZBjock</link>
-      <description>Click here to grab some of my highest-converting video ad templates 👉 https://clickhubspot.com/95e610
-
-Get personal Meta Ads feedback from me (live) for less than $60 per session:
-👉 https://www.skool.com/benheath/about
-
-Let my agency run your Meta ads for you:
-👉 https://heathmedia.co.uk/done-for-you</description>
-      <pubDate>2026-07-20T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e50a6e90d50d</guid>
-      <category>Ben Heath</category>
     </item>
   </channel>
 </rss>
