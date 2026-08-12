@@ -5,8 +5,26 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Aug 2026 10:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:51:02 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[General] Black Friday &amp; Branded Searches for Google</title>
+      <link>https://www.youtube.com/watch?v=d5CTdqhFdpU</link>
+      <description>Black Friday isn't a novelty anymore. It's wired into how people shop, and the data proves it.
+
+Think about your own behaviour again. Some things you know you need to buy in the house, you don't even write them on a list. You've already got it in the back of your head. These are the items I'm buying</description>
+      <pubDate>2026-08-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9d5c7057c5ab</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Ask These Questions Before Using Value Rules</title>
+      <link>https://www.youtube.com/watch?v=j8803_J6Dug</link>
+      <description>Value rules are one of Meta's most useful newer features, letting you nudge bids up or down instead of restricting your audience outright. But advertisers reach for them far too often, and because value rules deliberately raise costs. Jon lays out the two questions that separate a necessary value ru</description>
+      <pubDate>2026-08-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6bc315301f18</guid>
+      <category>Jon Loomer</category>
+    </item>
     <item>
       <title>[Google Ads] Don't Forget Your Customer's Buying Cycle in Google Ads</title>
       <link>https://www.youtube.com/watch?v=o1__UIdUl_c</link>
@@ -18,6 +36,59 @@ Your customers are doing ex</description>
       <pubDate>2026-08-11T00:00:00Z</pubDate>
       <guid isPermaLink="false">c26af46788f5</guid>
       <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[General] 【2026年7月】広告媒体アップデートまとめ</title>
+      <link>https://anagrams.jp/blog/update-summary-2026-07/</link>
+      <description>&lt;p&gt;7月は、成果や配信に影響が出る変更と、運用の利便性が高まる機能追加が複数の媒体で重なった月でした。 注目度の高いChatGPT広告では、コンバージョンを目的としたキャンペーンが追加されるなど、成果や計…&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/update-summary-2026-07/"&gt;【2026年7月】広告媒体アップデートまとめ&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>2026-08-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a52af5d47bf8</guid>
+      <category>アナグラム ブログ</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta Ads AI Connectors Get More Security Controls</title>
+      <link>https://www.jonloomer.com/meta-ads-ai-connectors-security-controls/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/08/meta-ads-ai-connectors-security-controls-300x157.png" class="attachment-medium size-medium wp-post-image" alt="Meta Ads AI Connectors Get More Security Controls" style="margin-bottom: 15px;" decoding="async"</description>
+      <pubDate>2026-08-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4be79d19be19</guid>
+      <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Google Ads] Quality Score Won't Fix Your Conversion Rate | Ana Kostic | PPC Zone August 2026</title>
+      <link>https://www.youtube.com/watch?v=EvozSopNePA</link>
+      <description>Ana Kostic has been inside Google Ads, Meta and other paid platforms since 2009, long enough to stop trusting the default dashboard and start asking what a number actually means. She is Co-founder and Head of Paid Media at bigmomo in Spain, where she runs live accounts and leads the PPC team.
+
+You c</description>
+      <pubDate>2026-08-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c782ecea62c0</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[General] Search Ads Fundamentals: Site Links | Dianna Huff | PPC Zone August 2026</title>
+      <link>https://www.youtube.com/watch?v=St1e5GTbjEA</link>
+      <description>Dianna Huff, President of Huff Industrial Marketing, works exclusively with U.S.-based industrial manufacturers, job shops, and OEMs, typically with 30–50 employees, that lack a marketing department. Dianna founded the company in 2014 after a hugely successful 15-year run as an SEO and B2B marketing</description>
+      <pubDate>2026-08-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f4780242194c</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[General] Humanizing Ad Copy in an AI World | Tim Jensen | PPC Zone August 2026</title>
+      <link>https://www.youtube.com/watch?v=w0clPy63ya8</link>
+      <description>With both agency and in-house experience, Tim Jensen has managed paid media for B2B and B2C accounts of all sizes since 2010. While comfortable managing ads across all major platforms, he’s particularly intrigued with the crossover between analytics and PPC. Tim currently works as a Marketing Lead f</description>
+      <pubDate>2026-08-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">17b75f9874f7</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Analytics Certification 2026: How to Pass the Updated Exam</title>
+      <link>https://www.youtube.com/watch?v=60DDo5E0Dtc</link>
+      <description>Learn how to earn your Google Analytics Certification in 2026 and prepare for the updated certification exam in Google Skillshop. In this tutorial, you’ll learn how the assessment works, what you should study, and the types of practical, scenario-based questions you can expect.
+
+The Google Analytics</description>
+      <pubDate>2026-08-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6c8ed6b0006e</guid>
+      <category>Loves Data</category>
     </item>
     <item>
       <title>[Meta Ads] The Future is for Everyone</title>
@@ -93,6 +164,14 @@ Inside that one platform, you've got search, but you've also got integration int
       <pubDate>2026-08-10T00:00:00Z</pubDate>
       <guid isPermaLink="false">323af9bb89b0</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[General] What is Custom Attribution?</title>
+      <link>https://www.jonloomer.com/qvt/custom-attribution/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/08/custom-attribution-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="What is Custom Attribution?" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://www.jonloo</description>
+      <pubDate>2026-08-10T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a3b60352db69</guid>
+      <category>Jon Loomer Digital</category>
     </item>
     <item>
       <title>[General] X記事300本を分析。伸びている記事の共通点と11の活用事例</title>
@@ -847,85 +926,6 @@ Today we’re launching the July 2026 update to the Display &amp; Video 360 API.
       <pubDate>2026-07-24T00:00:00Z</pubDate>
       <guid isPermaLink="false">29998b3f1704</guid>
       <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing v25 of the Google Ads API</title>
-      <link>http://ads-developers.googleblog.com/2026/07/announcing-v25-of-google-ads-api.html</link>
-      <description>&lt;p&gt;
-Today, we’re announcing the v25 release of the &lt;a target="_blank" href="https://developers.google.com/google-ads/api?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-release-v25&amp;utm_content=learnmore-api"&gt;Google Ads API&lt;/a&gt;. This major release brings support for new reportin</description>
-      <pubDate>2026-07-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">354d986348fb</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] 6 things you should NEVER say in your ads</title>
-      <link>https://www.youtube.com/watch?v=KHJoyOwLrU0</link>
-      <description></description>
-      <pubDate>2026-07-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">2e35a3b1a463</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] The Truth About Google's New Target Bidding "Update" [Inside Google Ads Episode 130]</title>
-      <link>https://www.youtube.com/watch?v=hv2uV4hfAQE</link>
-      <description>Google announced a change to how budget-limited campaigns on target-based bid strategies will work... is it time to freak out? Hardly! In episode 130 of the Inside Google Ads podcast, host Jyll Saskin Gales cuts through the hyperbole to tell you what's changing, what you need to know, and what it AC</description>
-      <pubDate>2026-07-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">33aaef7d5b16</guid>
-      <category>Jyll Saskin Gales (The Google Pro)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Performance Max: Original Content Wins! #shorts</title>
-      <link>https://www.youtube.com/watch?v=fWVBxnRnEEA</link>
-      <description>Google craves original content and expertise, not templated AI sites. Build deep topic coverage and showcase real-world experience for better rankings. #SEO #GoogleAds #ContentMarketing #DigitalMarketing #SEOTips</description>
-      <pubDate>2026-07-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">5d35438726a6</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Facebook Ads Just Changed Forever!</title>
-      <link>https://www.youtube.com/watch?v=HBM3ShZ2dLE</link>
-      <description>This new Meta update will change the way your clients interact with your Facebook &amp; Instagram ads, this video covers my thoughts &amp; feelings, best use cases &amp; some top tips!
-
-Get personal Meta Ads feedback from me (live) for less than $60 per session:
-👉 https://www.skool.com/benheath/about
-
-Let my ag</description>
-      <pubDate>2026-07-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">112da6855dd4</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Policy: Avoid Landing Page Confusion! #shorts</title>
-      <link>https://www.youtube.com/watch?v=1gZ0fOqM0hU</link>
-      <description>Confusing landing pages kill your ad rank and quality score. Google penalizes redirects, low-quality pages, or 404s by turning off your ads. Build unique, high-quality experiences to succeed. #GoogleAds #AdRank #QualityScore #PPC #DigitalMarketing</description>
-      <pubDate>2026-07-23T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f9f0b7b212cb</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Microsoft Ads] Turning Data into Growth: How Mindgruve Is Redefining Performance Marketing</title>
-      <link>https://about.ads.microsoft.com/en/blog/post/july-2026/turning-data-into-growth-how-mindgruve-is-redefining-performance-marketing</link>
-      <description>In a marketing landscape where every dollar needs to prove its impact, Mindgruve is helping brands turn performance data into measurable growth.</description>
-      <pubDate>2026-07-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">63945c49f2dd</guid>
-      <category>Microsoft Advertising Blog</category>
-    </item>
-    <item>
-      <title>[General] Why Your Google Shopping CTR Is Terrible (And It Has Nothing to Do With Your Bids)</title>
-      <link>https://ppchero.com/why-your-google-shopping-ctr-is-terrible/</link>
-      <description>&lt;p&gt;Most Google Shopping CTR problems start in the product feed, not your bids. Here's the framework I use across 3,000+ stores to fix it fast.&lt;/p&gt;
-&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/why-your-google-shopping-ctr-is-terrible/"&gt;Why Your Google Shopping CTR Is Terrible (And</description>
-      <pubDate>2026-07-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">335632795817</guid>
-      <category>PPC Hero (Brainlabs)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] How I’d run paid ads for Monzo</title>
-      <link>https://www.youtube.com/watch?v=zZybUPgG3Ic</link>
-      <description></description>
-      <pubDate>2026-07-22T00:00:00Z</pubDate>
-      <guid isPermaLink="false">88a551b396ef</guid>
-      <category>Ben Heath</category>
     </item>
   </channel>
 </rss>
