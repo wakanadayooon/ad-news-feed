@@ -5,8 +5,66 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 10:51:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:52:19 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Migrate Campaign-level Broad Match and Automatically Created Assets to AI Max</title>
+      <link>http://ads-developers.googleblog.com/2026/08/migrate-campaign-level-broad-match-and.html</link>
+      <description>&lt;p&gt;
+The legacy automigrations are divided into two separate phases: 
+&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;&lt;strong&gt;Phase 1&lt;/strong&gt; (&lt;a target="_blank" href="https://support.google.com/google-ads/answer/13389795?hl=en"&gt;Campaign-level Broad Match&lt;/a&gt; and &lt;a target="_blank" href="https://support.google.com/google-ads/answer/</description>
+      <pubDate>2026-08-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9761b7123669</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Query report data with the Campaign Manager 360 API</title>
+      <link>http://ads-developers.googleblog.com/2026/08/query-report-data-with-campaign-manager.html</link>
+      <description>&lt;p&gt;
+  You can now use the &lt;code&gt;reportData.query&lt;/code&gt; endpoint in the Campaign
+  Manager 360 API to synchronously query your campaign performance data and
+  retrieve structured JSON data directly in the response.
+&lt;/p&gt;
+&lt;p&gt;
+  The new &lt;code&gt;reportData.query&lt;/code&gt; endpoint offers a simplified option </description>
+      <pubDate>2026-08-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b91882c93ae3</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports</title>
+      <link>https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/</link>
+      <description>&lt;p&gt;“What I really like about the glasses is the speed at which I get the information I need &amp;#8211; instead of waiting for someone to read a letter or waiting for someone to tell me what I have in the fridge, I’ll just do it on impulse. Now I’m doing things for myself independently, that maybe befor</description>
+      <pubDate>2026-08-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d1c550642730</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta’s Compliance with Australia’s Social Media Ban</title>
+      <link>https://about.fb.com/news/2026/08/metas-compliance-with-australias-social-media-ban/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2024/01/DM-Teen-Default_Parent-Controls-Bundle_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2024/01/DM</description>
+      <pubDate>2026-08-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d22ded85c6b2</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Microsoft Ads] Understand how humans and AI find and choose your brand with Microsoft Clarity</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/august-2026/understand-how-humans-and-ai-find-and-choose-your-brand-with-microsoft-clarity</link>
+      <description>Clarity isn’t just for SEO or AI visibility. It also helps paid media teams uncover insights, improve performance and optimise campaigns.</description>
+      <pubDate>2026-08-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2c56a0a10e9d</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] 5 Performance Max Mistakes Even Experts Make [Inside Google Ads Episode 133]</title>
+      <link>https://www.youtube.com/watch?v=e_CbHH4yeY4</link>
+      <description>If PMax is just a black box, doesn't that mean you can't optimize it? Wrong on so many levels! In Episode 133 of Inside Google Ads, host Jyll Saskin Gales breaks down five common Performance Max mistakes that even experienced digital marketers and agencies make. While PMax can be a powerful tool for</description>
+      <pubDate>2026-08-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">381f98704e8e</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
     <item>
       <title>[General] Black Friday &amp; Branded Searches for Google</title>
       <link>https://www.youtube.com/watch?v=d5CTdqhFdpU</link>
@@ -24,6 +82,35 @@ Think about your own behaviour again. Some things you know you need to buy in th
       <pubDate>2026-08-12T00:00:00Z</pubDate>
       <guid isPermaLink="false">6bc315301f18</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Meta Ads] NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era</title>
+      <link>https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/08/NABTU-META_1440x1080.png?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/08/NABTU-META_1440x1080.png?w=192</description>
+      <pubDate>2026-08-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">0b9954a6068e</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Google Ads] Winning in Demand Generation When Every Pound Must Work Harder</title>
+      <link>https://ppchero.com/winning-in-demand-generation-when-every-pound-must-work-harder/</link>
+      <description>&lt;p&gt;Learn how demand generation teams can make every $ work harder by shifting from vanity metrics to pipeline influence, buying committees and attribution. &lt;/p&gt;
+&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/winning-in-demand-generation-when-every-pound-must-work-harder/"&gt;Winning i</description>
+      <pubDate>2026-08-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d57a4e874d75</guid>
+      <category>PPC Hero (Brainlabs)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] $100 vs $100,000 Facebook Ads Strategy</title>
+      <link>https://www.youtube.com/watch?v=du6rDgRf06g</link>
+      <description>👉 Check out my brand NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+👉 30% off Hyros for the first 15 people - get better Meta ad results with improved data accuracy: http://hyros.com/ben
+
+Ever wondered how your Meta Ads Strategy should change dep</description>
+      <pubDate>2026-08-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8aa2aa3ac0cd</guid>
+      <category>Ben Heath</category>
     </item>
     <item>
       <title>[Google Ads] Don't Forget Your Customer's Buying Cycle in Google Ads</title>
@@ -846,86 +933,6 @@ Get More help from Aaron with your Google Ads Campaigns:
       <pubDate>2026-07-25T00:00:00Z</pubDate>
       <guid isPermaLink="false">a72e5a13e1ac</guid>
       <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] How I Build an Elite Creative Strategy for a Brand in One Sitting</title>
-      <link>https://www.youtube.com/watch?v=yRgPbqywUJ8</link>
-      <description>Thanks to Storyblocks for sponsoring this video. Get 15% off any annual plan for a limited time, only available through this link: https://storyblocks.com/DaraDenney
-
-Want to work with me? Let's talk: https://form.typeform.com/to/JpKG4ydU
-
-If your creative strategy starts with spying on competitors,</description>
-      <pubDate>2026-07-25T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e22af077b890</guid>
-      <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads: Maximize Conversions Bidding Strategy Explained #shorts</title>
-      <link>https://www.youtube.com/watch?v=2qod3B-y59Y</link>
-      <description></description>
-      <pubDate>2026-07-25T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4121c4f86e71</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] July 2026 update to the Display &amp; Video 360 API</title>
-      <link>http://ads-developers.googleblog.com/2026/07/july-2026-update-to-display-video-360.html</link>
-      <description>&lt;p&gt;
-Today we’re launching the July 2026 update to the Display &amp; Video 360 API. This update includes the following:
-&lt;/p&gt;&lt;ul&gt;
-
-&lt;li&gt;Added a new &lt;code&gt;syntheticContentAttestationStatus&lt;/code&gt; field to &lt;code&gt;&lt;a target="_blank" href="https://developers.google.com/display-video/api/reference/rest/v4/advert</description>
-      <pubDate>2026-07-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">24606ba7a54a</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Introducing Facebook Verified</title>
-      <link>https://about.fb.com/news/2026/07/introducing-facebook-verified/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Facebook-Verified_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/Introducing</description>
-      <pubDate>2026-07-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ea74b17e032e</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Introducing Seller, an App for Facebook Marketplace Sellers</title>
-      <link>https://about.fb.com/news/2026/07/introducing-seller-app-facebook-marketplace/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Seller-an-App-for-Facebook-Marketplace-Sellers_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-conten</description>
-      <pubDate>2026-07-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">cf622700c4ef</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Connecting Real People on Facebook</title>
-      <link>https://about.fb.com/news/2026/07/connecting-real-people-on-facebook/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Connecting-Real-People-on-Facebook_Thumbnail-1.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/Conn</description>
-      <pubDate>2026-07-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9b50357e524d</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads for Dentists: Key Strategies for Success! #shorts</title>
-      <link>https://www.youtube.com/watch?v=cvScyhvOtJo</link>
-      <description>Unlock Google Ads success for your dental practice. Master conversion tracking—the foundation for effective bidding, targeting, and campaign optimization. Get the essential insights. #GoogleAds #DentistMarketing #ConversionTracking #DigitalMarketing</description>
-      <pubDate>2026-07-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a0987fd20f58</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta AI Doesn’t Just Think, It Acts</title>
-      <link>https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/Meta-AI-Doesnt-Just-Think_It-Acts_Thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/07/Meta-AI</description>
-      <pubDate>2026-07-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">248ecc0d54ce</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Negative Keywords: Block Wasted Clicks! #shorts</title>
-      <link>https://www.youtube.com/watch?v=FBpAK_4ESP8</link>
-      <description>Stop wasting ad spend! Negative keywords are crucial for blocking irrelevant searches like 'reviews', 'Reddit', or 'store' in Google Ads. Target only high-intent users looking for your exact service. #GoogleAds #NegativeKeywords #DigitalMarketing #AdOptimization #PPC</description>
-      <pubDate>2026-07-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">29998b3f1704</guid>
-      <category>Surfside PPC</category>
     </item>
   </channel>
 </rss>
