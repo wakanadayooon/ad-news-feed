@@ -5,8 +5,23 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Aug 2026 10:52:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:48:16 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Google Ads language targeting changes starting September 2026</title>
+      <link>http://ads-developers.googleblog.com/2026/08/google-ads-language-targeting-changes.html</link>
+      <description>&lt;p&gt;
+We're making changes to language targeting for Search, AI Max for Search, and Performance Max campaigns in Google Ads, simplifying campaign management while maintaining a high-quality ad experience.
+&lt;/p&gt;
+&lt;p&gt;
+Effective&lt;strong&gt; late September 2026: &lt;/strong&gt;
+&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;For &lt;strong&gt;Search and AI</description>
+      <pubDate>2026-08-14T00:00:00Z</pubDate>
+      <guid isPermaLink="false">34e8924a3a2d</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
     <item>
       <title>[Google Ads] Migrate Campaign-level Broad Match and Automatically Created Assets to AI Max</title>
       <link>http://ads-developers.googleblog.com/2026/08/migrate-campaign-level-broad-match-and.html</link>
@@ -64,6 +79,50 @@ The legacy automigrations are divided into two separate phases:
       <pubDate>2026-08-13T00:00:00Z</pubDate>
       <guid isPermaLink="false">381f98704e8e</guid>
       <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[General] ChatGPT Ads Get Automated Bidding, Placements, and URL Parameters</title>
+      <link>https://www.jonloomer.com/chatgpt-ads-automated-bidding-placements-url-parameters/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/08/chatgpt-ads-automated-bidding-placements-url-parameters-300x157.png" class="attachment-medium size-medium wp-post-image" alt="ChatGPT Ads Get Automated Bidding, Placements, and URL Parameters" style="margin-</description>
+      <pubDate>2026-08-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b837a29ed610</guid>
+      <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Meta Ads] I Ranked 51 Meta Ad Creative Types (Tier List)</title>
+      <link>https://www.youtube.com/watch?v=KmbEjy0UBT8</link>
+      <description>Thanks to Storyblocks for sponsoring this video. Get 15% off any annual plan for a limited time, only available through this link: https://www.storyblocks.com/daradenney
+
+Want to work with me? Let's talk: https://form.typeform.com/to/JpKG4ydU
+
+Dara Denney ranks 51 Meta ad creative formats from S-tie</description>
+      <pubDate>2026-08-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5d0dc29c2db3</guid>
+      <category>Dara Denney</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Myths: People Don't Buy the 1st Time</title>
+      <link>https://www.youtube.com/watch?v=N-6Tr3w0EkY</link>
+      <description>People don't buy the way we pretend they do inside our Google Ads dashboards.
+
+There's this fallacy that someone sees an ad, clicks on it, sees the product for the first time, and purchases right there and then on the same day. That barely happens. Probably back to 0.01 percent, if that.
+
+But we kee</description>
+      <pubDate>2026-08-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9e44db741d45</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Update your GMC &amp; Google Feed AI Attributes Now</title>
+      <link>https://www.youtube.com/watch?v=hjbPfmQ2daU</link>
+      <description>Your Merchant Center feed is about to become way more important than most people think.
+
+Google just dropped something called conversational attributes. Six of them are live globally right now, and Google's already said dozens more are coming.
+
+This is the next frontier. A place to optimise. A place</description>
+      <pubDate>2026-08-13T00:00:00Z</pubDate>
+      <guid isPermaLink="false">73225b19d5e7</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
     </item>
     <item>
       <title>[General] Black Friday &amp; Branded Searches for Google</title>
@@ -892,47 +951,6 @@ Get More help from Aaron with your Google Ads Campaigns:
       <pubDate>2026-07-26T00:00:00Z</pubDate>
       <guid isPermaLink="false">fd1e4d161057</guid>
       <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Search Ads: Get More Patients Now! #shorts</title>
-      <link>https://www.youtube.com/watch?v=UaMlLwQK-EQ</link>
-      <description>Drive more patients with urgent Google Search Ads. Target keywords like 'dermatologist near me' or 'urgent care walk-in clinic'. Get your phone ringing and fill your practice. #GoogleAds #MedicalMarketing #PatientAcquisition #LocalSEO #HealthcareMarketing</description>
-      <pubDate>2026-07-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">111880be4beb</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[General] 縦型動画のシーン選びがラクになる「ポジ・ネガ・ニュートラル」設計法</title>
-      <link>https://anagrams.jp/blog/vertical-video-scene-selection-method/</link>
-      <description>&lt;p&gt;縦型動画を作ろうとして、こんなことに困っていませんか。 本記事では、セリフに「ポジ・ネガ・ニュートラル」の感情ラベルを振って感情の起伏を設計し、素材は「意味一致」ではなく「印象一致」で当てはめる方法を…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/vertical-video-scene-selection-method/"&gt;縦型動画のシーン選びがラクになる「ポジ・ネガ・ニュートラル」設計法&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>2026-07-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">6682007b6074</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[General] Boost Your Medical Website: Attract Patients Now! #shorts</title>
-      <link>https://www.youtube.com/watch?v=hEcZDn4cAhM</link>
-      <description>Answer common patient questions on your website! Clearly list your services (telehealth, immunizations, chronic care) and providers. If you don't, potential patients searching for specific treatments like braces or dry eye will go elsewhere. #WebsiteTips #PatientAcquisition #HealthcareMarketing #SEO</description>
-      <pubDate>2026-07-25T00:00:00Z</pubDate>
-      <guid isPermaLink="false">93dc17783c1e</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Video vs Image: Which ad actually CONVERTS?</title>
-      <link>https://www.youtube.com/watch?v=KSp8WQmj6DM</link>
-      <description></description>
-      <pubDate>2026-07-25T00:00:00Z</pubDate>
-      <guid isPermaLink="false">fe8236af6b80</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] $7M worth of Business Advice in 60 seconds</title>
-      <link>https://www.youtube.com/watch?v=iyne3ckEWmc</link>
-      <description></description>
-      <pubDate>2026-07-25T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a72e5a13e1ac</guid>
-      <category>Ben Heath</category>
     </item>
   </channel>
 </rss>
