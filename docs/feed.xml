@@ -5,7 +5,7 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 10:48:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 10:12:32 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>[Google Ads] Google Ads language targeting changes starting September 2026</title>
@@ -21,6 +21,15 @@ Effective&lt;strong&gt; late September 2026: &lt;/strong&gt;
       <pubDate>2026-08-14T00:00:00Z</pubDate>
       <guid isPermaLink="false">34e8924a3a2d</guid>
       <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[General] Reddit Is Where Search &amp; Social Collide. Is Your Paid Strategy Ready for the Impact?</title>
+      <link>https://ppchero.com/reddit-is-where-search-social-collide-is-your-paid-strategy-ready-for-the-impact/</link>
+      <description>&lt;p&gt;Reddit isn't just social or search marketing; it’s both. See why its audience and targeting options make it a paid media opportunity you can't ignore.&lt;/p&gt;
+&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/reddit-is-where-search-social-collide-is-your-paid-strategy-ready-for-the-imp</description>
+      <pubDate>2026-08-14T00:00:00Z</pubDate>
+      <guid isPermaLink="false">823adacf52f8</guid>
+      <category>PPC Hero (Brainlabs)</category>
     </item>
     <item>
       <title>[Google Ads] Migrate Campaign-level Broad Match and Automatically Created Assets to AI Max</title>
@@ -942,14 +951,6 @@ Get More help from Aaron with your Google Ads Campaigns:
       <description>Attract more patients with a powerful Google Business Profile. Optimize photos, gather reviews, and showcase services to climb local search rankings. Essential for practice growth. #LocalSEO #GoogleBusinessProfile #PracticeGrowth #PatientAcquisition #BusinessTips</description>
       <pubDate>2026-07-27T00:00:00Z</pubDate>
       <guid isPermaLink="false">8ccf00e936da</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[General] 8 Healthcare Marketing Strategies: Rank Higher Now! #shorts</title>
-      <link>https://www.youtube.com/watch?v=4cj3x6Zpe0g</link>
-      <description>Maximize your medical practice's visibility by fully optimizing your Google Business Profile. Fill every section, gather reviews, and answer patient questions to rank higher and attract more clients. #HealthcareMarketing #GoogleBusinessProfile #MedicalPractice #DigitalMarketing #SEO</description>
-      <pubDate>2026-07-26T00:00:00Z</pubDate>
-      <guid isPermaLink="false">fd1e4d161057</guid>
       <category>Surfside PPC</category>
     </item>
   </channel>
