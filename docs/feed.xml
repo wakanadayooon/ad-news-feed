@@ -5,7 +5,7 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:19:22 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>[Google Ads] Announcing v25.1 of the Google Ads API</title>
@@ -23,6 +23,52 @@ Today we are announcing the release of v25.1 of the &lt;a href="https://develope
       <pubDate>2026-08-20T00:00:00Z</pubDate>
       <guid isPermaLink="false">459b8bc9cc1d</guid>
       <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Make AI Max work for your business with new testing and planning tools.</title>
+      <link>https://blog.google/products/ads-commerce/ai-max-testing-planning-tools/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Max_Announcement.max-600x600.format-webp.webp"&gt;Use new AI Max tools — like A/B tests and performance planners for budget and bidding changes — to maximize your Search campaigns.</description>
+      <pubDate>2026-08-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3e938115bdf6</guid>
+      <category>Google Ads Blog (公式)</category>
+    </item>
+    <item>
+      <title>[General] Meta Is Removing Placement Controls From Ad Sets</title>
+      <link>https://www.jonloomer.com/meta-removing-placement-controls-ad-sets/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/08/meta-removing-placement-controls-300x157.png" class="attachment-medium size-medium wp-post-image" alt="Meta Is Removing Placement Controls From Ad Sets" style="margin-bottom: 15px;" decoding="async" srcset="</description>
+      <pubDate>2026-08-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">51b457f6a7c1</guid>
+      <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Meta Ads] How to get influencers in your Meta ads (step-by-step)</title>
+      <link>https://www.youtube.com/watch?v=ktAY0-_h_7E</link>
+      <description>👉 Check out my brand NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+Here's a step by step process you can follow to find and hire influencers to promote your products and services in your Meta ads...
+
+If you’re new here — I’m Ben Heath.
+
+I run He</description>
+      <pubDate>2026-08-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">47c213feae34</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Responsive Search Ads: Best Practices - Surfside PPC Podcast Episode 28</title>
+      <link>https://www.youtube.com/watch?v=jzgtb2X7x4M</link>
+      <description>Responsive search ads are the only search ad type you can build in Google Ads now, so getting them right matters more than ever. In episode 28 I walk through a real responsive search ad inside a campaign I just turned on for my own business, a medical PPC campaign at $25 a day. You get my best pract</description>
+      <pubDate>2026-08-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">12e811be5b18</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Responsive Search Ads: Best Practices - Surfside PPC Podcast Episode 28</title>
+      <link>https://www.youtube.com/watch?v=jnAYabeKSag</link>
+      <description>Responsive search ads are the only search ad type you can build in Google Ads now, so getting them right matters more than ever. In episode 28 I walk through a real responsive search ad inside a campaign I just turned on for my own business, a medical PPC campaign at $25 a day. You get my best pract</description>
+      <pubDate>2026-08-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">00572483d8d4</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[General] 【BtoBカンファレンス】2026年最新勝ち施策｜AI検索時代の打ち手・成功事例を大公開！マーケ戦略〜商談化までを徹底解説（無料オンラインセミナー）</title>
@@ -926,47 +972,6 @@ Want to build a creator program that actually drives profitable growth? In this 
       <pubDate>2026-08-01T00:00:00Z</pubDate>
       <guid isPermaLink="false">1d96b5a3dbe1</guid>
       <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads for Orthodontics: Top Tips &amp; Strategy #shorts</title>
-      <link>https://www.youtube.com/watch?v=mtVt5f8k1mg</link>
-      <description>Launching Google Ads for orthodontics? Start with conversion tracking, solid landing pages, and targeted keywords. Focus on Search campaigns first, then evolve with Performance Max and Demand Gen. Include cost and location-specific info like 'Cost of Invisalign in North Carolina' to capture active s</description>
-      <pubDate>2026-07-31T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f0b7f56a3c9b</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Search Console Now Tracks YouTube &amp; Social</title>
-      <link>https://www.youtube.com/watch?v=jD2UpNllN8Y</link>
-      <description>Google Search Console now lets you measure how your content on platforms like YouTube, Instagram, TikTok and X performs in Google Search using Platform Properties. Instead of only tracking your website, you can now connect supported social and video platforms to understand how people discover your c</description>
-      <pubDate>2026-07-31T00:00:00Z</pubDate>
-      <guid isPermaLink="false">278f80d6bc13</guid>
-      <category>Loves Data</category>
-    </item>
-    <item>
-      <title>[General] Dominate Local SEO: Seattle Tree Care Strategy Revealed #shorts</title>
-      <link>https://www.youtube.com/watch?v=Hs71UlNdyco</link>
-      <description>Unlock local SEO dominance by creating dedicated pages for specific services like 'commercial tree care' or 'golf course tree management'. This strategy boosts ad performance and search visibility. #LocalSEO #WebsiteStrategy #SearchVisibility #DigitalMarketing</description>
-      <pubDate>2026-07-31T00:00:00Z</pubDate>
-      <guid isPermaLink="false">13f5326e2a7d</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Launching Structured Data Files v10.1</title>
-      <link>http://ads-developers.googleblog.com/2026/07/launching-structured-data-files-v101.html</link>
-      <description>&lt;p&gt;
-Today we’re announcing the general availability of &lt;a target="_blank" href="https://developers.google.com/display-video/api/structured-data-file/format?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-sdf-v10-launch-announcment&amp;utm_content=learnmore-refdocs&amp;utm_source=googleblog-ad</description>
-      <pubDate>2026-07-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">98b1e4853835</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Microsoft Ads] Publisher Release Roundup: Copilot in Monetize gets an upgrade</title>
-      <link>https://about.ads.microsoft.com/en/blog/post/july-2026/publisher-release-roundup-copilot-enhancements</link>
-      <description>Today, we are unveiling new updates to Copilot in Microsoft Advertising Platform, your AI assistant for digital advertising.</description>
-      <pubDate>2026-07-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">2dd6692e4ddc</guid>
-      <category>Microsoft Advertising Blog</category>
     </item>
   </channel>
 </rss>
