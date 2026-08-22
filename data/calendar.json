@@ -1,6 +1,49 @@
 {
   "articles": [
     {
+      "id": "6a6a58323998",
+      "platform": "microsoft-ads",
+      "platform_label": "Microsoft Ads",
+      "color": "#00A4EF",
+      "source": "Microsoft Advertising Blog",
+      "title": "How businesses win when AI does the shopping",
+      "link": "https://about.ads.microsoft.com/en/blog/post/august-2026/how-businesses-win-when-ai-does-the-shopping",
+      "description": "AI is already the fastest-growing retail channel. Our playbook helps you prepare for the age of AI shopping and agentic commerce.",
+      "date": "2026-08-22",
+      "lang": "en",
+      "type": "article",
+      "category": "unclassified"
+    },
+    {
+      "id": "4c8bac0d5017",
+      "platform": "google-ads",
+      "platform_label": "Google Ads",
+      "color": "#4285F4",
+      "source": "PPC Hero (Brainlabs)",
+      "title": "The Performance Max Brand Leak Audit: Measuring the Spend You Would Have Won Anyway",
+      "link": "https://ppchero.com/performance-max-brand-leak-audit/",
+      "description": "<p>Performance Max often reports your best return because it is quietly buying your own brand. Here is the audit that sizes the leak, and the levers that plug it.</p>\n<p>&lt;p&gt;The post <a rel=\"nofollow\" href=\"https://ppchero.com/performance-max-brand-leak-audit/\">The Performance Max Brand Leak Au",
+      "date": "2026-08-21",
+      "lang": "en",
+      "type": "article",
+      "category": "unclassified"
+    },
+    {
+      "id": "c41e4eb63e6b",
+      "platform": "meta-ads",
+      "platform_label": "Meta Ads",
+      "color": "#1877F2",
+      "source": "Ben Heath",
+      "title": "The best advertisers aren't just more creative, they just test more",
+      "link": "https://www.youtube.com/watch?v=Bgjnbb69RSU",
+      "description": "👉 Check out my brand NEW Meta Ads course & community with weekly live Q&As with me: https://www.skool.com/benheath/about\n\nWant to know how to become one of the best advertisers in your niche? It's simpler than you think.\n\nIf you’re new here — I’m Ben Heath.\n\nI run Heath Media, a marketing agency tha",
+      "date": "2026-08-21",
+      "lang": "en",
+      "type": "youtube",
+      "category": "unclassified",
+      "transcript_url": ""
+    },
+    {
       "id": "bd0a4e4d1336",
       "platform": "google-ads",
       "platform_label": "Google Ads",
@@ -9495,36 +9538,6 @@
       "lang": "ja",
       "type": "article",
       "category": "unclassified"
-    },
-    {
-      "id": "53b78b5188ba",
-      "platform": "general",
-      "platform_label": "General",
-      "color": "#6B7280",
-      "source": "Surfside PPC",
-      "title": "Beginner's Local SEO Tutorial 2026: Rank Higher! #shorts",
-      "link": "https://www.youtube.com/watch?v=cTAJN8_MMR0",
-      "description": "Unlock higher Google rankings with this beginner's guide to local SEO processes. Focus on what truly matters to rank higher, beyond just building profiles. A must-watch for local businesses. #LocalSEO #SEO #DigitalMarketing #SmallBusiness",
-      "date": "2026-05-23",
-      "lang": "en",
-      "type": "youtube",
-      "category": "unclassified",
-      "transcript_url": ""
-    },
-    {
-      "id": "023353a190f8",
-      "platform": "google-ads",
-      "platform_label": "Google Ads",
-      "color": "#4285F4",
-      "source": "Loves Data",
-      "title": "Google's Ask Advisor – Your New AI Marketing Collaborator",
-      "link": "https://www.youtube.com/watch?v=sxXuD8G5hyk",
-      "description": "Google is launching Ask Advisor, a new AI tool that connects your marketing data across Google Ads, Google Analytics, and Merchant Center in one place.\n\nInstead of jumping between platforms to get insights, Ask Advisor gives you personalized recommendations based on your marketing data. For example,",
-      "date": "2026-05-23",
-      "lang": "en",
-      "type": "youtube",
-      "category": "unclassified",
-      "transcript_url": ""
     },
     {
       "id": "e993bce4f519",

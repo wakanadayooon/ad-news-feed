@@ -5,8 +5,39 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 10:19:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:12:36 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Microsoft Ads] How businesses win when AI does the shopping</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/august-2026/how-businesses-win-when-ai-does-the-shopping</link>
+      <description>AI is already the fastest-growing retail channel. Our playbook helps you prepare for the age of AI shopping and agentic commerce.</description>
+      <pubDate>2026-08-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6a6a58323998</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] The Performance Max Brand Leak Audit: Measuring the Spend You Would Have Won Anyway</title>
+      <link>https://ppchero.com/performance-max-brand-leak-audit/</link>
+      <description>&lt;p&gt;Performance Max often reports your best return because it is quietly buying your own brand. Here is the audit that sizes the leak, and the levers that plug it.&lt;/p&gt;
+&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/performance-max-brand-leak-audit/"&gt;The Performance Max Brand Leak Au</description>
+      <pubDate>2026-08-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4c8bac0d5017</guid>
+      <category>PPC Hero (Brainlabs)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] The best advertisers aren't just more creative, they just test more</title>
+      <link>https://www.youtube.com/watch?v=Bgjnbb69RSU</link>
+      <description>👉 Check out my brand NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+Want to know how to become one of the best advertisers in your niche? It's simpler than you think.
+
+If you’re new here — I’m Ben Heath.
+
+I run Heath Media, a marketing agency tha</description>
+      <pubDate>2026-08-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c41e4eb63e6b</guid>
+      <category>Ben Heath</category>
+    </item>
     <item>
       <title>[Google Ads] Announcing v25.1 of the Google Ads API</title>
       <link>http://ads-developers.googleblog.com/2026/08/announcing-v251-of-google-ads-api.html</link>
@@ -937,41 +968,6 @@ So here's the question. Is </description>
       <pubDate>2026-08-02T00:00:00Z</pubDate>
       <guid isPermaLink="false">de73b3d49458</guid>
       <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[Google Ads] Data Manager API updates: RemoveAllAudienceMembers method, ingestion field warnings, expanded address data</title>
-      <link>http://ads-developers.googleblog.com/2026/07/data-manager-api-updates.html</link>
-      <description>&lt;p&gt;
-  The &lt;a href="https://developers.google.com/data-manager/api/reference?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-dm-api-r6&amp;utm_content=learnmore-changelog#2026-07-30_v18"&gt;latest release of the Data Manager API&lt;/a&gt;
-  introduces features that simplify
-  audience management, e</description>
-      <pubDate>2026-08-01T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f19351ff237f</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] How I Source, Brief &amp; Manage Creators (My Exact System)</title>
-      <link>https://www.youtube.com/watch?v=_VtpfVeB2Kc</link>
-      <description>Try Modash: https://mdsh.io/free-modash-trial
-
-Want to work with me? Let's talk: https://form.typeform.com/to/JpKG4ydU
-
-Want to build a creator program that actually drives profitable growth? In this video, I break down my exact system for sourcing, evaluating, briefing, and managing creators in 202</description>
-      <pubDate>2026-08-01T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e36bb27b973d</guid>
-      <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[Meta Ads] How to Work With the Best Creators &amp; Influencers</title>
-      <link>https://www.youtube.com/watch?v=_VtpfVeB2Kc</link>
-      <description>Try Modash: https://mdsh.io/free-modash-trial
-
-Want to work with me? Let's talk: https://form.typeform.com/to/JpKG4ydU
-
-Want to build a creator program that actually drives profitable growth? In this video, I break down my exact system for sourcing, evaluating, briefing, and managing creators in 202</description>
-      <pubDate>2026-08-01T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1d96b5a3dbe1</guid>
-      <category>Dara Denney</category>
     </item>
   </channel>
 </rss>
