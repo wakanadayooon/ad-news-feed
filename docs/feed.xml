@@ -5,8 +5,54 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:01:59 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] October 2026 changes to the Display &amp; Video 360 API and Structured Data Files</title>
+      <link>http://ads-developers.googleblog.com/2026/08/october-2026-changes-to-display-video.html</link>
+      <description>&lt;p&gt;
+Today we’re announcing three unversioned changes to the Display &amp; Video 360 API and Structured Data Files that will take effect in &lt;strong&gt;October 2026 &lt;/strong&gt;and may impact your existing integrations.
+&lt;/p&gt;
+&lt;p&gt;
+These changes will take place on the following dates and have been fully detailed o</description>
+      <pubDate>2026-08-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">45f2f911d4ef</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Wzmacniamy w Polsce ochronę przed oszustwami</title>
+      <link>https://about.fb.com/news/2026/08/wzmacniamy-w-polsce-ochrone-przed-oszustwami/</link>
+      <description>&lt;div&gt;&lt;img width="960" height="540" src="https://about.fb.com/wp-content/uploads/2025/05/Investment-and-Instant-Payment-Scams_Header.jpg?fit=960%2C540" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://about.fb.</description>
+      <pubDate>2026-08-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">18a33a327578</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Watch me build the perfect Meta ad creative... kind of</title>
+      <link>https://www.youtube.com/watch?v=XLW8M6tGtCk</link>
+      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+If you’re new here — I’m Ben Heath.
+
+I run Heath Media, a marketing agency that helps businesses scale using Meta Ads (Facebook &amp; Instagram).
+
+We offer done-for-you advertising service</description>
+      <pubDate>2026-08-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">817158d3b7b5</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] People Don't buy on the First Click</title>
+      <link>https://www.youtube.com/watch?v=UqdganbU7dU</link>
+      <description>If you're an ecommerce brand running Google Ads, never forget one thing. How you actually buy your own products.
+
+We're so busy marketing that we forget how we shop ourselves. Think about it. How often do you click an ad, land on a site, and buy the very first day? Quite often you don't.
+
+I've got t</description>
+      <pubDate>2026-08-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">0003b423fdde</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
     <item>
       <title>[Google Ads] Reach your audience in new ways with August’s Demand Gen Drop.</title>
       <link>https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/</link>
@@ -48,6 +94,32 @@ Should you run ads on Meta where you directly compare your offer to your competi
       <pubDate>2026-08-27T00:00:00Z</pubDate>
       <guid isPermaLink="false">88318840989a</guid>
       <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Closed-Loop Cooling Explained: The Plumbing Behind Meta’s AI</title>
+      <link>https://about.fb.com/news/2026/08/closed-loop-cooling-explained-the-plumbing-behind-metas-ai/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/08/TOM_LIQUID-COOLING_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/08/TOM_LIQUID-COOLING_Thu</description>
+      <pubDate>2026-08-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7e939c98be6f</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] New from Facebook Login: new features launching in open beta</title>
+      <link>https://developers.facebook.com/blog/post/2026/08/27/new-from-facebook-login-beta/</link>
+      <description>Login with Facebook is entering open beta on August 27, 2026, bringing a wave of improvements focused on one thing: fewer steps and less maintenance.</description>
+      <pubDate>2026-08-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">54f6d406a7e5</guid>
+      <category>Meta Developers Blog</category>
+    </item>
+    <item>
+      <title>[General] Spend NOW to get More Sales for Black Friday</title>
+      <link>https://www.youtube.com/watch?v=0cvv0Bx29dc</link>
+      <description>August is the acquisition play. October is where most brand owners start to panic.
+
+Every client is a bit different, but here's the biggest difference maker. It's their expectations and their threshold for understanding that the money spent today probably won't pay out for a month, sometimes a month</description>
+      <pubDate>2026-08-27T00:00:00Z</pubDate>
+      <guid isPermaLink="false">92e43a6506ef</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
     </item>
     <item>
       <title>[Google Ads] Google Ads API Developer Assistant v4.0.0</title>
@@ -874,79 +946,6 @@ Inside that one platform, you've got search, but you've also got integration int
       <pubDate>2026-08-07T00:00:00Z</pubDate>
       <guid isPermaLink="false">1f50be7b69b4</guid>
       <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Exclusion-Only Custom Audiences</title>
-      <link>https://www.jonloomer.com/exclusion-only-custom-audiences/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/08/exclusion-only-custom-audiences-300x157.png" class="attachment-medium size-medium wp-post-image" alt="Exclusion-Only Custom Audiences" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="htt</description>
-      <pubDate>2026-08-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">19b7c4657a33</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Why do most Facebook ads fail?</title>
-      <link>https://www.youtube.com/watch?v=w5CQldHfY6A</link>
-      <description></description>
-      <pubDate>2026-08-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">c0822911be2b</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] The no. 1 reason Meta ads fail?</title>
-      <link>https://www.youtube.com/watch?v=w5CQldHfY6A</link>
-      <description>There are many reasons why Meta ads can fail. Here's one of the biggest.
-
-Join the best community to master Meta ads! Exclusive content, live Q&amp;As &amp; direct access to me: 👉 https://www.skool.com/benheath/about
-
-If you’re new here — I’m Ben Heath.
-
-I run Heath Media, a marketing agency that helps busi</description>
-      <pubDate>2026-08-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">24cfe8522d86</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] What You NEED To Know To Get Started With Facebook Ads</title>
-      <link>https://www.youtube.com/watch?v=p8pthMjKKXk</link>
-      <description>30% off for the first 15 people - get better Meta ad results with improved data accuracy: http://hyros.com/ben
-
-Let my agency run your Meta ads for you:
-👉 https://heathmedia.co.uk/done-for-you/
-
-If you’re new here — I’m Ben Heath.
-
-I run Heath Media, a marketing agency that helps businesses scale us</description>
-      <pubDate>2026-08-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">962de0e06a7b</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] Same product. Same search in Google Ads. 2 completely different buyers.</title>
-      <link>https://www.youtube.com/watch?v=tSS7unUSjFc</link>
-      <description>Same product. Same search in Google Ads. Two completely different buyers.
-
-Let me give you a classic example. A coffee machine.
-
-I could be asking super specific questions about the size and dimensions, because we're moving to a smaller apartment. Big machine, smaller bench space. So size matters to</description>
-      <pubDate>2026-08-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">700231c4bbcf</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] 3 Steps to Lower Your CPC with Quality Score [Inside Google Ads Episode 132]</title>
-      <link>https://www.youtube.com/watch?v=GMJBcd83Kdw</link>
-      <description>Quality Score is one of those foundational Google Ads components that every practitioner knows is important, but figuring out how to improve it can be surprisingly difficult. In episode 132, host Jyll Saskin Gales shares her practical, step-by-step framework for increasing your Quality Score. Jyll b</description>
-      <pubDate>2026-08-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a5c154f90edd</guid>
-      <category>Jyll Saskin Gales (The Google Pro)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Why Meta Builds Its Own AI Data Centers</title>
-      <link>https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/08/Tom-Shaw_-Interview-with-Rachel_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/08/Tom-Shaw_</description>
-      <pubDate>2026-08-06T00:00:00Z</pubDate>
-      <guid isPermaLink="false">5496d73f80b1</guid>
-      <category>Meta Newsroom</category>
     </item>
   </channel>
 </rss>
