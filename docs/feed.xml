@@ -5,8 +5,55 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 17:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:23:20 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Making Google Ads More Secure with Updates to Developer Policies</title>
+      <link>http://ads-developers.googleblog.com/2026/08/making-google-ads-more-secure-with.html</link>
+      <description>&lt;p&gt;
+We are updating our &lt;a target="_blank" href="https://support.google.com/adspolicy/answer/6169371?hl=en"&gt;Google Ads Developer Policies&lt;/a&gt; formerly the “Google Ads API Policy”, to support developers in building robust, high-quality integrations as new AI capabilities continue to shape the adverti</description>
+      <pubDate>2026-09-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">32bc3875a92c</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[General] Meta Introduces a New Automatic Events Feature</title>
+      <link>https://www.jonloomer.com/meta-automatic-events-feature/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/08/meta-automatic-events-300x157.png" class="attachment-medium size-medium wp-post-image" alt="Meta Introduces a New Automatic Events Feature" style="margin-bottom: 15px;" decoding="async" srcset="https://www.j</description>
+      <pubDate>2026-09-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9118bec7c7c0</guid>
+      <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Google Ads] Are You Using Too Many Keywords in Google Ads? Here's How to Tell</title>
+      <link>https://www.youtube.com/watch?v=VnNDa9yV_Ok</link>
+      <description>In this video, learn how to tell if your Google Ads account has too many keywords—and why the real issue is never just about hitting a magic number. Discover why structure, intent, and relevance matter more than keyword count, and how bloated ad groups, overlapping campaigns, and messy account struc</description>
+      <pubDate>2026-09-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">705c49c640eb</guid>
+      <category>Solutions 8</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Use this Facebook Ads set up, you'll thank me later!</title>
+      <link>https://www.youtube.com/watch?v=S-F3yxya2WE</link>
+      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+Try Criteo Go today with $1,500 in matched credits: https://criteotechnologysas.sjv.io/L0Y1vo
+
+In this video I show you how to take advantage of Meta's incredibly literal optimisation </description>
+      <pubDate>2026-09-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">686eb7327e1e</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Certification 2026 – How to Get Certified and Pass the Exam</title>
+      <link>https://www.youtube.com/watch?v=HAqPG-BVe9U</link>
+      <description>Learn how to get Google Ads certified in 2026 and prepare for the Google Ads certification exam. In this step-by-step tutorial, you'll learn how Google Ads certification works, how to prepare for the exam, the types of questions you'll encounter, and how to take the exam in Google Skillshop.
+
+We'll </description>
+      <pubDate>2026-09-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">0ce8382a8a18</guid>
+      <category>Loves Data</category>
+    </item>
     <item>
       <title>[Microsoft Ads] AI Max for Search and other product news for August 2026</title>
       <link>https://about.ads.microsoft.com/en/blog/post/august-2026/ai-max-for-search-and-other-product-news-for-august-2026</link>
@@ -76,6 +123,14 @@ If you feed in low quality conversions, that's exactly what you're telling Googl
       <pubDate>2026-08-31T00:00:00Z</pubDate>
       <guid isPermaLink="false">6493ba066e69</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[General] 広告アカウント診断は何をするの？内容や相談時のよくあるお悩み、改善策の一部を紹介</title>
+      <link>https://www.kwm.co.jp/blog/advertising-account-audit/</link>
+      <description>今や多くの企業で、Web 広告は欠かせないマーケティング施策の一つとなっています。そんな Web 広告について日頃、私がお客様からよくご相談をいただくのが、以下のようなお悩みです。 その中でも特に多いのが「今の運用状況が &amp;#8230; &lt;p class="link-more"&gt;&lt;a href="https://www.kwm.co.jp/blog/advertising-account-audit/" class="more-link"&gt;&lt;span class="screen-reader-text"&gt;"広告アカウント診断は何をするの？内容や相談時のよくあるお悩み、改善策の一部を紹介" の&lt;</description>
+      <pubDate>2026-08-30T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f6e62176fa83</guid>
+      <category>キーマケのブログ</category>
     </item>
     <item>
       <title>[Google Ads] October 2026 changes to the Display &amp; Video 360 API and Structured Data Files</title>
@@ -900,61 +955,6 @@ The Google Analytics</description>
       <pubDate>2026-08-11T00:00:00Z</pubDate>
       <guid isPermaLink="false">9812758c12c7</guid>
       <category>Loves Data</category>
-    </item>
-    <item>
-      <title>[Meta Ads] The Future is for Everyone</title>
-      <link>https://about.fb.com/news/2026/08/the-future-is-for-everyone/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?w=1920 1920w,</description>
-      <pubDate>2026-08-10T00:00:00Z</pubDate>
-      <guid isPermaLink="false">76d126a2f49b</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] 8月26日（水）開催／閑散期のデータ不足を解消し購入数2倍を実現した事例も紹介 機械学習を味方につけるP-MAXキャンペーンの設計（無料オンラインセミナー）</title>
-      <link>https://www.kwm.co.jp/blog/seminar/20260826/</link>
-      <description>セミナー内容 Google広告の「P-MAX（パフォーマンス最大化）」は、配信面や入札を機械学習に委ねることで成果の最大化を目指すキャンペーンです。一方で、自動化されているからこそ、機械学習に与える学習データの「量と質」 &amp;#8230; &lt;p class="link-more"&gt;&lt;a href="https://www.kwm.co.jp/blog/seminar/20260826/" class="more-link"&gt;&lt;span class="screen-reader-text"&gt;"8月26日（水）開催／閑散期のデータ不足を解消し購入数2倍を実現した事例も紹介 機械学習を味方につけるP-</description>
-      <pubDate>2026-08-10T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d7db1eb30525</guid>
-      <category>キーマケのブログ</category>
-    </item>
-    <item>
-      <title>[Google Ads] The Only Google Ads Metric That Actually Matters</title>
-      <link>https://www.youtube.com/watch?v=tD4m3As3FjQ</link>
-      <description>Are you ready to Scale your Business or Brand with Google Ads?
-
-👉 Apply for DDA: On Demand now and let's Grow your business with Google Ads together: https://www.definedigitalacademy.com/on-demand
-
-Get More help from Aaron with your Google Ads Campaigns:
-
-👉 Get Free Access to my "Keywords &amp; SWOT Ana</description>
-      <pubDate>2026-08-10T00:00:00Z</pubDate>
-      <guid isPermaLink="false">910abb87105a</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Evolve your marketing with new AI tools</title>
-      <link>https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"&gt;Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.</description>
-      <pubDate>2026-08-10T00:00:00Z</pubDate>
-      <guid isPermaLink="false">63306f0eb024</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Upholds Texas Governor Greg Abbott’s Data Center Standards</title>
-      <link>https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?w=1920 1920w,</description>
-      <pubDate>2026-08-10T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b7f1d394497e</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Quality Score Explained</title>
-      <link>https://ppchero.com/google-ads-quality-score-explained/</link>
-      <description>&lt;p&gt;Google Ads Quality Score is a diagnostic, not a lever. Here’s what its three components reveal about your ads, structure and landing pages.&lt;/p&gt;
-&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/google-ads-quality-score-explained/"&gt;Google Ads Quality Score Explained&lt;/a&gt; first appear</description>
-      <pubDate>2026-08-10T00:00:00Z</pubDate>
-      <guid isPermaLink="false">25e7782e831c</guid>
-      <category>PPC Hero (Brainlabs)</category>
     </item>
   </channel>
 </rss>
