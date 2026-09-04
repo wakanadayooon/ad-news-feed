@@ -5,8 +5,22 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 13:59:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:52:15 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Meta Ads] Your Facebook Ads targeting doesn't matter...</title>
+      <link>https://www.youtube.com/watch?v=aAlhJLKAYwg</link>
+      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+Spending time and effort on your Meta ads targeting? Then this video is for you...
+
+If you’re new here — I’m Ben Heath.
+
+I run Heath Media, a marketing agency that helps businesses sca</description>
+      <pubDate>2026-09-04T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ee790cc82bc3</guid>
+      <category>Ben Heath</category>
+    </item>
     <item>
       <title>[Google Ads] Google Ads API v22 sunset reminder</title>
       <link>http://ads-developers.googleblog.com/2026/09/google-ads-api-v22-sunset-reminder.html</link>
@@ -90,6 +104,44 @@ The sam</description>
       <pubDate>2026-09-03T00:00:00Z</pubDate>
       <guid isPermaLink="false">2e79ebf44a25</guid>
       <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Launching Bill Payments in India, Enabling People to Pay Everyday Household Bills Directly on WhatsApp</title>
+      <link>https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/09/Image.png?w=1920 1920w, https://about.fb.com/</description>
+      <pubDate>2026-09-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">18ab80e93e64</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] By next year, I will have an 8-figure ecom brand.</title>
+      <link>https://www.youtube.com/watch?v=lnqXbg_34oI</link>
+      <description>Yes, I am calling that shot now, write it down!!
+
+And today I launched my first “test”...
+
+In 12 hours, I made:
+- 55 ad creatives
+- came up with the brand direction &amp; name
+- 1 landing page using Lovable (https://link.lovable.dev/daradenney)
+- and launched the ads
+
+It wasn’t perfect... but I got the </description>
+      <pubDate>2026-09-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8fc36986b8c2</guid>
+      <category>Dara Denney</category>
+    </item>
+    <item>
+      <title>[Google Ads] Spammy Leads from Google? Fix this</title>
+      <link>https://www.youtube.com/watch?v=1uXpeIkIvy4</link>
+      <description>Running Google Ads but every lead is low quality and spammy? Before you waste more budget, this is the one thing you need to fix.
+
+Your conversion data.
+
+If you're not feeding the correct data back into Google, you're telling it that it's doing a good job. And with maximize conversions or target CPA</description>
+      <pubDate>2026-09-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f0adc7bb9645</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
     </item>
     <item>
       <title>[General] Getting a Pipeline Number You Can Defend to Finance</title>
@@ -208,6 +260,15 @@ We'll </description>
       <pubDate>2026-09-01T00:00:00Z</pubDate>
       <guid isPermaLink="false">f1de37777351</guid>
       <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[General] Google検索広告で特定の条件を満たすキャンペーンをAI Maxにアップグレード</title>
+      <link>https://anagrams.jp/blog/ai-max-upgrade-eligibility-google-search-ads/</link>
+      <description>&lt;p&gt;Google検索広告では、2026年9月より、一部の検索キャンペーンを「AI 最大化設定（AI Max）」へ自動アップグレードする対応が始まっています。 動的検索広告（DSA）のAI Maxへの移行は…&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/ai-max-upgrade-eligibility-google-search-ads/"&gt;Google検索広告で特定の条件を満たすキャンペーンをAI Maxにアップグレード&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラ</description>
+      <pubDate>2026-09-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">152194b4e439</guid>
+      <category>アナグラム ブログ</category>
     </item>
     <item>
       <title>[Microsoft Ads] AI Max for Search and other product news for August 2026</title>
@@ -894,56 +955,6 @@ Effective&lt;strong&gt; late September 2026: &lt;/strong&gt;
       <pubDate>2026-08-14T00:00:00Z</pubDate>
       <guid isPermaLink="false">823adacf52f8</guid>
       <category>PPC Hero (Brainlabs)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Migrate Campaign-level Broad Match and Automatically Created Assets to AI Max</title>
-      <link>http://ads-developers.googleblog.com/2026/08/migrate-campaign-level-broad-match-and.html</link>
-      <description>&lt;p&gt;
-The legacy automigrations are divided into two separate phases: 
-&lt;/p&gt;&lt;ul&gt;
-
-&lt;li&gt;&lt;strong&gt;Phase 1&lt;/strong&gt; (&lt;a target="_blank" href="https://support.google.com/google-ads/answer/13389795?hl=en"&gt;Campaign-level Broad Match&lt;/a&gt; and &lt;a target="_blank" href="https://support.google.com/google-ads/answer/</description>
-      <pubDate>2026-08-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9761b7123669</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Query report data with the Campaign Manager 360 API</title>
-      <link>http://ads-developers.googleblog.com/2026/08/query-report-data-with-campaign-manager.html</link>
-      <description>&lt;p&gt;
-  You can now use the &lt;code&gt;reportData.query&lt;/code&gt; endpoint in the Campaign
-  Manager 360 API to synchronously query your campaign performance data and
-  retrieve structured JSON data directly in the response.
-&lt;/p&gt;
-&lt;p&gt;
-  The new &lt;code&gt;reportData.query&lt;/code&gt; endpoint offers a simplified option </description>
-      <pubDate>2026-08-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b91882c93ae3</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports</title>
-      <link>https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/</link>
-      <description>&lt;p&gt;“What I really like about the glasses is the speed at which I get the information I need &amp;#8211; instead of waiting for someone to read a letter or waiting for someone to tell me what I have in the fridge, I’ll just do it on impulse. Now I’m doing things for myself independently, that maybe befor</description>
-      <pubDate>2026-08-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d1c550642730</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta’s Compliance with Australia’s Social Media Ban</title>
-      <link>https://about.fb.com/news/2026/08/metas-compliance-with-australias-social-media-ban/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2024/01/DM-Teen-Default_Parent-Controls-Bundle_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2024/01/DM</description>
-      <pubDate>2026-08-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d22ded85c6b2</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Microsoft Ads] Understand how humans and AI find and choose your brand with Microsoft Clarity</title>
-      <link>https://about.ads.microsoft.com/en/blog/post/august-2026/understand-how-humans-and-ai-find-and-choose-your-brand-with-microsoft-clarity</link>
-      <description>Clarity isn’t just for SEO or AI visibility. It also helps paid media teams uncover insights, improve performance and optimise campaigns.</description>
-      <pubDate>2026-08-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">2c56a0a10e9d</guid>
-      <category>Microsoft Advertising Blog</category>
     </item>
   </channel>
 </rss>
