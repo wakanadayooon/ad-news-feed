@@ -5,7 +5,7 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:56:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:13:44 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>[Google Ads] A new onboarding experience for Google Ads API developers</title>
@@ -27,6 +27,22 @@ If </description>
       <pubDate>2026-09-11T00:00:00Z</pubDate>
       <guid isPermaLink="false">86747092916d</guid>
       <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[General] PPC For Plastic Surgeons   How To Use PPC Advertising To Drive Leads</title>
+      <link>https://www.youtube.com/watch?v=zd-BA48lvJw</link>
+      <description>Plastic surgery PPC in 2026 comes down to getting in front of patients ready to book a consultation. Search plastic surgeon in any city and you get a search ad at the top and a sponsored maps listing under it. This video covers the channels I recommend, how I pull procedure keywords from a competito</description>
+      <pubDate>2026-09-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">61eb86278462</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Google Ads] Chiropractor PPC Advertising Best Practices   How To Drive More Leads</title>
+      <link>https://www.youtube.com/watch?v=L9CzU6mgMbw</link>
+      <description>PPC for chiropractors in 2026 comes down to being in front of people the moment they search chiropractor near me. This video covers the four channels I would use, why I would start with Local Services Ads and Google Ads, and how I pull keywords for a condition like sciatica out of a chiropractor's o</description>
+      <pubDate>2026-09-11T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a5a00892cb3a</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[Google Ads] Drive profitable growth with new data and measurement tools</title>
@@ -950,28 +966,6 @@ Today we are announcing the release of v25.1 of the &lt;a href="https://develope
       <pubDate>2026-08-20T00:00:00Z</pubDate>
       <guid isPermaLink="false">51b457f6a7c1</guid>
       <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[Meta Ads] How to get influencers in your Meta ads (step-by-step)</title>
-      <link>https://www.youtube.com/watch?v=ktAY0-_h_7E</link>
-      <description>👉 Check out my brand NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-Here's a step by step process you can follow to find and hire influencers to promote your products and services in your Meta ads...
-
-If you’re new here — I’m Ben Heath.
-
-I run He</description>
-      <pubDate>2026-08-20T00:00:00Z</pubDate>
-      <guid isPermaLink="false">47c213feae34</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Responsive Search Ads: Best Practices - Surfside PPC Podcast Episode 28</title>
-      <link>https://www.youtube.com/watch?v=jzgtb2X7x4M</link>
-      <description>Responsive search ads are the only search ad type you can build in Google Ads now, so getting them right matters more than ever. In episode 28 I walk through a real responsive search ad inside a campaign I just turned on for my own business, a medical PPC campaign at $25 a day. You get my best pract</description>
-      <pubDate>2026-08-20T00:00:00Z</pubDate>
-      <guid isPermaLink="false">12e811be5b18</guid>
-      <category>Surfside PPC</category>
     </item>
   </channel>
 </rss>
