@@ -5,7 +5,7 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 13:57:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 13:33:56 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>[Google Ads] Build campaigns that drive high-converting, sales-ready leads.</title>
@@ -14,6 +14,30 @@
       <pubDate>2026-09-18T00:00:00Z</pubDate>
       <guid isPermaLink="false">0d648c9ef7e6</guid>
       <category>Google Ads Blog (公式)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Prostujemy: fakty o walce z oszukańczymi reklamami w Polsce</title>
+      <link>https://about.fb.com/news/2026/09/prostujemy-fakty-o-walce-z-oszukanczymi-reklamami-w-polsce/</link>
+      <description>&lt;div&gt;&lt;img width="960" height="540" src="https://about.fb.com/wp-content/uploads/2026/03/Fighting-Scammers-and-Protecting-People-with-New-Technology-and-Partnerships_Header.jpg?fit=960%2C540" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchp</description>
+      <pubDate>2026-09-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">954cd1f486f2</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Conversion Tracking Tutorial For 2026 - Surfside PPC Podcast Episode 31</title>
+      <link>https://www.youtube.com/watch?v=r3rv1qugGYw</link>
+      <description>Google Ads conversion tracking for phone calls and lead forms, start to finish. In episode 31 I build all four conversion actions on a WordPress site using Google Tag Manager: a lead form, calls from ads, calls from your website, and mobile click to call. This is the technical one, so pause where yo</description>
+      <pubDate>2026-09-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4f3287147d9f</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Conversion Tracking Tutorial For 2026 - Surfside PPC Podcast Episode 31</title>
+      <link>https://www.youtube.com/watch?v=lH98xPGGMk0</link>
+      <description>Google Ads conversion tracking for phone calls and lead forms, start to finish. In episode 31 I build all four conversion actions on a WordPress site using Google Tag Manager: a lead form, calls from ads, calls from your website, and mobile click to call. This is the technical one, so pause where yo</description>
+      <pubDate>2026-09-18T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a5e34dd17fb3</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[Microsoft Ads] Four foundations to get your brand AI-ready for the holidays</title>
@@ -946,34 +970,6 @@ We offer done-for-you advertising service</description>
       <pubDate>2026-08-28T00:00:00Z</pubDate>
       <guid isPermaLink="false">817158d3b7b5</guid>
       <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] People Don't buy on the First Click</title>
-      <link>https://www.youtube.com/watch?v=UqdganbU7dU</link>
-      <description>If you're an ecommerce brand running Google Ads, never forget one thing. How you actually buy your own products.
-
-We're so busy marketing that we forget how we shop ourselves. Think about it. How often do you click an ad, land on a site, and buy the very first day? Quite often you don't.
-
-I've got t</description>
-      <pubDate>2026-08-28T00:00:00Z</pubDate>
-      <guid isPermaLink="false">0003b423fdde</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Reach your audience in new ways with August’s Demand Gen Drop.</title>
-      <link>https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp"&gt;Drive high-quality leads and acquire customers with new messaging, travel, and creative features in YouTube’s August Demand Gen Drop.</description>
-      <pubDate>2026-08-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">c3adc7ca2e6f</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Microsoft Ads] Reimagining Search campaigns for the AI era with AI Max</title>
-      <link>https://about.ads.microsoft.com/en/blog/post/august-2026/reimagining-search-campaigns-for-the-ai-era-with-ai-max</link>
-      <description>Reach more relevant searches, deliver more relevant ads, and guide performance with AI Max—now available in Microsoft Advertising Search campaigns.</description>
-      <pubDate>2026-08-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">745f501ba409</guid>
-      <category>Microsoft Advertising Blog</category>
     </item>
   </channel>
 </rss>
