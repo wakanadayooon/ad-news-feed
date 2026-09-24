@@ -5,8 +5,41 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:30:54 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Announcing v25.2 of the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/09/announcing-v252-of-google-ads-api.html</link>
+      <description>&lt;p&gt;
+Today we are announcing the release of v25.2 of the Google Ads API. To use the new capabilities, you must upgrade your &lt;a href="https://developers.google.com/google-ads/api/docs/client-libs?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-release-v25-2&amp;utm_content=learnmore-</description>
+      <pubDate>2026-09-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d0aba3e9de45</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] AI Just Broke This Google Ads Account [Inside Google Ads Episode 139]</title>
+      <link>https://www.youtube.com/watch?v=RB8mMVOyftM</link>
+      <description>Should you let Claude run your Google Ads? No. Wait... let me think about that... NO! Generative AI chatbots might be helpful for drafting emails or analyzing reports, but using them for Google Ads strategic decisions can quickly lead to costly mistakes. In episode 139 of Inside Google Ads, host Jyl</description>
+      <pubDate>2026-09-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6aad3438681d</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Limited By Budget in Google Ads and What To Do Next  - Surfside PPC Podcast Episode 32</title>
+      <link>https://www.youtube.com/watch?v=SkK1vwNrJyQ</link>
+      <description>Limited by budget in Google Ads is not the problem most people think it is. When you see it in your status column, Google is telling you that you are leaving conversions on the table at your current cost per conversion. In episode 32 I cover the two very different situations that trigger it, and exa</description>
+      <pubDate>2026-09-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6992448f0003</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Google Ads] Limited By Budget in Google Ads and What To Do Next - Surfside PPC Podcast Episode 32</title>
+      <link>https://www.youtube.com/watch?v=qJewLxfnXHM</link>
+      <description>Limited by budget in Google Ads is not the problem most people think it is. When you see it in your status column, Google is telling you that you are leaving conversions on the table at your current cost per conversion. In episode 32 I cover the two very different situations that trigger it, and exa</description>
+      <pubDate>2026-09-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4466098bd2ac</guid>
+      <category>Surfside PPC</category>
+    </item>
     <item>
       <title>[Google Ads] We’re bringing AI Brief to more languages and adding a new AI Max reporting feature.</title>
       <link>https://blog.google/products/ads-commerce/ai-max-language-reporting-features/</link>
@@ -56,6 +89,49 @@ Anyone telling you to only run one is probably not someone you </description>
       <pubDate>2026-09-23T00:00:00Z</pubDate>
       <guid isPermaLink="false">2ad4b544addd</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Meta Ads] New Features for Meta Ray-Ban Display</title>
+      <link>https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/09/New-Features-for-Meta-Ray-Ban-Display_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/09/New</description>
+      <pubDate>2026-09-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8d58ffa027ac</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Introducing Meta VR Glasses: A Cinema, Courtside Seat, and Workspace in Just 100 Grams</title>
+      <link>https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Meta-VR-Glasses_-A-Cinema-Courtside-Seat-and-Workspace-in-Just-100-GramsIntroducing-Meta-VR-Glasses_-A-Cinema-Courtside-Seat-and-Workspace-in-Just-100-Grams_thumb.gif?fit=890%2C501" class="attachment-</description>
+      <pubDate>2026-09-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">433460ef3349</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Introducing Ray-Ban Meta Audio and More AI Glasses Styles</title>
+      <link>https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Ray-Ban-Meta-Audio-and-More-AI-Glasses-Styles_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content</description>
+      <pubDate>2026-09-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b653ecaea620</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google広告のAIモードに広告を配信するには？日本で実装されるまえに押さえておきたいポイントを紹介</title>
+      <link>https://www.kwm.co.jp/blog/ai-mode-ads/</link>
+      <description>Google Marketing Live 2026 にて、AI モード向けの広告配信が発表されました。米国では2026年5月20日からベータテストが始まっています。検索広告やショッピング広告への影響を心配していた方にと [&amp;#8230;]</description>
+      <pubDate>2026-09-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f039712e33ff</guid>
+      <category>キーマケのブログ</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Agency Mistakes Part 1/2</title>
+      <link>https://www.youtube.com/watch?v=WlAVFSEbzZg</link>
+      <description>Just came out of an hour long meeting with a really angry ecommerce brand owner. Rightly so.
+
+She was angry because I had to walk her through the big mistake her previous two agencies made. It's becoming an all too familiar problem.
+An agency doesn't know what they're doing, so they just keep doubli</description>
+      <pubDate>2026-09-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">eb4c2a387d10</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
     </item>
     <item>
       <title>[General] Meta One Business Plans: What You Get at Each Tier</title>
@@ -899,85 +975,6 @@ If you're not feeding the correct data back into Google, you're telling it that 
       <pubDate>2026-09-02T00:00:00Z</pubDate>
       <guid isPermaLink="false">74d3664251db</guid>
       <category>PPC Hero (Brainlabs)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Best Facebook Ad Campaign Structure - Tier List</title>
-      <link>https://www.youtube.com/watch?v=zyC-jNLiHic</link>
-      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-Wondering what the best Facebook ad campaign structure is? In this video I run through some of the most common Meta ad campaign structures and rank them in a tier list.
-
-If you’re new </description>
-      <pubDate>2026-09-02T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ae5f485978bd</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] 15 Years of Lessons Learned</title>
-      <link>https://www.youtube.com/watch?v=0GBa5Ebid7k</link>
-      <description>Fifteen years in, the celebrating gives way to a more honest look back at what worked and what didn't. This final entry in the anniversary series shares the lessons that mattered most, but it doesn't end there. Jon also opens up about two real regrets, including one he still hasn't figured out.</description>
-      <pubDate>2026-09-02T00:00:00Z</pubDate>
-      <guid isPermaLink="false">03214484cf2f</guid>
-      <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[Google Ads] NEW Google Analytics Dashboards – First Look</title>
-      <link>https://www.youtube.com/watch?v=U4oRa6p3kWQ</link>
-      <description>Google Analytics is rolling out a new Dashboards feature that lets you bring important metrics, dimensions, and visualizations together on a single page.
-
-In this quick first look, you'll learn where to find the new Dashboard option in Google Analytics, how to check if you have access, how to add me</description>
-      <pubDate>2026-09-02T00:00:00Z</pubDate>
-      <guid isPermaLink="false">fae13b6e2f97</guid>
-      <category>Loves Data</category>
-    </item>
-    <item>
-      <title>[Google Ads] Build a measurement stack you can rely on to steer your campaigns.</title>
-      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp"&gt;In this Ads Decoded episode, we discuss how to assess marketing campaigns with attribution, incrementality, and media mix models.</description>
-      <pubDate>2026-09-02T00:00:00Z</pubDate>
-      <guid isPermaLink="false">fc7d8768c381</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Assets and Ad Extensions Explained  - Surfside PPC Podcast Episode 29</title>
-      <link>https://www.youtube.com/watch?v=oduIfSQDAUc</link>
-      <description>Google Ads assets, formerly ad extensions, are the parts of your ad that show up around your headlines and descriptions. In episode 29 I go through every asset type one by one, what each does, which I recommend, and which I would skip. I also pull up a plumber near me search to show what they look l</description>
-      <pubDate>2026-09-02T00:00:00Z</pubDate>
-      <guid isPermaLink="false">bc5001712e53</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Assets and Ad Extensions Explained - Surfside PPC Podcast Episode 29</title>
-      <link>https://www.youtube.com/watch?v=iTKl8OSCsRg</link>
-      <description>Google Ads assets, formerly ad extensions, are the parts of your ad that show up around your headlines and descriptions. In episode 29 I go through every asset type one by one, what each does, which I recommend, and which I would skip. I also pull up a plumber near me search to show what they look l</description>
-      <pubDate>2026-09-02T00:00:00Z</pubDate>
-      <guid isPermaLink="false">23c278e22432</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Making Google Ads More Secure with Updates to Developer Policies</title>
-      <link>http://ads-developers.googleblog.com/2026/08/making-google-ads-more-secure-with.html</link>
-      <description>&lt;p&gt;
-We are updating our &lt;a target="_blank" href="https://support.google.com/adspolicy/answer/6169371?hl=en"&gt;Google Ads Developer Policies&lt;/a&gt; formerly the “Google Ads API Policy”, to support developers in building robust, high-quality integrations as new AI capabilities continue to shape the adverti</description>
-      <pubDate>2026-09-01T00:00:00Z</pubDate>
-      <guid isPermaLink="false">32bc3875a92c</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[General] Meta Introduces a New Automatic Events Feature</title>
-      <link>https://www.jonloomer.com/meta-automatic-events-feature/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/08/meta-automatic-events-300x157.png" class="attachment-medium size-medium wp-post-image" alt="Meta Introduces a New Automatic Events Feature" style="margin-bottom: 15px;" decoding="async" srcset="https://www.j</description>
-      <pubDate>2026-09-01T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9118bec7c7c0</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[Google Ads] Are You Using Too Many Keywords in Google Ads? Here's How to Tell</title>
-      <link>https://www.youtube.com/watch?v=VnNDa9yV_Ok</link>
-      <description>In this video, learn how to tell if your Google Ads account has too many keywords—and why the real issue is never just about hitting a magic number. Discover why structure, intent, and relevance matter more than keyword count, and how bloated ad groups, overlapping campaigns, and messy account struc</description>
-      <pubDate>2026-09-01T00:00:00Z</pubDate>
-      <guid isPermaLink="false">705c49c640eb</guid>
-      <category>Solutions 8</category>
     </item>
   </channel>
 </rss>
