@@ -5,8 +5,53 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:22:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:05:12 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Announcing Google Mobile Ads Next-Gen SDK as the preferred SDK for Android</title>
+      <link>http://ads-developers.googleblog.com/2026/07/announcing-google-mobile-ads-next-gen.html</link>
+      <description>&lt;p&gt;
+Google Mobile Ads (GMA) Next-Gen SDK is now the preferred SDK for Android development with Google AdMob and Google Ad Manager. GMA Next-Gen SDK is a significant rewrite of Google Mobile Ads SDK that improves speed, stability, and the developer experience. Google Mobile Ads SDK for Android is now</description>
+      <pubDate>2026-10-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">efd55eb9ee28</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Measures We’ve Put in Place to Fight Child Exploitation</title>
+      <link>https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Meta-logo.png?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/10/Meta-logo.png?w=1920 1920w, https://about</description>
+      <pubDate>2026-10-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3ad6128aa27f</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Google Ads] Organic vs Paid Search: What actually matters now</title>
+      <link>https://www.youtube.com/watch?v=DSp_x24QeqI</link>
+      <description>In this video, learn what separates organic search from paid search today and why treating them as two separate channels could be costing your brand money. Discover why organic search works like compound interest while paid search works like paying rent, and how AI Overviews, AI Mode, and zero-click</description>
+      <pubDate>2026-10-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e7793c71d48e</guid>
+      <category>Solutions 8</category>
+    </item>
+    <item>
+      <title>[Meta Ads] The BEST NEW Facebook Ads Feature Has Arrived!</title>
+      <link>https://www.youtube.com/watch?v=X2Iww-AH7Zs</link>
+      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+👉 30% off Hyros for the first 15 people - get better Meta ad results with improved data accuracy: http://hyros.com/ben
+
+Meta has added a new Facebook ads feature that I have wanted for</description>
+      <pubDate>2026-10-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e8378313e2a2</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] A Simple, Volume-Focused Ad Strategy</title>
+      <link>https://www.youtube.com/watch?v=C0R5YJiWpig</link>
+      <description>When ads can't drive enough sales to turn a profit, the instinct is to do more, test more creative, optimize for an earlier action, restrict the targeting that looks wasteful. But those moves almost always make a low-volume problem worse. Jon lays out the stripped-down approach he recommends instead</description>
+      <pubDate>2026-10-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">48d63ab8e5a3</guid>
+      <category>Jon Loomer</category>
+    </item>
     <item>
       <title>[Microsoft Ads] Celebrate Your Success with Microsoft Advertising</title>
       <link>https://about.ads.microsoft.com/en/blog/post/october-2026/celebrate-your-success-with-microsoft-advertising</link>
@@ -22,6 +67,22 @@
       <pubDate>2026-10-06T00:00:00Z</pubDate>
       <guid isPermaLink="false">65f5ef3c39af</guid>
       <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Upcoming 2026 Restriction Period for US Ads About Social Issues, Elections, or Politics</title>
+      <link>https://developers.facebook.com/blog/post/2026/10/06/upcoming-2026-restriction-period-for-us-ads/</link>
+      <description>As part of Meta's ongoing commitment to election integrity, we are implementing a restriction period for ads about social issues, elections, or politics ahead of the 2026 U.S. Midterm Elections. This is consistent with our approach in prior U.S. election cycles, including 2020, 2022, and 2024.</description>
+      <pubDate>2026-10-06T00:00:00Z</pubDate>
+      <guid isPermaLink="false">ccd7d5e810e2</guid>
+      <category>Meta Developers Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] ターゲティングも入札も自動化！TikTok広告「Smart+」とは？設定手順と注意点を解説</title>
+      <link>https://www.kwm.co.jp/blog/tiktok-smart-plus/</link>
+      <description>「TikTok 広告を始めたいけれど、ターゲット設定や入札調整を細かく行うリソースがない」 「Google 広告や複数媒体配信していて、TikTokにかけられる時間が週に数時間しかない」 インハウスで広告を担当している方 [&amp;#8230;]</description>
+      <pubDate>2026-10-06T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2f35a128eee8</guid>
+      <category>キーマケのブログ</category>
     </item>
     <item>
       <title>[General] Should You Optimize for a Custom Conversion?</title>
@@ -900,66 +961,6 @@ What suburbs, cities or locations are generating </description>
       <pubDate>2026-09-16T00:00:00Z</pubDate>
       <guid isPermaLink="false">7d43e019a88c</guid>
       <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[General] What I Built With Muse, Meta’s New AI Agent</title>
-      <link>https://www.jonloomer.com/muse-meta-ai-agent/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/09/meta-muse-ai-agent-300x157.png" class="attachment-medium size-medium wp-post-image" alt="What I Built With Muse, Meta&amp;#039;s New AI Agent" style="margin-bottom: 15px;" decoding="async" srcset="https://www.jo</description>
-      <pubDate>2026-09-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">de999bbfad7d</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Tag Gateway Tutorial – Set Up With Cloudflare &amp; GTM</title>
-      <link>https://www.youtube.com/watch?v=e9AEsruHx7g</link>
-      <description>Learn how to set up Google Tag Gateway using Cloudflare and Google Tag Manager. In this step-by-step tutorial, you'll learn what Google Tag Gateway is, how it can improve the reliability and accuracy of your Google Analytics and Google Ads measurement, and how to configure it using your website's do</description>
-      <pubDate>2026-09-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ae7dab08cfbd</guid>
-      <category>Loves Data</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Présentation de Meta One : Un service d’abonnement offrant davantage de fonctionnalités et d’IA pour créer, se connecter et se démarquer</title>
-      <link>https://about.fb.com/news/2026/09/presentation-de-meta-one-un-service-dabonnement-offrant-davantage-de-fonctionnalites-et-dia-pour-creer-se-connecter-et-se-demarquer/</link>
-      <description>&lt;div&gt;&lt;img width="960" height="540" src="https://about.fb.com/wp-content/uploads/2026/09/Meta-One-Bundle-plans-for-individuals.png?fit=960%2C540" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" srcset="https://about.fb.com/wp-content/uploads/2026</description>
-      <pubDate>2026-09-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">51ef30c11d4a</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Introducing Meta One: A Subscription Service With More Features and AI to Create, Connect, and Stand Out</title>
-      <link>https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Meta-One_A-Subscription-Service-With-More-Features-and-AI-to-Create-Connect-and-Stand-Out_Thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15</description>
-      <pubDate>2026-09-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ee86c7d0e104</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Announcing Meta Business Messaging MCP: Set up and manage WhatsApp Business from your AI agent</title>
-      <link>https://developers.facebook.com/blog/post/2026/09/15/whatsapp-business-messaging-mcp-ai-agent/</link>
-      <description>Business Messaging MCP connects your AI coding agent to the WhatsApp Business Platform, so you can create accounts, add numbers, build templates, and send test messages without leaving your workflow.</description>
-      <pubDate>2026-09-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3387e7413d94</guid>
-      <category>Meta Developers Blog</category>
-    </item>
-    <item>
-      <title>[General] 100店舗超のジム集客経験から解説！個店ビジネスでの広告運用をスムーズに進めるステップと注意点</title>
-      <link>https://www.kwm.co.jp/blog/independent-store-business-ads/</link>
-      <description>「過去に Web 広告を自社でやってみたけれど、効果がよく分からずやめてしまった」「近所に競合ジムが増えてきて、どう自店の強みをアピールしたらいいか分からない」などジムの経営者さまや開業を控えたオーナーさまから、このよう [&amp;#8230;]</description>
-      <pubDate>2026-09-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4223b80feead</guid>
-      <category>キーマケのブログ</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Breaking Meta Ads News! Meta One is here...</title>
-      <link>https://www.youtube.com/watch?v=qnJZ1mmxGps</link>
-      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-👉 30% off Hyros for the first 15 people - get better Meta ad results with improved data accuracy: http://hyros.com/ben
-
-Meta one has arrived! And it's a really big deal for Meta advert</description>
-      <pubDate>2026-09-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b85f4d716da0</guid>
-      <category>Ben Heath</category>
     </item>
   </channel>
 </rss>
