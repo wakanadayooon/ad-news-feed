@@ -5,8 +5,73 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:42:21 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Launching Structured Data Files v11</title>
+      <link>http://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html</link>
+      <description>&lt;p&gt;
+Today we’re announcing the general availability of &lt;a target="_blank" href="https://developers.google.com/display-video/api/structured-data-file/format?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-sdf-v11-launch-announcement&amp;utm_content=learnmore-refdocs#v11"&gt;Structured Data Fi</description>
+      <pubDate>2026-10-09T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6332329027b4</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] You're not a serious Meta advertiser without this...</title>
+      <link>https://www.youtube.com/watch?v=C_RixQvMofE</link>
+      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+You can't call yourself a serious Meta advertiser unless you've got your Audience Segments defined. Here's how you do it.
+
+If you’re new here — I’m Ben Heath.
+
+I run Heath Media, a mar</description>
+      <pubDate>2026-10-09T00:00:00Z</pubDate>
+      <guid isPermaLink="false">81158d5639d2</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] Stop Looking at your Google Ads Dashboard</title>
+      <link>https://www.youtube.com/watch?v=tdd5CZ0iWp4</link>
+      <description>I spend far more time looking at Google spreadsheets than the Google Ads dashboard. 
+
+Only reading the dashboard?
+
+You're never going to see success. 
+
+You need real business data. Leads, sales, total revenue, spend on other platforms. Track it month on month in a separate sheet. 
+
+Six months gives </description>
+      <pubDate>2026-10-09T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e9cde55fb669</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads account was working and now it’s not?</title>
+      <link>https://www.youtube.com/watch?v=CrLIMrTnh0w</link>
+      <description>Here’s the easy way to diagnose what went wrong.
+
+
+
+Go into your Google Ads dashboard and open your change history.
+
+Ideally you want three to six months of data.
+
+
+
+So where does your performance start to dip?
+
+
+
+Find that point. Then look one week either side of any changes you made.
+
+
+
+Keep an ey</description>
+      <pubDate>2026-10-09T00:00:00Z</pubDate>
+      <guid isPermaLink="false">072da160151f</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
     <item>
       <title>[Google Ads] Accelerate Google Ads API Basic Access reviews with brand verification</title>
       <link>http://ads-developers.googleblog.com/2026/07/accelerate-google-ads-api-basic-access.html</link>
@@ -63,6 +128,15 @@ You'll lea</description>
       <pubDate>2026-10-08T00:00:00Z</pubDate>
       <guid isPermaLink="false">369bea4f119e</guid>
       <category>Loves Data</category>
+    </item>
+    <item>
+      <title>[General] 【2026年9月】広告媒体アップデートまとめ</title>
+      <link>https://anagrams.jp/blog/update-summary-2026-09/</link>
+      <description>&lt;p&gt;9月は、配信先が広がったり、ターゲティングの選択肢が増えたりする変更が、複数の媒体で重なった月でした。 特に注目なのはLINEヤフー広告です。検索広告では「検索クエリーマッチング」の提供が始まりました…&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/update-summary-2026-09/"&gt;【2026年9月】広告媒体アップデートまとめ&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>2026-10-08T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b59d0dc83abe</guid>
+      <category>アナグラム ブログ</category>
     </item>
     <item>
       <title>[Google Ads] Announcing Google Mobile Ads Next-Gen SDK as the preferred SDK for Android</title>
@@ -920,50 +994,6 @@ Join Ayisha Yousef, Karly Scott, @TheSarahStemen and host Jyll Saskin Gales for 
       <pubDate>2026-09-17T00:00:00Z</pubDate>
       <guid isPermaLink="false">e5aa73c1dabb</guid>
       <category>Jyll Saskin Gales (The Google Pro)</category>
-    </item>
-    <item>
-      <title>[Google Ads] 6 Talks in 30 Days: My Newest Google Ads Strategies [Inside Google Ads Episode 138]</title>
-      <link>https://www.youtube.com/watch?v=y27P-w1HPxU</link>
-      <description>In this special episode 138 of Inside Google Ads, host Jyll Saskin Gales gives an exclusive preview of her upcoming conference talks across Europe and Canada. Preparing for six presentations in 30 days, Jyll shares brand-new strategies, real client case studies, and actionable insights that she has </description>
-      <pubDate>2026-09-17T00:00:00Z</pubDate>
-      <guid isPermaLink="false">720aaee98d9c</guid>
-      <category>Jyll Saskin Gales (The Google Pro)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Boost your holiday sales with these agentic commerce updates</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Think_Retail_hero_xePKgsT.max-600x600.format-webp.webp"&gt;Help boost holiday sales with agentic commerce updates and product feed best practices from Google.</description>
-      <pubDate>2026-09-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">0442b96cc5aa</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Rethink 2026</title>
-      <link>https://blog.google/products/ads-commerce/rethink-2026/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rethink_2026_collection_hero.max-600x600.format-webp.webp"&gt;At Rethink 2026, we’re helping marketers prepare for the holiday season with new ways to connect with customers and boost ROI.</description>
-      <pubDate>2026-09-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">82e839752f34</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Threads Introduces Parental Supervision for Teens in APAC</title>
-      <link>https://about.fb.com/news/2026/09/threads-introduces-parental-supervision-for-teens-in-apac/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/07/New-Parental-Supervision-Tools-Now-Available-on-Threads_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/u</description>
-      <pubDate>2026-09-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1ec7aba82ff2</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] Less Spend &amp; More Conversions with Google Ads</title>
-      <link>https://www.youtube.com/watch?v=CvClMAAKQzw</link>
-      <description>If you want to scale your Google Ads past $10,000, $20,000, even $100k a month, watching your CPCs like a hawk is not going to get you there.
-
-Yes, when you're just starting out you can get some success by focusing purely on your keyword targeting and your ad copy.
-
-But when you want to play the gam</description>
-      <pubDate>2026-09-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">88585922f4c3</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
     </item>
   </channel>
 </rss>
