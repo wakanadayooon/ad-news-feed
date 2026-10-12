@@ -5,8 +5,101 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 16:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:30:14 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Google Ads API Release and Sunset Schedules for 2026-2027</title>
+      <link>http://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html</link>
+      <description>&lt;p&gt;
+Last year, we shifted to a &lt;a target="_blank" href="https://ads-developers.googleblog.com/2025/09/more-frequent-releases-coming-for.html"&gt;monthly release schedule&lt;/a&gt; for the Google Ads API to provide you faster API access to Ads features available in the &lt;a target="_blank" href="https://ads.goo</description>
+      <pubDate>2026-10-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">dcc77df31f4d</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents</title>
+      <link>https://about.fb.com/news/2026/10/introducing-muse-wonder-models/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Researchers-Introducing-Muse-Wonder_thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/10/Resea</description>
+      <pubDate>2026-10-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">48a8819dbdd9</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[General] Which CTA Button Should You Use?</title>
+      <link>https://www.jonloomer.com/qvt/cta-button/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/10/cta-button-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="Which CTA Button Should You Use?" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://www.jon</description>
+      <pubDate>2026-10-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f6ed93fe732d</guid>
+      <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Meta Ads] How to test Meta Ads structures - Tier List</title>
+      <link>https://www.youtube.com/watch?v=gw3FZU-8N2g</link>
+      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+Want to know the best (and worst) Meta ads testing structures? That's what I run through in this video.
+
+If you’re new here — I’m Ben Heath.
+
+I run Heath Media, a marketing agency that</description>
+      <pubDate>2026-10-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f16ca91dc4b1</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] How this business grew 83% with Google Ads</title>
+      <link>https://www.youtube.com/watch?v=cPdBwydXFUE</link>
+      <description>One of the biggest mistakes in Google Ads? Stopping too early.
+
+Think month on month, not week on week.
+
+One business in our program grew revenue 83% in 12 months. From about $47,000 a month to three months in a row over $87,000.
+
+Nothing flashy. Two search campaigns. One ad group each.
+
+So what cha</description>
+      <pubDate>2026-10-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">562ddfacaedb</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[Google Ads] What is a Learning Phase in Google Ads... &amp; Does it even matter</title>
+      <link>https://www.youtube.com/watch?v=sudeCAh6ymg</link>
+      <description>Less Google Ads Spend, More Qualified Leads [Google Ads Case Study]
+
+Are you ready to Scale your Business or Brand with Google Ads?
+
+👉 Apply for DDA: On Demand now and let's Grow your business with Google Ads together: https://www.definedigitalacademy.com/on-demand
+
+Get More help from Aaron with you</description>
+      <pubDate>2026-10-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">1210752120b7</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Profitably Scaling Google Ads 💪</title>
+      <link>https://www.youtube.com/watch?v=InVpTvYTQFo</link>
+      <description>Serious about profitably scaling Google Ads? Remember the bodybuilder principle.
+
+A friend of mine did a bodybuilding competition. First they had to get bigger. Then they had to cut.
+
+Grow the muscle. Then cut the fat.
+
+Google Ads works in seasons too.
+
+First, the bulking stage. You focus on growing</description>
+      <pubDate>2026-10-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a93065d5127d</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Which CTA Button Should You Use?</title>
+      <link>https://www.youtube.com/watch?v=Jo469Mx9xNo</link>
+      <description>Meta is finally giving us a helpful tip so that advertisers aren't flying blind regarding CTA buttons. Meta says the "See Details" CTA is more effective than "Learn More."</description>
+      <pubDate>2026-10-12T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8ce7d1cb7901</guid>
+      <category>Jon Loomer</category>
+    </item>
     <item>
       <title>[Google Ads] Launching Structured Data Files v11</title>
       <link>http://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html</link>
@@ -908,90 +1001,6 @@ Especially at scale, once you're spending more in Google Ads and you throw in wh
       <pubDate>2026-09-21T00:00:00Z</pubDate>
       <guid isPermaLink="false">877c8a6fa953</guid>
       <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[Meta Ads] i just spent $2000 on meta ads and here's what happened</title>
-      <link>https://www.youtube.com/watch?v=De0bOkl-IBM</link>
-      <description>I AM HUMBLED BUT NOT DEFEATED… 😂
-
-Sooooo last week I created a brand from scratch and ran some Meta Ads to test demand and the results were… rough to say the least. 
-
-HOWEVER… I got some sales. 
-
-And I figured out an angle that is underdeveloped in the market that I could fill.
-
-And most of all… I l</description>
-      <pubDate>2026-09-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ac9bed09f000</guid>
-      <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads &amp; Learning Phases</title>
-      <link>https://www.youtube.com/watch?v=JRTe4kctDw8</link>
-      <description>Seeing "bid status learning" on your Google Ads campaign and panicking? You don't need to be.
-
-This is one of the questions I get all the time. 
-
-So let's break it down.
-
-The learning status happens when you make a significant change inside Google Ads. 
-
-Remember, Google works off the data inside yo</description>
-      <pubDate>2026-09-21T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f862a699d7cb</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Build campaigns that drive high-converting, sales-ready leads.</title>
-      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E4_thumbnail.max-600x600.format-webp.webp"&gt;In this Ads Decoded episode, we break down data strength: What is it? How can you build it? And why do lead gen campaigns need it?</description>
-      <pubDate>2026-09-18T00:00:00Z</pubDate>
-      <guid isPermaLink="false">0d648c9ef7e6</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Prostujemy: fakty o walce z oszukańczymi reklamami w Polsce</title>
-      <link>https://about.fb.com/news/2026/09/prostujemy-fakty-o-walce-z-oszukanczymi-reklamami-w-polsce/</link>
-      <description>&lt;div&gt;&lt;img width="960" height="540" src="https://about.fb.com/wp-content/uploads/2026/03/Fighting-Scammers-and-Protecting-People-with-New-Technology-and-Partnerships_Header.jpg?fit=960%2C540" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchp</description>
-      <pubDate>2026-09-18T00:00:00Z</pubDate>
-      <guid isPermaLink="false">954cd1f486f2</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Conversion Tracking Tutorial For 2026 - Surfside PPC Podcast Episode 31</title>
-      <link>https://www.youtube.com/watch?v=r3rv1qugGYw</link>
-      <description>Google Ads conversion tracking for phone calls and lead forms, start to finish. In episode 31 I build all four conversion actions on a WordPress site using Google Tag Manager: a lead form, calls from ads, calls from your website, and mobile click to call. This is the technical one, so pause where yo</description>
-      <pubDate>2026-09-18T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4f3287147d9f</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Conversion Tracking Tutorial For 2026 - Surfside PPC Podcast Episode 31</title>
-      <link>https://www.youtube.com/watch?v=lH98xPGGMk0</link>
-      <description>Google Ads conversion tracking for phone calls and lead forms, start to finish. In episode 31 I build all four conversion actions on a WordPress site using Google Tag Manager: a lead form, calls from ads, calls from your website, and mobile click to call. This is the technical one, so pause where yo</description>
-      <pubDate>2026-09-18T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a5e34dd17fb3</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Microsoft Ads] Four foundations to get your brand AI-ready for the holidays</title>
-      <link>https://about.ads.microsoft.com/en/blog/post/september-2026/four-foundations-to-get-your-brand-ai-ready-for-the-holidays</link>
-      <description>Prepare your brand for AI-driven holiday shopping by strengthening four foundations: product feeds, measurement, campaign performance, and AI visibility.</description>
-      <pubDate>2026-09-17T00:00:00Z</pubDate>
-      <guid isPermaLink="false">20dbbfafa187</guid>
-      <category>Microsoft Advertising Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] How to stop your Meta Ad account from being disabled</title>
-      <link>https://www.youtube.com/watch?v=a5CRM-ZFsZM</link>
-      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-In this video I answer a very common question from Meta advertisers. What can you do to protect your Meta ad account if you've had strikes against your account?
-
-If you’re new here — I</description>
-      <pubDate>2026-09-17T00:00:00Z</pubDate>
-      <guid isPermaLink="false">823e96917f7b</guid>
-      <category>Ben Heath</category>
     </item>
   </channel>
 </rss>
