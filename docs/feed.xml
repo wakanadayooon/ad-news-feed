@@ -5,8 +5,71 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 14:46:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 14:32:06 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] An intelligent new shopping cart</title>
+      <link>https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.max-600x600.format-webp.webp"&gt;Universal Cart helps make holiday shopping easier. It’s now available in the U.S. across Search and the Gemini app.</description>
+      <pubDate>2026-10-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e9bda0a0c646</guid>
+      <category>Google Ads Blog (公式)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Data-backed secrets to smarter holiday shopping</title>
+      <link>https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/When_to_buy_guide_resize.max-600x600.format-webp.webp"&gt;Learn the best times to buy. Our new When to Buy Guide uses Google Search and discount data to show when holiday deals peak.</description>
+      <pubDate>2026-10-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">6d22ab6ac5f8</guid>
+      <category>Google Ads Blog (公式)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Announcing v26 of the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html</link>
+      <description>&lt;p&gt;
+  Today we are announcing the release of v26 of the Google Ads API. To use the
+  new capabilities, you must upgrade your
+  &lt;a
+    href="https://developers.google.com/google-ads/api/docs/client-libs?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-release-v26-0&amp;utm_content=le</description>
+      <pubDate>2026-10-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">33dfafa33b79</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance</title>
+      <link>https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2025/05/Economic-and-Workforce-Impacts-of-OS-AI-Linux-Foundation-paper_Thumbnail-1-1.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/w</description>
+      <pubDate>2026-10-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">94266b8d6931</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Microsoft Ads] Gift them a reason: How to earn a place on the holiday shortlist</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/october-2026/gift-them-a-reason-how-to-earn-a-place-on-the-holiday-shortlist</link>
+      <description>Reach holiday shoppers early, inspire gift ideas, optimise product feeds, and connect AI, Search, Shopping and Audience ads to drive action.</description>
+      <pubDate>2026-10-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">97a6cd63a646</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Your ROAS Went Up. Where Did It Come From?</title>
+      <link>https://ppchero.com/your-roas-went-up-where-did-it-come-from/</link>
+      <description>&lt;p&gt;Discover how Google Ads conversion tracking errors, duplicate conversions and static values can inflate ROAS, and how to audit your settings to get a more accurate picture of campaign performance.&lt;/p&gt;
+&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/your-roas-went-up-where-did-it-</description>
+      <pubDate>2026-10-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9096ca5a92bf</guid>
+      <category>PPC Hero (Brainlabs)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Get Your Google Ads Ready for Q4 (Before It’s Too Late!) [Inside Google Ads Episode 142]</title>
+      <link>https://www.youtube.com/watch?v=dPzapubyduM</link>
+      <description>Black Friday and Cyber Monday are right around the corner. Are your Google Ads ready for peak holiday shopping?
+
+In episode 142 of the Inside Google Ads podcast, host Jyll Saskin Gales break down the latest Google Ads updates that e-commerce business owners need to care about right now - in conversa</description>
+      <pubDate>2026-10-15T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9d7e891b59d4</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
     <item>
       <title>[Meta Ads] Now You Can Invite Anyone to a WhatsApp Call</title>
       <link>https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/</link>
@@ -56,6 +119,38 @@ In this video, I’m joined by Will to walk through t</description>
       <pubDate>2026-10-14T00:00:00Z</pubDate>
       <guid isPermaLink="false">096458311190</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Google Ads] Guide your campaign spending with new priority and allocation features</title>
+      <link>https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waterfall_Search_Chart_01_No_Li.max-600x600.format-webp.webp"&gt;New controls in Google Ads let marketers categorize channel groupings by priority and better control how budget is allocated</description>
+      <pubDate>2026-10-14T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9e3f11fc363e</guid>
+      <category>Google Ads Blog (公式)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses</title>
+      <link>https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/</link>
+      <description>&lt;div&gt;&lt;img width="960" height="640" src="https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?fit=960%2C640" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" srcset="https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jp</description>
+      <pubDate>2026-10-14T00:00:00Z</pubDate>
+      <guid isPermaLink="false">dd4f37d29689</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Google Ads] Do you need 30 Conversions in Google Ads p/month?</title>
+      <link>https://www.youtube.com/watch?v=zaqiNR8eLaM</link>
+      <description>Can't get 30 conversions a month? Does that mean you can never move to maximise conversions?
+
+Waiting for 30 is still best. But switching early isn't necessarily bad.
+
+One business was stuck on 12 to 15 a month, maxing out their budget. We made the switch.
+
+So what happened?
+
+Nothing in November. Sl</description>
+      <pubDate>2026-10-14T00:00:00Z</pubDate>
+      <guid isPermaLink="false">621cfb0b89d4</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
     </item>
     <item>
       <title>[Google Ads] Build your data strength with October’s Demand Gen drop.</title>
@@ -907,101 +1002,6 @@ In this video, I’m breaking down what’s </description>
       <pubDate>2026-09-27T00:00:00Z</pubDate>
       <guid isPermaLink="false">54b484a64330</guid>
       <category>キーマケのブログ</category>
-    </item>
-    <item>
-      <title>[Microsoft Ads] 有効リードCPAが10%以上改善！Microsoft広告「インプレッションベースのリマーケティング」とは？</title>
-      <link>https://anagrams.jp/blog/what-is-impression-based-remarketing-microsoft-ads/</link>
-      <description>&lt;p&gt;「リマーケティング」と聞いて、まず思い浮かぶのはサイトに訪問したユーザーをターゲティングしてディスプレイ広告などで再度接触する手法ではないでしょうか。 実はMicrosoft広告には、少し違うアプロー…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/what-is-impression-based-remarketing-microsoft-ads/"&gt;有効リードCPAが10%以上改善！Microsoft広告「インプレッションベースのリマーケティング」とは？&lt;/a&gt; first appeared on &lt;a href="https:/</description>
-      <pubDate>2026-09-27T00:00:00Z</pubDate>
-      <guid isPermaLink="false">95fca0e24b6a</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Please just put Creators in your ads</title>
-      <link>https://www.youtube.com/watch?v=ojBhxz4QD0E</link>
-      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-The best performing ads I see across the board right now, are partnership ads that feature creators. But so few advertisers are willing to experiment. Don't let that be you!
-
-If you’re</description>
-      <pubDate>2026-09-25T00:00:00Z</pubDate>
-      <guid isPermaLink="false">7994cc79e398</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] So…. can I turn my sunglasses biz into 8-figure brand??</title>
-      <link>https://www.youtube.com/watch?v=lycxqbplgPc</link>
-      <description>I’m not exactly an expert in ecom economics, so I used the Data plugin in @OpenAI to figure out what my next step should be after my first $2K experiment.
-
-It forecasted exactly what I would need to do to make $1 million in December 2027… but it was REALLY skeptical that I could get there profitably</description>
-      <pubDate>2026-09-25T00:00:00Z</pubDate>
-      <guid isPermaLink="false">441b144349d1</guid>
-      <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing v25.2 of the Google Ads API</title>
-      <link>http://ads-developers.googleblog.com/2026/09/announcing-v252-of-google-ads-api.html</link>
-      <description>&lt;p&gt;
-Today we are announcing the release of v25.2 of the Google Ads API. To use the new capabilities, you must upgrade your &lt;a href="https://developers.google.com/google-ads/api/docs/client-libs?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-release-v25-2&amp;utm_content=learnmore-</description>
-      <pubDate>2026-09-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d0aba3e9de45</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] AI Just Broke This Google Ads Account [Inside Google Ads Episode 139]</title>
-      <link>https://www.youtube.com/watch?v=RB8mMVOyftM</link>
-      <description>Should you let Claude run your Google Ads? No. Wait... let me think about that... NO! Generative AI chatbots might be helpful for drafting emails or analyzing reports, but using them for Google Ads strategic decisions can quickly lead to costly mistakes. In episode 139 of Inside Google Ads, host Jyl</description>
-      <pubDate>2026-09-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">6aad3438681d</guid>
-      <category>Jyll Saskin Gales (The Google Pro)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Limited By Budget in Google Ads and What To Do Next  - Surfside PPC Podcast Episode 32</title>
-      <link>https://www.youtube.com/watch?v=SkK1vwNrJyQ</link>
-      <description>Limited by budget in Google Ads is not the problem most people think it is. When you see it in your status column, Google is telling you that you are leaving conversions on the table at your current cost per conversion. In episode 32 I cover the two very different situations that trigger it, and exa</description>
-      <pubDate>2026-09-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">6992448f0003</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Limited By Budget in Google Ads and What To Do Next - Surfside PPC Podcast Episode 32</title>
-      <link>https://www.youtube.com/watch?v=qJewLxfnXHM</link>
-      <description>Limited by budget in Google Ads is not the problem most people think it is. When you see it in your status column, Google is telling you that you are leaving conversions on the table at your current cost per conversion. In episode 32 I cover the two very different situations that trigger it, and exa</description>
-      <pubDate>2026-09-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4466098bd2ac</guid>
-      <category>Surfside PPC</category>
-    </item>
-    <item>
-      <title>[Google Ads] Turn discovery into action with September’s Demand Gen Drop.</title>
-      <link>https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_September.max-600x600.format-webp.webp"&gt;Turn discovery into action with new seamless experiences and integrations from YouTube’s September Demand Gen Drop.</description>
-      <pubDate>2026-09-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">8e96124db9d4</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] The Biggest News From Connect 2026</title>
-      <link>https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/09/The-Biggest-News-From-Connect-2026_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/09/The-Bi</description>
-      <pubDate>2026-09-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">61b1b1d3e517</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads Agency Mistakes Part 2/2</title>
-      <link>https://www.youtube.com/watch?v=jvnJRET16LQ</link>
-      <description>There's one core stat that agencies, freelancers, and brand owners running segmented campaigns forget. 
-
-It's the number of 
-conversions going back into each campaign.
-
-You want as many conversions as possible flowing through one campaign, ideally at least 50 every couple of days.
-
-That previous age</description>
-      <pubDate>2026-09-24T00:00:00Z</pubDate>
-      <guid isPermaLink="false">4d14d894387b</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
     </item>
   </channel>
 </rss>
