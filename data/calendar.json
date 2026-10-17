@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "86f4e7493b84",
+      "platform": "google-ads",
+      "platform_label": "Google Ads",
+      "color": "#4285F4",
+      "source": "Ben Heath",
+      "title": "Meta Ads or Google Ads?",
+      "link": "https://www.youtube.com/watch?v=0wMi_rlTiq8",
+      "description": "👉 Check out my NEW Meta Ads course & community with weekly live Q&As with me: https://www.skool.com/benheath/about\n\nIf you’re new here — I’m Ben Heath.\n\nIn this video I answer a question about Meta ad vs Google ad budget split.\n\nI run Heath Media, a marketing agency that helps businesses scale using",
+      "date": "2026-10-16",
+      "lang": "en",
+      "type": "youtube",
+      "category": "unclassified",
+      "transcript_url": ""
+    },
+    {
       "id": "e9bda0a0c646",
       "platform": "google-ads",
       "platform_label": "Google Ads",
@@ -6479,36 +6494,6 @@
       "link": "https://www.youtube.com/watch?v=HR4A2Z9-ntI",
       "description": "Orthodontic treatment timing varies significantly by case. For orthodontists, this means a loyal patient for months or years, offering a stable revenue stream. Address new patient concerns like broken brackets and financing. #Orthodontics #DentalCare #PatientJourney #Braces",
       "date": "2026-07-19",
-      "lang": "en",
-      "type": "youtube",
-      "category": "unclassified",
-      "transcript_url": ""
-    },
-    {
-      "id": "46eaff556a56",
-      "platform": "general",
-      "platform_label": "General",
-      "color": "#6B7280",
-      "source": "Surfside PPC",
-      "title": "Boost Your Tree Service Business: Dominate Local Search! #shorts",
-      "link": "https://www.youtube.com/watch?v=oH0_nMCd_lw",
-      "description": "Build dedicated pages for every service (tree removal, pruning, emergency). Target niches like golf courses and HOAs to rank higher and attract commercial clients. Seattle Tree Care dominates by showcasing commercial services and client types. #SEOTips #WebDesign #LocalSEO #TreeCareBusiness",
-      "date": "2026-07-18",
-      "lang": "en",
-      "type": "youtube",
-      "category": "unclassified",
-      "transcript_url": ""
-    },
-    {
-      "id": "4bdd5500c729",
-      "platform": "general",
-      "platform_label": "General",
-      "color": "#6B7280",
-      "source": "Surfside PPC",
-      "title": "Website SEO: Essential Tips for Medical Practices #shorts",
-      "link": "https://www.youtube.com/watch?v=SdpL92aeMmU",
-      "description": "Ensure your medical website clearly lists all services, like pediatrics and blood work, on dedicated pages. Visitors searching for specific care won't find what they need if it's not visible. Also, prominently display your office location and hours at the top. #MedicalWebsite #HealthcareMarketing #W",
-      "date": "2026-07-18",
       "lang": "en",
       "type": "youtube",
       "category": "unclassified",
