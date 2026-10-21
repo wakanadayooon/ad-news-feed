@@ -5,8 +5,58 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 14:34:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 14:45:12 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] New bidding and budgeting tools can transform your upcoming holiday ad strategy.</title>
+      <link>https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp"&gt;Get actionable insights on bidding and budgeting tools in the latest episode of Google's "Ads Decoded" podcast.</description>
+      <pubDate>2026-10-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">79d0c10577b5</guid>
+      <category>Google Ads Blog (公式)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026</title>
+      <link>http://ads-developers.googleblog.com/2026/07/enabling-local-inventory-ads-by-default.html</link>
+      <description>&lt;h2&gt;What is changing?&lt;/h2&gt;
+
+
+&lt;p&gt;
+On &lt;strong&gt;August 31, 2026, &lt;/strong&gt;we are aligning &lt;a target="_blank" href="https://developers.google.com/google-ads/api/docs/shopping-ads/create-campaign?utm_campaign=adr-default-lia-aug2026&amp;utm_source=googleblog-adsdevs&amp;utm_medium=blog"&gt;Shopping campaigns&lt;/a&gt; wit</description>
+      <pubDate>2026-10-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">a70ff918af47</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Microsoft Ads] Work smarter this holiday season: What’s new in Microsoft Monetize</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/october-2026/work-smarter-this-holiday-season-what-new-in-microsoft-monetize</link>
+      <description>Our latest updates are designed to help you move faster, monetize smarter, and get more from Microsoft Monetize ahead of the holiday demand peak.</description>
+      <pubDate>2026-10-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">21d0f91d313f</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Meta Ads vs Google Ads for E-Commerce (How to Scale Both)</title>
+      <link>https://www.youtube.com/watch?v=zSBWC_v27Ks</link>
+      <description>Are you ready to Scale your Business or Brand with Google Ads?
+
+👉 Apply for DDA: On Demand now and let's Grow your business with Google Ads together: https://www.definedigitalacademy.com/on-demand
+
+Get More help from Aaron with your Google Ads Campaigns:
+
+👉 Get Free Access to my "Keywords &amp; SWOT Ana</description>
+      <pubDate>2026-10-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">105cfc32e482</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] When Does Frequency Lead to Creative Fatigue?</title>
+      <link>https://www.youtube.com/watch?v=H1zzQQy1juE</link>
+      <description>When performance drops, advertisers reach for the same culprit, too much frequency and creative fatigue. But there's no magic frequency number to fear, and a quick drop in results usually points to a deeper problem than how often an ad is shown. Jon explains what's really happening when ads die afte</description>
+      <pubDate>2026-10-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">eab8ca9492ef</guid>
+      <category>Jon Loomer</category>
+    </item>
     <item>
       <title>[General] AI Max in 2026-2027: What’s Working &amp; What Bleeds Budget</title>
       <link>https://ppchero.com/ai-max-in-2026-2027-whats-working-what-bleeds-budget/</link>
@@ -57,6 +107,28 @@ This is the second video in our two-part se</description>
       <pubDate>2026-10-20T00:00:00Z</pubDate>
       <guid isPermaLink="false">bc8027a6f5a0</guid>
       <category>Loves Data</category>
+    </item>
+    <item>
+      <title>[Google Ads] Expanding our defenses against financial scam ads</title>
+      <link>https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/financial_protection_US__Canada.max-600x600.format-webp.webp"&gt;We’re introducing new safeguards in early 2027 to help protect people in the U.S. and Canada from financial scams.</description>
+      <pubDate>2026-10-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">14acb0c60476</guid>
+      <category>Google Ads Blog (公式)</category>
+    </item>
+    <item>
+      <title>[Google Ads] AI Is Making Google Ads Agencies Dumber</title>
+      <link>https://www.youtube.com/watch?v=D7nI46UtEqc</link>
+      <description>Taking Claude’s Google Ads recommendations at face value? I think AI is making a lot of people dumber.
+
+We use Claude as a diagnostic tool every day of the week. But getting it to recommend what optimisations to make inside Google Ads? 
+
+We don’t do it and I don’t recommend it.
+
+When we review accou</description>
+      <pubDate>2026-10-20T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4a1dd838b857</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
     </item>
     <item>
       <title>[General] Restriction Period for Political Ads in the US</title>
@@ -955,69 +1027,6 @@ I run Heath Media, a mark</description>
       <pubDate>2026-09-30T00:00:00Z</pubDate>
       <guid isPermaLink="false">d60de0e18bd7</guid>
       <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads for eCom [Top 5 Ranking]</title>
-      <link>https://www.youtube.com/watch?v=yye2eD0tgMw</link>
-      <description>These are my top 5 things to focus on for eCom &amp; Google Ads</description>
-      <pubDate>2026-09-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9cece8fab548</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Want more Leads from Google Ads? [Stop doing this]</title>
-      <link>https://www.youtube.com/watch?v=IKiprY2-4ac</link>
-      <description>If you want to scale Google Ads, stop building massive negative keyword lists.
-
-Why? Because that will  cost you a lot more money.
-
-Focus on getting as many individual conversion actions triggering through a campaign as possible.
-
-We run a US legal campaign with just four keywords. Two broad, two ex</description>
-      <pubDate>2026-09-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">955a937ef9de</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[General] AIで広告分析しても“次の打ち手”が見えない理由と、成果を生む「データ×分析設計」の実践法</title>
-      <link>https://anagrams.jp/blog/seminar-report-2026-07-23/</link>
-      <description>&lt;p&gt;業務にAIが入り込み、人間の役割は「データの集計や作成」から「解釈・意思決定」へと急速にシフトしています。 今回のセミナーでは、株式会社イルグルム、株式会社ADKマーケティング・ソリューションズ、アナ…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/seminar-report-2026-07-23/"&gt;AIで広告分析しても“次の打ち手”が見えない理由と、成果を生む「データ×分析設計」の実践法&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>2026-09-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">05c52e13eebb</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Expanding Instagram’s School Partnership Program to Help Teens Stay Informed</title>
-      <link>https://about.fb.com/news/2026/09/expanding-instagram-school-partnership-program-help-teens-stay-informed/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/09/Expanding-Instagrams-School-Partnership-Program-to-Help-Teens-Stay-Informed_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about</description>
-      <pubDate>2026-09-29T00:00:00Z</pubDate>
-      <guid isPermaLink="false">7436d07f540b</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] The Future Is for Everyone: Muse for Small Business</title>
-      <link>https://about.fb.com/news/2026/09/introducing-muse-small-business/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/09/The-Future-Is-for-Everyone_Muse-for-Small-Business_Thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/upload</description>
-      <pubDate>2026-09-29T00:00:00Z</pubDate>
-      <guid isPermaLink="false">51a17b23e169</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Partners With Government Agencies, Law Enforcement, and Safety Organizations to Launch Regional Anti-Scam Education Campaign</title>
-      <link>https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/09/Meta_One-Step-Ahead-NEWSROOM-POST_Thumbnail_720x720_v2a.png?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/202</description>
-      <pubDate>2026-09-29T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ac61f1aa29c9</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] The Fundamental Principles of Creating Meta Ads</title>
-      <link>https://www.jonloomer.com/fundamental-principles-creating-meta-ads/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/09/create-meta-ads-300x157.png" class="attachment-medium size-medium wp-post-image" alt="The Fundamental Principles of Creating Meta Ads" style="margin-bottom: 15px;" decoding="async" srcset="https://www.jonloo</description>
-      <pubDate>2026-09-29T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d265f56b44b8</guid>
-      <category>Jon Loomer Digital</category>
     </item>
   </channel>
 </rss>
