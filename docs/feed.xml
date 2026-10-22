@@ -5,8 +5,34 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 14:45:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:45:10 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Upcoming changes to image extraction in Performance Max campaigns starting December 4, 2026</title>
+      <link>http://ads-developers.googleblog.com/2026/10/upcoming-changes-to-image-extraction-in.html</link>
+      <description>&lt;p&gt;
+Starting &lt;strong&gt;December 4, 2026&lt;/strong&gt;, image extraction (&lt;code&gt;&lt;a target="_blank" href="https://developers.google.com/google-ads/api/reference/rpc/latest/AssetAutomationTypeEnum.AssetAutomationType?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-pmax-image-extraction-dec2026&amp;</description>
+      <pubDate>2026-10-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4e1123279168</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[General] AI Won’t Save You Time. Not at First. A PPC Experts AI Journey</title>
+      <link>https://ppchero.com/ai-wont-save-you-time-not-at-first-a-ppc-experts-ai-journey/</link>
+      <description>&lt;p&gt;A PPC expert shares her honest AI learning journey, why mastering AI is about progress, not speed, and why it's perfectly OK if you feel left behind right now.&lt;/p&gt;
+&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/ai-wont-save-you-time-not-at-first-a-ppc-experts-ai-journey/"&gt;AI Won</description>
+      <pubDate>2026-10-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7307028df114</guid>
+      <category>PPC Hero (Brainlabs)</category>
+    </item>
+    <item>
+      <title>[Google Ads] The #1 New Customer Acquisition Mistake in Google Ads [Inside Google Ads Episode 143]</title>
+      <link>https://www.youtube.com/watch?v=eye3GKm_5ag</link>
+      <description>Customer Lifecycle Goals are one of the most misused features in Google Ads - and Google Ads Coach Jyll Saskin Gales has had enough! In episode 143 of the Inside Google Ads podcast, Jyll breaks down the good, the bad, and the ugly truth about Customer Lifecycle Goals. From New Customer Acquisition (</description>
+      <pubDate>2026-10-22T00:00:00Z</pubDate>
+      <guid isPermaLink="false">55b2df1fdde6</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
     <item>
       <title>[Google Ads] New bidding and budgeting tools can transform your upcoming holiday ad strategy.</title>
       <link>https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/</link>
@@ -56,6 +82,44 @@ Get More help from Aaron with your Google Ads Campaigns:
       <pubDate>2026-10-21T00:00:00Z</pubDate>
       <guid isPermaLink="false">eab8ca9492ef</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Sunsetting Marketing Messages on the Cloud API: Upgrade to the Marketing Messages API for WhatsApp before October 2027</title>
+      <link>https://developers.facebook.com/blog/post/2026/10/21/sunsetting-marketing-messages-on-the-cloud-api/</link>
+      <description>Marketing messages on WhatsApp sent through the Cloud API will sunset on October 13, 2027. To continue sending marketing messages, businesses need to upgrade to the Marketing Messages API for WhatsApp.</description>
+      <pubDate>2026-10-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3c14da31cb8f</guid>
+      <category>Meta Developers Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] High-Intent Keywords Explained: What Actually Signals Someone Is Ready to Buy</title>
+      <link>https://www.youtube.com/watch?v=suy5Yf1WwX4</link>
+      <description>In this video, learn what buyer intent keywords are and how to spot the searches that signal someone is ready to buy, not just browsing. Discover how words like “best,” “review,” “pricing,” and “versus” fit on the intent spectrum, and how Googling a keyword and reading the results page can reveal wh</description>
+      <pubDate>2026-10-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">81d378ccd7d3</guid>
+      <category>Solutions 8</category>
+    </item>
+    <item>
+      <title>[Google Ads] Audience Targeting &amp; Google Ads</title>
+      <link>https://www.youtube.com/watch?v=Wh2HLaQaQJk</link>
+      <description>Obsessing over audience targeting in every Google Ads campaign? It’s not the main driver for all of them.
+
+Every campaign type has a core driver that really moves the needle.
+
+For Search and Shopping, it’s your keywords and your shopping feed. Audiences and conversion data are relevant, but they’re </description>
+      <pubDate>2026-10-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">1196dd6e9df0</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Your Symptom Is Not The Real Problem | Sarah Stemen | PPC Zone October 2026</title>
+      <link>https://www.youtube.com/watch?v=w6UkpsFmWoQ</link>
+      <description>Sarah Stemen is a Paid Ads Consultant, President of the Paid Search Association, and a recognized top influencer in paid search. With 17+ years in PPC, she specializes in helping businesses fix lost ad spend, navigate Google Ads automation, and scale profitable in-house campaigns.
+
+You can find her </description>
+      <pubDate>2026-10-21T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4542318b327c</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
     </item>
     <item>
       <title>[General] AI Max in 2026-2027: What’s Working &amp; What Bleeds Budget</title>
@@ -964,69 +1028,6 @@ We'll compare bounce rat</description>
       <pubDate>2026-10-01T00:00:00Z</pubDate>
       <guid isPermaLink="false">2d271c4c8355</guid>
       <category>Loves Data</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads for Lead Gen [Top 5 Ranking]</title>
-      <link>https://www.youtube.com/watch?v=lsKIBrb4gn4</link>
-      <description>These are my top 5 things to focus on for Lead Gen &amp; Google Ads</description>
-      <pubDate>2026-10-01T00:00:00Z</pubDate>
-      <guid isPermaLink="false">295092999c1c</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Deprecating Structured Data Files v9, v9.1, and v9.2</title>
-      <link>http://ads-developers.googleblog.com/2026/06/deprecating-structured-data-files-v9.html</link>
-      <description>&lt;p&gt;
-Today we’re announcing the deprecation of Structured Data Files &lt;a target="_blank" href="https://developers.google.com/display-video/api/structured-data-file/v9/Campaign?utm_campaign=adr-sdf-v9-x-deprecation&amp;utm_source=googleblog-adsdevs&amp;utm_medium=blog"&gt;v9&lt;/a&gt;, &lt;a target="_blank" href="https://</description>
-      <pubDate>2026-09-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">47164162bb80</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Microsoft Ads] Less busywork, more growth: What’s new in Microsoft Advertising this September</title>
-      <link>https://about.ads.microsoft.com/en/blog/post/september-2026/less-busywork-more-growth-what-new-in-microsoft-advertising-this-september</link>
-      <description>The latest Microsoft Advertising updates that help advertisers grow results across campaigns.</description>
-      <pubDate>2026-09-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e792d1fa988a</guid>
-      <category>Microsoft Advertising Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] My Data from 309 Google Ads Campaigns</title>
-      <link>https://www.youtube.com/watch?v=xF-MkMBcw1Y</link>
-      <description>This is what we learnt from 309 Google Ads Campaigns</description>
-      <pubDate>2026-09-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ec244fd90e9b</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] An Ad Solution for Meta's Restriction on Organic Link Sharing</title>
-      <link>https://www.youtube.com/watch?v=vjNRpNSASOQ</link>
-      <description>Meta's new link-sharing limits leave businesses scrambling, and plenty of people will pitch organic hacks to get around them. But most just add friction without replacing the lost traffic. Jon lays out a deliberately old-school ad approach that sends a small, controlled budget to your own followers,</description>
-      <pubDate>2026-09-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">71987dd4199a</guid>
-      <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Names Dhruv Vohra to Lead Southeast Asia Business</title>
-      <link>https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Dhruv-Vohra_2026-1.jpeg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/10/Dhruv-Vohra_2026-1.jpeg?w=1920 </description>
-      <pubDate>2026-09-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ab219e4d311e</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Ad Campaign Objectives - Tier List</title>
-      <link>https://www.youtube.com/watch?v=8EqC6qf7zcw</link>
-      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-Watch me put the six Meta ad campaign objectives into a tier list and explain why each one gets the score I've given it.
-
-If you’re new here — I’m Ben Heath.
-
-I run Heath Media, a mark</description>
-      <pubDate>2026-09-30T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d60de0e18bd7</guid>
-      <category>Ben Heath</category>
     </item>
   </channel>
 </rss>
