@@ -5,8 +5,20 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 14:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:43:12 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] July 2026 update to the Display &amp; Video 360 API</title>
+      <link>http://ads-developers.googleblog.com/2026/07/july-2026-update-to-display-video-360.html</link>
+      <description>&lt;p&gt;
+Today we’re launching the July 2026 update to the Display &amp; Video 360 API. This update includes the following:
+&lt;/p&gt;&lt;ul&gt;
+
+&lt;li&gt;Added a new &lt;code&gt;syntheticContentAttestationStatus&lt;/code&gt; field to &lt;code&gt;&lt;a target="_blank" href="https://developers.google.com/display-video/api/reference/rest/v4/advert</description>
+      <pubDate>2026-10-24T00:00:00Z</pubDate>
+      <guid isPermaLink="false">24606ba7a54a</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
     <item>
       <title>[Google Ads] Announcing beta launch of Display &amp; Video 360 API v5</title>
       <link>http://ads-developers.googleblog.com/2026/10/announcing-beta-launch-of-display-video.html</link>
@@ -32,6 +44,30 @@ Today, we’re announcing the v25 release of the &lt;a target="_blank" href="htt
       <pubDate>2026-10-23T00:00:00Z</pubDate>
       <guid isPermaLink="false">999704caf150</guid>
       <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] New Tools for the Admins Who Build Communities on Forum</title>
+      <link>https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/New-Tools-for-the-Admins-Who-Build-Communities-on-Forum-_thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/</description>
+      <pubDate>2026-10-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2eb79d098570</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Smart Bidding Going Into 2027- Surfside PPC Podcast Episode 33</title>
+      <link>https://www.youtube.com/watch?v=-azBf36zM_w</link>
+      <description>Google Ads smart bidding changed on August 17, 2026, and it changed how I bid. Google used to try to beat the target you set. Now it tries to hit it. A $10 target CPA that used to come in at $5 will land closer to $10. This episode covers all four smart bidding strategies, how to set them up, and wh</description>
+      <pubDate>2026-10-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4c96fedcbaf8</guid>
+      <category>Surfside PPC</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Smart Bidding Going Into 2027- Surfside PPC Podcast Episode 33</title>
+      <link>https://www.youtube.com/watch?v=eioUSqaOPMQ</link>
+      <description>Google Ads smart bidding changed on August 17, 2026, and it changed how I bid. Google used to try to beat the target you set. Now it tries to hit it. A $10 target CPA that used to come in at $5 will land closer to $10. This episode covers all four smart bidding strategies, how to set them up, and wh</description>
+      <pubDate>2026-10-23T00:00:00Z</pubDate>
+      <guid isPermaLink="false">17ba786bffc6</guid>
+      <category>Surfside PPC</category>
     </item>
     <item>
       <title>[Google Ads] Upcoming changes to image extraction in Performance Max campaigns starting December 4, 2026</title>
@@ -990,46 +1026,6 @@ Get More help from Aaron with you</description>
       <pubDate>2026-10-05T00:00:00Z</pubDate>
       <guid isPermaLink="false">891340539e3e</guid>
       <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[General] 自然と目に留まる！SNS広告のバナーを作るコツと、取り入れやすい定番の型5選</title>
-      <link>https://anagrams.jp/blog/sns-ad-banner-tips/</link>
-      <description>&lt;p&gt;商材の魅力を伝えるために、セールスポイントを強調する。遷移先と統一感を出すために、ブランドらしい色やフォントを使う。どちらも、バナーを作るうえで一般的な考え方かと思います。 ただ、企業の宣伝色の強いバ…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/sns-ad-banner-tips/"&gt;自然と目に留まる！SNS広告のバナーを作るコツと、取り入れやすい定番の型5選&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>2026-10-04T00:00:00Z</pubDate>
-      <guid isPermaLink="false">c55996545e42</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[General] AIとECの共通言語　UCP（ユニバーサルコマースプロトコル）の要点や事業者側のメリットを紹介</title>
-      <link>https://www.kwm.co.jp/blog/ucp/</link>
-      <description>広告運用に18年以上携わり、2008年からキーワードマーケティングに在籍している小島です。 昨今、AI 周りの進化には目を見張るものがあります。一瞬でも気を抜くと新しいツールや技術が出てくるので、全ての情報をキャッチアッ [&amp;#8230;]</description>
-      <pubDate>2026-10-04T00:00:00Z</pubDate>
-      <guid isPermaLink="false">52eff3df8e48</guid>
-      <category>キーマケのブログ</category>
-    </item>
-    <item>
-      <title>[General] Landing Page Best Practices: When to Trust Them and When to Question Them</title>
-      <link>https://ppchero.com/landing-page-best-practices-2/</link>
-      <description>&lt;p&gt;Use landing page best practices as a starting point when a/b testing. Let your account data guide what to test, how to test it, and when to challenge the standard in practice. &lt;/p&gt;
-&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/landing-page-best-practices-2/"&gt;Landing Page Best P</description>
-      <pubDate>2026-10-02T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b91ef0805c73</guid>
-      <category>PPC Hero (Brainlabs)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] The easy way to make way more Facebook ads...</title>
-      <link>https://www.youtube.com/watch?v=Wic8aMViquc</link>
-      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-Here's an easy way to make way more Facebook ads without it taking a ton of extra time.
-
-If you’re new here — I’m Ben Heath.
-
-I run Heath Media, a marketing agency that helps businesse</description>
-      <pubDate>2026-10-02T00:00:00Z</pubDate>
-      <guid isPermaLink="false">dcd1fdb58aa9</guid>
-      <category>Ben Heath</category>
     </item>
   </channel>
 </rss>
