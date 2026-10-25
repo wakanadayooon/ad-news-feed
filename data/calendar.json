@@ -1,6 +1,21 @@
 {
   "articles": [
     {
+      "id": "bc22d12c49e7",
+      "platform": "google-ads",
+      "platform_label": "Google Ads",
+      "color": "#4285F4",
+      "source": "Jyll Saskin Gales (The Google Pro)",
+      "title": "‼️Important Oct 29th update for Google Ads practitioners",
+      "link": "https://www.youtube.com/watch?v=H-2W_VnbWYU",
+      "description": "Visit https://learn.jyll.ca/live for more info! \n\nInside Google Ads Live Toronto\nGoogle Ads conference in Toronto\nOctober 29th, 2026 at the CN Tower",
+      "date": "2026-10-25",
+      "lang": "en",
+      "type": "youtube",
+      "category": "unclassified",
+      "transcript_url": ""
+    },
+    {
       "id": "24606ba7a54a",
       "platform": "google-ads",
       "platform_label": "Google Ads",
@@ -6274,50 +6289,6 @@
       "type": "youtube",
       "category": "unclassified",
       "transcript_url": ""
-    },
-    {
-      "id": "fd1e4d161057",
-      "platform": "general",
-      "platform_label": "General",
-      "color": "#6B7280",
-      "source": "Surfside PPC",
-      "title": "8 Healthcare Marketing Strategies: Rank Higher Now! #shorts",
-      "link": "https://www.youtube.com/watch?v=4cj3x6Zpe0g",
-      "description": "Maximize your medical practice's visibility by fully optimizing your Google Business Profile. Fill every section, gather reviews, and answer patient questions to rank higher and attract more clients. #HealthcareMarketing #GoogleBusinessProfile #MedicalPractice #DigitalMarketing #SEO",
-      "date": "2026-07-26",
-      "lang": "en",
-      "type": "youtube",
-      "category": "unclassified",
-      "transcript_url": ""
-    },
-    {
-      "id": "111880be4beb",
-      "platform": "google-ads",
-      "platform_label": "Google Ads",
-      "color": "#4285F4",
-      "source": "Surfside PPC",
-      "title": "Google Search Ads: Get More Patients Now! #shorts",
-      "link": "https://www.youtube.com/watch?v=UaMlLwQK-EQ",
-      "description": "Drive more patients with urgent Google Search Ads. Target keywords like 'dermatologist near me' or 'urgent care walk-in clinic'. Get your phone ringing and fill your practice. #GoogleAds #MedicalMarketing #PatientAcquisition #LocalSEO #HealthcareMarketing",
-      "date": "2026-07-26",
-      "lang": "en",
-      "type": "youtube",
-      "category": "unclassified",
-      "transcript_url": ""
-    },
-    {
-      "id": "6682007b6074",
-      "platform": "general",
-      "platform_label": "General",
-      "color": "#6B7280",
-      "source": "アナグラム ブログ",
-      "title": "縦型動画のシーン選びがラクになる「ポジ・ネガ・ニュートラル」設計法",
-      "link": "https://anagrams.jp/blog/vertical-video-scene-selection-method/",
-      "description": "<p>縦型動画を作ろうとして、こんなことに困っていませんか。 本記事では、セリフに「ポジ・ネガ・ニュートラル」の感情ラベルを振って感情の起伏を設計し、素材は「意味一致」ではなく「印象一致」で当てはめる方法を…</p>\n<p>The post <a href=\"https://anagrams.jp/blog/vertical-video-scene-selection-method/\">縦型動画のシーン選びがラクになる「ポジ・ネガ・ニュートラル」設計法</a> first appeared on <a href=\"https://anagrams.jp\">アナグラム株式会社</a>.</p>",
-      "date": "2026-07-26",
-      "lang": "ja",
-      "type": "article",
-      "category": "unclassified"
     },
     {
       "id": "3f961a7d69aa",
