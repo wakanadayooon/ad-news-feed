@@ -5,8 +5,55 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:20:22 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Passkey authentication requirement for the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/07/passkey-authentication-requirement-for.html</link>
+      <description>&lt;p&gt;
+As part of improving security for Google Ads accounts, the &lt;a target="_blank" href="https://developers.google.com/google-ads/api?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-passkeys-june2026&amp;utm_content=learnmore-api"&gt;Google Ads API&lt;/a&gt; will start requiring &lt;a target="_</description>
+      <pubDate>2026-10-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">4b5bee7959bf</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Muse Is Now Available in Singapore: The World’s First Personal AI Agent Built for Everyone</title>
+      <link>https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Muse-16x9-SG.png?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/10/Muse-16x9-SG.png?w=1920 1920w, https:/</description>
+      <pubDate>2026-10-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e030cbedaf6e</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Microsoft Ads] Build, steer, and measure your campaigns with AI: What's new in Microsoft Advertising this October</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/october-2026/build-steer-and-measure-your-campaigns-with-ai-whats-new-in-microsoft-advertising-this-october</link>
+      <description>The latest Microsoft Advertising updates that help advertisers grow results across campaigns.</description>
+      <pubDate>2026-10-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c00c3ea36b39</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Run, Kill, or Scale: Discount offers, free trials, or money back guarantees</title>
+      <link>https://www.youtube.com/watch?v=TSPI_WTHM8Y</link>
+      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+Which would you run, kill or scale - discount offers, free trials or money back guarantees. Here are my thoughts.
+
+If you’re new here — I’m Ben Heath.
+
+I run Heath Media, a marketing a</description>
+      <pubDate>2026-10-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">43bd269fcb73</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] How to Plan Your Ads for BFCM</title>
+      <link>https://www.youtube.com/watch?v=t-Dlm8IMwvQ</link>
+      <description>With Black Friday and Cyber Monday coming up, the brands that stand out this year are already planning. But success rarely comes down to budget, and starting your ads cold on Black Friday is how most businesses fall behind. Jon walks through the four elements worth getting right now, the offer, the </description>
+      <pubDate>2026-10-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">78ac9753bd07</guid>
+      <category>Jon Loomer</category>
+    </item>
     <item>
       <title>[Microsoft Ads] Getting Started With Microsoft Advertising</title>
       <link>https://ppchero.com/get-started-with-microsoft-advertising/</link>
@@ -985,52 +1032,6 @@ You'll lea</description>
       <pubDate>2026-10-08T00:00:00Z</pubDate>
       <guid isPermaLink="false">369bea4f119e</guid>
       <category>Loves Data</category>
-    </item>
-    <item>
-      <title>[General] 【2026年9月】広告媒体アップデートまとめ</title>
-      <link>https://anagrams.jp/blog/update-summary-2026-09/</link>
-      <description>&lt;p&gt;9月は、配信先が広がったり、ターゲティングの選択肢が増えたりする変更が、複数の媒体で重なった月でした。 特に注目なのはLINEヤフー広告です。検索広告では「検索クエリーマッチング」の提供が始まりました…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/update-summary-2026-09/"&gt;【2026年9月】広告媒体アップデートまとめ&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
-      <pubDate>2026-10-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b59d0dc83abe</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing Google Mobile Ads Next-Gen SDK as the preferred SDK for Android</title>
-      <link>http://ads-developers.googleblog.com/2026/07/announcing-google-mobile-ads-next-gen.html</link>
-      <description>&lt;p&gt;
-Google Mobile Ads (GMA) Next-Gen SDK is now the preferred SDK for Android development with Google AdMob and Google Ad Manager. GMA Next-Gen SDK is a significant rewrite of Google Mobile Ads SDK that improves speed, stability, and the developer experience. Google Mobile Ads SDK for Android is now</description>
-      <pubDate>2026-10-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">efd55eb9ee28</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Measures We’ve Put in Place to Fight Child Exploitation</title>
-      <link>https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Meta-logo.png?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/10/Meta-logo.png?w=1920 1920w, https://about</description>
-      <pubDate>2026-10-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3ad6128aa27f</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] Organic vs Paid Search: What actually matters now</title>
-      <link>https://www.youtube.com/watch?v=DSp_x24QeqI</link>
-      <description>In this video, learn what separates organic search from paid search today and why treating them as two separate channels could be costing your brand money. Discover why organic search works like compound interest while paid search works like paying rent, and how AI Overviews, AI Mode, and zero-click</description>
-      <pubDate>2026-10-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e7793c71d48e</guid>
-      <category>Solutions 8</category>
-    </item>
-    <item>
-      <title>[Meta Ads] The BEST NEW Facebook Ads Feature Has Arrived!</title>
-      <link>https://www.youtube.com/watch?v=X2Iww-AH7Zs</link>
-      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-👉 30% off Hyros for the first 15 people - get better Meta ad results with improved data accuracy: http://hyros.com/ben
-
-Meta has added a new Facebook ads feature that I have wanted for</description>
-      <pubDate>2026-10-07T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e8378313e2a2</guid>
-      <category>Ben Heath</category>
     </item>
   </channel>
 </rss>
