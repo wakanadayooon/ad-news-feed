@@ -5,8 +5,34 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 16:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:30:37 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Support for AI Content Labeling using the Campaign Manager and Display &amp; Video 360 APIs</title>
+      <link>http://ads-developers.googleblog.com/2026/07/support-for-ai-content-labeling-using.html</link>
+      <description>&lt;p&gt;
+As the use of AI becomes more prevalent, transparency is key. In the last week, we have launched updates in both the Campaign Manager 360 API and Display &amp; Video 360 API that add new optional fields to resources in both APIs, which allow you to label a creative or creative asset as having been c</description>
+      <pubDate>2026-10-29T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e236452ab3cd</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[General] The Ultimate Guide to PPC Acronyms</title>
+      <link>https://ppchero.com/the-ultimate-guide-to-ppc-acronyms/</link>
+      <description>&lt;p&gt;From CPC to CTR, crack the code of PPC acronyms and get to grips with the jargon every advertiser should know. &lt;/p&gt;
+&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/the-ultimate-guide-to-ppc-acronyms/"&gt;The Ultimate Guide to PPC Acronyms&lt;/a&gt; first appeared on &lt;a rel="nofollow" href</description>
+      <pubDate>2026-10-29T00:00:00Z</pubDate>
+      <guid isPermaLink="false">824c4fa27801</guid>
+      <category>PPC Hero (Brainlabs)</category>
+    </item>
+    <item>
+      <title>[Google Ads] What’s Hiding in Your Google Ads "Other Search Terms"? [Inside Google Ads Ep 144]</title>
+      <link>https://www.youtube.com/watch?v=d2ESm_Eewdo</link>
+      <description>If you've ever looked at your search terms report in Google Ads and noticed a section labeled "other search terms" and thought, "Huh, what's going on here?" - then this is the episode for you! (Niche, I know). While there is no magic trick to completely override user privacy, host Jyll Saskin Gales </description>
+      <pubDate>2026-10-29T00:00:00Z</pubDate>
+      <guid isPermaLink="false">059d67721139</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
     <item>
       <title>[Google Ads] Passkey authentication requirement for the Google Ads API</title>
       <link>http://ads-developers.googleblog.com/2026/07/passkey-authentication-requirement-for.html</link>
@@ -53,6 +79,30 @@ I run Heath Media, a marketing a</description>
       <pubDate>2026-10-28T00:00:00Z</pubDate>
       <guid isPermaLink="false">78ac9753bd07</guid>
       <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Google Ads] Ads in AI Mode expand to new markets.</title>
+      <link>https://blog.google/products/ads-commerce/ads-in-ai-mode-global/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-600x600.format-webp.webp"&gt;Google is expanding AI Mode ads to 10 new countries, including Canada and India. See how these relevant sponsored results improve your search experience.</description>
+      <pubDate>2026-10-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">057859b24d91</guid>
+      <category>Google Ads Blog (公式)</category>
+    </item>
+    <item>
+      <title>[Google Ads] Adapt your ad strategy to meet the way people search today.</title>
+      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_YT_thumbnail.max-600x600.format-webp.webp"&gt;Google's Ads Decoded podcast tells you how to make smarter marketing decisions using the latest data on how consumers search.</description>
+      <pubDate>2026-10-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3e62fb6a1cbf</guid>
+      <category>Google Ads Blog (公式)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs</title>
+      <link>https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Meta-Partners-With-Five-US-Universities-to-Accelerate-Medical-and-Scientific-Breakthroughs_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset</description>
+      <pubDate>2026-10-28T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f11c9b3bfc58</guid>
+      <category>Meta Newsroom</category>
     </item>
     <item>
       <title>[Microsoft Ads] Getting Started With Microsoft Advertising</title>
@@ -164,6 +214,15 @@ October 29th, 2026 at the CN Tower</description>
       <pubDate>2026-10-25T00:00:00Z</pubDate>
       <guid isPermaLink="false">bc22d12c49e7</guid>
       <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[General] 越境ECを始める前に海外で売れるかを調べるには？ソーシャルリスニングで見ておくべき4つのチャネル</title>
+      <link>https://anagrams.jp/blog/social-listening-for-cross-border-ec/</link>
+      <description>&lt;p&gt;日本のEC事業者が海外進出を決めたとき、以下の施策を検討することが多いでしょう。 どれも価値のある施策ですが、これらに先に取り組むのは、土台なしに家を建てるようなものです。 まず考えたいのは、「そもそ…&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/social-listening-for-cross-border-ec/"&gt;越境ECを始める前に海外で売れるかを調べるには？ソーシャルリスニングで見ておくべき4つのチャネル&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム</description>
+      <pubDate>2026-10-25T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5fa8c917ddf4</guid>
+      <category>アナグラム ブログ</category>
     </item>
     <item>
       <title>[Google Ads] July 2026 update to the Display &amp; Video 360 API</title>
@@ -967,71 +1026,6 @@ Keep an ey</description>
       <pubDate>2026-10-09T00:00:00Z</pubDate>
       <guid isPermaLink="false">072da160151f</guid>
       <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Retiring Access Verification for Tech Provider Apps</title>
-      <link>https://developers.facebook.com/blog/post/2026/10/09/retiring-access-verification-for-tech-provider-apps/</link>
-      <description>Access Verification will no longer be required in the Tech Provider onboarding flow. If you build apps that access Meta business data owned by your clients, you no longer submit business details for a separate access review.</description>
-      <pubDate>2026-10-09T00:00:00Z</pubDate>
-      <guid isPermaLink="false">232ce9a1f00f</guid>
-      <category>Meta Developers Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Accelerate Google Ads API Basic Access reviews with brand verification</title>
-      <link>http://ads-developers.googleblog.com/2026/07/accelerate-google-ads-api-basic-access.html</link>
-      <description>&lt;p&gt;
-Today, we are launching a pilot process to expedite the &lt;a target="_blank" href="https://developers.google.com/google-ads/api/docs/api-policy/access-levels#how-to-apply-for-basic-access?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-brand-verification-may2026&amp;utm_content=l</description>
-      <pubDate>2026-10-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">927fad26515d</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Debunking the Biggest Data Center Myths</title>
-      <link>https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Debunking-the-Biggest-Data-Center-Myths_Thumbnail-1.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/10</description>
-      <pubDate>2026-10-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e131f4c1f754</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta Donates 1,000 AI Glasses to Singapore’s Disability Community</title>
-      <link>https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Meta-Singapore-Wearables-Event.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/10/Meta-Singapore-Weara</description>
-      <pubDate>2026-10-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e0dc32163672</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] Don’t Use tROAS for Brand</title>
-      <link>https://www.youtube.com/watch?v=j5u4nCU0O3Y</link>
-      <description>Running branded search campaigns? Please don’t use smart bidding like Target ROAS or maximise conversion value.
-
-Right now we’re seeing the best results with maximise clicks and a CPC bid limit.
-
-An e-commerce brand in Europe was running Target ROAS on branded search. We switched them back.
-
-The res</description>
-      <pubDate>2026-10-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">b0d6e8cbd04e</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] 8 Microsoft Ads Secrets for Google Ads Practitioners [Inside Google Ads Episode 141]</title>
-      <link>https://www.youtube.com/watch?v=keGeosdNN1A</link>
-      <description>Are you curious about Microsoft Ads? While Google Ads remains Jyll's one true love, expanding into the Microsoft Advertising network can bring unique opportunities, especially for B2B marketers. In this special episode 141 of Inside Google Ads - to celebrate Microsoft Ads Product Liaison Navah Hopki</description>
-      <pubDate>2026-10-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">707b50f64d6e</guid>
-      <category>Jyll Saskin Gales (The Google Pro)</category>
-    </item>
-    <item>
-      <title>[Google Ads] How to Create a Website Feedback Form with AI (Step-by-Step)</title>
-      <link>https://www.youtube.com/watch?v=uEYuPhWrarw</link>
-      <description>Learn how to create a website feedback form using AI, Google Sheets, and Google Tag Manager. In this step-by-step tutorial, you'll use ChatGPT to create a feedback form, add it to your website, automatically save responses in Google Sheets, and track form submissions in Google Analytics.
-
-You'll lea</description>
-      <pubDate>2026-10-08T00:00:00Z</pubDate>
-      <guid isPermaLink="false">369bea4f119e</guid>
-      <category>Loves Data</category>
     </item>
   </channel>
 </rss>
