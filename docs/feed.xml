@@ -5,8 +5,55 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:32:43 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Launching Structured Data Files v10.1</title>
+      <link>http://ads-developers.googleblog.com/2026/07/launching-structured-data-files-v101.html</link>
+      <description>&lt;p&gt;
+Today we’re announcing the general availability of &lt;a target="_blank" href="https://developers.google.com/display-video/api/structured-data-file/format?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-sdf-v10-launch-announcment&amp;utm_content=learnmore-refdocs&amp;utm_source=googleblog-ad</description>
+      <pubDate>2026-10-31T00:00:00Z</pubDate>
+      <guid isPermaLink="false">98b1e4853835</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Microsoft Ads] 2026 Microsoft Advertising Partner Awards: North America winners announced</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/october-2026/2026-microsoft-advertising-partner-awards-north-america-winners-announced</link>
+      <description>Congratulations to the winners of the 2026 Microsoft Advertising Partner Awards in North America.</description>
+      <pubDate>2026-10-31T00:00:00Z</pubDate>
+      <guid isPermaLink="false">74adbede3a2f</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Add To Cart or Purchase event for Meta ads?</title>
+      <link>https://www.youtube.com/watch?v=uTQbky-V4xQ</link>
+      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+Which conversion event should you optimise for with your Meta ads? Add To Cart or Purchase? Here's my answer...
+
+If you’re new here — I’m Ben Heath.
+
+I run Heath Media, a marketing age</description>
+      <pubDate>2026-10-30T00:00:00Z</pubDate>
+      <guid isPermaLink="false">979ae553403f</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] but Dara, what about Breakthrough Advertising?!</title>
+      <link>https://www.youtube.com/watch?v=kNpEYz27lsg</link>
+      <description>but Dara, what about Breakthrough Advertising?!?
+
+love that book, and you SHOULD read it, however...
+
+let's not pretend like every AI hasn't also "read" that book.
+
+this is more a "maintaining your creativity" curriculum: 
+
+1. the artist’s way: less of a book, more of a lifestyle change. the only bo</description>
+      <pubDate>2026-10-30T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e97703d619da</guid>
+      <category>Dara Denney</category>
+    </item>
     <item>
       <title>[Google Ads] Support for AI Content Labeling using the Campaign Manager and Display &amp; Video 360 APIs</title>
       <link>http://ads-developers.googleblog.com/2026/07/support-for-ai-content-labeling-using.html</link>
@@ -32,6 +79,22 @@ As the use of AI becomes more prevalent, transparency is key. In the last week, 
       <pubDate>2026-10-29T00:00:00Z</pubDate>
       <guid isPermaLink="false">059d67721139</guid>
       <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] L’avenir appartient à tous: Meta et INCA s’associent pour soutenir les personnes aveugles, sourdes et aveugles ou ayant une basse vision au Canada</title>
+      <link>https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/</link>
+      <description>&lt;p&gt;Nous croyons que l’avenir appartient à tous. C’est pourquoi Meta s’associe à INCA, un organisme à but non lucratif fondé en 1918 qui aide les personnes atteintes de cécité au Canada à réaliser leurs rê ves, afin de permettre à davantage de personnes aveugles, sourdes et aveugles ou ayant une bass</description>
+      <pubDate>2026-10-29T00:00:00Z</pubDate>
+      <guid isPermaLink="false">620c4ae3c189</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision</title>
+      <link>https://about.fb.com/news/2026/10/the-future-is-for-everyone-meta-and-cnib-partner-to-support-canadians-who-are-blind-deafblind-or-have-low-vision/</link>
+      <description>&lt;p&gt;We believe the future is for everyone. That&amp;#8217;s why Meta is partnering with CNIB – a non-profit founded in 1918 that empowers Canadians impacted by blindness to live their dreams – to help bring the benefit of AI glasses to more Canadians who are blind, Deafblind or have low vision. The goal </description>
+      <pubDate>2026-10-29T00:00:00Z</pubDate>
+      <guid isPermaLink="false">b4fbe717e6f1</guid>
+      <category>Meta Newsroom</category>
     </item>
     <item>
       <title>[Google Ads] Passkey authentication requirement for the Google Ads API</title>
@@ -943,88 +1006,6 @@ Google Ads works in seasons too.
 First, the bulking stage. You focus on growing</description>
       <pubDate>2026-10-12T00:00:00Z</pubDate>
       <guid isPermaLink="false">a93065d5127d</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Which CTA Button Should You Use?</title>
-      <link>https://www.youtube.com/watch?v=Jo469Mx9xNo</link>
-      <description>Meta is finally giving us a helpful tip so that advertisers aren't flying blind regarding CTA buttons. Meta says the "See Details" CTA is more effective than "Learn More."</description>
-      <pubDate>2026-10-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">8ce7d1cb7901</guid>
-      <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[General] 新規顧客と売上の頭打ち、突破のカギは「目標ROAS」の引き下げ？利益を削らず月商を約3.3倍に伸ばした4年間の試行錯誤</title>
-      <link>https://anagrams.jp/blog/lower-target-roas-ec-case/</link>
-      <description>&lt;p&gt;ECの広告運用では、目標のROAS（広告費用対効果）を守りながら獲得を伸ばすのが一般的です。 ただ、それだけを考えていると、すでに購入意欲の高いユーザーや売れた実績のある商品に配信が偏りやすくなります…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/lower-target-roas-ec-case/"&gt;新規顧客と売上の頭打ち、突破のカギは「目標ROAS」の引き下げ？利益を削らず月商を約3.3倍に伸ばした4年間の試行錯誤&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム</description>
-      <pubDate>2026-10-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ce02accd5313</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[Google Ads] Launching Structured Data Files v11</title>
-      <link>http://ads-developers.googleblog.com/2026/10/launching-structured-data-files-v11.html</link>
-      <description>&lt;p&gt;
-Today we’re announcing the general availability of &lt;a target="_blank" href="https://developers.google.com/display-video/api/structured-data-file/format?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-sdf-v11-launch-announcement&amp;utm_content=learnmore-refdocs#v11"&gt;Structured Data Fi</description>
-      <pubDate>2026-10-09T00:00:00Z</pubDate>
-      <guid isPermaLink="false">6332329027b4</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] You're not a serious Meta advertiser without this...</title>
-      <link>https://www.youtube.com/watch?v=C_RixQvMofE</link>
-      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-You can't call yourself a serious Meta advertiser unless you've got your Audience Segments defined. Here's how you do it.
-
-If you’re new here — I’m Ben Heath.
-
-I run Heath Media, a mar</description>
-      <pubDate>2026-10-09T00:00:00Z</pubDate>
-      <guid isPermaLink="false">81158d5639d2</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] Stop Looking at your Google Ads Dashboard</title>
-      <link>https://www.youtube.com/watch?v=tdd5CZ0iWp4</link>
-      <description>I spend far more time looking at Google spreadsheets than the Google Ads dashboard. 
-
-Only reading the dashboard?
-
-You're never going to see success. 
-
-You need real business data. Leads, sales, total revenue, spend on other platforms. Track it month on month in a separate sheet. 
-
-Six months gives </description>
-      <pubDate>2026-10-09T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e9cde55fb669</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads account was working and now it’s not?</title>
-      <link>https://www.youtube.com/watch?v=CrLIMrTnh0w</link>
-      <description>Here’s the easy way to diagnose what went wrong.
-
-
-
-Go into your Google Ads dashboard and open your change history.
-
-Ideally you want three to six months of data.
-
-
-
-So where does your performance start to dip?
-
-
-
-Find that point. Then look one week either side of any changes you made.
-
-
-
-Keep an ey</description>
-      <pubDate>2026-10-09T00:00:00Z</pubDate>
-      <guid isPermaLink="false">072da160151f</guid>
       <category>Aaron Young (Define Digital Academy)</category>
     </item>
   </channel>
