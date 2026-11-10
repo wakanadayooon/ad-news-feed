@@ -5,8 +5,370 @@
     <link>https://wakanadayooon.github.io/ad-news-feed</link>
     <description>広告プラットフォーム最新情報の自動収集フィード</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:22:18 +0000</lastBuildDate>
     <atom:link href="https://wakanadayooon.github.io/ad-news-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[Google Ads] Display targeting changes in Demand Gen campaigns starting the week of December 1, 2026</title>
+      <link>http://ads-developers.googleblog.com/2026/11/display-targeting-changes-in-demand-gen.html</link>
+      <description>&lt;p&gt;
+Starting the week of December 1, 2026, campaign-level Display targeting (&lt;code&gt;&lt;a href="https://developers.google.com/google-ads/api/reference/rpc/latest/Campaign.NetworkSettings#target_content_network"&gt;network_settings.target_content_network&lt;/a&gt;&lt;/code&gt;) will default to enabled (&lt;code&gt;true&lt;/code</description>
+      <pubDate>2026-11-10T00:00:00Z</pubDate>
+      <guid isPermaLink="false">72ce8bfc576b</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Prepare for CocoaPods read-only mode: Migrate your iOS apps to Swift Package Manager</title>
+      <link>http://ads-developers.googleblog.com/2026/11/prepare-for-cocoapods-read-only-mode.html</link>
+      <description>&lt;p&gt;
+On &lt;strong&gt;December 2, 2026&lt;/strong&gt;, the &lt;a href="https://blog.cocoapods.org/CocoaPods-Specs-Repo/"&gt;CocoaPods Specs repository&lt;/a&gt; will permanently transition to read-only mode. As a result, we will no longer publish new versions of the Google Mobile Ads SDK or mediation adapters for iOS to Coc</description>
+      <pubDate>2026-11-10T00:00:00Z</pubDate>
+      <guid isPermaLink="false">908b22464729</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Data Manager API now supports Google Ads call conversions and row-level diagnostics</title>
+      <link>http://ads-developers.googleblog.com/2026/11/data-manager-api-now-supports-google.html</link>
+      <description>&lt;p&gt;
+  The
+  &lt;a
+    href="https://developers.google.com/data-manager/api/reference?utm_campaign=adr-dm-api-r8&amp;utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_content=learnmore-changelog#2026-11-04_v19"
+    &gt;latest release&lt;/a
+  &gt;
+  of the Data Manager API adds support for Google Ads call conversions</description>
+      <pubDate>2026-11-10T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f86080edfafb</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Upcoming changes to multi-party approvals in the Google Ads API</title>
+      <link>http://ads-developers.googleblog.com/2026/11/upcoming-changes-to-multi-party.html</link>
+      <description>&lt;p&gt;
+Earlier this year, the&lt;a href="https://developers.google.com/google-ads/api?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-mpa-changes&amp;utm_content=learnmore-guide"&gt; Google Ads API&lt;/a&gt; started &lt;a href="https://ads-developers.googleblog.com/2026/06/multi-party-approvals-in-g</description>
+      <pubDate>2026-11-10T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e2556dea1329</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] Data Manager API updates: RemoveAllAudienceMembers method, ingestion field warnings, expanded address data</title>
+      <link>http://ads-developers.googleblog.com/2026/07/data-manager-api-updates.html</link>
+      <description>&lt;p&gt;
+  The &lt;a href="https://developers.google.com/data-manager/api/reference?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-dm-api-r6&amp;utm_content=learnmore-changelog#2026-07-30_v18"&gt;latest release of the Data Manager API&lt;/a&gt;
+  introduces features that simplify
+  audience management, e</description>
+      <pubDate>2026-11-10T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f19351ff237f</guid>
+      <category>Google Ads Developer Blog</category>
+    </item>
+    <item>
+      <title>[Microsoft Ads] Prisma integration expands to delivery reporting and invoicing for the Microsoft Advertising Platform</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/november-2026/prisma-integration-expanded-for-the-microsoft-advertising-platform</link>
+      <description>MediaOcean’s Prisma integration with Microsoft Advertising Platform now supports delivery reporting, invoicing, and reconciliation.</description>
+      <pubDate>2026-11-10T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c270298b63d6</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Microsoft Ads] 2026 Microsoft Advertising Partner Awards: Japan winners announced</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/november-2026/2026-microsoft-advertising-partner-awards-japan-winners-announced</link>
+      <description>Congratulations to the winners of the 2026 Microsoft Advertising Partner Awards in Japan.</description>
+      <pubDate>2026-11-10T00:00:00Z</pubDate>
+      <guid isPermaLink="false">be93b421b750</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Microsoft Ads] What's new in Microsoft Clarity: Agent insights, faster answers, and AI discovery</title>
+      <link>https://about.ads.microsoft.com/en/blog/post/november-2026/whats-new-in-microsoft-clarity-agent-insights-faster-answers-and-ai-discovery</link>
+      <description>Microsoft Clarity now shows how agents use your site and answers questions in plain language. Brand Agents help customers find you in Copilot and Bing.</description>
+      <pubDate>2026-11-10T00:00:00Z</pubDate>
+      <guid isPermaLink="false">02d3e6950e44</guid>
+      <category>Microsoft Advertising Blog</category>
+    </item>
+    <item>
+      <title>[Google Ads] GA4 Acquisition Reports: User vs Traffic Acquisition Explained</title>
+      <link>https://www.youtube.com/watch?v=JDlBZBIOJnQ</link>
+      <description>Learn how to use Google Analytics 4 (GA4) acquisition reports to see where your website traffic comes from and which marketing channels drive engagement, key events, and revenue. In this step-by-step tutorial, you’ll learn the difference between User acquisition and Traffic acquisition, when to use </description>
+      <pubDate>2026-11-10T00:00:00Z</pubDate>
+      <guid isPermaLink="false">1933543f9ac5</guid>
+      <category>Loves Data</category>
+    </item>
+    <item>
+      <title>[Google Ads] Holiday 100: Your guide to this year’s top trending gifts</title>
+      <link>https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/</link>
+      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-cover_Holiday100_2026.max-600x600.format-webp.webp"&gt;Google’s Holiday 100 is here. Shop the gifts that are most popular this year and see the Search trends behind them.</description>
+      <pubDate>2026-11-09T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3d4bef019bc4</guid>
+      <category>Google Ads Blog (公式)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Expanding Teen Account Protections to Teens Around the World</title>
+      <link>https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/11/Expanding-Teen-Account-Protections-to-Teens-Around-the-World_thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-cont</description>
+      <pubDate>2026-11-09T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f62bc17f45b2</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[TikTok Ads] ピザーラTikTok広告謝罪騒動はどうすればよかったのか</title>
+      <link>https://ppc-log.com/trouble/17431/</link>
+      <description>&lt;p&gt;&lt;img src="https://ppc-log.com/wp-content/uploads/2026/11/OGP-2-780x450.jpg" class="webfeedsFeaturedVisual" width="520" height="300" /&gt;&lt;/p&gt;株式会社フォーシーズが運営するピザーラにて、TVアニメ作品「Dr.STONE」とのコラボレーションにより、限定ピザなどが販売された。 同社の説明によると、このコラボレーションに関するTikTok広告で設定上のミスがあった ...</description>
+      <pubDate>2026-11-09T00:00:00Z</pubDate>
+      <guid isPermaLink="false">3a00b5bbe91c</guid>
+      <category>PPC-LOG (川手遼一)</category>
+    </item>
+    <item>
+      <title>[General] Measure Conversions on Customer Devices</title>
+      <link>https://www.jonloomer.com/qvt/measure-conversions-on-customer-devices/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/11/measure-conversions-on-customer-devices-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://www.jonloo</description>
+      <pubDate>2026-11-09T00:00:00Z</pubDate>
+      <guid isPermaLink="false">d17d96416d56</guid>
+      <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Gender targeting removed from some Meta Ad campaigns!</title>
+      <link>https://www.youtube.com/watch?v=zwjdzi4U7m0</link>
+      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+👉 Let my agency run your Meta ads for you: https://www.heathmedia.co.uk/agency
+
+Meta has decided to remove gender targeting as a hard targeting constraint. That is really going to affe</description>
+      <pubDate>2026-11-09T00:00:00Z</pubDate>
+      <guid isPermaLink="false">503c083f96ef</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] Stop Trusting Google Ads Data (Do THIS Instead)</title>
+      <link>https://www.youtube.com/watch?v=vJQPHAf2MBA</link>
+      <description>Get More help from Aaron with your Google Ads Campaigns:
+
+👉 Get Free Access to my "Keywords &amp; SWOT Analysis Tool for Google Ads" here: https://www.definedigitalacademy.com/claude-toolkit
+
+🤑 Get Started with "Google Ads Mastery" to get real support from me &amp; my team remember to use the coupon "YOUTUB</description>
+      <pubDate>2026-11-09T00:00:00Z</pubDate>
+      <guid isPermaLink="false">0ab46fda06a5</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Measure Conversions on Customer Devices</title>
+      <link>https://www.youtube.com/watch?v=KjmMbJhGQPQ</link>
+      <description>Measure conversions on customer devices starting November 12. Meta will begin to receive more conversion data from customer devices. Here are the details...</description>
+      <pubDate>2026-11-09T00:00:00Z</pubDate>
+      <guid isPermaLink="false">67dcff0182fd</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[General] AI時代、正解がない「クリエイティブ」で粋な仕事をするために</title>
+      <link>https://anagrams.jp/blog/tasteful-creative-work-in-ai-era/</link>
+      <description>&lt;p&gt;クリエイティブの品質って、一体何なのでしょうか。 日々、クリエイティブの制作やフィードバックに向き合っていると、ふと考えることがあります。いまや生成AIを使えば、一定水準のクリエイティブを短時間で、か…&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/tasteful-creative-work-in-ai-era/"&gt;AI時代、正解がない「クリエイティブ」で粋な仕事をするために&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>2026-11-08T00:00:00Z</pubDate>
+      <guid isPermaLink="false">683b1bdd6140</guid>
+      <category>アナグラム ブログ</category>
+    </item>
+    <item>
+      <title>[General] アップデートで何が変わった？X広告で今使うべき機能や成果が変わった事例を紹介</title>
+      <link>https://www.kwm.co.jp/blog/examples-and-updates-for-x-ads/</link>
+      <description>「X 広告は認知やバズ狙いにはいいけれど、コンバージョンには繋がりにくい」こうしたイメージから、パフォーマンス目的での出稿をためらっていませんか？ しかし、2026年3月以降の大型アップデートによって、X 広告の配信ロジ [&amp;#8230;]</description>
+      <pubDate>2026-11-08T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e6b35d0ade68</guid>
+      <category>キーマケのブログ</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Analytics Data Manager – New GA4 Feature Explained</title>
+      <link>https://www.youtube.com/watch?v=0SPwL5eM8cw</link>
+      <description>Learn about the new Data Manager in Google Analytics 4 (GA4). In this walkthrough, you’ll learn how to explore the data connection map, review your data streams and connected products, and avoid creating connections that could record conversions twice.
+
+I’ll show you where to find Data Manager in Go</description>
+      <pubDate>2026-11-08T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2b9747e39b11</guid>
+      <category>Loves Data</category>
+    </item>
+    <item>
+      <title>[Meta Ads] I Ran Black Friday for 9-Figure Brands. Here’s the Playbook</title>
+      <link>https://www.youtube.com/watch?v=lbLUlP0tN1c</link>
+      <description>Thanks to Storyblocks for sponsoring this video! Save on an annual plan through my link: https://storyblocks.com/DaraDenney
+
+Build a Black Friday and Cyber Monday ad strategy around what already works. In this video, I break down how I approach BFCM offers, Meta ad creative, and holiday campaigns af</description>
+      <pubDate>2026-11-07T00:00:00Z</pubDate>
+      <guid isPermaLink="false">391f5cfd136c</guid>
+      <category>Dara Denney</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Design the Muse App, Just for You</title>
+      <link>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/11/Design-the-Muse-App_Just-for-You_Thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/11/Design-t</description>
+      <pubDate>2026-11-06T00:00:00Z</pubDate>
+      <guid isPermaLink="false">98b74e9d454c</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Google Ads] "Google Ads on Hard Mode" PPC Zone Dec2026 | Optmyzr, Cookiebot, Two Trees</title>
+      <link>https://www.youtube.com/watch?v=H19Gb3hKt08</link>
+      <description>PPC Zone tackles the toughest Google Ads challenges in B2B and restricted industries like law and healthcare.
+
+Join Matt Carter, Henry Bell, Pauline Jakober and host Jyll Saskin Gales for PPC Zone: Google Ads on "Hard" Mode. We'll be taking your questions at a live panel following the presentations.</description>
+      <pubDate>2026-11-06T00:00:00Z</pubDate>
+      <guid isPermaLink="false">c9e3c68d0027</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Give Your Muse a Voice</title>
+      <link>https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/11/Were-rolling-out-voice-and-expressive-avatars-in-the-Muse-app_Thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-con</description>
+      <pubDate>2026-11-05T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9c1ad2623fff</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[Meta Ads] WhatsApp Events Brings People Together Beyond the Group Chat</title>
+      <link>https://about.fb.com/news/2026/11/whatsapp-events-brings-people-together-beyond-the-group-chat/</link>
+      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/11/WhatsApp-is-your-events-planning-lifesaver_Thumbnail-1.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026</description>
+      <pubDate>2026-11-05T00:00:00Z</pubDate>
+      <guid isPermaLink="false">62a92f5a3c6b</guid>
+      <category>Meta Newsroom</category>
+    </item>
+    <item>
+      <title>[General] You Can Build an MMM for $100</title>
+      <link>https://ppchero.com/you-can-build-an-mmm-for-100-dollars/</link>
+      <description>&lt;p&gt;Some of the most powerful MMMs in the world are free. You just need a data scientist. And with Claude Code, now you have one. Find out how to get started today.&lt;/p&gt;
+&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/you-can-build-an-mmm-for-100-dollars/"&gt;You Can Build an MMM for $10</description>
+      <pubDate>2026-11-05T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8525a1057875</guid>
+      <category>PPC Hero (Brainlabs)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Crazy new Meta ads trend...</title>
+      <link>https://www.youtube.com/watch?v=ty2C6YK5QC0</link>
+      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+I never would have expected this Meta ads trend, but the data is clear.
+
+If you’re new here — I’m Ben Heath.
+
+I run Heath Media, a marketing agency that helps businesses scale using Me</description>
+      <pubDate>2026-11-05T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e99c78f0cc56</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Meta Ads] I produced AND launch 55 ads in JUST ONE DAY.</title>
+      <link>https://www.youtube.com/watch?v=QYDwWCWWFq8</link>
+      <description>Try Dropbox in ChatGPT with your team: https://bit.ly/daradenney</description>
+      <pubDate>2026-11-05T00:00:00Z</pubDate>
+      <guid isPermaLink="false">06453e6f4824</guid>
+      <category>Dara Denney</category>
+    </item>
+    <item>
+      <title>[Google Ads] The Google Ads "Starvation Trap" (And How to Beat High CPCs) [Inside Google Ads Ep 145]</title>
+      <link>https://www.youtube.com/watch?v=WXApnkaqMKA</link>
+      <description>When clicks cost $50 to $150 each, high CPCs aren't what kills your Google Ads campaigns; data starvation is. In Episode 145 of Inside Google Ads, host Jyll Saskin Gales explains how micro-managing low-volume accounts with restrictive match types and excessive negative keywords starves the algorithm</description>
+      <pubDate>2026-11-05T00:00:00Z</pubDate>
+      <guid isPermaLink="false">e38ba9a905d0</guid>
+      <category>Jyll Saskin Gales (The Google Pro)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Introducing Graph API v27.0 and Marketing API v27.0</title>
+      <link>https://developers.facebook.com/blog/post/2026/11/04/introducing-graph-api-v27-and-marketing-api-v27/</link>
+      <description>Graph API v27.0 and Marketing API v27.0 include new capabilities, deprecations, and breaking changes. Review the highlights below and visit the V27.0 changelog for the complete list of changes and details.</description>
+      <pubDate>2026-11-04T00:00:00Z</pubDate>
+      <guid isPermaLink="false">f7ae65d30a21</guid>
+      <category>Meta Developers Blog</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Your Extra Ad Sets Are Costing You 28% More</title>
+      <link>https://www.youtube.com/watch?v=tnSYNr5JnUQ</link>
+      <description>Buried in a holiday guide Meta clearly wrote with AI was one line worth pulling out. For years Jon has told advertisers to consolidate, but Meta never explained why it mattered, and now it finally has, with data behind it. Jon breaks down the simple way to tell if you're running too many ad sets, an</description>
+      <pubDate>2026-11-04T00:00:00Z</pubDate>
+      <guid isPermaLink="false">9cc3a534f517</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[General] The 2026 Holiday PPC Guide for B2B SaaS: Plan for January Pipeline, Not December Leads</title>
+      <link>https://ppchero.com/the-2026-holiday-ppc-guide-for-b2b-saas/</link>
+      <description>&lt;p&gt;Cheap December leads rarely become January pipeline. Here's how B2B SaaS teams should plan holiday PPC budgets, CRM signals and bidding for qualified demand.&lt;/p&gt;
+&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/the-2026-holiday-ppc-guide-for-b2b-saas/"&gt;The 2026 Holiday PPC Guide f</description>
+      <pubDate>2026-11-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">bc426f243239</guid>
+      <category>PPC Hero (Brainlabs)</category>
+    </item>
+    <item>
+      <title>[General] 5 Ways Meta Could Improve Audience Segments</title>
+      <link>https://www.jonloomer.com/meta-audience-segments/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/11/Meta-Audience-Segments-Reporting-300x157.png" class="attachment-medium size-medium wp-post-image" alt="5 Ways Meta Could Improve Audience Segments" style="margin-bottom: 15px;" decoding="async" loading="lazy</description>
+      <pubDate>2026-11-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">7c240c24c449</guid>
+      <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Breaking Facebook Ads News! HUGE Change!</title>
+      <link>https://www.youtube.com/watch?v=4eTmzmDLkjA</link>
+      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
+
+👉 Let my agency run your Meta ads for you: https://www.heathmedia.co.uk/agency
+
+👉 30% off Hyros for the first 15 people - get better Meta ad results with improved data accuracy: http:/</description>
+      <pubDate>2026-11-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">05c4ab014f40</guid>
+      <category>Ben Heath</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Analytics 4 Tutorial for Beginners (Free Demo Account)</title>
+      <link>https://www.youtube.com/watch?v=gVRHTpndeD0</link>
+      <description>Learn how to use Google Analytics 4 with Google’s free demo account. In this beginner tutorial, you’ll practice with real ecommerce data from the Google Merchandise Store—no website or existing Google Analytics data needed.
+
+We’ll answer five practical questions: where your website visitors come fro</description>
+      <pubDate>2026-11-03T00:00:00Z</pubDate>
+      <guid isPermaLink="false">74db1dbca86a</guid>
+      <category>Loves Data</category>
+    </item>
+    <item>
+      <title>[General] Lookalike Audience Suggestions for Leads Campaigns</title>
+      <link>https://www.jonloomer.com/qvt/lookalike-audience-suggestions-leads-campaigns/</link>
+      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/10/lookalikes-suggestion-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="Lookalike Audience Suggestions for Leads Campaigns" style="margin-bottom: 15px;" decoding="async" loading="lazy" </description>
+      <pubDate>2026-11-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">2d10999d31fa</guid>
+      <category>Jon Loomer Digital</category>
+    </item>
+    <item>
+      <title>[Meta Ads] How I Build Landing Pages With AI (No Code)</title>
+      <link>https://www.youtube.com/watch?v=0pftPmTUx_s</link>
+      <description>Try Lovable to build your own AI-powered landing page: https://link.lovable.dev/qYZ5zQK
+
+Can a better landing page improve your Facebook ads results? I’m sharing how I used Lovable AI to rebuild my Shopify landing page and generate almost as many purchases with about $500 in ad spend as my first tes</description>
+      <pubDate>2026-11-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">8355a7055a03</guid>
+      <category>Dara Denney</category>
+    </item>
+    <item>
+      <title>[Google Ads] Google Ads Performing Badly Lately? [Do this]</title>
+      <link>https://www.youtube.com/watch?v=zMlcOVE8C78</link>
+      <description>Are you ready to Scale your Business or Brand with Google Ads?
+
+👉 Apply for DDA: On Demand now and let's Grow your business with Google Ads together: https://www.definedigitalacademy.com/on-demand
+
+Get More help from Aaron with your Google Ads Campaigns:
+
+👉 Get Free Access to my "Keywords &amp; SWOT Ana</description>
+      <pubDate>2026-11-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">5c276d94669e</guid>
+      <category>Aaron Young (Define Digital Academy)</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Lookalike Audience Suggestions for Leads Campaigns</title>
+      <link>https://www.youtube.com/watch?v=788AvkEbZX4</link>
+      <description>Should you use lookalike audience suggestions? Meta has slowly deprioritized the use of audience suggestions, so this message for a leads campaign is significant.</description>
+      <pubDate>2026-11-02T00:00:00Z</pubDate>
+      <guid isPermaLink="false">19efb22be864</guid>
+      <category>Jon Loomer</category>
+    </item>
+    <item>
+      <title>[Meta Ads] Meta広告 広告ごとに年齢・性別を設定できる機能が追加</title>
+      <link>https://anagrams.jp/blog/meta-ads-ad-level-age-and-gender-settings/</link>
+      <description>&lt;p&gt;Meta広告に、1つの広告セット内で画像・動画ごとに異なる年齢・性別を設定できる機能が追加されました。 これまでは、年齢や性別に合わせて広告素材を出し分けたい場合、広告セットを分けて配信するのが一般的…&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/meta-ads-ad-level-age-and-gender-settings/"&gt;Meta広告 広告ごとに年齢・性別を設定できる機能が追加&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/a&gt;.&lt;/p&gt;</description>
+      <pubDate>2026-11-01T00:00:00Z</pubDate>
+      <guid isPermaLink="false">662629016939</guid>
+      <category>アナグラム ブログ</category>
+    </item>
     <item>
       <title>[Google Ads] Launching Structured Data Files v10.1</title>
       <link>http://ads-developers.googleblog.com/2026/07/launching-structured-data-files-v101.html</link>
@@ -606,406 +968,6 @@ Get More help from Aaron with your Google Ads Campaigns:
 👉 Get Free Access to my "Keywords &amp; SWOT Ana</description>
       <pubDate>2026-10-19T00:00:00Z</pubDate>
       <guid isPermaLink="false">2f40d078b41f</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] The future of PMAX</title>
-      <link>https://www.youtube.com/watch?v=bcc3NummB0A</link>
-      <description>I can see Performance Max becoming the smart campaign no one really uses. But please don’t switch it off yet.
-
-I see a world, about 18 months from now, where e-commerce account structures are built around Search, Shopping and Demand Gen instead of PMax.
-
-That’s why we’re using Shopping campaigns hea</description>
-      <pubDate>2026-10-19T00:00:00Z</pubDate>
-      <guid isPermaLink="false">038cf88c1e27</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Restriction Period on Political Ads Coming to the US</title>
-      <link>https://www.youtube.com/watch?v=fg7eAuVPZtA</link>
-      <description>A restriction period for Meta ads about social issues, elections, and politics is coming to the US. Here's what you need to know...</description>
-      <pubDate>2026-10-19T00:00:00Z</pubDate>
-      <guid isPermaLink="false">abadb64f5e12</guid>
-      <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Choose an audience for each ad creative</title>
-      <link>https://developers.facebook.com/blog/post/2026/10/19/choose-an-audience-for-each-ad-creative/</link>
-      <description>Advertisers can now choose a specific audience for each ad creative. Create several ads within one ad set and select the age range and gender each piece of media is best suited for.</description>
-      <pubDate>2026-10-19T00:00:00Z</pubDate>
-      <guid isPermaLink="false">68d2b39a86b9</guid>
-      <category>Meta Developers Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta広告のアカウント構成、まとめる？分ける？配信を分けるべきか迷ったときの3つの考え方</title>
-      <link>https://anagrams.jp/blog/meta-ads-account-structure-3-tips/</link>
-      <description>&lt;p&gt;Meta広告を運用するうえで、悩みやすいのがアカウント構成です。 Meta広告の公式ヘルプでは、キャンペーンや広告セットを極力統合して学習の精度を高めるとともに、ターゲティングを広く設定し、コンバージ…&lt;/p&gt;
-&lt;p&gt;The post &lt;a href="https://anagrams.jp/blog/meta-ads-account-structure-3-tips/"&gt;Meta広告のアカウント構成、まとめる？分ける？配信を分けるべきか迷ったときの3つの考え方&lt;/a&gt; first appeared on &lt;a href="https://anagrams.jp"&gt;アナグラム株式会社&lt;/</description>
-      <pubDate>2026-10-18T00:00:00Z</pubDate>
-      <guid isPermaLink="false">ab8e9766b725</guid>
-      <category>アナグラム ブログ</category>
-    </item>
-    <item>
-      <title>[Google Ads] Meta Ads or Google Ads?</title>
-      <link>https://www.youtube.com/watch?v=0wMi_rlTiq8</link>
-      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-If you’re new here — I’m Ben Heath.
-
-In this video I answer a question about Meta ad vs Google ad budget split.
-
-I run Heath Media, a marketing agency that helps businesses scale using</description>
-      <pubDate>2026-10-16T00:00:00Z</pubDate>
-      <guid isPermaLink="false">86f4e7493b84</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] An intelligent new shopping cart</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.max-600x600.format-webp.webp"&gt;Universal Cart helps make holiday shopping easier. It’s now available in the U.S. across Search and the Gemini app.</description>
-      <pubDate>2026-10-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e9bda0a0c646</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Data-backed secrets to smarter holiday shopping</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/holiday-shopping-when-to-buy-guide/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/When_to_buy_guide_resize.max-600x600.format-webp.webp"&gt;Learn the best times to buy. Our new When to Buy Guide uses Google Search and discount data to show when holiday deals peak.</description>
-      <pubDate>2026-10-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">6d22ab6ac5f8</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Announcing v26 of the Google Ads API</title>
-      <link>http://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html</link>
-      <description>&lt;p&gt;
-  Today we are announcing the release of v26 of the Google Ads API. To use the
-  new capabilities, you must upgrade your
-  &lt;a
-    href="https://developers.google.com/google-ads/api/docs/client-libs?utm_source=googleblog-adsdevs&amp;utm_medium=blog&amp;utm_campaign=adr-adsapi-release-v26-0&amp;utm_content=le</description>
-      <pubDate>2026-10-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">33dfafa33b79</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance</title>
-      <link>https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2025/05/Economic-and-Workforce-Impacts-of-OS-AI-Linux-Foundation-paper_Thumbnail-1-1.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/w</description>
-      <pubDate>2026-10-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">94266b8d6931</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Microsoft Ads] Gift them a reason: How to earn a place on the holiday shortlist</title>
-      <link>https://about.ads.microsoft.com/en/blog/post/october-2026/gift-them-a-reason-how-to-earn-a-place-on-the-holiday-shortlist</link>
-      <description>Reach holiday shoppers early, inspire gift ideas, optimise product feeds, and connect AI, Search, Shopping and Audience ads to drive action.</description>
-      <pubDate>2026-10-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">97a6cd63a646</guid>
-      <category>Microsoft Advertising Blog</category>
-    </item>
-    <item>
-      <title>[Google Ads] Your ROAS Went Up. Where Did It Come From?</title>
-      <link>https://ppchero.com/your-roas-went-up-where-did-it-come-from/</link>
-      <description>&lt;p&gt;Discover how Google Ads conversion tracking errors, duplicate conversions and static values can inflate ROAS, and how to audit your settings to get a more accurate picture of campaign performance.&lt;/p&gt;
-&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/your-roas-went-up-where-did-it-</description>
-      <pubDate>2026-10-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9096ca5a92bf</guid>
-      <category>PPC Hero (Brainlabs)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Get Your Google Ads Ready for Q4 (Before It’s Too Late!) [Inside Google Ads Episode 142]</title>
-      <link>https://www.youtube.com/watch?v=dPzapubyduM</link>
-      <description>Black Friday and Cyber Monday are right around the corner. Are your Google Ads ready for peak holiday shopping?
-
-In episode 142 of the Inside Google Ads podcast, host Jyll Saskin Gales break down the latest Google Ads updates that e-commerce business owners need to care about right now - in conversa</description>
-      <pubDate>2026-10-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9d7e891b59d4</guid>
-      <category>Jyll Saskin Gales (The Google Pro)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] let's launch a new landing page...</title>
-      <link>https://www.youtube.com/watch?v=-uYCkKCYHGQ</link>
-      <description>OKAY Y'ALL I'M GETTING BACK ON MY BRAND GAME...
-
-I took the entire day (and night) to re-do the creative strategy research, make some ads, and launch a new Lovable landing page. 
-
-For this test, I am doubling down on the new angle ANDDDD I finally moved my website to Shopify :) 
-
-This is the plan:
-
-</description>
-      <pubDate>2026-10-15T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3f9663db5d0e</guid>
-      <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Now You Can Invite Anyone to a WhatsApp Call</title>
-      <link>https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Now-You-Can-Invite-Anyone-to-a-WhatsApp-Call_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026</description>
-      <pubDate>2026-10-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3bd36c9b91ab</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Farah Khan at Edits Film Festival: “Content breakthroughs come from spontaneity, relatability and realness”</title>
-      <link>https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Farah-Khan-in-conversation-with-Ankit-Rihal-at-the-Edits-Film-Festival.jpeg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-con</description>
-      <pubDate>2026-10-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">cc091996f08e</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] 5 Meta Ad Settings Killing Your Results</title>
-      <link>https://www.youtube.com/watch?v=nDAalJrO5QE</link>
-      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-Watch out for these 5 Meta ad settings that advertisers use all the time, that can really hurt your results.
-
-If you’re new here — I’m Ben Heath.
-
-I run Heath Media, a marketing agency</description>
-      <pubDate>2026-10-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e821f235d740</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Claude Just Changed Landing Pages Forever</title>
-      <link>https://www.youtube.com/watch?v=2HDkD7jSbzE</link>
-      <description>Download Will's landing page skill: https://dara.sartoriusmedia.com/ 
-
-I built a fully custom landing page using Claude Code in just 23 minutes, without writing a single line of code. And the best part? You don’t need to be a developer to do this.
-
-In this video, I’m joined by Will to walk through t</description>
-      <pubDate>2026-10-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9f391c2f35f5</guid>
-      <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[Meta Ads] How Do You Scale Your Meta Ads Budget?</title>
-      <link>https://www.youtube.com/watch?v=dJlkNgpXhVQ</link>
-      <description>Scaling a Meta ad set sounds simple, just raise the budget on something that's working. But that's why it fails so often, because strong surface results are often propped up by remarketing that can't scale. Jon breaks down how to tell whether an ad set is actually worth scaling, and how to raise bud</description>
-      <pubDate>2026-10-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">096458311190</guid>
-      <category>Jon Loomer</category>
-    </item>
-    <item>
-      <title>[Google Ads] Guide your campaign spending with new priority and allocation features</title>
-      <link>https://blog.google/products/ads-commerce/channel-prioritization-budget-allocation/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waterfall_Search_Chart_01_No_Li.max-600x600.format-webp.webp"&gt;New controls in Google Ads let marketers categorize channel groupings by priority and better control how budget is allocated</description>
-      <pubDate>2026-10-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">9e3f11fc363e</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses</title>
-      <link>https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/</link>
-      <description>&lt;div&gt;&lt;img width="960" height="640" src="https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?fit=960%2C640" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" srcset="https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jp</description>
-      <pubDate>2026-10-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">dd4f37d29689</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] Do you need 30 Conversions in Google Ads p/month?</title>
-      <link>https://www.youtube.com/watch?v=zaqiNR8eLaM</link>
-      <description>Can't get 30 conversions a month? Does that mean you can never move to maximise conversions?
-
-Waiting for 30 is still best. But switching early isn't necessarily bad.
-
-One business was stuck on 12 to 15 a month, maxing out their budget. We made the switch.
-
-So what happened?
-
-Nothing in November. Sl</description>
-      <pubDate>2026-10-14T00:00:00Z</pubDate>
-      <guid isPermaLink="false">621cfb0b89d4</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Build your data strength with October’s Demand Gen drop.</title>
-      <link>https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/</link>
-      <description>&lt;img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_October_2026.max-600x600.format-webp.webp"&gt;Boost your measurement and ROI with YouTube’s October Demand Gen Drop.</description>
-      <pubDate>2026-10-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">c5ad30b34f57</guid>
-      <category>Google Ads Blog (公式)</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Your Algorithm, Your Words: New Ways to Shape What You See on Facebook</title>
-      <link>https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Your-Algorithm_Your-Words_New-Ways-to-Shape-What-You-See-on-Facebook_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com</description>
-      <pubDate>2026-10-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">0da511072666</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Announcing the Official Selection for the Edits Film Festival</title>
-      <link>https://about.fb.com/news/2026/10/announcing-the-official-selection-for-the-edits-film-festival/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/EFF_Official-Selection_v1.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/10/EFF_Official-Selection_v1</description>
-      <pubDate>2026-10-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">d44ddc4797d9</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Leading Tech Companies Join Global Law Enforcement in Major Crackdown on West African Scam Networks</title>
-      <link>https://about.fb.com/news/2026/10/meta-tech-companies-law-enforcement-crackdown-global-scam-networks/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Leading-Tech-Companies-Join-Global-Law-Enforcement-in-Major-Crackdown-on-West-African-Scam-Networks_Thumbnail.jpg?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px</description>
-      <pubDate>2026-10-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">083e0add7af8</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[Google Ads] Beyond Search: Winning Local Customers on Display &amp; Demand Gen</title>
-      <link>https://ppchero.com/beyond-search-winning-local-customers-on-display-demand-gen/</link>
-      <description>&lt;p&gt;Discover how to win more local customers with Google Display and Demand Gen ads using pain-point targeting, tailored creative and better landing pages.&lt;/p&gt;
-&lt;p&gt;&amp;lt;p&amp;gt;The post &lt;a rel="nofollow" href="https://ppchero.com/beyond-search-winning-local-customers-on-display-demand-gen/"&gt;Beyond Search:</description>
-      <pubDate>2026-10-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">7b470b78d69d</guid>
-      <category>PPC Hero (Brainlabs)</category>
-    </item>
-    <item>
-      <title>[General] Meta Adds Automatic Customer Exclusions</title>
-      <link>https://www.jonloomer.com/meta-automatic-customer-exclusions/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="157" src="https://www.jonloomer.com/wp-content/uploads/2026/10/Meta-Ads-Automatic-Customer-Exclusions-300x157.png" class="attachment-medium size-medium wp-post-image" alt="Meta Adds Automatic Customer Exclusions" style="margin-bottom: 15px;" decoding="async" srcset="htt</description>
-      <pubDate>2026-10-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">8675fed9e4c8</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[Meta Ads] NEW Way To Test Facebook Ads!</title>
-      <link>https://www.youtube.com/watch?v=9mUwsvSK0NY</link>
-      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-👉 30% off Hyros for the first 15 people - get better Meta ad results with improved data accuracy: http://hyros.com/ben
-
-There is a new way to test Facebook Ads and I'm very excited abo</description>
-      <pubDate>2026-10-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">3a6a49af1ee0</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Meta Ads] The future of AI marketing isn't more content</title>
-      <link>https://www.youtube.com/watch?v=o9hZ2w-CwzA</link>
-      <description></description>
-      <pubDate>2026-10-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">e3ba2b6800a2</guid>
-      <category>Dara Denney</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Tag Manager’s BIG Update – Should You Upgrade?</title>
-      <link>https://www.youtube.com/watch?v=4LLqm_ZhJYA</link>
-      <description>Learn about the new Google Tag Manager Settings section and how to upgrade your GTM container to use destination tags. In this step-by-step tutorial, you’ll learn what changes, why it matters for your tracking, and how to review and test your setup before publishing.
-
-I’ll show you how to access the</description>
-      <pubDate>2026-10-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">8279c39b9d25</guid>
-      <category>Loves Data</category>
-    </item>
-    <item>
-      <title>[General] 動画広告、結局どのサイズで何秒がいい？主要6媒体の推奨サイズと長さ、作成時のポイントを解説</title>
-      <link>https://www.kwm.co.jp/blog/video-size-and-duration/</link>
-      <description>「動画広告を配信したいけれど、媒体ごとに推奨サイズや長さがバラバラで、いちいち調べるのが面倒…」 「制作チームに指示を出すために、どのサイズで何秒の動画を作ればいいのか、パッと一覧で確認したい」 動画広告の運用を担当され [&amp;#8230;]</description>
-      <pubDate>2026-10-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">6b92f7cac396</guid>
-      <category>キーマケのブログ</category>
-    </item>
-    <item>
-      <title>[Google Ads] 2 Ways to Scale Your Google Ads Spend</title>
-      <link>https://www.youtube.com/watch?v=afKRYINDutk</link>
-      <description>Want to scale Google Ads profitably? There's only two mechanisms: vertical and horizontal scaling.
-
-Vertical is your current keywords, products and services. You just increase what you're spending. Say $5k a month up to $7.5k.
-
-But eventually that's going to stop being profitable.
-
-So what next?
-
-Ho</description>
-      <pubDate>2026-10-13T00:00:00Z</pubDate>
-      <guid isPermaLink="false">8096d0cfa804</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Google Ads API Release and Sunset Schedules for 2026-2027</title>
-      <link>http://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html</link>
-      <description>&lt;p&gt;
-Last year, we shifted to a &lt;a target="_blank" href="https://ads-developers.googleblog.com/2025/09/more-frequent-releases-coming-for.html"&gt;monthly release schedule&lt;/a&gt; for the Google Ads API to provide you faster API access to Ads features available in the &lt;a target="_blank" href="https://ads.goo</description>
-      <pubDate>2026-10-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">dcc77df31f4d</guid>
-      <category>Google Ads Developer Blog</category>
-    </item>
-    <item>
-      <title>[Meta Ads] Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents</title>
-      <link>https://about.fb.com/news/2026/10/introducing-muse-wonder-models/</link>
-      <description>&lt;div&gt;&lt;img width="890" height="501" src="https://about.fb.com/wp-content/uploads/2026/10/Researchers-Introducing-Muse-Wonder_thumbnail.gif?fit=890%2C501" class="attachment-large size-large wp-post-image" alt="" style="margin-bottom: 15px;" srcset="https://about.fb.com/wp-content/uploads/2026/10/Resea</description>
-      <pubDate>2026-10-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">48a8819dbdd9</guid>
-      <category>Meta Newsroom</category>
-    </item>
-    <item>
-      <title>[General] Which CTA Button Should You Use?</title>
-      <link>https://www.jonloomer.com/qvt/cta-button/</link>
-      <description>&lt;div&gt;&lt;img width="300" height="533" src="https://www.jonloomer.com/wp-content/uploads/2026/10/cta-button-2-300x533.png" class="attachment-medium size-medium wp-post-image" alt="Which CTA Button Should You Use?" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://www.jon</description>
-      <pubDate>2026-10-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f6ed93fe732d</guid>
-      <category>Jon Loomer Digital</category>
-    </item>
-    <item>
-      <title>[Meta Ads] How to test Meta Ads structures - Tier List</title>
-      <link>https://www.youtube.com/watch?v=gw3FZU-8N2g</link>
-      <description>👉 Check out my NEW Meta Ads course &amp; community with weekly live Q&amp;As with me: https://www.skool.com/benheath/about
-
-Want to know the best (and worst) Meta ads testing structures? That's what I run through in this video.
-
-If you’re new here — I’m Ben Heath.
-
-I run Heath Media, a marketing agency that</description>
-      <pubDate>2026-10-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">f16ca91dc4b1</guid>
-      <category>Ben Heath</category>
-    </item>
-    <item>
-      <title>[Google Ads] How this business grew 83% with Google Ads</title>
-      <link>https://www.youtube.com/watch?v=cPdBwydXFUE</link>
-      <description>One of the biggest mistakes in Google Ads? Stopping too early.
-
-Think month on month, not week on week.
-
-One business in our program grew revenue 83% in 12 months. From about $47,000 a month to three months in a row over $87,000.
-
-Nothing flashy. Two search campaigns. One ad group each.
-
-So what cha</description>
-      <pubDate>2026-10-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">562ddfacaedb</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] What is a Learning Phase in Google Ads... &amp; Does it even matter</title>
-      <link>https://www.youtube.com/watch?v=sudeCAh6ymg</link>
-      <description>Less Google Ads Spend, More Qualified Leads [Google Ads Case Study]
-
-Are you ready to Scale your Business or Brand with Google Ads?
-
-👉 Apply for DDA: On Demand now and let's Grow your business with Google Ads together: https://www.definedigitalacademy.com/on-demand
-
-Get More help from Aaron with you</description>
-      <pubDate>2026-10-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">1210752120b7</guid>
-      <category>Aaron Young (Define Digital Academy)</category>
-    </item>
-    <item>
-      <title>[Google Ads] Profitably Scaling Google Ads 💪</title>
-      <link>https://www.youtube.com/watch?v=InVpTvYTQFo</link>
-      <description>Serious about profitably scaling Google Ads? Remember the bodybuilder principle.
-
-A friend of mine did a bodybuilding competition. First they had to get bigger. Then they had to cut.
-
-Grow the muscle. Then cut the fat.
-
-Google Ads works in seasons too.
-
-First, the bulking stage. You focus on growing</description>
-      <pubDate>2026-10-12T00:00:00Z</pubDate>
-      <guid isPermaLink="false">a93065d5127d</guid>
       <category>Aaron Young (Define Digital Academy)</category>
     </item>
   </channel>
